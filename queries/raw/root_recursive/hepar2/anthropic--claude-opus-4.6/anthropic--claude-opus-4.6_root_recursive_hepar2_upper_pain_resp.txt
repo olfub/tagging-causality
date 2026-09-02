@@ -1,0 +1,21 @@
+Looking at the causal relationships provided, I need to trace what **upper_pain** causes.
+
+**Step 1:** Identify where `upper_pain` appears in the causal graph.
+
+- `gallstones` causes `choledocholithotomy, upper_pain` — so `upper_pain` is an *effect* of `gallstones`.
+
+**Step 2:** Check if `upper_pain` is listed as a *cause* of any other variable.
+
+Going through every causal relationship:
+- sex → alcoholism, pbc, gallstones
+- age → gallstones, pbc, diabetes, obesity
+- alcoholism → hepatotoxic, fibrosis, steatosis
+- pbc → fibrosis, hyperbilirubinemia, fatigue, itching, phosphatase, ama, le_cells, joints, skin
+- gallstones → choledocholithotomy, upper_pain
+- diabetes → steatosis
+- obesity → steatosis
+- hepatotoxic → thepatitis
+
+**upper_pain** does not appear as a cause of any variable. It is a **leaf node** in the causal graph.
+
+<Answer></Answer>

@@ -1,0 +1,9 @@
+**Step‑by‑step reasoning**
+
+1. **Printing workflow in Windows 95** – When a print job is initiated, the spooler first loads and configures the printer driver (the *DrvSet* operation).  
+2. **Driver configuration determines capabilities** – Once the driver is set up, the system can query the driver for information about the printable area. This is typically done through a function that checks whether the printing area is valid (the *PrntngArOK* status).  
+3. **Temporal order** – The driver must be configured **before** the system can reliably determine if the printing area is OK. Therefore the driver‑set action precedes and enables the printing‑area check.  
+
+Hence, the more plausible cause‑and‑effect relationship is that **DrvSet causes PrntngArOK**.
+
+<Answer>A</Answer>

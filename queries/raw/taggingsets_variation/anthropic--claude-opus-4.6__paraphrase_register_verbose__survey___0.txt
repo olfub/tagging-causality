@@ -1,0 +1,15 @@
+biological: Age, Sex
+fixed-at-birth: Sex
+time-accumulating: Age
+acquired: Education, Occupation, Residence
+human-capital: Education, Occupation
+geographic: Residence, Travel
+behavioral: Travel
+choice-based: Education, Occupation, Residence, Travel
+categorical: Sex, Education, Occupation, Residence
+continuous: Age
+socioeconomic: Education, Occupation, Residence
+mobility-related: Residence, Travel
+skill-related: Education, Occupation
+demographic: Age, Sex
+activity: Travel

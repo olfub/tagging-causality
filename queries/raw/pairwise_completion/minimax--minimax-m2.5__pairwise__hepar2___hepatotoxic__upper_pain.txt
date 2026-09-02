@@ -1,0 +1,17 @@
+**Step‑by‑step reasoning**
+
+1. **Interpretation of terms**  
+   - *hepatotoxic* refers to a substance or condition that damages the liver (i.e., liver toxicity).  
+   - *upper_pain* most plausibly denotes pain in the upper abdomen (often the right upper quadrant), a common symptom of liver pathology.
+
+2. **Direction of causality in medicine**  
+   - Liver injury (hepatotoxicity) can irritate the liver capsule and surrounding structures, leading to upper abdominal pain. This is a well‑established clinical relationship (e.g., hepatitis, drug‑induced liver injury presenting with right‑upper‑quadrant pain).  
+   - Conversely, experiencing pain itself does not cause chemical or structural damage to the liver; there is no plausible mechanism by which “upper pain” would induce hepatotoxicity.
+
+3. **Likelihood assessment**  
+   - The pathway *hepatotoxic → upper_pain* is physiologically coherent and frequently observed.  
+   - The reverse pathway *upper_pain → hepatotoxic* lacks any known causal mechanism and is therefore highly unlikely.
+
+**Conclusion:** The more plausible cause‑and‑effect relationship is that hepatotoxicity leads to upper abdominal pain.
+
+<Answer>A</Answer>

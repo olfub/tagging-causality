@@ -1,0 +1,22 @@
+
+
+Looking at this step by step:
+
+## Identifying what steatosis causes
+
+Let me trace through all the given causal relationships to find any where **steatosis** appears as a **cause**:
+
+1. **sex** causes alcoholism, pbc, gallstones
+2. **age** causes gallstones, pbc, diabetes, obesity
+3. **alcoholism** causes hepatotoxic, fibrosis, steatosis
+4. **pbc** causes fibrosis, hyperbilirubinemia, fatigue, itching, phosphatase, ama, le_cells, joints, skin
+5. **gallstones** causes choledocholithotomy, upper_pain
+6. **diabetes** causes steatosis
+7. **obesity** causes steatosis
+8. **hepatotoxic** causes thepatitis
+
+Steatosis appears only as an **effect** (caused by alcoholism, diabetes, and obesity). It does **not** appear as a cause of any other variable in the given causal relationships.
+
+Steatosis is a terminal (leaf) node in this causal graph — no variables are caused by it.
+
+<Answer></Answer>

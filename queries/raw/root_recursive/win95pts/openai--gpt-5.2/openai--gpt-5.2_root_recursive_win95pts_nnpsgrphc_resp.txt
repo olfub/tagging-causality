@@ -1,0 +1,3 @@
+Since **no causal relationships are currently specified**, there are **no variables** that can be inferred to be caused by **nnpsgrphc**.
+
+<Answer></Answer>

@@ -1,0 +1,21 @@
+
+
+## Step-by-Step Reasoning
+
+**Option A: Cancer causes Smoker**
+- This would mean that developing cancer leads a person to start smoking.
+- There is no known biological or behavioral mechanism by which having cancer would cause someone to take up smoking.
+- This direction is not supported by medical evidence.
+
+**Option B: Smoker causes Cancer**
+- Tobacco smoke contains over 70 known carcinogens (e.g., benzene, formaldehyde, polycyclic aromatic hydrocarbons).
+- These chemicals damage DNA in lung cells, leading to mutations that can result in uncontrolled cell growth (cancer).
+- Decades of epidemiological research (starting with landmark studies in the 1950s) consistently show that smoking dramatically increases the risk of lung cancer.
+- There is a well-established **dose-response relationship**: more smoking → higher cancer risk.
+- The temporal order is clear: smoking behavior precedes the development of cancer, often by years or decades.
+
+## Conclusion
+
+The causal pathway is well established: smoking introduces carcinogens into the body, which damage cellular DNA, ultimately leading to cancer.
+
+<Answer>B</Answer>

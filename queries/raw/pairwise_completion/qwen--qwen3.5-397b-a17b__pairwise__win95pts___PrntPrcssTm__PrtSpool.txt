@@ -1,0 +1,21 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+1.  **Identify the Terms**:
+    *   **`PrtSpool`**: This refers to the **Print Spooler** service or the act of **Spooling**. In Windows 95, the Print Spooler is the software component that manages print jobs, storing them in a queue (buffer) before sending them to the printer hardware.
+    *   **`PrntPrcssTm`**: This refers to **Print Process Time**. This is a performance metric indicating the amount of CPU time or processing resources consumed by printing activities.
+
+2.  **Analyze the Mechanism in Windows 95**:
+    *   When a user initiates a print job, the application hands the data to the Print Spooler (`PrtSpool`).
+    *   The Print Spooler then performs various tasks: formatting the data, writing it to the hard disk (spooling), and managing the communication with the printer driver and port.
+    *   All of these activities require the computer's processor to execute instructions.
+
+3.  **Determine Causality**:
+    *   **Process vs. Metric**: `PrtSpool` is the active process or action. `PrntPrcssTm` is the measurement of the resources used by that action.
+    *   **Direction**: The act of spooling (running the service, processing jobs) *consumes* CPU cycles. Therefore, the activity leads to the recorded time.
+    *   **Reverse Check**: Does the measurement of time (`PrntPrcssTm`) cause the spooler (`PrtSpool`) to run? No. A metric is a result of activity, not the initiator of it.
+
+4.  **Conclusion**:
+    *   The activity of the Print Spooler (`PrtSpool`) generates the CPU usage measured as Print Process Time (`PrntPrcssTm`).
+    *   Therefore, `PrtSpool` is the cause, and `PrntPrcssTm` is the effect.
+
+<Answer>B</Answer>

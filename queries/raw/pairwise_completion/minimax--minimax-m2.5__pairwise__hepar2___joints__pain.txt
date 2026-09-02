@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **Interpret the statements**  
+   - *A. joints causes pain* → Joint pathology or degeneration leads to the sensation of pain.  
+   - *B. pain causes joints* → Pain itself produces or creates joint structures. This implies that the symptom (pain) is the originator of anatomical structures, which is not biologically plausible.
+
+2. **Consider typical medical knowledge**  
+   - Joints (bones, cartilage, synovium, etc.) can become inflamed, degenerated, or injured, and these pathological changes often generate pain signals.  
+   - Pain is a neural response to tissue damage or disease; it does not generate new joint tissue.
+
+3. **Assess plausibility**  
+   - The direction “joints → pain” is well‑established: conditions such as osteoarthritis, rheumatoid arthritis, gout, etc., all cause joint pain.  
+   - The reverse direction “pain → joints” has no known mechanism and would require pain to magically produce or alter joint structures, which contradicts pathophysiology.
+
+4. **Conclusion**  
+   - The cause‑and‑effect relationship that is medically sensible and likely is *joints cause pain*.
+
+Therefore, the more likely relationship is **A**.
+
+<Answer>A</Answer>

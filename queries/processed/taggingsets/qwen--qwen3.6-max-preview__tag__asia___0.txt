@@ -1,0 +1,12 @@
+Risk_Exposure:asia,smoke
+Disease_State:tub,lung,bronc,either
+Disease_Type_Infectious:tub
+Disease_Type_Malignant:lung
+Disease_Type_Inflammatory:bronc
+Derived_Variable:either
+Clinical_Output:dysp,xray
+Output_Type_Symptom:dysp
+Output_Type_Diagnostic:xray
+System_Respiratory:tub,smoke,lung,bronc,dysp,either,xray
+Temporal_Stage_Proximal:asia,smoke,tub,lung,bronc
+Temporal_Stage_Distal:either,dysp,xray

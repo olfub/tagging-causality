@@ -1,0 +1,15 @@
+1. **Interpret the terms**
+   - **AvlblVrtlMmry** = “Available Virtual Memory” (how much virtual memory Windows 95 currently has free).
+   - **PrtPScript** = likely “Print PostScript” / PostScript printing (using a PostScript printer driver or generating PostScript output).
+
+2. **Think about what can plausibly *cause* what**
+   - Available virtual memory is a *system resource state* that changes as programs/drivers allocate or free memory.
+   - Printing via a PostScript driver typically involves additional processing (spooling, rasterizing/format conversion, driver modules), which can **consume RAM and pagefile**, thereby changing (often reducing) available virtual memory.
+
+3. **Direction of influence**
+   - It’s plausible that **enabling/using PostScript printing** (PrtPScript) **affects** system memory availability (AvlblVrtlMmry).
+   - It’s much less plausible that simply having more available virtual memory would *cause* “Print PostScript” to be true; memory availability might enable printing to succeed, but it doesn’t usually *trigger* PostScript printing mode/driver selection.
+
+**Therefore, the more likely cause-and-effect relationship is:**
+
+<Answer>B</Answer>

@@ -1,0 +1,17 @@
+
+
+# Printer Troubleshooting Causal Analysis
+
+## Step-by-step reasoning:
+
+1. **Identify the variables**: In the classic Windows 95 printer troubleshooting Bayesian network:
+   - **IncmpltPS** refers to "Incomplete PostScript" — a root cause/fault condition where a PostScript file is incomplete or improperly formed.
+   - **Problem3** refers to an observable printing problem/symptom.
+
+2. **Consider the structure of diagnostic networks**: In troubleshooting Bayesian networks, the causal direction flows from **root causes/faults → observable symptoms/problems**. Faults and misconfigurations are parent nodes, and the problems users observe are child nodes.
+
+3. **Apply to this case**: An incomplete PostScript file (IncmpltPS) is a *condition* or *fault* that would naturally **produce** an observable printing problem (Problem3), such as garbled output or partial prints. The symptom (Problem3) does not cause the PostScript file to be incomplete — it's the other way around.
+
+4. **Conclusion**: The causal arrow goes from IncmpltPS → Problem3.
+
+<Answer>A</Answer>

@@ -1,0 +1,8 @@
+Demographic: Age, Sex, Residence
+Socioeconomic: Education, Occupation
+Spatial_Behavior: Residence, Travel
+Causal_Antecedent: Age, Sex
+Causal_Intermediate: Education, Occupation, Residence
+Causal_Consequent: Travel, Occupation
+Data_Type_Numeric: Age, Travel
+Data_Type_Categorical: Sex, Education, Occupation, Residence

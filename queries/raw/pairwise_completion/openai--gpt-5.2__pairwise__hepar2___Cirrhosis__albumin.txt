@@ -1,0 +1,7 @@
+1. **Cirrhosis** is advanced chronic liver disease with loss of functional hepatocyte mass and impaired synthetic function.  
+2. **Albumin** is synthesized almost exclusively by the liver. When liver synthetic capacity declines (as in cirrhosis), **serum albumin typically decreases** (hypoalbuminemia).  
+3. Giving or having higher/lower **albumin** levels does **not** cause cirrhosis; cirrhosis is driven by chronic injury (e.g., alcohol, viral hepatitis, NASH, autoimmune/cholestatic disease, etc.). Albumin is mainly a **marker/manifestation** of liver synthetic function rather than an etiologic driver.
+
+Therefore, the more likely causal direction is **cirrhosis → (lower) albumin**.
+
+<Answer>A</Answer>

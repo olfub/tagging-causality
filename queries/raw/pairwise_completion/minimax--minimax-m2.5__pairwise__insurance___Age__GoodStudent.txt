@@ -1,0 +1,19 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the variables**  
+   - *Age*: the chronological age of the driver.  
+   - *GoodStudent*: a binary flag used by insurers to indicate whether the driver qualifies for a “good student” discount (usually requires the driver to be a student and meet certain academic criteria).
+
+2. **Consider the natural direction of influence**  
+   - A driver’s age determines whether they are likely to be a student (e.g., most students are under 25).  
+   - The discount eligibility rule (“GoodStudent”) is defined in terms of age (and enrollment status).  
+   - There is no plausible mechanism by which being classified as a good student would change a person’s chronological age.
+
+3. **Evaluate the two candidate causal statements**  
+   - *Age → GoodStudent*: Older drivers are less likely to be students, so age influences the probability of being a GoodStudent. This aligns with how insurers design the rating factor.  
+   - *GoodStudent → Age*: This would imply that the label “good student” causes a person to become older, which is logically impossible.
+
+4. **Conclusion**  
+   The more plausible causal direction is **Age causes GoodStudent**.
+
+<Answer>A</Answer>

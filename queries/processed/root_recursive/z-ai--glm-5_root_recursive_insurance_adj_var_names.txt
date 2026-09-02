@@ -1,0 +1,1 @@
+["Age", "SocioEcon", "GoodStudent", "RiskAversion", "VehicleYear", "Accident", "ThisCarDam", "Airbag", "SeniorTrain", "DrivingSkill", "MedCost", "OtherCarCost", "ThisCarCost", "OtherCar", "MakeModel", "HomeBase", "AntiTheft", "DrivHist", "DrivQuality", "Antilock", "RuggedAuto", "CarValue", "Mileage", "Cushioning", "Theft", "ILiCost", "PropCost"]

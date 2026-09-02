@@ -1,0 +1,10 @@
+ExternalFactor: Pollution, Smoker
+Pathology: Cancer, Dyspnoea
+Symptom: Dyspnoea
+DiagnosticTest: Xray
+Lifestyle: Smoker
+Environmental: Pollution
+Disease: Cancer
+Observation: Xray, Dyspnoea
+RiskFactor: Pollution, Smoker
+Outcome: Cancer, Xray, Dyspnoea

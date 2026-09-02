@@ -1,0 +1,15 @@
+Application_Layer: AppOK, DataFile, AppData, DSApplctn, AppDtGnTm
+Driver_Layer: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+GDI_Layer: GDIIN, GDIOUT, EMFOK
+Spooler_Layer: PrtSpool, PrtThread, PrtQueue
+Network_Layer: NetPrint, PrtPath, NtwrkCnfg, NetOK, PrtCbl, PrtPort, PrtMpTPth, DS_NTOK, NtSpd, PC2PRT, NtGrbld
+Local_Connection_Layer: DskLocal, LclOK, DS_LCLOK, LclGrbld, PTROFFLINE, PrtPort
+Printer_Hardware: PrtOn, PrtPaper, TnrSpply, PrtStatPaper, PrtStatToner, PrtStatOff, CblPrtHrdwrOK, HrglssDrtnAftrPrnt, PTROFFLINE, PrtCbl
+Printer_Memory: PrtMem, AvlblVrtlMmry, PSERRMEM, PrtStatMem, FllCrrptdBffr
+Print_Data_Flow: PrtSel, PrtDataOut, PrtData, PrtFile, PrtIcon, PC2PRT, FllCrrptdBffr
+Font_Settings: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+Graphics_Settings: EPSGrphc, NnPSGrphc, PrtPScript, PSGRAPHIC, GrphcsRltdDrvrSttngs, GrbldPS, IncmpltPS
+Performance_Metric: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, PrtTimeOut, NtSpd
+Output_Quality: PgOrnttnOK, PrntngArOK, ScrnFntNtPrntrFnt, CmpltPgPrntd, LclGrbld, NtGrbld, GrbldOtpt, HrglssDrtnAftrPrnt, REPEAT, TstpsTxt, GrbldPS, IncmpltPS
+Problem_Symptom: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+Configuration: DrvSet, NtwrkCnfg, FntInstlltn, PrtPScript, GrphcsRltdDrvrSttngs

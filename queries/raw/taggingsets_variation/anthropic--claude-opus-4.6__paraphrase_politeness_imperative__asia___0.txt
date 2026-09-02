@@ -1,0 +1,13 @@
+travel: Asia
+risk factor: Asia, Smoking
+behavior: Smoking
+disease: Tuberculosis, Lung Cancer, Bronchitis
+infection: Tuberculosis
+cancer: Lung Cancer
+lung condition: Tuberculosis, Lung Cancer, Bronchitis
+chronic airway disease: Bronchitis
+intermediate node: Either Tuberculosis or Lung Cancer
+diagnostic test: X-ray
+symptom: Dyspnoea
+observable: Smoking, Asia, X-ray, Dyspnoea
+latent: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, Bronchitis

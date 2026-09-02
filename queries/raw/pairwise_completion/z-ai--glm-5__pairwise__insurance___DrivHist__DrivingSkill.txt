@@ -1,0 +1,24 @@
+Here is a step-by-step analysis of the causal relationship between **DrivHist** (Driving History) and **DrivingSkill** (Driving Skill).
+
+**Step 1: Define the Variables**
+*   **DrivingSkill:** This represents the latent, inherent ability of the driver. It includes their motor skills, hazard perception, knowledge of traffic laws, and decision-making capabilities behind the wheel.
+*   **DrivHist:** This represents the observed record of the driver's past actions. In insurance modeling, this typically includes accidents, moving violations, claims made, and years of driving experience.
+
+**Step 2: Analyze Option A (DrivHist causes DrivingSkill)**
+*   This relationship suggests that a driver's record *creates* their ability.
+*   While it is true that experience (a component of history) can improve skill over time, a "bad" history (such as accidents or tickets) does not inherently *cause* a driver to have "bad" skill. In fact, a bad history is often a lagging indicator of poor skill.
+*   If a driver has a clean history, that record itself does not reach into their brain and install driving techniques. The record is merely a log. Therefore, the record itself is not the primary causal force determining the driver's intrinsic capability.
+
+**Step 3: Analyze Option B (DrivingSkill causes DrivHist)**
+*   This relationship suggests that the driver's inherent ability determines the outcomes recorded in their history.
+*   This aligns with fundamental principles of risk modeling: a driver with high skill (good hazard perception, vehicle control) is statistically less likely to cause accidents or receive traffic violations. Consequently, high skill causes a clean Driving History.
+*   Conversely, a driver with low skill is more prone to errors, leading to accidents and tickets. Thus, low skill causes a poor Driving History.
+*   In this model, Driving History acts as the observable "shadow" or measurement of the latent variable, Driving Skill.
+
+**Step 4: Compare and Conclude**
+*   In causal inference, we look for the mechanism that produces the correlation. The mechanism is physical: the driver's actions (driven by their Skill) determine the events on the road, which are then recorded as History.
+*   History is the effect; Skill is the cause. Insurance companies use Driving History specifically because it is a proxy variable that reveals the underlying hidden variable of Driving Skill.
+
+Therefore, the causal arrow points from Skill to History.
+
+<Answer>B</Answer>

@@ -1,0 +1,11 @@
+The typical printing flow in Windows 95 is:
+
+1. An application sends print data to the print spooler.  
+2. The spooler first writes that data to a temporary **print file** (the spool file).  
+3. After the file is created, the spooler reads it and sends the data **out to the printer** (the actual output operation).
+
+Therefore, the existence of the print file (PrtFile) is what triggers the subsequent data‑output action (PrtDataOut). The more plausible cause‑and‑effect relationship is:
+
+**PrtFile → PrtDataOut** (PrtFile causes PrtDataOut).
+
+<Answer>B</Answer>

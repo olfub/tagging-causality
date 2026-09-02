@@ -1,0 +1,9 @@
+1. In Windows 95 printer troubleshooting, a label like **GrbldPS** strongly suggests a *specific mechanism/symptom*—“garbled PostScript” (e.g., PostScript code or random characters printing instead of the intended document).
+
+2. A label like **Problem6** reads more like a *higher-level, user-visible problem category* (a bucket for an observed failure mode).
+
+3. In causal terms, the more specific printing fault (garbled PostScript data being sent/printed) would typically **produce** the broader “problem” the user reports (bad/garbled output, unusable printout), not the other way around.
+
+4. Therefore, it’s more plausible that **GrbldPS leads to Problem6**, rather than “Problem6” somehow generating “garbled PostScript” as an effect.
+
+<Answer>A</Answer>

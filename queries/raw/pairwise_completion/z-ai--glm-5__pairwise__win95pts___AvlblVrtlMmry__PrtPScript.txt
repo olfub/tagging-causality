@@ -1,0 +1,19 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Define the Variables**
+First, we need to understand what the variables represent in the context of Windows 95 printer troubleshooting:
+*   **`AvlblVrtlMmry`**: This stands for "Available Virtual Memory." In Windows 95, this is a system resource comprising physical RAM and space on the hard drive used as a swap file.
+*   **`PrtPScript`**: This stands for "Print PostScript." This refers to the action or process of printing using a PostScript driver, which is common for laser printers and requires significant system resources to process the page description language.
+
+**Step 2: Analyze Option A (AvlblVrtlMmry causes PrtPScript)**
+This option suggests that the amount of available virtual memory *causes* the printing to happen. While low memory might prevent a print job from succeeding or cause an error, the state of the memory does not initiate the action of printing. A user or application initiates printing; memory is a passive resource required to perform the task. Therefore, memory availability is a condition, not the primary cause of the action.
+
+**Step 3: Analyze Option B (PrtPScript causes AvlblVrtlMmry)**
+This option suggests that the act of printing to a PostScript driver *causes* a change in the available virtual memory.
+*   **Mechanism:** When Windows 95 prints using a PostScript driver, it creates a spool file on the hard drive. PostScript rendering is computationally intensive and often requires creating large temporary files.
+*   **Effect:** This process consumes system resources. As the print job processes, it uses physical RAM. When RAM is full, Windows 95 uses virtual memory (the swap file on the hard drive). Consequently, the act of printing (`PrtPScript`) directly consumes the resource, causing the amount of `AvlblVrtlMmry` to decrease.
+
+**Step 4: Conclusion**
+The relationship is one of an action consuming a resource. The action is "Print PostScript" and the resource is "Available Virtual Memory." The action causes the level of the resource to change (decrease). Thus, `PrtPScript` is the cause, and the change in `AvlblVrtlMmry` is the effect.
+
+<Answer>B</Answer>

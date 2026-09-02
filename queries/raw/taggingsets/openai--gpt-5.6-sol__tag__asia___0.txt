@@ -1,0 +1,12 @@
+Background risk factor: Asia, Smoking
+Geographic exposure: Asia
+Behavioral exposure: Smoking
+Respiratory disease: Tuberculosis, Lung Cancer, Bronchitis
+Infectious disease: Tuberculosis
+Malignancy: Lung Cancer
+Airway inflammation: Bronchitis
+Composite disease indicator: Either Tuberculosis or Lung Cancer
+Diagnostic finding: X-ray
+Clinical symptom: Dyspnoea
+Downstream manifestation: X-ray, Dyspnoea
+Smoking-associated condition: Lung Cancer, Bronchitis

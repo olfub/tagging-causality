@@ -1,0 +1,21 @@
+[
+  "prompt_decomposition_tag_definition",
+  "prompt_decomposition_specificityTradeoff",
+  "prompt_decomposition_downstreamPurpose",
+  "prompt_decomposition_discriminativeness",
+  "prompt_decomposition_multipleTags",
+  "prompt_decomposition_tag_balance",
+  "prompt_decomposition_noDuplicated",
+  "paraphrase_register_bullets",
+  "paraphrase_register_terse",
+  "paraphrase_register_verbose",
+  "paraphrase_politeness_polite",
+  "paraphrase_politeness_demanding",
+  "paraphrase_politeness_imperative",
+  "budget_tags_per_var_2",
+  "budget_tags_per_var_3",
+  "budget_tags_per_var_4",
+  "budget_tags_per_var_6",
+  "budget_tags_per_var_8",
+  "budget_tags_per_var_10"
+]

@@ -1,0 +1,34 @@
+
+
+Looking at this problem, I need to find all variables that **boundaries** causes, either directly or indirectly.
+
+## Step-by-step analysis:
+
+**Step 1: How is `boundaries` created?**
+From the given relationships, `morningbound causes boundaries` — so `boundaries` is an effect of `morningbound`.
+
+**Step 2: Does `boundaries` cause anything?**
+I now scan every listed causal relationship to check if `boundaries` ever appears on the **cause side** (left-hand side):
+
+- `satcontmoist causes ...` ✗
+- `raocontmoist causes ...` ✗
+- `morningbound causes ...` ✗
+- `date causes ...` ✗
+- `scenario causes ...` ✗
+- `morningcin causes ...` ✗
+- `amdewptcalpl causes ...` ✗
+- `combmoisture causes ...` ✗
+- `compplfcst causes ...` ✗
+- `capchange causes ...` ✗
+- `inschange causes ...` ✗
+- `scnrelplfcst causes ...` ✗
+- `capinscen causes ...` ✗
+- `inssclinscen causes ...` ✗
+- `plainsfcst causes ...` ✗
+- `n34starfcst causes ...` ✗
+
+**`boundaries` never appears as a cause in any relationship.** It is a leaf node in the causal graph — it has no children and therefore no descendants.
+
+**Conclusion:** No variables are caused by `boundaries`.
+
+<Answer></Answer>

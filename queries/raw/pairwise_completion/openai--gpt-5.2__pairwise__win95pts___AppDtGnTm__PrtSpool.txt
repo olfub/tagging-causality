@@ -1,0 +1,20 @@
+To decide which direction is more plausible, think about how printing works in Windows 95:
+
+1. **What “PrtSpool” represents**
+   - “PrtSpool” strongly suggests the **Print Spooler** (the component that queues and manages print jobs).
+   - The spooler’s job is mainly **reactive**: it handles print data after something submits a print request.
+
+2. **What “AppDtGnTm” likely represents**
+   - Even without knowing the exact module, the name looks like **an application/component that generates data** (e.g., creates output, reports, documents, etc.).
+   - In a printing pipeline, an app (or a driver/helper component invoked by the app) **creates/produces print data**, then hands it off to the spooler.
+
+3. **Typical cause → effect in printing**
+   - **Application generates/requests printing** → Windows routes it through the printer driver → **spooler queues and processes it**.
+   - So it’s much more common that **an app’s action triggers spooler activity**, not that the spooler “causes” an unrelated app/data-generator to run.
+
+4. **Does the spooler cause apps to generate data?**
+   - The spooler can trigger printer-side processing (sending queued jobs), but it generally **doesn’t initiate** an application’s data generation. It mainly processes what it’s given.
+
+Given that, the more likely relationship is:
+
+<Answer>A</Answer>

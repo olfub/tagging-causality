@@ -1,0 +1,19 @@
+To determine the correct cause-and-effect relationship, let's analyze the technical context of printer troubleshooting in Windows 95.
+
+1.  **Define the Variables**:
+    *   **EMFOK**: This variable name suggests a status check for "EMF OK". In Windows 95, EMF (Enhanced Metafile) is a spooling format used to speed up printing by rendering the print job on the computer's processor rather than the printer's processor. This requires the spooler to write data to a temporary file.
+    *   **DskLocal**: This variable name suggests a status check for "Disk Local". This refers to the availability, presence, or writability of a local hard disk for spooling purposes.
+
+2.  **Analyze the Dependency**:
+    *   EMF spooling functions by creating a temporary file on the host computer's hard disk. This allows the application to return control to the user quickly while the print job spools in the background.
+    *   For EMF spooling to be viable or "OK" (`EMFOK`), the system must have a functional local disk available for writing the spool file (`DskLocal`).
+    *   If there is no local disk, or if the local disk is full or write-protected (`DskLocal` is false/negative), the system cannot use EMF spooling. Consequently, `EMFOK` would be false/negative.
+
+3.  **Determine Causality**:
+    *   The state of the hardware (having a local disk) enables the software feature (EMF spooling).
+    *   Therefore, the presence of a local disk (`DskLocal`) is the cause (or precondition) for EMF spooling being viable (`EMFOK`).
+    *   Conversely, setting EMF spooling does not "cause" a local disk to exist; it relies on the disk already existing.
+
+Thus, the availability of a local disk causes the EMF status to be OK.
+
+<Answer>A</Answer>

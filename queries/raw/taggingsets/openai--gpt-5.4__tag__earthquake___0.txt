@@ -1,0 +1,8 @@
+hazard_event: Burglary, Earthquake
+home_security: Burglary, Alarm
+natural_disaster: Earthquake
+alert_signal: Alarm
+observable_indicator: Alarm, JohnCalls, MaryCalls
+phone_notification: JohnCalls, MaryCalls
+male_caller: JohnCalls
+female_caller: MaryCalls

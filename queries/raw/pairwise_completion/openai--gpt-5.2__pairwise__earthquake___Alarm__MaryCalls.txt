@@ -1,0 +1,16 @@
+1. **Interpret the variables in the earthquake/alarm setting**  
+   - **Alarm**: the home security alarm goes off (often due to an earthquake or a burglary).  
+   - **MaryCalls**: Mary calls you after she hears the alarm.
+
+2. **Consider the plausible mechanism (how one event would lead to the other)**  
+   - If the **alarm sounds**, Mary may **hear it** and then **call**. This is a direct, realistic causal pathway:  
+     **Alarm → MaryCalls**.
+
+3. **Test the reverse direction for plausibility**  
+   - If **Mary calls**, that does not plausibly **cause the alarm to go off**. A phone call doesn’t trigger the physical alarm system in the standard scenario. So:  
+     **MaryCalls → Alarm** is not a natural causal mechanism here.
+
+4. **Conclusion**  
+   The more likely cause-and-effect relationship is that the **alarm causes Mary to call**.
+
+<Answer>A</Answer>

@@ -1,0 +1,25 @@
+Let me work through this step by step:
+
+## Step 1: Understanding the Conditions
+- **Hepatitis**: This is inflammation of the liver, typically caused by viral infections (Hepatitis A, B, C, etc.), alcohol, toxins, or autoimmune conditions.
+- **Fatigue**: This is a symptom characterized by extreme tiredness, weakness, or lack of energy.
+
+## Step 2: Analyzing the Causal Direction
+
+**Option A: Hepatitis → Fatigue**
+- When the liver is inflamed or damaged, it cannot perform its normal functions effectively (metabolism, detoxification, energy production)
+- Liver dysfunction commonly produces systemic symptoms including fatigue, weakness, and malaise
+- This is well-documented in medical literature - fatigue is one of the most common symptoms reported by hepatitis patients
+
+**Option B: Fatigue → Hepatitis**
+- Fatigue is a symptom, not a disease process
+- There is no known physiological mechanism by which feeling tired would cause liver inflammation
+- Being fatigued does not trigger viral infections, autoimmune responses, or liver damage
+
+## Step 3: Medical Principle
+In medicine, diseases/conditions cause symptoms, not the reverse. Hepatitis is a pathological condition; fatigue is a symptom that results from various underlying conditions.
+
+## Step 4: Conclusion
+The evidence clearly supports that hepatitis causes fatigue as a symptom, not the other way around.
+
+<Answer>A</Answer>

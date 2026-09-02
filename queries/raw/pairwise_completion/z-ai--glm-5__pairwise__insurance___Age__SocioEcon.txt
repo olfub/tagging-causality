@@ -1,0 +1,20 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**1. Analyze the nature of the variables:**
+*   **Age:** This is a temporal variable. It represents the amount of time a person has been alive. It progresses at a constant rate for everyone and is determined solely by the passage of time since birth. It cannot be altered by external factors like income or job status.
+*   **SocioEcon (Socioeconomic Status):** This variable typically represents a combination of factors like income, education, occupation, and wealth. These factors change and develop over the course of a person's life.
+
+**2. Evaluate Relationship B (SocioEcon causes Age):**
+*   Does a person's wealth or job status determine how old they are? No. Time passes regardless of a person's economic status. A wealthy person and a poor person age at the exact same biological rate. Therefore, socioeconomic status cannot be the cause of a person's chronological age.
+
+**3. Evaluate Relationship A (Age causes SocioEcon):**
+*   Does a person's age influence their socioeconomic status? Yes. There is a strong temporal and causal link here.
+    *   **Education:** Higher levels of education (often correlated with higher SES) require time to complete. One cannot be a 5-year-old CEO.
+    *   **Income and Wealth:** Income typically rises as individuals gain work experience and seniority, which correlates with age. Wealth accumulation takes time.
+    *   **Career Progression:** Moving up the career ladder takes time and experience.
+*   Therefore, as Age increases, it causes changes in a person's potential and actual Socioeconomic status.
+
+**4. Conclusion:**
+Age is an exogenous variable driven by time. Socioeconomic status is an outcome that develops over time. Since time (Age) must pass for Socioeconomic status to be acquired or changed, Age is the cause, and SocioEcon is the effect.
+
+<Answer>A</Answer>

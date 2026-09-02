@@ -1,0 +1,19 @@
+To determine the correct cause-and-effect relationship, let's analyze the medical definition and physiological mechanism of each term:
+
+**Step 1: Define Bilirubin.**
+Bilirubin is a yellowish-orange substance that is created normally during the breakdown of red blood cells (specifically, the heme component of hemoglobin). It is a chemical byproduct that passes through the liver to be excreted in bile.
+
+**Step 2: Define Jaundice.**
+Jaundice (also known as icterus) is a clinical condition characterized by the yellowing of the skin, the whites of the eyes (sclera), and mucous membranes. It is a visible symptom or sign of an underlying issue.
+
+**Step 3: Analyze the Mechanism.**
+If the liver cannot process bilirubin efficiently, or if there is excessive breakdown of red blood cells, bilirubin accumulates in the blood (hyperbilirubinemia). When the levels of bilirubin in the blood become sufficiently high, the pigment deposits into tissues, causing them to turn yellow.
+
+**Step 4: Determine Causality.**
+*   **Scenario A (Bilirubin causes jaundice):** High levels of the substance bilirubin lead to the yellowing effect known as jaundice. This aligns with the physiological mechanism.
+*   **Scenario B (Jaundice causes bilirubin):** Jaundice is the *visual result* of the pigment. The yellowing of the skin does not create the chemical; rather, the chemical creates the yellowing. Therefore, this relationship is incorrect.
+
+**Conclusion:**
+The relationship is that the accumulation of the substance (bilirubin) causes the physical manifestation/symptom (jaundice).
+
+<Answer>A</Answer>

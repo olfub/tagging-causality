@@ -1,0 +1,10 @@
+To determine the variables that are caused by fatigue, we should follow the causal relationships provided:
+
+1. **Sex** and **age** are not affected by any other variable and are initial causes.
+2. **Sex** causes **PBC**.
+3. **PBC** causes several conditions, including **cirrhosis**, **hyperbilirubinemia**, **hepatomegaly**, **jaundice**, **itching**, **fatigue**, **alt**, **ast**, and **ggtp**.
+4. **Cirrhosis** causes **ascites** and **encephalopathy**.
+
+Given these relationships, **fatigue** is caused by **PBC**. However, the question asks for variables that are caused by **fatigue**. According to the provided causal relationships, there are no variables directly caused by **fatigue**. Fatigue is an effect of PBC, not a cause of any other variable listed in the provided relationships.
+
+<Answer></Answer>

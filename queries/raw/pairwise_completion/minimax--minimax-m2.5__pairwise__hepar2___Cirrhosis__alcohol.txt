@@ -1,0 +1,25 @@
+**Step‑by‑step reasoning**
+
+1. **Define the terms**  
+   - *Cirrhosis* is a late stage of scarring (fibrosis) of the liver caused by many forms of liver diseases, including chronic viral hepatitis, alcoholic liver disease, and non‑alcoholic fatty liver disease.  
+   - *Alcohol* (specifically chronic, heavy consumption) is a known hepatotoxin.
+
+2. **Pathophysiology**  
+   - When the liver metabolizes large amounts of ethanol, it produces acetaldehyde and reactive oxygen species that damage liver cells.  
+   - This initiates a cascade: fatty liver (steatosis) → alcoholic hepatitis → fibrosis → cirrhosis.  
+   - There is no plausible biological mechanism by which a scarred liver could cause a person to start or increase drinking.
+
+3. **Epidemiology**  
+   - Numerous studies show that heavy alcohol intake is a major risk factor for developing cirrhosis.  
+   - Conversely, cirrhosis does not create a drive to consume alcohol; instead, patients with cirrhosis are often advised to *avoid* alcohol.
+
+4. **Plausibility of each direction**  
+   - *Alcohol → Cirrhosis*: Well‑established causal relationship; heavy drinking leads to liver damage that can progress to cirrhosis.  
+   - *Cirrhosis → Alcohol*: Not supported by evidence; cirrhosis is a consequence, not a cause, of liver injury.
+
+5. **Conclusion**  
+   The more likely, evidence‑based cause‑and‑effect relationship is that alcohol consumption can lead to cirrhosis.
+
+**Answer**
+
+<Answer>B</Answer>

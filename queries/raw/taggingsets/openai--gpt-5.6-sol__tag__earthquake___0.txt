@@ -1,0 +1,7 @@
+Initiating event: Burglary, Earthquake
+Criminal event: Burglary
+Natural hazard: Earthquake
+Automated alert: Alarm
+Telephone call: JohnCalls, MaryCalls
+Male caller: JohnCalls
+Female caller: MaryCalls

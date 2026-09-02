@@ -1,0 +1,26 @@
+printer_hardware: PrtOn, PrtPaper, PrtCbl, PrtPort, PrtMem, TnrSpply, CblPrtHrdwrOK, PTROFFLINE
+printer_driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+printer_status: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE, PrtOn
+network: NetPrint, NtwrkCnfg, NetOK, NtSpd, DS_NTOK, NtGrbld
+local: DskLocal, LclOK, DS_LCLOK, LclGrbld
+application: AppOK, AppData, DSApplctn, DataFile, AppDtGnTm
+print_spooling: PrtSpool, PrtThread, PrtQueue, EMFOK
+data_flow: PrtData, PrtDataOut, GDIIN, GDIOUT, DataFile, AppData
+print_path: PrtPath, PrtMpTPth, PrtSel, NetPrint, DskLocal, PC2PRT
+font: ScrnFntNtPrntrFnt, TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK
+graphics: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PSGRAPHIC
+postscript: PrtPScript, GrbldPS, IncmpltPS, PSERRMEM, EPSGrphc, PSGRAPHIC, TstpsTxt
+problem_node: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+output_quality: GrbldOtpt, LclGrbld, NtGrbld, CmpltPgPrntd, GrbldPS, IncmpltPS
+memory: PrtMem, AvlblVrtlMmry, PSERRMEM, FllCrrptdBffr, PrtStatMem
+connection: PC2PRT, PrtCbl, PrtPort, CblPrtHrdwrOK, NtwrkCnfg
+page_setup: PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+speed_timing: PrntPrcssTm, DeskPrntSpd, AppDtGnTm, NtSpd, HrglssDrtnAftrPrnt, PrtTimeOut
+consumable: TnrSpply, PrtPaper, PrtStatPaper, PrtStatToner
+boolean_status: AppOK, EMFOK, DrvOK, NetOK, LclOK, DS_NTOK, DS_LCLOK, TTOK, NnTTOK, CblPrtHrdwrOK, PgOrnttnOK, PrntngArOK
+root_cause: PrtOn, PrtPaper, TnrSpply, PrtCbl, NtwrkCnfg, FntInstlltn, DrvSet, AppOK, DataFile, DskLocal, PrtSel, AvlblVrtlMmry
+symptom: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, GrbldOtpt, HrglssDrtnAftrPrnt, REPEAT, DeskPrntSpd
+intermediate: EMFOK, GDIIN, GDIOUT, PrtData, PrtDataOut, PrtPath, PrtThread, PC2PRT
+buffer: FllCrrptdBffr, PrtMem, PrtTimeOut
+print_output: PrtFile, PrtIcon, PrtDataOut, PrtQueue
+repetition: REPEAT, HrglssDrtnAftrPrnt

@@ -1,0 +1,17 @@
+
+
+# Causal Relationship: PBC and Joint Problems
+
+## Step-by-Step Reasoning
+
+1. **PBC (Primary Biliary Cholangitis)** is a chronic autoimmune liver disease characterized by progressive destruction of intrahepatic bile ducts.
+
+2. **"Joints"** here likely refers to joint symptoms — arthralgia (joint pain) or arthritis.
+
+3. **PBC → Joint problems:** PBC is well known to have numerous **extrahepatic manifestations**, including joint pain/arthralgia. As an autoimmune disease, PBC involves immune dysregulation that can affect multiple organ systems, including the musculoskeletal system. Joint complaints (particularly arthralgia) are among the most common extrahepatic symptoms reported in PBC patients.
+
+4. **Joint problems → PBC:** There is no established mechanism by which joint disease would lead to the development of PBC. While autoimmune conditions can co-occur, joint problems themselves are not recognized as a cause of PBC.
+
+5. **Conclusion:** The well-established direction of causation is that PBC, through its autoimmune pathophysiology, causes joint symptoms — not the reverse.
+
+<Answer>A</Answer>

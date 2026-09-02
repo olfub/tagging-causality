@@ -1,0 +1,1 @@
+["medcost", "ilicost", "othercarcost", "thiscardam", "othercar", "thiscarcost", "propcost"]

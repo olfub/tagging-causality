@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **Define the variables**  
+   - *Occupation*: the type of job or profession a person has.  
+   - *Travel*: the amount or pattern of traveling a person does (e.g., commuting, business trips, leisure travel).
+
+2. **Consider typical causal pathways**  
+   - *Occupation → Travel*: A person’s job often determines whether they need to travel. Examples include commuting to a workplace, business travel, relocating for a position, or working in transport/tourism sectors.  
+   - *Travel → Occupation*: Travel can lead to certain occupations (e.g., becoming a flight attendant, travel agent, or remote worker who chooses to live in different places). However, these are relatively specific and less common compared to the everyday influence of occupation on travel.
+
+3. **Assess which direction is more plausible in the general population**  
+   - For most people, the primary driver of travel is their work schedule and location (i.e., occupation).  
+   - Only a minority of individuals change their occupation because they travel frequently; most travel as a consequence of the job they already hold.
+
+4. **Conclusion**  
+   - The stronger, more widespread causal link is from **occupation to travel**.
+
+**Final answer**
+
+<Answer>A</Answer>

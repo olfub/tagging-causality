@@ -1,0 +1,15 @@
+1. Interpret the variables in a Windows 95 printer-troubleshooting context:
+   - **PrntngArOK**: whether printing output is coming out correctly (prints successfully / acceptable quality).
+   - **PrtStatToner**: a printer-reported **toner status condition** (e.g., toner low/empty/attention, or at least “toner status is being flagged”).
+
+2. Consider direction of causality in real printer behavior:
+   - Toner level/status is a **physical supply condition** (a cause) that affects whether the printer can produce good output.
+   - If toner is low/empty (or otherwise flagged), you commonly get faint prints, missing areas, or failure to print—so **printing being OK depends on toner being OK**.
+
+3. Evaluate each option:
+   - **A. PrntngArOK → PrtStatToner**: Printing successfully would not normally *cause* the toner-status flag to appear (except indirectly by consuming toner over time, but that’s not the immediate diagnostic relationship).
+   - **B. PrtStatToner → PrntngArOK**: Toner status is much more plausibly an upstream factor that determines whether printing is OK.
+
+Therefore, the more likely cause-and-effect relationship is **B**.
+
+<Answer>B</Answer>

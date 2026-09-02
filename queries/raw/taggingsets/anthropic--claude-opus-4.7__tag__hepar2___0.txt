@@ -1,0 +1,29 @@
+demographic: sex, age
+risk_factor: alcoholism, alcohol, obesity, injections, transfusion, surgery, hospital, choledocholithotomy
+behavioral: alcoholism, alcohol
+medical_history: hospital, surgery, choledocholithotomy, injections, transfusion, vh_amn
+exposure: hepatotoxic, injections, transfusion, alcohol, vh_amn
+disease: THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, gallstones, carcinoma, alcoholism
+liver_disease: THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, carcinoma, Hyperbilirubinemia
+metabolic: diabetes, obesity, triglycerides, cholesterol, Steatosis
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia, flatulence, anorexia, nausea, jaundice, encephalopathy
+physical_sign: skin, spiders, jaundice, palms, edema, ascites, hepatomegaly, spleen, edge, irregular_liver, fat, joints
+pain_related: upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia
+lab_test: bilirubin, phosphatase, alt, ast, ggtp, amylase, albumin, proteins, urea, cholesterol, triglycerides, platelet, inr, ESR, density
+serology: ama, le_cells, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+hepatitis_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+liver_enzyme: alt, ast, ggtp, phosphatase
+liver_function: bilirubin, albumin, inr, proteins, ammonia
+coagulation: inr, platelet, bleeding
+complication: ascites, encephalopathy, bleeding, edema, carcinoma, Hyperbilirubinemia
+imaging: hepatomegaly, spleen, edge, irregular_liver, density
+autoimmune_marker: ama, le_cells
+viral_hepatitis: THepatitis, ChHepatitis, RHepatitis, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+cholestasis: bilirubin, jaundice, itching, phosphatase, ggtp
+skin_related: skin, spiders, palms, jaundice, itching
+neurological: encephalopathy, consciousness
+gi_symptom: anorexia, nausea, flatulence
+biliary: gallstones, choledocholithotomy
+lipid: cholesterol, triglycerides, fat, obesity
+malignancy: carcinoma
+inflammation_marker: ESR

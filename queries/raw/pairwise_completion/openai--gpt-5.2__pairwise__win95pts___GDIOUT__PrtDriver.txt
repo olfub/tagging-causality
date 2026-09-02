@@ -1,0 +1,9 @@
+1) In Windows 95, printing typically flows like this: an application draws through **GDI** (Graphics Device Interface) → GDI hands the drawing/print job off to the **printer driver** → the driver produces device-specific output and passes it to the spooler/port monitor.
+
+2) **PrtDriver** (printer driver) is the component that enables GDI to target a specific printer. When printing occurs, the driver is invoked/loaded so it can translate GDI calls into printer-specific commands.
+
+3) **GDIOUT** (GDI output-related activity/module) is therefore more naturally an *effect* of printing through GDI using a driver, not something that “causes” the driver to exist or be installed. In troubleshooting terms, a problematic/incorrect **printer driver** commonly triggers downstream GDI output faults or related symptoms.
+
+4) So the more likely cause-and-effect direction is: **PrtDriver → GDIOUT**.
+
+<Answer>B</Answer>

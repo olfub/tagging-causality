@@ -1,0 +1,11 @@
+innate_immutable:A,S
+acquired_mutable:E,O,R,T
+demographic:A,S,E,O,R
+socioeconomic:E,O,R
+location_related:R,T
+professional_path:E,O
+nominal_categorical:S,O,R
+ordinal_scale:A,E
+involves_decision:O,R,T
+strictly_monotonic:A
+binary:S

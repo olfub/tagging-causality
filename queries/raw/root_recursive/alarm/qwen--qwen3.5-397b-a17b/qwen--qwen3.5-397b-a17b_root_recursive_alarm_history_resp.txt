@@ -1,0 +1,13 @@
+<step_by_step>
+1. The problem states that "history" is one of the variables that is "not affected by any other variable" - meaning it's an exogenous/root variable.
+
+2. The problem explicitly states "Currently none" for causal relationships - meaning there are no defined causal relationships between any variables in this system.
+
+3. To determine which variables are caused by "history", I need to look for variables where history is a direct cause.
+
+4. Since there are no causal relationships defined ("Currently none"), history does not cause any other variables in this causal graph.
+
+5. Therefore, there are no variables that are caused by history based on the given information.
+</step_by_step>
+
+<Answer></Answer>

@@ -1,0 +1,10 @@
+Demographic: Age, Sex
+Socioeconomic: Education, Occupation, Residence
+Modifiable: Education, Occupation, Residence, Travel
+Behavioral: Travel
+Geographic: Residence, Travel
+Acquired: Education, Occupation
+Time-invariant: Sex
+Time-varying: Age, Education, Occupation, Residence, Travel
+Chronological: Age
+Location-specific: Residence

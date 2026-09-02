@@ -1,0 +1,11 @@
+\begin{tabular}{l|ccccc}
+LLM & 1 & 2 & 3 & 4 & 5 \\
+\hline
+openai--gpt-5.2 & 0.93 & 0.93 & 0.93 & 0.93 & 0.92 \\
+anthropic--claude-opus-4.6 & 0.92 & 0.91 & 0.91 & 0.91 & 0.90 \\
+google--gemini-3-pro-preview & 0.88 & 0.89 & 0.88 & 0.88 & 0.87 \\
+meta-llama--llama-3.3-70b-instruct & 0.87 & 0.88 & 0.88 & 0.88 & 0.88 \\
+qwen--qwen3.5-397b-a17b & 0.90 & 0.88 & 0.87 & 0.86 & 0.86 \\
+z-ai--glm-5 & 0.88 & 0.89 & 0.89 & 0.89 & 0.89 \\
+minimax--minimax-m2.5 & 0.86 & 0.86 & 0.85 & 0.85 & 0.84 \\
+\end{tabular}

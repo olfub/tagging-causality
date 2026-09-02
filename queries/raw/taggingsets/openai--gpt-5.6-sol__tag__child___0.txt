@@ -1,0 +1,21 @@
+BackgroundFactor: BirthAsphyxia, Age
+PerinatalEvent: BirthAsphyxia
+Demographic: Age
+DiseaseState: Disease, Sick
+EtiologicDiagnosis: Disease
+GeneralIllnessStatus: Sick
+CardiopulmonaryPhysiology: HypDistrib, HypoxiaInO2, CO2, LowerBodyO2, RUQO2, LVH, DuctFlow, CardiacMixing, LungParench, LungFlow
+Oxygenation: HypDistrib, HypoxiaInO2, LowerBodyO2, RUQO2
+RegionalOxygenMeasurement: LowerBodyO2, RUQO2
+BloodGas: HypoxiaInO2, CO2, LowerBodyO2, RUQO2
+CardiacState: LVH, DuctFlow, CardiacMixing
+PulmonaryState: LungParench, LungFlow
+ClinicalFinding: ChestXray, Grunting, LVH
+DiagnosticReport: LVHreport, CO2Report, XrayReport, GruntingReport
+ImagingAssessment: ChestXray, XrayReport
+CO2Assessment: CO2, CO2Report
+GruntingAssessment: Grunting, GruntingReport
+LVHAssessment: LVH, LVHreport
+HemodynamicFlow: DuctFlow, LungFlow
+AnatomicMixing: HypDistrib, DuctFlow, CardiacMixing
+RespiratoryManifestation: HypoxiaInO2, CO2, ChestXray, Grunting, LungParench, LungFlow

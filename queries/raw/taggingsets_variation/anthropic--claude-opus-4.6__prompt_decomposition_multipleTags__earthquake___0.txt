@@ -1,0 +1,14 @@
+event: Burglary, Earthquake
+root_cause: Burglary, Earthquake
+crime: Burglary
+natural_phenomenon: Earthquake
+detection: Alarm
+intermediate: Alarm
+triggered_by_event: Alarm
+human_response: JohnCalls, MaryCalls
+communication: JohnCalls, MaryCalls
+downstream_effect: JohnCalls, MaryCalls
+observable: Alarm, JohnCalls, MaryCalls
+binary: Burglary, Earthquake, Alarm, JohnCalls, MaryCalls
+physical: Burglary, Earthquake, Alarm
+person: JohnCalls, MaryCalls

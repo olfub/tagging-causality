@@ -1,0 +1,22 @@
+
+
+# Analyzing the Causal Relationship Between DeskPrntSpd and PrtMem
+
+## Step-by-step reasoning:
+
+1. **Identify the variables:**
+   - **DeskPrntSpd** = Desktop Printing Speed (a performance outcome — how fast documents print)
+   - **PrtMem** = Printer Memory (a hardware characteristic — the amount of RAM installed in the printer)
+
+2. **Consider the nature of each variable:**
+   - Printer Memory is a **physical/hardware property** of the printer. It is set by the hardware configuration.
+   - Desktop Printing Speed is a **performance metric** that results from various system and printer characteristics.
+
+3. **Determine causal direction:**
+   - The amount of printer memory directly affects how quickly a printer can receive, buffer, and process print jobs. More memory → faster processing of complex/large documents → faster desktop printing speed.
+   - It does **not** make sense for the observed printing speed to somehow cause a change in the physical memory installed in the printer.
+
+4. **Conclusion:**
+   - Printer Memory (PrtMem) is a **cause**, and Desktop Printing Speed (DeskPrntSpd) is an **effect**. Hardware attributes influence performance outcomes, not the other way around.
+
+<Answer>B</Answer>

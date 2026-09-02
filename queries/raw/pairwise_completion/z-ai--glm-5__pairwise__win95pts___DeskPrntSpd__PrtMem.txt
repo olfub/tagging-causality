@@ -1,0 +1,19 @@
+To determine the correct cause-and-effect relationship, let's analyze the variables in the context of Windows 95 printer troubleshooting:
+
+1.  **Identify the Variables:**
+    *   **PrtMem**: This abbreviation logically stands for "Printer Memory" (RAM). In the Windows 95 era, laser printers often had expandable memory slots.
+    *   **DeskPrntSpd**: This abbreviation logically stands for "Desktop Print Speed" or simply the speed at which a print job is completed from the desktop environment.
+
+2.  **Analyze Option A (DeskPrntSpd causes PrtMem):**
+    *   This would imply that the speed at which you print causes the printer to have more memory.
+    *   Physically, this is impossible. A software setting or a performance metric (speed) cannot cause physical hardware (RAM chips) to appear or change capacity inside the printer.
+
+3.  **Analyze Option B (PrtMem causes DeskPrntSpd):**
+    *   This implies that the amount of memory installed in the printer affects the printing speed.
+    *   **Technical Context:** In Windows 95, printing complex graphics or high-resolution documents required significant printer memory. If a printer had low memory (`PrtMem`), it often had to rely on the computer's CPU to render the image (software rendering) or transmit data in smaller, slower chunks, significantly slowing down the `DeskPrntSpd`. Conversely, a printer with more memory could buffer larger jobs and render pages faster, resulting in a higher `DeskPrntSpd`.
+    *   Therefore, the hardware constraint (Memory) determines the performance outcome (Speed).
+
+4.  **Conclusion:**
+    The physical hardware capacity (Cause) determines the performance speed (Effect). It is not possible for the speed to cause the memory.
+
+<Answer>B</Answer>

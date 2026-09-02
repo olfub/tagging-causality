@@ -1,0 +1,22 @@
+
+
+Looking at this problem, I need to find all variables that fibrosis directly or indirectly causes based on the given causal relationships.
+
+## Step-by-step analysis
+
+Let me list every causal relationship where **fibrosis** appears as a **cause**:
+
+1. sex → alcoholism, pbc, gallstones
+2. age → gallstones, pbc, diabetes, obesity
+3. alcoholism → hepatotoxic, **fibrosis**, steatosis
+4. pbc → **fibrosis**, hyperbilirubinemia, fatigue, itching, phosphatase, ama, le_cells, joints, skin
+5. gallstones → choledocholithotomy, upper_pain
+6. diabetes → steatosis
+7. obesity → steatosis
+8. hepatotoxic → thepatitis
+
+In these relationships, **fibrosis** appears only as an **effect** (caused by alcoholism and pbc). It is **never listed as a cause** of any other variable.
+
+Since fibrosis has no direct effects, it also has no indirect effects.
+
+<Answer></Answer>

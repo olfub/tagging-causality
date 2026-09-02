@@ -1,0 +1,8 @@
+Fixed_Attribute: Genetics, Born_an_Even_Day
+Behavior: Smoking
+Physical_Symptom: Yellow_Fingers, Coughing, Fatigue
+Health_Condition: Lung_Cancer, Allergy, Attention_Disorder, Anxiety
+Social_Factor: Peer_Pressure
+Incident: Car_Accident
+Exogenous_Variable: Genetics, Born_an_Even_Day, Peer_Pressure
+Endogenous_Variable: Smoking, Yellow_Fingers, Anxiety, Attention_Disorder, Car_Accident, Fatigue, Allergy, Coughing, Lung_Cancer

@@ -1,0 +1,6 @@
+
+
+Demographic trait: Age, Sex
+Socioeconomic attainment: Education, Occupation
+Location: Residence
+Behavior: Travel

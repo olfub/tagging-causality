@@ -1,0 +1,8 @@
+innate: Age, Sex
+acquired: Education, Occupation, Residence
+socioeconomic: Education, Occupation
+location: Residence, Travel
+personal_attribute: Age, Sex
+choice-dependent: Occupation, Residence, Travel
+activity: Travel, Occupation
+demographic: Age, Sex, Education, Residence

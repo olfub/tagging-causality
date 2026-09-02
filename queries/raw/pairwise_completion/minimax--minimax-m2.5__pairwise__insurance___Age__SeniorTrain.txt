@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Identify what each variable represents**  
+   - *Age* is the chronological age of a person.  
+   - *SeniorTrain* is a type of train service (or discount pass) that is available only to senior citizens.
+
+2. **Consider the natural direction of influence**  
+   - A person must be old enough to qualify for a senior‑citizen train fare. Therefore, *Age* determines whether a person is eligible and likely to use *SeniorTrain*.  
+   - Using (or not using) a senior train does not change a person’s chronological age.
+
+3. **Evaluate plausibility of each direction**  
+   - *Age → SeniorTrain*: Older individuals are more likely to use the senior train; age is the causal factor.  
+   - *SeniorTrain → Age*: The train usage cannot cause a person to become older; this direction is implausible.
+
+4. **Conclusion**  
+   The cause‑and‑effect relationship that makes sense is **Age causes SeniorTrain**.
+
+<Answer>A</Answer>

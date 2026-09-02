@@ -1,0 +1,1 @@
+["ductflow", "hypdistrib", "lungparench", "lungflow", "lowerbodyo2", "ruqo2", "grunting", "sick", "lvh", "co2", "hypoxiaino2", "chestxray", "xrayreport", "co2report", "gruntingreport", "lvhreport", "cardiacmixing", "disease"]

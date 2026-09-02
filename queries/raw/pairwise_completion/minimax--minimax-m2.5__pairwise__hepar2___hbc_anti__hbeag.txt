@@ -1,0 +1,3 @@
+Based on medical knowledge of hepatitis B serology, antigens typically precede the production of antibodies. HBeAg (hepatitis B e antigen) is an antigen that appears early in infection, while anti-HBc (hepatitis B core antibody) is produced later by the immune system in response to the core antigen. There is no known biological mechanism by which an antibody would cause the production of an antigen, making the direction from antigen to antibody more plausible.
+
+<Answer>B</Answer>

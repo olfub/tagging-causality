@@ -1,0 +1,18 @@
+Let me work through this step by step from a medical perspective.
+
+**Step 1: Understanding Bilirubin**
+Bilirubin is a yellow pigment produced during the normal breakdown of red blood cells (heme catabolism). It's processed by the liver and excreted in bile.
+
+**Step 2: Understanding the Relationship with Skin**
+When bilirubin levels become elevated in the blood (hyperbilirubinemia), it deposits in tissues including the skin, causing a yellow discoloration known as jaundice or icterus.
+
+**Step 3: Evaluating Option A (bilirubin causes skin)**
+While imprecisely worded, this captures the correct direction of causality. Elevated bilirubin *affects* the skin by causing yellow discoloration (jaundice). Bilirubin levels influence skin appearance.
+
+**Step 4: Evaluating Option B (skin causes bilirubin)**
+This is incorrect. The skin does not produce or cause bilirubin. Bilirubin is produced from red blood cell breakdown (primarily in the spleen) and processed by the liver. The skin plays no role in bilirubin production.
+
+**Step 5: Conclusion**
+The causal direction flows from bilirubin → skin effects (jaundice), not from skin → bilirubin. Option A represents the correct direction of causation, even though it's simplified.
+
+<Answer>A</Answer>

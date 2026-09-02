@@ -1,0 +1,26 @@
+
+
+# Causal Reasoning: Disease vs. LungFlow
+
+## Step-by-Step Analysis
+
+**Step 1: Understand the variables in context.**
+In pediatric congenital heart disease, "Disease" refers to the specific cardiac malformation (e.g., Tetralogy of Fallot, VSD, Transposition of Great Arteries), and "LungFlow" refers to pulmonary blood flow (normal, increased, or decreased).
+
+**Step 2: Consider the direction of causation.**
+- The **structural heart defect** (Disease) determines how blood flows through the heart and lungs.
+- For example:
+  - **Tetralogy of Fallot** → **decreased** lung flow (due to right ventricular outflow obstruction)
+  - **Ventricular Septal Defect (VSD)** → **increased** lung flow (left-to-right shunt)
+  - **Pulmonary Atresia** → **decreased** lung flow
+
+**Step 3: Evaluate the reverse.**
+Lung flow is a **downstream physiological consequence** of the anatomical defect. Abnormal lung flow does not cause the congenital heart disease — it is a manifestation/sign of it.
+
+**Step 4: Consistency with known causal models.**
+This aligns with the well-known **CHILD Bayesian network** in pediatric cardiology, where the edge runs from Disease → LungFlow, reflecting that the disease state determines the hemodynamic pattern.
+
+## Conclusion
+The congenital heart disease (Disease) determines the pattern of pulmonary blood flow (LungFlow), not the reverse.
+
+<Answer>A</Answer>

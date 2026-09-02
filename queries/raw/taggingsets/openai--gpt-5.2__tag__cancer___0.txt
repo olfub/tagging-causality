@@ -1,0 +1,9 @@
+AirQuality: Pollution
+LifestyleBehavior: Smoker
+RiskFactor: Pollution, Smoker
+DiseaseState: Cancer
+ImagingTest: Xray
+RespiratorySymptom: Dyspnoea
+ClinicalIndicator: Xray, Dyspnoea
+PatientLevel: Smoker, Cancer, Xray, Dyspnoea
+LungRelated: Pollution, Smoker, Cancer, Xray, Dyspnoea

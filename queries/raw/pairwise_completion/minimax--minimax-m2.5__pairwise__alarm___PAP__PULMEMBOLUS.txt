@@ -1,0 +1,7 @@
+Step 1: Identify the medical abbreviations. PAP likely stands for Pulmonary Artery Pressure, and PULMEMBOLUS refers to Pulmonary Embolus.
+
+Step 2: Analyze the physiological relationship. Pulmonary Embolus (PE) involves a blockage in the pulmonary artery, which increases resistance to blood flow. This leads to elevated Pulmonary Artery Pressure (PAP) as the right ventricle pumps against higher pressure. In contrast, elevated PAP (as in pulmonary hypertension) is not a direct cause of PE, though it may be a risk factor for complications.
+
+Step 3: Determine the more likely cause-and-effect relationship. The direct consequence of PE is increased PAP, making it more plausible that PULMEMBOLUS causes PAP.
+
+<Answer>B</Answer>

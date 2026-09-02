@@ -1,0 +1,3 @@
+RiskFactor: Pollution, Smoker
+Disease: Cancer
+Manifestation: Dyspnoea, Xray

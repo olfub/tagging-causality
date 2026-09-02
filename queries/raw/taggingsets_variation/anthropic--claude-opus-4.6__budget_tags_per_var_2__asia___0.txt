@@ -1,0 +1,12 @@
+geographic: Asia
+risk_factor: Asia, Smoking
+infectious: Tuberculosis
+disease: Tuberculosis, Lung Cancer, Bronchitis
+behavioral: Smoking
+malignancy: Lung Cancer
+derived: Either Tuberculosis or Lung Cancer
+intermediate: Either Tuberculosis or Lung Cancer
+diagnostic: X-ray
+observation: X-ray, Dyspnoea
+inflammatory: Bronchitis
+symptom: Dyspnoea

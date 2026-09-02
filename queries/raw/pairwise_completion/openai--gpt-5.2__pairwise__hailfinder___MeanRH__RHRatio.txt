@@ -1,0 +1,12 @@
+1) **Interpret the variables**  
+- **MeanRH** is a direct meteorological state variable: the average relative humidity over some layer/time.  
+- **RHRatio** is almost certainly a *constructed* feature: a ratio involving RH (e.g., RH in one layer divided by RH in another layer, or some normalization relative to a reference). Ratios are typically computed from underlying RH quantities.
+
+2) **Consider plausible data-generation/feature-engineering structure**  
+- If **RHRatio** is computed using MeanRH (or using RH values that also determine MeanRH), then changing the underlying RH field changes **MeanRH**, and that in turn will generally change any RH-based ratio.  
+- The reverse (“RHRatio causes MeanRH”) is less plausible: a ratio is not a physical driver; it’s a summary/derived quantity.
+
+3) **Causal interpretation**  
+Physically, both are effects of the underlying atmospheric moisture profile. But when forced to choose a direction between the two, the more likely relationship (especially in a modeling/feature sense) is that **MeanRH is upstream of (helps determine) RHRatio**, not vice versa.
+
+<Answer>A</Answer>

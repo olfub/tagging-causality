@@ -1,0 +1,12 @@
+Risk_Exposure: Asia, Smoking
+Disease_State: Tuberculosis, Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer
+Disease_Type_Infectious: Tuberculosis
+Disease_Type_Malignant: Lung Cancer
+Disease_Type_Inflammatory: Bronchitis
+Derived_Variable: Either Tuberculosis or Lung Cancer
+Clinical_Output: Dyspnoea, X-ray
+Output_Type_Symptom: Dyspnoea
+Output_Type_Diagnostic: X-ray
+System_Respiratory: Tuberculosis, Smoking, Lung Cancer, Bronchitis, Dyspnoea, Either Tuberculosis or Lung Cancer, X-ray
+Temporal_Stage_Proximal: Asia, Smoking, Tuberculosis, Lung Cancer, Bronchitis
+Temporal_Stage_Distal: Either Tuberculosis or Lung Cancer, Dyspnoea, X-ray

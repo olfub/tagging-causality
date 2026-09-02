@@ -1,0 +1,10 @@
+demographic: Age, Sex, Education
+immutable: Age, Sex
+socioeconomic: Education, Occupation, Residence
+behavioral: Travel, Occupation
+personal-attribute: Age, Sex, Education, Occupation
+geographic: Residence, Travel
+life-stage: Age, Education, Occupation
+biological: Age, Sex
+choice: Education, Occupation, Residence, Travel
+outcome: Travel

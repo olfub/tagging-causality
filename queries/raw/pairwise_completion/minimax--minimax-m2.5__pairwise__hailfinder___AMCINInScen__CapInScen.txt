@@ -1,0 +1,21 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the terms**  
+   - **AM CIN InScen**: “Morning Convective Inhibition” – the amount of energy that must be overcome for convection to start in the early‑day scenario.  
+   - **CapInScen**: “Capping inversion (or cap) in the scenario” – a layer of warm air aloft that suppresses convection.
+
+2. **Understand the physical relationship**  
+   - In meteorology, a *capping inversion* (the “cap”) is a stable layer that prevents surface air from rising.  
+   - This stable layer produces *convective inhibition* (CIN). In other words, the presence of a cap **causes** a measurable CIN; the stronger the cap, the larger the CIN.  
+   - CIN is a *diagnostic* (a measured quantity), not a physical entity that can generate a cap. The cap is the underlying physical mechanism.
+
+3. **Determine which direction is causal**  
+   - The cap (CapInScen) is the cause → it creates the observed CIN (AM CIN InScen).  
+   - It is far less plausible that the measured CIN would somehow generate a physical capping inversion.
+
+4. **Conclusion**  
+   - The more likely cause‑and‑effect relationship is **CapInScen → AM CIN InScen**.
+
+**Answer:**  
+
+<Answer>B</Answer>

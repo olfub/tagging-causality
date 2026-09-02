@@ -1,0 +1,11 @@
+perinatal: BirthAsphyxia
+respiratory_symptom: Grunting
+cardiac_condition: LVH
+disease: Disease, Sick
+test_procedure: ChestXray
+report: LVHreport, CO2Report, XrayReport, GruntingReport
+blood_gas_measurement: CO2, LowerBodyO2, RUQO2
+demographic: Age
+lung_physiology: LungParench, LungFlow
+cardiac_physiology: DuctFlow, CardiacMixing
+hypoxia_related: HypDistrib, HypoxiaInO2

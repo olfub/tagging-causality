@@ -1,0 +1,18 @@
+risk factor:asia,smoke
+disease:tub,lung,bronc
+symptom:dysp
+diagnostic test:xray
+logical aggregate:either
+observable:asia,smoke,xray,dysp
+latent:tub,lung,either,bronc
+pulmonary:tub,lung,bronc,dysp,either,xray
+smoking-related:lung,bronc
+infectious:tub
+geographic:asia
+lifestyle:smoke
+chronic airway:bronc
+malignant:lung
+deterministic:either
+imaging finding:xray
+respiratory distress:dysp,bronc
+caused by infection or travel:asia,tub

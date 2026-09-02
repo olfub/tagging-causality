@@ -1,0 +1,9 @@
+Health_Issue:Anxiety,Attention_Disorder,Allergy,Fatigue,Lung_Cancer
+Addiction:Smoking,Peer_Pressure
+Physical_Symptom:Yellow_Fingers,Coughing,Fatigue
+Mental_Disorder:Anxiety,Attention_Disorder
+Life_Event:Car_Accident,Born_an_Even_Day
+Biological_Factor:Genetics,Allergy
+Habit:Smoking,Peer_Pressure
+Disease:Lung_Cancer,Allergy
+Physical_Characteristic:Yellow_Fingers,Born_an_Even_Day

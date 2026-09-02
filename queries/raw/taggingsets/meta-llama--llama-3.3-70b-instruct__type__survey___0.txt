@@ -1,0 +1,3 @@
+Demographic: Age, Sex
+Socioeconomic: Education, Occupation, Residence
+Behavioral: Travel

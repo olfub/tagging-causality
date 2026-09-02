@@ -1,0 +1,16 @@
+1. **What “GGTP (GGT)” is:**  
+   Gamma‑glutamyl transferase is a **cholestatic liver enzyme marker**. It rises with **bile duct/ductular injury or cholestasis**, and also with enzyme induction (e.g., alcohol, some drugs).
+
+2. **What hyperbilirubinemia is:**  
+   Elevated bilirubin can be **unconjugated** (e.g., hemolysis, Gilbert syndrome) or **conjugated** (often from **cholestasis/obstruction** or hepatocellular dysfunction impairing excretion).
+
+3. **Does hyperbilirubinemia cause GGT to rise? (A)**  
+   Not generally. **Bilirubin itself** doesn’t induce GGT. For example, **isolated unconjugated hyperbilirubinemia** (Gilbert/hemolysis) typically does **not** raise GGT.
+
+4. **Does GGT cause hyperbilirubinemia? (B)**  
+   GGT is mainly a **marker**, not a driver. However, the **pathologic processes that raise GGT** (especially **cholestasis/obstruction**) commonly **also cause conjugated hyperbilirubinemia** due to impaired bile flow/excretion.
+
+5. **Most accurate causal framing:**  
+   A **common cause** (cholestasis/biliary obstruction or liver injury) often leads to **both** elevated GGT and hyperbilirubinemia. But if forced to choose a direction, it’s more clinically coherent that the condition associated with **high GGT** is the one that can **produce hyperbilirubinemia**, rather than bilirubin elevation causing GGT.
+
+<Answer>B</Answer>

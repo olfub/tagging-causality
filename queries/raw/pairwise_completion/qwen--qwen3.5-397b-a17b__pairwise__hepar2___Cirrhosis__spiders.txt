@@ -1,0 +1,25 @@
+## Step-by-Step Analysis
+
+### Step 1: Clarify the Medical Terminology
+In medical contexts, "spiders" refers to **spider angiomas** (also called spider nevi or spider telangiectasias), not actual arachnid spiders. These are vascular skin lesions with a central red spot and radiating blood vessels resembling spider legs.
+
+### Step 2: Understand Cirrhosis
+Cirrhosis is a chronic liver disease where healthy liver tissue is replaced by scar tissue, impairing liver function including hormone metabolism.
+
+### Step 3: Examine the Pathophysiology
+- The damaged liver in cirrhosis cannot properly metabolize **estrogen**
+- This leads to **elevated estrogen levels** in the bloodstream
+- High estrogen causes **vasodilation** and the formation of spider angiomas on the skin
+- Spider angiomas are considered a **clinical sign/symptom** of liver disease
+
+### Step 4: Determine Causal Direction
+- **Cirrhosis → Spider angiomas**: The liver disease causes the vascular lesions (✓ Correct)
+- **Spider angiomas → Cirrhosis**: The skin lesions do not cause liver disease (✗ Incorrect)
+
+### Step 5: Clinical Evidence
+Spider angiomas are well-documented in medical literature as one of the cutaneous manifestations of chronic liver disease, particularly cirrhosis. They resolve when liver function improves or after liver transplantation.
+
+### Conclusion
+Cirrhosis (the liver disease) causes spider angiomas (the skin manifestation), not the reverse.
+
+<Answer>A</Answer>

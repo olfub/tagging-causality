@@ -1,0 +1,20 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**1. Define the terms in the context of Windows 95 printing:**
+*   **PSGRAPHIC:** This term refers to the PostScript Graphic data or the process/module responsible for handling graphical output in the PostScript printer driver (PSCRIPT.DRV). It represents the content being printed (vector graphics, complex images).
+*   **PrtMem:** This term refers to Printer Memory. It represents the resource (RAM) available on the printer or allocated by the driver to process the print job.
+
+**2. Analyze the interaction between Graphics and Memory:**
+In the Windows 95 printing architecture, processing graphics is a resource-intensive task. When a print job contains PostScript graphics (PSGRAPHIC), the driver must translate these graphical commands and the printer must store the resulting page image in its internal memory (PrtMem) before printing.
+
+**3. Evaluate the causal direction:**
+*   **Does PSGRAPHIC cause PrtMem changes?** Yes. Sending a complex PostScript graphic directly causes the consumption of printer memory. If the graphic is complex, it causes high memory usage. If the memory is insufficient, the graphic causes a memory overflow error. The graphic is the *stimulus* that utilizes the memory resource.
+*   **Does PrtMem cause PSGRAPHIC?** No. Having printer memory does not "cause" a PostScript graphic to be created or processed. Memory is a passive resource. While *insufficient* memory might cause the graphic to fail or print poorly, the existence or processing of the graphic is the primary driver of the memory state. The memory does not generate the graphic; the graphic generates the memory load.
+
+**4. Apply Troubleshooting Logic:**
+In a troubleshooting scenario, if a user encounters a memory error, the expert identifies the root cause as the specific print job or graphic being sent. Therefore, the PSGRAPHIC (the job/content) is the cause of the PrtMem (resource) exhaustion or allocation.
+
+**Conclusion:**
+The processing of PostScript graphics (PSGRAPHIC) causes the allocation and consumption of printer memory (PrtMem). Thus, PSGRAPHIC is the cause, and PrtMem is the effect (the resource being affected).
+
+<Answer>A</Answer>

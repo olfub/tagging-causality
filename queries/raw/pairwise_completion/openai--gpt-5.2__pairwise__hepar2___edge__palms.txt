@@ -1,0 +1,9 @@
+1. Interpret the terms in a medically plausible way: **“on edge”** commonly refers to anxiety/hyperarousal (sympathetic activation). **“palms”** can plausibly refer to a palm-related physiologic effect such as **sweaty palms (palmar hyperhidrosis)**.
+
+2. Consider known physiology: anxiety/hyperarousal increases sympathetic output, which can increase sweating, including **palmar sweating**.
+
+3. Check the reverse direction: having “palms” (e.g., sweaty palms) does not generally *cause* someone to feel “on edge” in a primary, typical cause→effect relationship (it could contribute socially, but it’s less direct and less likely as the main direction).
+
+Therefore, the more likely cause-and-effect relationship is **edge → palms**.
+
+<Answer>A</Answer>

@@ -1,0 +1,18 @@
+risk_factor: Asia, Smoking
+disease: Tuberculosis, Lung Cancer, Bronchitis
+symptom: Dyspnoea
+diagnostic_test: X-ray
+combined_condition: Either Tuberculosis or Lung Cancer
+respiratory: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea, Either Tuberculosis or Lung Cancer
+infectious_disease: Tuberculosis
+behavioral: Smoking
+geographic: Asia
+directly_observable: X-ray, Dyspnoea
+external_cause: Asia, Smoking
+internal_condition: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea, Either Tuberculosis or Lung Cancer
+logical_disjunction: Either Tuberculosis or Lung Cancer
+cancer: Lung Cancer
+smoking_related_disease: Lung Cancer, Bronchitis
+imaging_result: X-ray
+chronic_disease: Tuberculosis, Lung Cancer, Bronchitis
+acute_manifestation: Dyspnoea

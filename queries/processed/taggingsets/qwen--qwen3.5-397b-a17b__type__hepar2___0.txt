@@ -1,0 +1,7 @@
+Demographic:age,sex
+RiskFactor:alcoholism,alcohol,diabetes,obesity,injections,transfusion
+DiseaseState:vh_amn,hepatotoxic,THepatitis,ChHepatitis,PBC,fibrosis,Steatosis,Cirrhosis,Hyperbilirubinemia,RHepatitis,gallstones,carcinoma,encephalopathy
+LabMarker:triglycerides,bilirubin,fat,phosphatase,proteins,platelet,inr,urea,density,ESR,alt,ast,amylase,ggtp,cholesterol,albumin,ama,le_cells,hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag
+Symptom:fatigue,itching,upper_pain,pain_ruq,pressure_ruq,pain,flatulence,anorexia,nausea,hepatalgia,bleeding
+PhysicalSign:skin,joints,edema,spleen,hepatomegaly,ascites,consciousness,spiders,jaundice,edge,irregular_liver,palms
+MedicalEvent:hospital,surgery,choledocholithotomy

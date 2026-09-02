@@ -1,0 +1,17 @@
+
+
+**Smoking causes Lung Cancer (Option B)** is the correct cause-and-effect relationship. Here's the reasoning:
+
+1. **Temporal order**: Smoking precedes the development of lung cancer. People smoke for years before lung cancer develops, not the other way around.
+
+2. **Biological mechanism**: Cigarette smoke contains carcinogens (e.g., benzopyrene, nitrosamines) that damage DNA in lung cells, leading to mutations that can result in uncontrolled cell growth — cancer.
+
+3. **Dose-response relationship**: The more a person smokes (in quantity and duration), the higher their risk of developing lung cancer, consistent with a causal relationship.
+
+4. **Epidemiological evidence**: Decades of research, including landmark studies like the British Doctors' Study, have established that smokers have dramatically higher rates of lung cancer compared to non-smokers.
+
+5. **Reversibility**: When people quit smoking, their risk of lung cancer gradually decreases over time, further supporting causation.
+
+6. **Option A makes no logical sense**: Lung cancer is a disease outcome; it does not cause a person to start smoking.
+
+<Answer>B</Answer>

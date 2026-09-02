@@ -1,0 +1,1 @@
+["ruggedauto", "carvalue", "cushioning", "thiscardam", "medcost", "ilicost", "thiscarcost", "othercarcost", "theft", "propcost"]

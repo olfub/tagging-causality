@@ -1,0 +1,782 @@
+VerticalMotion: N0_7muVerMo, SubjVertMo, QGVertMotion, CombVerMo
+Moisture: SatContMoist, RaoContMoist, CombMoisture, AreaMoDryAir
+Clouds: VISCloudCov, IRCloudCover, CombClouds, CldShadeOth, CldShadeConv
+Instability: AMInstabMt, InsInMt, InsChange, ScenRelAMIns, InsSclInScen, LIfr12ZDENSd
+WindField: WndHodograph, WindAloft, WindFieldMt, WindFieldPln, SfcWndShfDis, MvmtFeatures
+BoundaryLayer: MorningBound, Boundaries, LoLevMoistAd, OutflowFrMt
+LapseRate: LowLLapse, MidLLapse
+ConvectiveForecast: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst, ScnRelPlFcst
+CIN: ScenRelAMCIN, MorningCIN, AMCINInScen, CapInScen, LatestCIN
+Thermodynamic: AMDewptCalPl, AMInsWliScen, Dewpoints, TempDis
+Humidity: MeanRH, RHRatio
+CapChange: CapChange, CapInScen
+MorningAnalysis: MorningBound, MorningCIN, AMInstabMt, AMDewptCalPl, AMInsWliScen
+Scenario: Scenario, ScenRel3_4, ScenRelAMCIN, ScenRelAMIns
+RegionalForecast: MountainFcst, PlainsFcst
+MotionFeatures: MvmtFeatures, OutflowFrMt
+MesoscaleArea: AreaMeso_ALS
+DateTime: Date
+ConvectivePotential: CurPropConv, CompPlFcst
+Synoptic: SynForcng, WindAloft
+InSitu: TempDis, Dewpoints, MeanRH, SfcWndShfDis
+AnalysisVariable: CombVerMo, CombMoisture, CombClouds
+DerivedVariable: LIfr12ZDENSd, RHRatio, ScnRelPlFcst, InsSclInScen
+SurfaceVariable: SfcWndShfDis, Dewpoints, TempDis, MeanRH
+UpperAirVariable: WindAloft, MidLLapse, QGVertMotion
+ForecastVariable: MountainFcst, PlainsFcst, N34StarFcst, R5Fcst, CompPlFcst
+MorningVariable: MorningBound, MorningCIN, AMInstabMt, AMDewptCalPl, AMInsWliScen, AMCINInScen, CapInScen
+FeatureMotion: MvmtFeatures, OutflowFrMt, Boundaries
+ConvectiveInitiation: AMCINInScen, CapInScen, InsChange, InsSclInScen
+StormEnvironment: AMInstabMt, AMDewptCalPl, LoLevMoistAd, WndHodograph
+VerticalProfile: LoLevMoistAd, LowLLapse, MidLLapse, WindFieldMt, WindFieldPln
+AtmosphericState: TempDis, MeanRH, Dewpoints, LowLLapse, MidLLapse
+CausalFactor: AMInstabMt, ScenRelAMCIN, ScenRelAMIns, ScenRel3_4
+ConvectiveOutcome: CompPlFcst, CurPropConv, CldShadeConv
+PredictionTarget: MountainFcst, PlainsFcst, CompPlFcst, R5Fcst, N34StarFcst
+DiagnosticVariable: LIfr12ZDENSd, RHRatio, CapChange, InsChange
+InputVariable: QGVertMotion, SatContMoist, RaoContMoist, VISCloudCov, IRCloudCover
+ProcessedVariable: CombVerMo, CombMoisture, CombClouds, ScnRelPlFcst, InsSclInScen
+StaticVariable: Date, Scenario
+DynamicVariable: N0_7muVerMo, SubjVertMo, WndHodograph, OutflowFrMt, MvmtFeatures
+Mesoamerica: AreaMeso_ALS, MountainFcst
+Plains: PlainsFcst, N34StarFcst, R5Fcst
+MorningAtmosphere: MorningBound, MorningCIN, AMCINInScen
+FeatureTracking: MvmtFeatures, OutflowFrMt, Boundaries
+AtmosphericStability: InsChange, ScenRelAMIns, LIfr12ZDENSd, ScenRel3_4
+ConvectiveInitialization: CapChange, AMCINInScen, CapInScen
+ConditionalVariable: ScenRelAMCIN, ScenRelAMIns, ScenRel3_4, AMCINInScen, CapInScen, InsSclInScen
+EnvironmentalCondition: AMInstabMt, AMDewptCalPl, LoLevMoistAd, WndHodograph, LowLLapse, MidLLapse
+ForecastInput: QGVertMotion, SatContMoist, RaoContMoist, VISCloudCov, IRCloudCover, MeanRH, Dewpoints, TempDis
+ForecastOutput: MountainFcst, PlainsFcst, CompPlFcst, R5Fcst, N34StarFcst, CurPropConv
+CausalIndicator: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+ConvectiveTrigger: AMCINInScen, CapInScen, OutflowFrMt, MorningBound, CapChange
+StormPredictor: CompPlFcst, MountainFcst, PlainsFcst, CurPropConv, N34StarFcst, R5Fcst
+AtmosphericProcess: VerticalMotion, Moisture, Instability, WindField, BoundaryLayer
+DiagnosticMetric: LIfr12ZDENSd, RHRatio, CapChange, InsChange
+PredictiveMetric: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst
+EnvironmentalMetric: MeanRH, Dewpoints, TempDis, LowLLapse, MidLLapse
+DynamicMetric: MvmtFeatures, OutflowFrMt, SfcWndShfDis
+MesoscaleMetric: AreaMeso_ALS, WndHodograph, LoLevMoistAd
+ConvectiveMetric: AMInstabMt, CapChange, AMCINInScen, CapInScen, CurPropConv
+MorningMetric: MorningBound, MorningCIN, AMInstabMt, AMDewptCalPl, AMInsWliScen
+ScenarioMetric: Scenario, ScenRel3_4, ScenRelAMCIN, ScenRelAMIns
+TimeMetric: Date
+FeatureMetric: MvmtFeatures, OutflowFrMt, Boundaries, CldShadeOth, CldShadeConv
+SpatialMetric: AreaMeso_ALS, MountainFcst, PlainsFcst
+LayerVariable: LoLevMoistAd, LowLLapse, MidLLapse, WindFieldMt, WindFieldPln
+SurfaceVariable: SfcWndShfDis, Dewpoints, TempDis, MeanRH, MorningBound
+UpperVariable: WindAloft, MidLLapse, QGVertMotion, AreaMeso_ALS
+CompositeVariable: CombVerMo, CombMoisture, CombClouds
+ScalarVariable: LIfr12ZDENSd, RHRatio, CapChange
+VectorVariable: WndHodograph, WindAloft, WindFieldMt, WindFieldPln, MvmtFeatures
+CategoricalVariable: Scenario, Date, CldShadeOth, CldShadeConv
+ContinuousVariable: N0_7muVerMo, SubjVertMo, SatContMoist, MeanRH, TempDis
+BinaryVariable: CurPropConv, CompPlFcst, MountainFcst, PlainsFcst
+GriddedVariable: VISCloudCov, IRCloudCover, AreaMeso_ALS
+PointVariable: AMDewptCalPl, AMInsWliScen, LIfr12ZDENSd
+DerivedMetric: RHRatio, ScnRelPlFcst, InsSclInScen
+ObservationalVariable: VISCloudCov, IRCloudCover, SatContMoist, RaoContMoist, Dewpoints, TempDis
+ModeledVariable: QGVertMotion, CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst
+AnalysisProduct: CombVerMo, CombMoisture, CombClouds, RHRatio, ScnRelPlFcst
+ForecastProduct: MountainFcst, PlainsFcst, CompPlFcst, R5Fcst, N34StarFcst
+DiagnosticProduct: LIfr12ZDENSd, CapChange, InsChange
+CausalVariable: AMInstabMt, ScenRelAMCIN, ScenRelAMIns, OutflowFrMt, CapChange, LoLevMoistAd
+EffectVariable: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MediatorVariable: Instability, Moisture, WindField, BoundaryLayer
+ConfoundVariable: Scenario, Date, SynForcng
+IntermediateVariable: CombVerMo, CombMoisture, CombClouds, InsChange, CapChange
+TargetVariable: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+ExplanatoryVariable: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, MorningBound
+ResponseVariable: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+PredictorVariable: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, MorningBound, AMCINInScen, CapInScen
+OutcomeVariable: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+CovariateVariable: Scenario, Date, SynForcng, MeanRH, Dewpoints, TempDis
+ControlVariable: Scenario, Date, SynForcng
+TreatmentVariable: AMInstabMt, CapChange, OutflowFrMt
+ExposureVariable: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange
+ConditionVariable: ScenRelAMCIN, ScenRelAMIns, ScenRel3_4, AMCINInScen, CapInScen
+StateVariable: TempDis, MeanRH, Dewpoints, LowLLapse, MidLLapse
+ProcessVariable: VerticalMotion, Moisture, Instability, WindField, BoundaryLayer
+SystemVariable: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, WndHodograph
+AtmosphericSystem: AMInstabMt, AMDewptCalPl, LoLevMoistAd, WndHodograph, MeanRH, Dewpoints
+ConvectiveSystem: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst
+MesoscaleSystem: AreaMeso_ALS, WndHodograph, LoLevMoistAd, Boundaries, OutflowFrMt
+BoundarySystem: MorningBound, Boundaries, LoLevMoistAd, OutflowFrMt
+SynopticSystem: SynForcng, WindAloft, QGVertMotion, MidLLapse
+StormSystem: AMInstabMt, OutflowFrMt, CompPlFcst, CurPropConv
+MorningSystem: MorningBound, MorningCIN, AMInstabMt, AMDewptCalPl, AMInsWliScen
+ForecastSystem: MountainFcst, PlainsFcst, CompPlFcst, N34StarFcst, R5Fcst
+DiagnosticSystem: LIfr12ZDENSd, RHRatio, CapChange, InsChange
+CausalSystem: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+DynamicSystem: N0_7muVerMo, SubjVertMo, WndHodograph, MvmtFeatures, OutflowFrMt
+AtmosphericDynamics: VerticalMotion, WindField, BoundaryLayer, LapseRate
+ConvectiveDynamics: Instability, CapChange, OutflowFrMt, BoundaryLayer
+MesoscaleDynamics: WndHodograph, LoLevMoistAd, Boundaries, OutflowFrMt, MvmtFeatures
+MorningDynamics: MorningBound, AMCINInScen, AMInstabMt
+StormDynamics: OutflowFrMt, CompPlFcst, CurPropConv, MvmtFeatures
+CausalMechanism: AMInstabMt, ScenRelAMCIN, CapChange, LoLevMoistAd
+AtmosphericMechanism: Instability, Moisture, WindField, LapseRate
+ConvectiveMechanism: Instability, CapChange, CIN, OutflowFrMt
+ForecastMechanism: CompPlFcst, MountainFcst, PlainsFcst
+DiagnosticMechanism: LIfr12ZDENSd, RHRatio, CapChange, InsChange
+PhysicalProcess: VerticalMotion, Moisture, Instability, WindField
+ChemicalProcess: SatContMoist, RaoContMoist
+DynamicProcess: WindField, BoundaryLayer, MvmtFeatures
+ThermodynamicProcess: Instability, LapseRate, Moisture
+CausalProcess: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericProcess: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveProcess: Instability, CapChange, OutflowFrMt, BoundaryLayer
+MorningProcess: MorningBound, MorningCIN, AMCINInScen, AMInstabMt
+StormProcess: OutflowFrMt, CompPlFcst, CurPropConv, MvmtFeatures
+FeatureProcess: MvmtFeatures, OutflowFrMt, Boundaries
+MesoscaleProcess: WndHodograph, LoLevMoistAd, Boundaries, OutflowFrMt
+SynopticProcess: SynForcng, WindAloft, QGVertMotion
+ForecastProcess: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst
+DiagnosticProcess: LIfr12ZDENSd, RHRatio, CapChange, InsChange
+CausalChain: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CompPlFcst, CurPropConv
+AtmosphericChain: AMInstabMt, Moisture, Instability, WindField, CompPlFcst
+ConvectiveChain: Instability, CapChange, OutflowFrMt, CompPlFcst, CurPropConv
+MorningChain: MorningCIN, AMCINInScen, CapInScen, AMInstabMt
+StormChain: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv
+FeatureChain: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst
+CausalPathway: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericPathway: VerticalMotion, Moisture, Instability, WindField, CompPlFcst
+ConvectivePathway: Instability, CapChange, OutflowFrMt, CompPlFcst, CurPropConv
+MorningPathway: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt
+StormPathway: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeaturePathway: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst
+DiagnosticPathway: LIfr12ZDENSd, RHRatio, CapChange, InsChange
+PredictivePathway: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, CompPlFcst
+MesoscalePathway: WndHodograph, LoLevMoistAd, Boundaries, OutflowFrMt, CompPlFcst
+SynopticPathway: SynForcng, WindAloft, QGVertMotion, CompPlFcst
+CausalNetwork: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst, CurPropConv
+AtmosphericNetwork: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveNetwork: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningNetwork: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormNetwork: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MvmtFeatures, MountainFcst, PlainsFcst
+FeatureNetwork: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalGraph: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericGraph: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveGraph: Instability, CapChange, OutflowFrMt, CompPlFcst, CurPropConv
+CausalStructure: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericStructure: VerticalMotion, Moisture, Instability, WindField, LapseRate, BoundaryLayer
+ConvectiveStructure: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningStructure: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormStructure: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MvmtFeatures, MountainFcst, PlainsFcst
+FeatureStructure: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalRelationship: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericRelationship: VerticalMotion, Moisture, Instability, WindField, LapseRate, BoundaryLayer, CompPlFcst
+ConvectiveRelationship: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningRelationship: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormRelationship: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MvmtFeatures, MountainFcst, PlainsFcst
+FeatureRelationship: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalConnection: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericConnection: VerticalMotion, Moisture, Instability, WindField, LapseRate, BoundaryLayer, CompPlFcst
+ConvectiveConnection: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningConnection: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormConnection: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MvmtFeatures, MountainFcst, PlainsFcst
+FeatureConnection: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalLink: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericLink: VerticalMotion, Moisture, Instability, WindField, LapseRate, BoundaryLayer, CompPlFcst
+ConvectiveLink: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningLink: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormLink: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MvmtFeatures, MountainFcst, PlainsFcst
+FeatureLink: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalEdge: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericEdge: VerticalMotion, Moisture, Instability, WindField, LapseRate, BoundaryLayer, CompPlFcst
+ConvectiveEdge: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningEdge: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormEdge: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MvmtFeatures, MountainFcst, PlainsFcst
+FeatureEdge: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalNode: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericNode: VerticalMotion, Moisture, Instability, WindField, LapseRate, BoundaryLayer, CompPlFcst
+ConvectiveNode: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningNode: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormNode: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MvmtFeatures, MountainFcst, PlainsFcst
+FeatureNode: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalVertex: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericVertex: VerticalMotion, Moisture, Instability, WindField, LapseRate, BoundaryLayer, CompPlFcst
+ConvectiveVertex: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningVertex: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormVertex: OutflowFrMt, Boundaries, CapChange, CompPlFcst, CurPropConv, MvmtFeatures, MountainFcst, PlainsFcst
+FeatureVertex: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalSource: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericSource: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveSource: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningSource: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSource: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureSource: MvmtFeatures, OutflowFrMt, Boundaries
+CausalSink: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+AtmosphericSink: CompPlFcst
+ConvectiveSink: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MorningSink: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSink: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureSink: CompPlFcst, CurPropConv
+CausalDriver: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDriver: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDriver: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDriver: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDriver: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDriver: MvmtFeatures, OutflowFrMt, Boundaries
+CausalInfluencer: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericInfluencer: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveInfluencer: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningInfluencer: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormInfluencer: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureInfluencer: MvmtFeatures, OutflowFrMt, Boundaries
+CausalModerator: ScenRelAMCIN, ScenRelAMIns, ScenRel3_4, Scenario
+AtmosphericModerator: SynForcng, Scenario, Date
+ConvectiveModerator: Scenario, ScenRel3_4
+MorningModerator: Scenario
+StormModerator: Scenario
+FeatureModerator: Scenario
+CausalMediator: LoLevMoistAd, InsChange, CapChange, BoundaryLayer, WindField
+AtmosphericMediator: Moisture, Instability, WindField, LapseRate
+ConvectiveMediator: Instability, CapChange, CIN, BoundaryLayer
+MorningMediator: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormMediator: BoundaryLayer, WindField, Instability
+FeatureMediator: MvmtFeatures, OutflowFrMt, Boundaries
+CausalConfounder: Scenario, Date, SynForcng
+AtmosphericConfounder: Scenario, Date, SynForcng
+ConvectiveConfounder: Scenario, Date
+MorningConfounder: Scenario, Date
+StormConfounder: Scenario, Date, SynForcng
+FeatureConfounder: Scenario, Date
+CausalEffect: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+AtmosphericEffect: CompPlFcst
+ConvectiveEffect: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MorningEffect: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormEffect: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureEffect: CompPlFcst, CurPropConv
+CausalOutcome: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+AtmosphericOutcome: CompPlFcst
+ConvectiveOutcome: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MorningOutcome: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormOutcome: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureOutcome: CompPlFcst, CurPropConv
+CausalResult: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+AtmosphericResult: CompPlFcst
+ConvectiveResult: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MorningResult: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormResult: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureResult: CompPlFcst, CurPropConv
+CausalResponse: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+AtmosphericResponse: CompPlFcst
+ConvectiveResponse: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MorningResponse: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormResponse: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureResponse: CompPlFcst, CurPropConv
+CausalImpact: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+AtmosphericImpact: CompPlFcst
+ConvectiveImpact: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MorningImpact: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormImpact: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureImpact: CompPlFcst, CurPropConv
+CausalConsequence: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+AtmosphericConsequence: CompPlFcst
+ConvectiveConsequence: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MorningConsequence: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormConsequence: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureConsequence: CompPlFcst, CurPropConv
+CausalImplication: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+AtmosphericImplication: CompPlFcst
+ConvectiveImplication: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+MorningImplication: AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormImplication: CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureImplication: CompPlFcst, CurPropConv
+CausalDeterminant: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDeterminant: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDeterminant: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDeterminant: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDeterminant: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDeterminant: MvmtFeatures, OutflowFrMt, Boundaries
+CausalFactor: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericFactor: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveFactor: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningFactor: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormFactor: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureFactor: MvmtFeatures, OutflowFrMt, Boundaries
+CausalPredictor: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, MorningBound, MorningCIN
+AtmosphericPredictor: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectivePredictor: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningPredictor: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormPredictor: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, MountainFcst, PlainsFcst
+FeaturePredictor: MvmtFeatures, OutflowFrMt, Boundaries
+CausalIndicator: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericIndicator: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveIndicator: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningIndicator: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormIndicator: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureIndicator: MvmtFeatures, OutflowFrMt, Boundaries
+CausalMarker: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericMarker: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveMarker: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningMarker: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormMarker: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureMarker: MvmtFeatures, OutflowFrMt, Boundaries
+CausalSignature: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericSignature: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveSignature: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningSignature: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSignature: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureSignature: MvmtFeatures, OutflowFrMt, Boundaries
+CausalFingerprint: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericFingerprint: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveFingerprint: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningFingerprint: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormFingerprint: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureFingerprint: MvmtFeatures, OutflowFrMt, Boundaries
+CausalProfile: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericProfile: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveProfile: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningProfile: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormProfile: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureProfile: MvmtFeatures, OutflowFrMt, Boundaries
+CausalSignature: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericSignature: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveSignature: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningSignature: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSignature: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureSignature: MvmtFeatures, OutflowFrMt, Boundaries
+CausalPattern: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericPattern: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectivePattern: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningPattern: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormPattern: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeaturePattern: MvmtFeatures, OutflowFrMt, Boundaries
+CausalTrend: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericTrend: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveTrend: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningTrend: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormTrend: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureTrend: MvmtFeatures, OutflowFrMt, Boundaries
+CausalTrajectory: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericTrajectory: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveTrajectory: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningTrajectory: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormTrajectory: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureTrajectory: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalSequence: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericSequence: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveSequence: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningSequence: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSequence: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureSequence: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalChain: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericChain: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveChain: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningChain: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormChain: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureChain: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalPathway: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericPathway: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectivePathway: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningPathway: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormPathway: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeaturePathway: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalFlow: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericFlow: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveFlow: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningFlow: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormFlow: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureFlow: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalStream: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericStream: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveStream: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningStream: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormStream: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureStream: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalNetwork: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericNetwork: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveNetwork: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningNetwork: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormNetwork: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureNetwork: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalGraph: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericGraph: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveGraph: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningGraph: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormGraph: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureGraph: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalModel: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericModel: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveModel: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningModel: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormModel: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureModel: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalFramework: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd, CompPlFcst
+AtmosphericFramework: VerticalMotion, Moisture, Instability, WindField, LapseRate, CompPlFcst
+ConvectiveFramework: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer, CompPlFcst, CurPropConv
+MorningFramework: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormFramework: OutflowFrMt, Boundaries, CapChange, MvmtFeatures, CompPlFcst, CurPropConv, MountainFcst, PlainsFcst
+FeatureFramework: MvmtFeatures, OutflowFrMt, Boundaries, CompPlFcst, CurPropConv
+CausalMechanism: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericMechanism: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveMechanism: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningMechanism: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormMechanism: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureMechanism: MvmtFeatures, OutflowFrMt, Boundaries
+CausalProcess: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericProcess: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveProcess: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningProcess: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormProcess: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureProcess: MvmtFeatures, OutflowFrMt, Boundaries
+CausalPhenomenon: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericPhenomenon: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectivePhenomenon: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningPhenomenon: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormPhenomenon: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeaturePhenomenon: MvmtFeatures, OutflowFrMt, Boundaries
+CausalEvent: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericEvent: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveEvent: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningEvent: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormEvent: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureEvent: MvmtFeatures, OutflowFrMt, Boundaries
+CausalOccurrence: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericOccurrence: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveOccurrence: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningOccurrence: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormOccurrence: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureOccurrence: MvmtFeatures, OutflowFrMt, Boundaries
+CausalIncident: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericIncident: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveIncident: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningIncident: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormIncident: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureIncident: MvmtFeatures, OutflowFrMt, Boundaries
+CausalInstance: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericInstance: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveInstance: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningInstance: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormInstance: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureInstance: MvmtFeatures, OutflowFrMt, Boundaries
+CausalExemplar: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericExemplar: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveExemplar: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningExemplar: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormExemplar: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureExemplar: MvmtFeatures, OutflowFrMt, Boundaries
+CausalSample: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericSample: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveSample: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningSample: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSample: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureSample: MvmtFeatures, OutflowFrMt, Boundaries
+CausalCase: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericCase: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveCase: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningCase: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormCase: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureCase: MvmtFeatures, OutflowFrMt, Boundaries
+CausalExample: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericExample: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveExample: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningExample: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormExample: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureExample: MvmtFeatures, OutflowFrMt, Boundaries
+CausalIllustration: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericIllustration: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveIllustration: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningIllustration: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormIllustration: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureIllustration: MvmtFeatures, OutflowFrMt, Boundaries
+CausalRepresentation: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericRepresentation: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveRepresentation: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningRepresentation: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormRepresentation: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureRepresentation: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDescription: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDescription: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDescription: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDescription: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDescription: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDescription: MvmtFeatures, OutflowFrMt, Boundaries
+CausalSpecification: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericSpecification: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveSpecification: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningSpecification: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSpecification: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureSpecification: MvmtFeatures, OutflowFrMt, Boundaries
+CausalCharacterization: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericCharacterization: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveCharacterization: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningCharacterization: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormCharacterization: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureCharacterization: MvmtFeatures, OutflowFrMt, Boundaries
+CausalClassification: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericClassification: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveClassification: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningClassification: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormClassification: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureClassification: MvmtFeatures, OutflowFrMt, Boundaries
+CausalCategorization: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericCategorization: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveCategorization: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningCategorization: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormCategorization: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureCategorization: MvmtFeatures, OutflowFrMt, Boundaries
+CausalTypology: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericTypology: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveTypology: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningTypology: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormTypology: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureTypology: MvmtFeatures, OutflowFrMt, Boundaries
+CausalTaxonomy: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericTaxonomy: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveTaxonomy: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningTaxonomy: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormTaxonomy: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureTaxonomy: MvmtFeatures, OutflowFrMt, Boundaries
+CausalHierarchy: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericHierarchy: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveHierarchy: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningHierarchy: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormHierarchy: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureHierarchy: MvmtFeatures, OutflowFrMt, Boundaries
+CausalStructure: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericStructure: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveStructure: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningStructure: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormStructure: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureStructure: MvmtFeatures, OutflowFrMt, Boundaries
+CausalOrganization: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericOrganization: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveOrganization: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningOrganization: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormOrganization: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureOrganization: MvmtFeatures, OutflowFrMt, Boundaries
+CausalArrangement: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericArrangement: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveArrangement: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningArrangement: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormArrangement: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureArrangement: MvmtFeatures, OutflowFrMt, Boundaries
+CausalConfiguration: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericConfiguration: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveConfiguration: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningConfiguration: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormConfiguration: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureConfiguration: MvmtFeatures, OutflowFrMt, Boundaries
+CausalLayout: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericLayout: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveLayout: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningLayout: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormLayout: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureLayout: MvmtFeatures, OutflowFrMt, Boundaries
+CausalPattern: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericPattern: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectivePattern: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningPattern: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormPattern: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeaturePattern: MvmtFeatures, OutflowFrMt, Boundaries
+CausalRegularity: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericRegularity: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveRegularity: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningRegularity: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormRegularity: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureRegularity: MvmtFeatures, OutflowFrMt, Boundaries
+CausalConsistency: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericConsistency: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveConsistency: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningConsistency: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormConsistency: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureConsistency: MvmtFeatures, OutflowFrMt, Boundaries
+CausalUniformity: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericUniformity: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveUniformity: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningUniformity: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormUniformity: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureUniformity: MvmtFeatures, OutflowFrMt, Boundaries
+CausalHomogeneity: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericHomogeneity: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveHomogeneity: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningHomogeneity: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormHomogeneity: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureHomogeneity: MvmtFeatures, OutflowFrMt, Boundaries
+CausalSymmetry: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericSymmetry: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveSymmetry: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningSymmetry: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSymmetry: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureSymmetry: MvmtFeatures, OutflowFrMt, Boundaries
+CausalAsymmetry: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericAsymmetry: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveAsymmetry: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningAsymmetry: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormAsymmetry: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureAsymmetry: MvmtFeatures, OutflowFrMt, Boundaries
+CausalBalance: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericBalance: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveBalance: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningBalance: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormBalance: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureBalance: MvmtFeatures, OutflowFrMt, Boundaries
+CausalEquilibrium: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericEquilibrium: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveEquilibrium: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningEquilibrium: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormEquilibrium: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureEquilibrium: MvmtFeatures, OutflowFrMt, Boundaries
+CausalStability: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericStability: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveStability: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningStability: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormStability: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureStability: MvmtFeatures, OutflowFrMt, Boundaries
+CausalInstability: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericInstability: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveInstability: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningInstability: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormInstability: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureInstability: MvmtFeatures, OutflowFrMt, Boundaries
+CausalVariability: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericVariability: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveVariability: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningVariability: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormVariability: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureVariability: MvmtFeatures, OutflowFrMt, Boundaries
+CausalChange: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericChange: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveChange: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningChange: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormChange: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureChange: MvmtFeatures, OutflowFrMt, Boundaries
+CausalTransition: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericTransition: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveTransition: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningTransition: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormTransition: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureTransition: MvmtFeatures, OutflowFrMt, Boundaries
+CausalTransformation: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericTransformation: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveTransformation: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningTransformation: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormTransformation: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureTransformation: MvmtFeatures, OutflowFrMt, Boundaries
+CausalConversion: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericConversion: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveConversion: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningConversion: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormConversion: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureConversion: MvmtFeatures, OutflowFrMt, Boundaries
+CausalModification: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericModification: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveModification: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningModification: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormModification: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureModification: MvmtFeatures, OutflowFrMt, Boundaries
+CausalAlteration: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericAlteration: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveAlteration: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningAlteration: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormAlteration: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureAlteration: MvmtFeatures, OutflowFrMt, Boundaries
+CausalAdjustment: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericAdjustment: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveAdjustment: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningAdjustment: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormAdjustment: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureAdjustment: MvmtFeatures, OutflowFrMt, Boundaries
+CausalAdaptation: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericAdaptation: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveAdaptation: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningAdaptation: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormAdaptation: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureAdaptation: MvmtFeatures, OutflowFrMt, Boundaries
+CausalEvolution: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericEvolution: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveEvolution: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningEvolution: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormEvolution: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureEvolution: MvmtFeatures, OutflowFrMt, Boundaries
+CausalProgression: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericProgression: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveProgression: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningProgression: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormProgression: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureProgression: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDevelopment: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDevelopment: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDevelopment: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDevelopment: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDevelopment: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDevelopment: MvmtFeatures, OutflowFrMt, Boundaries
+CausalGrowth: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericGrowth: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveGrowth: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningGrowth: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormGrowth: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureGrowth: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDecay: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDecay: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDecay: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDecay: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDecay: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDecay: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDissipation: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDissipation: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDissipation: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDissipation: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDissipation: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDissipation: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDissolution: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDissolution: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDissolution: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDissolution: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDissolution: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDissolution: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDisintegration: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDisintegration: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDisintegration: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDisintegration: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDisintegration: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDisintegration: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDispersal: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDispersal: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDispersal: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDispersal: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDispersal: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDispersal: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDispersion: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDispersion: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDispersion: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDispersion: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDispersion: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDispersion: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDiffusion: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDiffusion: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDiffusion: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDiffusion: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormDiffusion: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureDiffusion: MvmtFeatures, OutflowFrMt, Boundaries
+CausalSpread: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericSpread: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveSpread: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningSpread: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormSpread: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureSpread: MvmtFeatures, OutflowFrMt, Boundaries
+CausalExpansion: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericExpansion: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveExpansion: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningExpansion: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormExpansion: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureExpansion: MvmtFeatures, OutflowFrMt, Boundaries
+CausalContraction: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericContraction: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveContraction: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningContraction: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormContraction: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureContraction: MvmtFeatures, OutflowFrMt, Boundaries
+CausalCompression: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericCompression: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveCompression: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningCompression: MorningBound, MorningCIN, AMCINInScen, CapInScen, AMInstabMt, AMDewptCalPl, AMInsWliScen
+StormCompression: OutflowFrMt, Boundaries, CapChange, MvmtFeatures
+FeatureCompression: MvmtFeatures, OutflowFrMt, Boundaries
+CausalDilation: AMInstabMt, ScenRelAMCIN, OutflowFrMt, CapChange, LoLevMoistAd
+AtmosphericDilation: VerticalMotion, Moisture, Instability, WindField, LapseRate
+ConvectiveDilation: Instability, CapChange, CIN, OutflowFrMt, BoundaryLayer
+MorningDilation: MorningBound, MorningCIN, AMCINInScen

@@ -1,0 +1,34 @@
+# Identifying Exogenous Variables (Root Causes)
+
+To construct a causal graph, I first need to identify variables that are **exogenous** - meaning they have no incoming causal arrows because they are not caused by any other variables in the system.
+
+## Analysis by Category
+
+### Demographic Variables
+- **`<age>`**: A person's age is a fundamental demographic factor. No medical condition or other variable in this list can cause someone to be older or younger. Age is clearly **exogenous**.
+- **`<sex>`**: Biological sex is determined at conception/birth. No medical condition in this dataset causes someone's biological sex to change. Sex is clearly **exogenous**.
+
+### Lifestyle/Behavioral Factors
+- **`<alcohol>`**: This represents alcohol consumption behavior/exposure. While alcohol consumption can lead to alcoholism (`<alcoholism>`) and liver disease, the consumption itself is a behavioral choice/exposure that is not caused by other medical conditions in this list. This is **exogenous**.
+
+### Medical Interventions/Events
+Let me consider whether medical interventions are exogenous:
+- **`<hospital>`**: Hospitalization is typically *caused by* medical conditions requiring care - not exogenous
+- **`<surgery>`**: Surgery is performed *because of* underlying conditions - not exogenous
+- **`<choledocholithotomy>`**: This surgical procedure is performed *because of* gallstones - not exogenous
+- **`<injections>`**, **`<transfusion>`**: These are interventions performed for medical reasons - not exogenous
+
+### Diseases, Conditions, and Symptoms
+All other variables in the list are either:
+- Medical conditions caused by risk factors
+- Symptoms caused by underlying diseases
+- Laboratory values reflecting disease states
+- Treatments prompted by medical necessity
+
+None of these would be exogenous.
+
+## Conclusion
+
+The variables that have no causal parents (are unaffected by any other variables in this system) are:
+
+<Answer>age, sex, alcohol</Answer>

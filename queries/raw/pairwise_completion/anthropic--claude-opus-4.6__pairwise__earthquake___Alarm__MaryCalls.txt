@@ -1,0 +1,21 @@
+
+
+## Step-by-Step Reasoning
+
+This question relates to the classic **Bayesian network** known as the "Burglary-Earthquake-Alarm" model (from Judea Pearl's work).
+
+**Step 1: Understand the scenario.**
+In the real world, an alarm system is set up in a home. Mary is a neighbor who may call if she hears the alarm.
+
+**Step 2: Determine the causal direction.**
+- An **Alarm** goes off (due to a burglary or earthquake).
+- **Mary hears the alarm** and decides to call to notify the homeowner.
+
+**Step 3: Evaluate each option.**
+- **Option A (Alarm → MaryCalls):** The alarm sounding is the *cause* that prompts Mary to call. This follows a logical causal chain: the alarm is a stimulus, and Mary calling is a response.
+- **Option B (MaryCalls → Alarm):** Mary calling would somehow cause the alarm to go off. This reverses cause and effect and doesn't make physical or logical sense.
+
+**Step 4: Conclusion.**
+The alarm is the cause; Mary's call is the effect. Mary calls *because* she heard the alarm, not the other way around.
+
+<Answer>A</Answer>

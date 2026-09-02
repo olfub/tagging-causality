@@ -1,0 +1,11 @@
+Liver_Disease: hepatotoxic, PBC, fibrosis, Cirrhosis, Steatosis, hepatitis, ChHepatitis, THepatitis, RHepatitis
+Symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, flatulence, nausea, anorexia, jaundice, hepatalgia
+Lab_Test: alt, ast, amylase, ggtp, cholesterol, bilirubin, phosphatase, inr, ESR, albumin, urea
+Medical_Procedure: hospital, surgery, injections, transfusion, choledocholithotomy
+Demographic: sex, age
+Substance: alcohol, alcoholism
+Infection: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+Body_System: skin, joints, spleen, palms, edema
+Biomarker: triglycerides, platelet, density, edge, irregular_liver, ascites, hepatomegaly, spiders, encephalopathy, bleeding, carcinoma 
+Medication: AMA, le_cells 
+Organ: gallstones, obesity, diabetes

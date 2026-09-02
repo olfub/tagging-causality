@@ -1,0 +1,21 @@
+
+
+# Analyzing the Causal Relationship
+
+## Step 1: Decode the Variable Names
+- **AppDtGnTm** = "Application Data Generation Time" — the time it takes for the application to generate/process print data
+- **HrglssDrtnAftrPrnt** = "Hourglass Duration After Print" — how long the hourglass (wait cursor) appears after issuing a print command
+
+## Step 2: Consider the Logical Direction
+
+**Option A: AppDtGnTm → HrglssDrtnAftrPrnt**
+- If the application takes longer to generate/process print data, this directly causes the system to display the hourglass cursor for a longer period after the user initiates printing.
+- The hourglass is a *symptom/indicator* of underlying processing work.
+
+**Option B: HrglssDrtnAftrPrnt → AppDtGnTm**
+- This would mean the hourglass display itself causes the application to take longer to generate data. But the hourglass is merely a visual indicator — it doesn't influence processing time.
+
+## Step 3: Conclusion
+The application data generation time is the **root cause** (an underlying process), and the hourglass duration is the **observable effect** (a symptom the user sees). In Windows 95 printer troubleshooting, slow data generation by the application is a well-known cause of prolonged hourglass display after printing.
+
+<Answer>A</Answer>

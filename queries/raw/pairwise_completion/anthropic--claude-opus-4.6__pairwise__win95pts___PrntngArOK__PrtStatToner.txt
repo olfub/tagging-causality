@@ -1,0 +1,20 @@
+
+
+# Analyzing the Cause-and-Effect Relationship
+
+## Step-by-step reasoning:
+
+**Understanding the variables:**
+- **PrntngArOK** = "Printing is OK" — represents the actual underlying state of whether the printing system is functioning correctly.
+- **PrtStatToner** = "Printer Status: Toner" — represents the observable toner status reported/displayed by the printer (a diagnostic indicator).
+
+**Causal reasoning:**
+1. In diagnostic/troubleshooting Bayesian networks, the standard causal direction flows from **actual system states** → **observable indicators/symptoms**.
+2. **PrntngArOK** represents the true functional state of the printing process. This is an underlying condition.
+3. **PrtStatToner** represents the reported toner status — this is a diagnostic observation that reflects the actual state of the system.
+4. The actual state of the printing system (whether it's working correctly, including toner availability) **causes** the printer status page to report a particular toner condition — not vice versa.
+5. The toner status indicator is an *effect* (observable output) of the actual printing state, not the other way around.
+
+**Conclusion:** The underlying printing state (PrntngArOK) causally influences what the printer status reports about toner (PrtStatToner), following the standard pattern of "true state → observed indicator."
+
+<Answer>A</Answer>

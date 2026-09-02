@@ -1,0 +1,26 @@
+
+
+# Analyzing the Causal Relationship: DskLocal and EMFOK
+
+## Understanding the Variables
+
+In the context of Windows 95 printer troubleshooting:
+
+- **DskLocal**: Refers to whether there is sufficient **local disk space** available.
+- **EMFOK**: Refers to whether **EMF (Enhanced Metafile) spooling** is functioning correctly.
+
+## Step-by-Step Reasoning
+
+1. **EMF spooling** in Windows 95 works by writing temporary enhanced metafile data to the local disk before sending it to the printer.
+2. This process **requires available local disk space** to write those temporary spool files.
+3. If local disk space is insufficient (**DskLocal = false**), the EMF spooling process will **fail** (**EMFOK = false**).
+4. The availability of disk space is a **precondition/resource** that determines whether EMF spooling can succeed — not the other way around.
+5. EMF spooling succeeding or failing does not determine whether you have local disk space.
+
+## Conclusion
+
+The causal direction flows from the **resource condition** (disk space) to the **process outcome** (EMF spool success):
+
+**DskLocal → EMFOK**
+
+<Answer>A</Answer>

@@ -1,0 +1,20 @@
+To determine the variables that are unaffected by any other variables (root nodes or exogenous variables) in a medical causal graph, we must identify variables that are not caused by other medical conditions, symptoms, lab results, or interventions within the provided list. These are typically demographic or biological attributes determined prior to the disease process.
+
+1.  **Analyze Demographic Variables**:
+    *   **<age>**: A patient's age is determined by their date of birth. It is not caused by liver disease, alcohol consumption, surgical history, or any other clinical variable in the list. It is a fundamental confounder that influences the risk of almost all other conditions (e.g., cirrhosis, carcinoma) but is not influenced by them.
+    *   **<sex>**: Biological sex is determined genetically at conception. It is not caused by any medical condition, treatment, or symptom listed. It influences disease prevalence (e.g., PBC is more common in females, alcoholism in males) but is not an effect of these variables.
+
+2.  **Analyze Exposure/Behavioral Variables**:
+    *   **<alcohol>**, **<alcoholism>**: While these are causes of liver disease (e.g., steatosis, cirrhosis), the behavior or condition of alcoholism can be influenced by demographic factors like age and sex, as well as social factors not listed. In a complete causal model including demographics, age and sex are upstream of alcohol consumption patterns. Thus, they are not the *most* unaffected variables compared to age and sex.
+    *   **<transfusion>**, **<injections>**: These are historical medical exposures. While they cause conditions like hepatitis, the likelihood of receiving them can be influenced by age (older patients have more procedures) or the medical setting (<hospital>).
+
+3.  **Analyze Clinical Variables**:
+    *   **Lab results** (e.g., <bilirubin>, <alt>, <albumin>): These are physiological outcomes of liver function or disease states.
+    *   **Symptoms** (e.g., <fatigue>, <pain>, <jaundice>): These are caused by the underlying pathology.
+    *   **Diagnoses/Conditions** (e.g., <cirrhosis>, <hepatitis>, <carcinoma>): These are outcomes of risk factors and disease progression.
+    *   **Signs** (e.g., <hepatomegaly>, <spiders>, <ascites>): These are physical manifestations of the disease.
+
+4.  **Conclusion**:
+    The only variables in the list that are biologically immutable and temporally precede all other disease processes, exposures, and outcomes without being caused by any other variable in the set are **age** and **sex**.
+
+<Answer>age, sex</Answer>

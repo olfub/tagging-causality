@@ -1,0 +1,12 @@
+cause:BirthAsphyxia,Disease
+patient:BirthAsphyxia,Age,Sick
+oxygenation:HypDistrib,HypoxiaInO2,LowerBodyO2,RUQO2
+intermediate:HypDistrib,HypoxiaInO2,Disease,DuctFlow,CardiacMixing,LungParench,LungFlow
+respiratory:CO2,CO2Report,LungParench,LungFlow
+underlying:CO2,ChestXray,Grunting,LVH
+diagnostic:ChestXray,XrayReport
+clinical_sign:Grunting,GruntingReport,Sick
+report:LVHreport,CO2Report,XrayReport,GruntingReport
+cardiac:LVHreport,LVH,DuctFlow,CardiacMixing
+measurement:LowerBodyO2,RUQO2
+demographic:Age

@@ -1,0 +1,6 @@
+1. In Windows 95 printing, **PSGRAPHIC** is associated with the **PostScript/graphics printing path** (a driver/module involved in rendering pages for the printer).  
+2. **PrtMem** (printer memory / print memory manager / memory-related print component) is typically *downstream*: it gets stressed/engaged when a driver is rasterizing complex pages, handling fonts/bitmaps, spooling, etc.  
+3. Cause-and-effect wise, it’s more plausible that **a graphics/PS driver component (PSGRAPHIC)** triggers heavy allocation or a bug/overflow that then manifests as a **PrtMem** problem (out-of-memory, memory fault, resource exhaustion).  
+4. The reverse (“PrtMem causes PSGRAPHIC”) would imply a memory utility/component independently initiating PostScript graphics behavior, which is less consistent with how the Windows 95 print pipeline is usually initiated (apps/driver start the work; memory failures are typically consequences).
+
+<Answer>A</Answer>

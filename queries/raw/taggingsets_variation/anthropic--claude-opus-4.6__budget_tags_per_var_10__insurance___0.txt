@@ -1,0 +1,99 @@
+driver_characteristic: GoodStudent, Age, RiskAversion, DrivQuality, DrivingSkill, SeniorTrain, DrivHist
+personal: GoodStudent, Age, SocioEcon, RiskAversion, DrivingSkill, SeniorTrain, DrivHist
+behavior: GoodStudent, RiskAversion, DrivQuality, DrivHist
+skill: GoodStudent, DrivQuality, DrivingSkill, SeniorTrain
+training: GoodStudent, SeniorTrain
+age_related: GoodStudent, Age, VehicleYear, SeniorTrain
+risk_modifier: GoodStudent, SeniorTrain
+academic: GoodStudent
+demographic: Age, SocioEcon
+risk_factor: Age, RiskAversion, DrivQuality, Mileage, HomeBase, DrivHist
+continuous: Age, DrivQuality, Mileage, DrivingSkill, ThisCarCost, CarValue, PropCost, OtherCarCost, OtherCar, MedCost, ILiCost
+intrinsic: Age, RiskAversion, DrivingSkill
+causal_root: Age, SocioEcon
+life_stage: Age
+temporal: Age, VehicleYear
+financial: SocioEcon, ThisCarCost, Theft, CarValue, OtherCarCost, MedCost, ILiCost, PropCost
+value: SocioEcon, CarValue
+background: SocioEcon, HomeBase
+exogenous: SocioEcon, HomeBase
+lifestyle: SocioEcon
+socioeconomic: SocioEcon
+attitude: RiskAversion
+psychological: RiskAversion
+decision: RiskAversion, AntiTheft, Airbag
+preference: RiskAversion
+causal_influence: RiskAversion, Accident, DrivQuality, DrivingSkill
+vehicle_property: VehicleYear, RuggedAuto, MakeModel, Mileage, Antilock, CarValue, AntiTheft, Cushioning, Airbag
+car_attribute: VehicleYear, RuggedAuto, MakeModel, Mileage, Antilock, CarValue, AntiTheft, Cushioning, Airbag
+observable: VehicleYear, ThisCarDam, MakeModel, DrivQuality, Mileage, Antilock, CarValue, Airbag, DrivHist
+manufacturing: VehicleYear, RuggedAuto, MakeModel
+value_determinant: VehicleYear, MakeModel, CarValue
+technology: VehicleYear, Antilock, AntiTheft, Airbag
+vehicle_age: VehicleYear
+car_identifier: VehicleYear, MakeModel
+damage: ThisCarDam, OtherCar
+outcome: ThisCarDam, Accident, ThisCarCost, Theft, PropCost, OtherCarCost, OtherCar, MedCost, ILiCost
+this_car: ThisCarDam, ThisCarCost
+loss: ThisCarDam, Accident, Theft, OtherCar
+severity: ThisCarDam, Accident, OtherCar
+accident_consequence: ThisCarDam, OtherCar
+physical: ThisCarDam, RuggedAuto, Cushioning
+claim_trigger: ThisCarDam, ThisCarCost, Theft
+vehicle_impact: ThisCarDam, OtherCar
+safety_feature: RuggedAuto, Antilock, AntiTheft, Cushioning, Airbag
+vehicle_protection: RuggedAuto, Antilock, AntiTheft, Cushioning, Airbag
+car_durability: RuggedAuto, MakeModel
+crash_protection: RuggedAuto, Antilock, Cushioning, Airbag
+structural: RuggedAuto, Cushioning
+damage_mitigation: RuggedAuto, Antilock, Cushioning
+event: Accident, Theft
+driver_record: Accident, DrivQuality, DrivHist
+driving_outcome: Accident, DrivQuality, Mileage, DrivHist
+incident: Accident, Theft
+random_event: Accident, Theft
+categorical: MakeModel, HomeBase
+brand: MakeModel
+vehicle_type: MakeModel
+performance: DrivQuality, DrivingSkill
+exposure: Mileage, HomeBase
+usage: Mileage
+wear: Mileage
+distance: Mileage
+anti_feature: Antilock, AntiTheft
+braking: Antilock
+ability: DrivingSkill
+latent: DrivingSkill
+driver_ability: DrivingSkill
+education: SeniorTrain
+senior: SeniorTrain
+improvement: SeniorTrain
+program: SeniorTrain
+cost: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+claim_component: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+insurance: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+monetary_loss: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+property: ThisCarCost, Theft, CarValue, PropCost
+crime: Theft, HomeBase, AntiTheft
+security: Theft, AntiTheft
+monetary: CarValue
+assessment: CarValue
+location: HomeBase
+environment: HomeBase
+geographical: HomeBase
+context: HomeBase
+prevention: AntiTheft
+aggregate: PropCost
+total: PropCost
+other_car: OtherCarCost, OtherCar
+liability: OtherCarCost, OtherCar, ILiCost
+external: OtherCarCost, OtherCar, ILiCost
+medical: MedCost
+bodily: MedCost
+health: MedCost
+interior: Cushioning, Airbag
+passive_safety: Cushioning, Airbag
+legal: ILiCost
+history: DrivHist
+past: DrivHist
+record: DrivHist

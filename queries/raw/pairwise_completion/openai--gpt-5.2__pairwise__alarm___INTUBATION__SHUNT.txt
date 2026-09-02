@@ -1,0 +1,16 @@
+1) Define the terms in ICU context  
+- **SHUNT**: Blood passes from right to left side of circulation without being oxygenated (most commonly **intrapulmonary shunt** from atelectasis, pneumonia, ARDS, pulmonary edema). Clinically shows up as **hypoxemia that responds poorly to supplemental O₂**.  
+- **INTUBATION**: Placement of an endotracheal tube to provide airway protection and/or mechanical ventilation, often in response to **refractory hypoxemia**, hypercapnia, or inability to protect the airway.
+
+2) Consider the common causal direction in ICU practice  
+- Severe shunt → refractory hypoxemia → escalating oxygen/respiratory support → **intubation and mechanical ventilation (often with PEEP)** to recruit alveoli and improve oxygenation.  
+This is a very common pathway (e.g., ARDS or lobar pneumonia causing shunt leading to intubation).
+
+3) Check whether the reverse direction is plausible  
+- Intubation can sometimes **increase shunt** indirectly (e.g., sedation/supine positioning causing atelectasis; poor ventilator settings causing derecruitment; mucus plugging).  
+- However, intubation is more often a **response** to the shunt-driven hypoxemia, and with appropriate PEEP it often *reduces* shunt by recruitment.
+
+4) Which is more likely overall?  
+Given typical ICU cause-and-effect patterns, **shunt is more likely to lead to intubation** than intubation being the primary cause of shunt.
+
+<Answer>B</Answer>

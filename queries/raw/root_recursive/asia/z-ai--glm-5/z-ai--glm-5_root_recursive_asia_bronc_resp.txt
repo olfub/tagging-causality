@@ -1,0 +1,23 @@
+To determine which variables are caused by bronc, we analyze the provided causal relationships step by step:
+
+1.  **Identify the relationships provided in the text:**
+    *   "asia causes tub": `asia` $\rightarrow$ `tub`
+    *   "smoke causes lung, bronc": `smoke` $\rightarrow$ `lung` and `smoke` $\rightarrow$ `bronc`
+    *   "tub causes either": `tub` $\rightarrow$ `either`
+    *   "lung causes either": `lung` $\rightarrow$ `either`
+
+2.  **Identify the variables acting as causes (parents):**
+    *   `asia` causes `tub`.
+    *   `smoke` causes `lung` and `bronc`.
+    *   `tub` causes `either`.
+    *   `lung` causes `either`.
+
+3.  **Check for any relationship where `bronc` is the cause:**
+    *   We look for an arrow starting from `bronc` (e.g., `bronc` $\rightarrow$ ?).
+    *   In the provided list, `bronc` only appears as an effect (child) of `smoke`.
+    *   There are no statements indicating that `bronc` causes `dysp`, `xray`, or any other variable.
+
+4.  **Conclusion:**
+    *   Based strictly on the provided text, `bronc` does not cause any other variable in the list.
+
+<Answer></Answer>

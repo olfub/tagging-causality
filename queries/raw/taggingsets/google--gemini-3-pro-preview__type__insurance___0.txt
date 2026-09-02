@@ -1,0 +1,4 @@
+DriverCharacteristics: Age, SocioEcon, DrivingSkill, DrivQuality, RiskAversion, SeniorTrain, GoodStudent, DrivHist, HomeBase
+VehicleCharacteristics: VehicleYear, MakeModel, RuggedAuto, Antilock, Mileage, CarValue, Airbag, AntiTheft, Cushioning
+AccidentSpecifics: Accident, ThisCarDam, OtherCar, Theft
+CostOutcomes: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost

@@ -1,0 +1,8 @@
+Step-by-step reasoning:
+1. NetOK likely represents a network status indicating that the network is functioning correctly.
+2. NtwrkCnfg likely stands for network configuration, which involves setting up network parameters.
+3. For the network to be in an "OK" state (NetOK), it must first be properly configured (NtwrkCnfg).
+4. Therefore, the configuration process is the cause, and the network status is the effect.
+5. This suggests that NtwrkCnfg causes NetOK.
+
+<Answer>B</Answer>

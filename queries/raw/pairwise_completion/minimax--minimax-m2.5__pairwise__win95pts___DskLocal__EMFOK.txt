@@ -1,0 +1,3 @@
+In the context of Windows 95 printer troubleshooting, DskLocal is likely a configuration setting related to the printer spooler (e.g., using local disk for spooling), while EMFOK is a status indicator confirming that EMF (Enhanced Metafile) spooling is functioning correctly. Typically, configuration settings like DskLocal influence the success of spooling, resulting in a positive status like EMFOK. Therefore, it is more logical that DskLocal causes EMFOK, rather than the reverse.
+
+<Answer>A</Answer>

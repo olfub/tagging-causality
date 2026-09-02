@@ -1,0 +1,18 @@
+demographic: Age, Sex, Education, Occupation
+personal_attribute: Age, Sex
+biological: Age, Sex
+immutable: Age, Sex
+continuous: Age
+exogenous: Age
+categorical: Sex, Occupation
+fixed_at_birth: Sex
+acquired: Education, Occupation, Residence
+socioeconomic: Education, Occupation, Residence
+human_capital: Education, Occupation
+choice: Education, Occupation, Residence, Travel
+status: Education
+geographic: Residence, Travel
+location_related: Residence, Travel
+lifestyle: Residence, Travel
+activity: Travel
+temporal: Travel

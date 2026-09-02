@@ -1,0 +1,11 @@
+
+
+Looking at this step by step:
+
+1. The problem identifies **peer_pressure** as one of the root/exogenous variables (not affected by any other variable).
+2. The causal relationships section explicitly states: **"Currently none."**
+3. Since there are no causal relationships defined in this graph, **peer_pressure does not cause any other variable**.
+
+There are no variables caused by peer_pressure.
+
+<Answer></Answer>

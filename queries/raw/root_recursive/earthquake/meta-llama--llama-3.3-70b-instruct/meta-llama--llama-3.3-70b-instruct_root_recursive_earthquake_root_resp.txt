@@ -1,0 +1,13 @@
+To identify the variables that are unaffected by any other variables, we should consider the context and logical relationships between the given variables: <burglary>, <earthquake>, <alarm>, <johncalls>, and <marycalls>.
+
+1. **<earthquake>**: An earthquake is a natural disaster that can trigger various responses but is not caused by the other factors listed. It is the most independent variable among the ones listed.
+
+2. **<burglary>**: A burglary is a criminal act that is also independent of the other factors listed in terms of causation. However, it can be related to the activation of an alarm.
+
+3. **<alarm>**: The alarm can be triggered by an earthquake or a burglary. Therefore, it is affected by other variables.
+
+4. **<johncalls>** and **<marycalls>**: These variables are actions taken by individuals, presumably in response to hearing the alarm or learning about an earthquake or burglary. Thus, they are affected by other variables.
+
+Given this analysis, the variables that are unaffected by any other variables in the list are **<earthquake>** and **<burglary>**, as they are not caused by the other variables listed.
+
+<Answer>earthquake,burglary</Answer>

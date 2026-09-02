@@ -1,0 +1,10 @@
+System_Status: AppOK, PrtOn, EMFOK, DrvOK, NetOK, CblPrtHrdwrOK, LclOK, DS_NTOK, DS_LCLOK, TTOK, NnTTOK, PgOrnttnOK, PrntngArOK, CmpltPgPrntd, PrntrAccptsTrtyp, ScrnFntNtPrntrFnt
+Hardware_Resource: DskLocal, PrtPaper, PrtCbl, PrtPort, PC2PRT, PrtMem, TnrSpply, AvlblVrtlMmry
+Configuration: DrvSet, PrtSel, PrtPath, NtwrkCnfg, PrtMpTPth, PrtTimeOut, GrphcsRltdDrvrSttngs, FntInstlltn
+Process_Buffer: PrtSpool, PrtThread, PrtQueue, GDIIN, GDIOUT, FllCrrptdBffr
+Data_Object: DataFile, AppData, PrtData, PrtDataOut, PrtFile, EPSGrphc, NnPSGrphc, PSGRAPHIC, TrTypFnts, TstpsTxt
+Error_Indicator: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, LclGrbld, NtGrbld, GrbldOtpt, PSERRMEM, GrbldPS, IncmpltPS
+Performance_Metric: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt, NtSpd
+Device_Sensor: PTROFFLINE, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+Software_Entity: NetPrint, PrtDriver, DSApplctn, PrtPScript, PrtIcon
+Control_Flag: REPEAT

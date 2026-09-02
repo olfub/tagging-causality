@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Pathophysiology of ascites**  
+   - Ascites is the pathological accumulation of fluid in the peritoneal cavity.  
+   - The most common underlying mechanism (e.g., cirrhosis, heart failure, nephrotic syndrome) is **decreased serum oncotic pressure** due to low levels of plasma proteins, especially albumin.  
+   - Low albumin → reduced plasma oncotic pressure → leakage of fluid from the vasculature into the peritoneal space → ascites.
+
+2. **Relationship between proteins and ascites**  
+   - **Proteins (albumin) → ascites**: Low protein levels are a *cause* of ascites.  
+   - **Ascites → proteins**: While ascitic fluid does contain some protein, the presence of ascites does not *cause* the body to produce more proteins; rather, it may lead to loss of protein into the peritoneal cavity. This is a secondary effect, not the primary causal mechanism.
+
+3. **Which direction is more likely to be the primary cause‑and‑effect?**  
+   - The dominant, textbook relationship is that **protein deficiency (hypoalbuminemia) leads to ascites**.  
+   - Therefore, “proteins cause ascites” (option B) is the more likely causal direction.
+
+**Conclusion:** The cause‑and‑effect relationship “proteins cause ascites” is more plausible.
+
+<Answer>B</Answer>

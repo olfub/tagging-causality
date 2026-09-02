@@ -1,0 +1,645 @@
+Printing: PrtOn, PrtPaper, PrtSpool, PrtDataOut, PrtPath, PrtSel, PrntPrcssTm, DeskPrntSpd, PrntngArOK
+Network: NetPrint, NtwrkCnfg, NetOK, PrtCbl, PTROFFLINE
+Driver: PrtDriver, DrvSet, DrvOK, GDIIN, GDIOUT
+Application: AppOK, AppData, DSApplctn, LclOK, EMFOK
+Graphics: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PSGRAPHIC, PrtPScript
+Printer: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PrtMpTPth
+Error: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM
+Font: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK
+Memory: AvlblVrtlMmry, PrtMem, FllCrrptdBffr
+Local: DskLocal, LclGrbld, LclOK
+Parallel: PrtPort, PrtThread, PrtQueue
+Status: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PrtTimeOut
+Configuration: NtwrkCnfg, PrtCbl, PrtPort, PrtMpTPth
+Paper: PrtPaper, TnrSpply, PgOrnttnOK
+Timeout: PrtTimeOut, HrglssDrtnAftrPrnt
+DriverState: DrvSet, DrvOK, GDIIN, GDIOUT
+NetworkState: NetOK, PTROFFLINE, NtSpd
+ApplicationState: AppOK, EMFOK, LclOK
+GraphicState: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PSGRAPHIC
+Spooler: PrtSpool, PrtQueue, PrtStatPaper 
+PrinterHardware: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon, PrtFile 
+Job: PrntPrcssTm, DeskPrntSpd, PrntngArOK, CmpltPgPrntd 
+Event: PrtDataOut, PrtStatPaper, PrtStatToner 
+Queue: PrtQueue, PrtMpTPth, PrtStatPaper 
+Data: PrtData, PrtDataOut, PrtFile, GrbldPS, IncmpltPS, TstpsTxt 
+Path: PrtPath, PrtMpTPth, PrtQueue 
+State: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+Thread: PrtThread, PrtTimeOut, PrtQueue 
+TimeoutError: PrtTimeOut, HrglssDrtrnAftrPrnt, PSERRMEM 
+Spool: PrtSpool, PrtQueue, PrtStatPaper 
+Print: PrtOn, PrntPrcssTm, DeskPrntSpd 
+Completion: CmpltPgPrntd, PrtStatPaper 
+Offline: PTROFFLINE, PrtStatOff 
+Speed: NtSpd, DeskPrntSpd 
+LocalConfiguration: LclGrbld, LclOK, DskLocal 
+FontType: TrTypFnts, TTOK, NnTTOK 
+FontInstallation: FntInstlltn, PrntrAccptsTrtyp 
+VirtualMemory: AvlblVrtlMmry, FllCrrptdBffr 
+ParallelPort: PrtPort, PrtThread, PrtQueue 
+File: PrtFile, PrtIcon, PrtPath 
+GraphicSettings: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc 
+DeviceState: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+JobProcess: PrntPrcssTm, DeskPrntSpd 
+Process: PrntPrcssTm, DeskPrntSpd, PrntngArOK 
+LocalNetwork: NtwrkCnfg, NetOK, PTROFFLINE 
+.paper: PrtPaper, TnrSpply 
+Page: PrtPaper, PgOrnttnOK 
+MemoryError: PSERRMEM, AvlblVrtlMmry, FllCrrptdBffr 
+ErrorState: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+Cable: PrtCbl, CblPrtHrdwrOK 
+ConfigurationFile: NtwrkCnfg, PrtCbl 
+StateError: PrtStatOff, PrtStatPaper, PrtStatToner 
+ApplicationError: AppOK, EMFOK, LclOK 
+NetworkError: NetOK, PTROFFLINE 
+JobState: PrntPrcssTm, DeskPrntSpd, PrntngArOK 
+SyntaxError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+LocalState: LclGrbld, LclOK, DskLocal 
+HardwareState: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FileError: PrtFile, PrtIcon, PrtPath 
+PathError: PrtPath, PrtMpTPth, PrtQueue 
+NetworkStateError: NetOK, PTROFFLINE, NtSpd 
+ApplicationStateError: AppOK, EMFOK, LclOK 
+GraphicError: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PSGRAPHIC 
+PrintError: PrtOn, PrntPrcssTm, DeskPrntSpd 
+StateOffline: PTROFFLINE, PrtStatOff 
+Config: NtwrkCnfg, PrtCbl, PrtPort, PrtMpTPth 
+JobStatus: PrntPrcssTm, DeskPrntSpd, PrntngArOK 
+SpeedNetwork: NtSpd, DeskPrntSpd 
+Virtual: AvlblVrtlMmry, FllCrrptdBffr 
+LocalConfig: LclGrbld, LclOK, DskLocal 
+NetworkConfig: NtwrkCnfg, NetOK, PTROFFLINE 
+LocalSpeed: NtSpd, DeskPrntSpd 
+FontError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+MemoryStatus: AvlblVrtlMmry, PrtMem, FllCrrptdBffr 
+PrinterState: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+EventData: PrtDataOut, PrtStatPaper, PrtStatToner 
+NetworkStatus: NetOK, PTROFFLINE, NtSpd 
+StateOnline: PrtOn, PrntPrcssTm, DeskPrntSpd 
+GraphicStatus: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PSGRAPHIC 
+LocalData: PrtData, PrtDataOut, PrtFile, GrbldPS, IncmpltPS, TstpsTxt 
+ApplicationStatus: AppOK, EMFOK, LclOK 
+Device: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+StatusError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+EventError: PrtDataOut, PrtStatPaper, PrtStatToner 
+NetworkErrorState: NetOK, PTROFFLINE, NtSpd 
+LocalNetworkConfig: NtwrkCnfg, NetOK, PTROFFLINE 
+FontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ConfigurationStatus: NtwrkCnfg, PrtCbl, PrtPort, PrtMpTPth 
+StatusState: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+DataError: PrtData, PrtDataOut, PrtFile, GrbldPS, IncmpltPS, TstpsTxt 
+JobError: PrntPrcssTm, DeskPrntSpd, PrntngArOK 
+EventStatus: PrtDataOut, PrtStatPaper, PrtStatToner 
+FontConfig: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp 
+StatusNetwork: NetOK, PTROFFLINE, NtSpd 
+ApplicationConfig: AppOK, EMFOK, LclOK 
+DeviceInfo: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorNetwork: NetOK, PTROFFLINE, NtSpd 
+StatusDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ConfigStatus: NtwrkCnfg, PrtCbl, PrtPort, PrtMpTPth 
+DataStatus: PrtData, PrtDataOut, PrtFile, GrbldPS, IncmpltPS, TstpsTxt 
+LocalStatus: LclGrbld, LclOK, DskLocal 
+NetworkConfigStatus: NtwrkCnfg, NetOK, PTROFFLINE 
+StatusLocal: LclGrbld, LclOK, DskLocal 
+LocalError: LclGrbld, LclOK, DskLocal 
+StatusApplication: AppOK, EMFOK, LclOK 
+DeviceInfoError: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ConfigError: NtwrkCnfg, PrtCbl, PrtPort, PrtMpTPth 
+StatusFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusConfig: NtwrkCnfg, PrtCbl, PrtPort, PrtMpTPth 
+StatusData: PrtData, PrtDataOut, PrtFile, GrbldPS, IncmpltPS, TstpsTxt 
+FontDeviceInfo: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceConfig: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+StatusDeviceInfo: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorConfig: NtwrkCnfg, PrtCbl, PrtPort, PrtMpTPth 
+LocalDeviceInfo: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontErrorStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusDeviceError: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ConfigFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp 
+FontStatusError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceInfoStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+DeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ConfigDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+StatusFontError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontDevice: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontConfigError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp 
+DeviceConfigError: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorDeviceInfo: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+DeviceInfoErrorStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontErrorDeviceInfo: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusDeviceInfoError: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+DeviceError: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontDeviceError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontErrorDevice: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ConfigDeviceInfo: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+DeviceInfoConfig: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ConfigDeviceError: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorDeviceInfoStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+DeviceStatusError: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontDeviceStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceFontError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontDeviceStatusError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontStatusDevice: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusDeviceFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontStatusDeviceError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceStatusFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontDeviceStatusDevice: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusFontDevice: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceFontStatusDevice: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontDeviceFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+ErrorError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontStatusFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceStatusDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+StatusDeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorStatusError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+FontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontDeviceDevice: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorFontError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusDeviceDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+DeviceDeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontStatusFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorErrorStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+DeviceDeviceDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorErrorError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceDeviceDeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+FontStatusFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+DeviceDeviceDeviceDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorErrorErrorError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceDeviceDeviceDeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+FontStatusFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+DeviceDeviceDeviceDeviceDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorErrorErrorErrorError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusFontFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontFontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceDeviceDeviceDeviceDeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorStatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+FontStatusFontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusStatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+DeviceDeviceDeviceDeviceDeviceDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontFontFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorErrorErrorErrorErrorError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusFontFontFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontFontFontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceDeviceDeviceDeviceDeviceDeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorStatusStatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+FontStatusFontFontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusStatusStatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+DeviceDeviceDeviceDeviceDeviceDeviceDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontFontFontFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorErrorErrorErrorErrorErrorError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusFontFontFontFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontFontFontFontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceDeviceDeviceDeviceDeviceDeviceDeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorStatusStatusStatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+FontStatusFontFontFontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusStatusStatusStatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+DeviceDeviceDeviceDeviceDeviceDeviceDeviceDevice: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+FontFontFontFontFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ErrorErrorErrorErrorErrorErrorErrorError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+StatusFontFontFontFontFontFontFontFont: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontFontFontFontFontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+DeviceDeviceDeviceDeviceDeviceDeviceDeviceDeviceStatus: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ErrorStatusStatusStatusStatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+FontStatusFontFontFontFontFontFontFontStatus: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+StatusStatusStatusStatusStatusStatusStatusStatusStatus: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+PrinterStateIssue: PrtStatPaper, PrtStatToner 
+SystemFailure: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+HardwareIssue: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+JobPrint: PrntPrcssTm, DeskPrntSpd, PrntngArOK 
+PaperJam: PrtPaper, TnrSpply 
+FontIssue: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+NetworkIssue: NetOK, PTROFFLINE, NtSpd 
+DeviceOffline: PTROFFLINE, PrtStatOff 
+PrintIncomplete: PrntPrcssTm, DeskPrntSpd 
+PaperEmpty: PrtPaper, TnrSpply 
+FontNotInstalled: FntInstlltn, PrntrAccptsTrtyp 
+FontNotAccepted: PrntrAccptsTrtyp, TTOK, NnTTOK 
+TonerLow: PrtStatToner 
+SystemNotResponding: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+PrinterNotResponding: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+FontNotAvailable: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+ Paper: PrtPaper, PgOrnttnOK, PrtStatPaper 
+FontErrorIssue: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+QueueFull: PrtQueue 
+NetworkNotAvailable: NetOK, PTROFFLINE 
+PrinterOffline: PTROFFLINE, PrtStatOff 
+PrintingIssue: PrntPrcssTm, DeskPrntSpd 
+ PaperJamIssue: PrtPaper, TnrSpply 
+PrinterPaperIssue: PrtPaper, PrtStatPaper 
+FontInstallIssue: FntInstlltn, PrntrAccptsTrtyp 
+PaperIssue: PrtPaper, PrtStatPaper 
+TonerIssue: PrtStatToner 
+FontAcceptIssue: PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontTypeIssue: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PrinterNetworkIssue: NetOK, PTROFFLINE, NtSpd 
+PrinterDeviceIssue: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+PrinterSystemIssue: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+PrinterFontIssue: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontNotFound: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PrinterQueueIssue: PrtQueue 
+PaperOrientation: PgOrnttnOK 
+PrintQueueIssue: PrtQueue 
+PrintData: PrtData 
+PrinterData: PrtData 
+PrintStatus: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+PrinterStatus: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+FontLoaded: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PaperTray: PrtPaper 
+FontSet: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PaperEmptyWarning: PrtPaper, TnrSpply 
+PrinterReady: PrtOn 
+PaperTrayEmpty: PrtPaper, TnrSpply 
+SystemReady: AppOK, EMFOK, LclOK 
+SystemOnline: AppOK, EMFOK, LclOK 
+NetworkReady: NetOK 
+NetworkOnline: NetOK 
+PrinterNotReady: PrtStatOff 
+PrinterOfflineWarning: PTROFFLINE 
+SystemOffline: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+PrinterError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PSERRMEM 
+SystemError: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+PrintError: PrntPrcssTm, DeskPrntSpd 
+PaperError: PrtPaper 
+FontError: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+NetworkError: NetOK, PTROFFLINE 
+DeviceError: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+PrintJob: PrntPrcssTm, DeskPrntSpd 
+Printed: PrntPrcssTm, DeskPrntSpd 
+JobComplete: PrntPrcssTm, DeskPrntSpd 
+PrintIssue: PrntPrcssTm, DeskPrntSpd 
+PaperIssue: PrtPaper 
+PaperProblem: PrtPaper 
+TonerLevel: PrtStatToner 
+TonerEmpty: PrtStatToner 
+TonerLowWarning: PrtStatToner 
+FontIssue: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontProblem: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PrinterIssue: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+PrinterProblem: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+SystemIssue: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+SystemProblem: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+NetworkIssue: NetOK, PTROFFLINE 
+NetworkProblem: NetOK, PTROFFLINE 
+DeviceIssue: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+DeviceProblem: CblPrtHrdwrOK, PrtData, PrtPath, PrtIcon 
+ConfigurationIssue: NtwrkCnfg, PrtCbl 
+ConfigurationProblem: NtwrkCnfg, PrtCbl 
+MemoryIssue: AvlblVrtlMmry, PrtMem 
+MemoryProblem: AvlblVrtlMmry, PrtMem 
+DataIssue: PrtData 
+DataProblem: PrtData 
+ProcessIssue: PrntPrcssTm, DeskPrntSpd 
+ProcessProblem: PrntPrcssTm, DeskPrntSpd 
+ThreadIssue: PrtThread 
+ThreadProblem: PrtThread 
+QueueIssue: PrtQueue 
+QueueProblem: PrtQueue 
+VolumeIssue: NtSpd 
+VolumeProblem: NtSpd 
+SpeedIssue: NtSpd 
+SpeedProblem: NtSpd 
+PrintSpeed: NtSpd 
+PrintVolume: NtSpd 
+PageCount: PrntPrcssTm, DeskPrntSpd 
+PageProblem: PrntPrcssTm, DeskPrntSpd 
+OrientationIssue: PgOrnttnOK 
+OrientationProblem: PgOrnttnOK 
+SizeIssue: PrtPaper 
+SizeProblem: PrtPaper 
+ColorIssue: GrphcsRltdDrvrSttngs 
+ColorProblem: GrphcsRltdDrvrSttngs 
+GraphicsIssue: GrphcsRltdDrvrSttngs 
+GraphicsProblem: GrphcsRltdDrvrSttngs 
+DriverIssue: DrvSet, DrvOK 
+DriverProblem: DrvSet, DrvOK 
+SettingIssue: NtwrkCnfg, PrtCbl 
+SettingProblem: NtwrkCnfg, PrtCbl 
+FontSetting: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontSettingIssue: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontSettingProblem: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PaperSetting: PrtPaper 
+PaperSettingIssue: PrtPaper 
+PaperSettingProblem: PrtPaper 
+QualityIssue: PrntPrcssTm, DeskPrntSpd 
+QualityProblem: PrntPrcssTm, DeskPrntSpd 
+PaperQuality: PrntPrcssTm, DeskPrntSpd 
+DensityIssue: PrntPrcssTm, DeskPrntSpd 
+DensityProblem: PrntPrcssTm, DeskPrntSpd 
+ClarityIssue: GrphcsRltdDrvrSttngs 
+ClarityProblem: GrphcsRltdDrvrSttngs 
+ColorDensity: GrphcsRltdDrvrSttngs 
+ColorClarity: GrphcsRltdDrvrSttngs 
+TonerDensity: PrtStatToner 
+TonerClarity: PrtStatToner 
+PaperDensity: PrtPaper 
+PaperClarity: PrtPaper 
+DeviceQuality: PrntPrcssTm, DeskPrntSpd 
+DeviceQualityIssue: PrntPrcssTm, DeskPrntSpd 
+DeviceQualityProblem: PrntPrcssTm, DeskPrntSpd 
+GraphicsQuality: GrphcsRltdDrvrSttngs 
+GraphicsQualityIssue: GrphcsRltdDrvrSttngs 
+GraphicsQualityProblem: GrphcsRltdDrvrSttngs 
+PaperQualityIssue: PrntPrcssTm, DeskPrntSpd 
+PaperQualityProblem: PrntPrcssTm, DeskPrntSpd 
+FontQuality: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontQualityIssue: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontQualityProblem: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+NetworkQuality: NetOK 
+NetworkQualityIssue: NetOK 
+NetworkQualityProblem: NetOK 
+SystemQuality: AppOK, EMFOK, LclOK 
+SystemQualityIssue: AppOK, EMFOK, LclOK 
+SystemQualityProblem: AppOK, EMFOK, LclOK 
+DeviceIssueCount: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+DeviceProblemCount: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+SystemIssueCount: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+SystemProblemCount: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+NetworkIssueCount: NetOK, PTROFFLINE 
+NetworkProblemCount: NetOK, PTROFFLINE 
+PrintIssueCount: PrntPrcssTm, DeskPrntSpd 
+PrintProblemCount: PrntPrcssTm, DeskPrntSpd 
+PaperIssueCount: PrtPaper 
+PaperProblemCount: PrtPaper 
+FontIssueCount: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontProblemCount: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+TonerIssueCount: PrtStatToner 
+TonerProblemCount: PrtStatToner 
+MemoryIssueCount: AvlblVrtlMmry, PrtMem 
+MemoryProblemCount: AvlblVrtlMmry, PrtMem 
+DeviceStatusCount: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+DeviceStatusProblemCount: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+SystemStatusCount: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+SystemStatusProblemCount: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+NetworkStatusCount: NetOK, PTROFFLINE 
+NetworkStatusProblemCount: NetOK, PTROFFLINE 
+PrintStatusCount: PrntPrcssTm, DeskPrntSpd 
+PrintStatusProblemCount: PrntPrcssTm, DeskPrntSpd 
+PaperStatusCount: PrtPaper 
+PaperStatusProblemCount: PrtPaper 
+FontStatusCount: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontStatusProblemCount: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+TonerStatusCount: PrtStatToner 
+TonerStatusProblemCount: PrtStatToner 
+MemoryStatusCount: AvlblVrtlMmry, PrtMem 
+MemoryStatusProblemCount: AvlblVrtlMmry, PrtMem 
+JobStatusCount: PrntPrcssTm, DeskPrntSpd 
+JobStatusProblemCount: PrntPrcssTm, DeskPrntSpd 
+QueueStatusCount: PrtQueue 
+QueueStatusProblemCount: PrtQueue 
+VolumeStatusCount: NtSpd 
+VolumeStatusProblemCount: NtSpd 
+SpeedStatusCount: NtSpd 
+SpeedStatusProblemCount: NtSpd 
+PageStatusCount: PrntPrcssTm, DeskPrntSpd 
+PageStatusProblemCount: PrntPrcssTm, DeskPrntSpd 
+OrientationStatusCount: PgOrnttnOK 
+OrientationStatusProblemCount: PgOrnttnOK 
+SizeStatusCount: PrtPaper 
+SizeStatusProblemCount: PrtPaper 
+ColorStatusCount: GrphcsRltdDrvrSttngs 
+ColorStatusProblemCount: GrphcsRltdDrvrSttngs 
+GraphicsStatusCount: GrphcsRltdDrvrSttngs 
+GraphicsStatusProblemCount: GrphcsRltdDrvrSttngs 
+DriverStatusCount: DrvSet, DrvOK 
+DriverStatusProblemCount: DrvSet, DrvOK 
+SettingStatusCount: NtwrkCnfg, PrtCbl 
+SettingStatusProblemCount: NtwrkCnfg, PrtCbl 
+FontSettingStatusCount: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontSettingStatusProblemCount: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PaperSettingStatusCount: PrtPaper 
+PaperSettingStatusProblemCount: PrtPaper 
+QualityStatusCount: PrntPrcssTm, DeskPrntSpd 
+QualityStatusProblemCount: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusCount: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusProblemCount: PrntPrcssTm, DeskPrntSpd 
+DensityStatusCount: PrntPrcssTm, DeskPrntSpd 
+DensityStatusProblemCount: PrntPrcssTm, DeskPrntSpd 
+ClarityStatusCount: GrphcsRltdDrvrSttngs 
+ClarityStatusProblemCount: GrphcsRltdDrvrSttngs 
+ColorDensityStatusCount: GrphcsRltdDrvrSttngs 
+ColorDensityStatusProblemCount: GrphcsRltdDrvrSttngs 
+ColorClarityStatusCount: GrphcsRltdDrvrSttngs 
+ColorClarityStatusProblemCount: GrphcsRltdDrvrSttngs 
+TonerDensityStatusCount: PrtStatToner 
+TonerDensityStatusProblemCount: PrtStatToner 
+TonerClarityStatusCount: PrtStatToner 
+TonerClarityStatusProblemCount: PrtStatToner 
+PaperDensityStatusCount: PrtPaper 
+PaperDensityStatusProblemCount: PrtPaper 
+PaperClarityStatusCount: PrtPaper 
+PaperClarityStatusProblemCount: PrtPaper 
+DeviceQualityStatusCount: PrntPrcssTm, DeskPrntSpd 
+DeviceQualityStatusProblemCount: PrntPrcssTm, DeskPrntSpd 
+GraphicsQualityStatusCount: GrphcsRltdDrvrSttngs 
+GraphicsQualityStatusProblemCount: GrphcsRltdDrvrSttngs 
+PaperQualityStatusCount: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusProblemCount: PrntPrcssTm, DeskPrntSpd 
+FontQualityStatusCount: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontQualityStatusProblemCount: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+NetworkQualityStatusCount: NetOK 
+NetworkQualityStatusProblemCount: NetOK 
+SystemQualityStatusCount: AppOK, EMFOK, LclOK 
+SystemQualityStatusProblemCount: AppOK, EMFOK, LclOK 
+DeviceIssuePercentage: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+DeviceProblemPercentage: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+SystemIssuePercentage: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+SystemProblemPercentage: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+NetworkIssuePercentage: NetOK, PTROFFLINE 
+NetworkProblemPercentage: NetOK, PTROFFLINE 
+PrintIssuePercentage: PrntPrcssTm, DeskPrntSpd 
+PrintProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+PaperIssuePercentage: PrtPaper 
+PaperProblemPercentage: PrtPaper 
+FontIssuePercentage: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontProblemPercentage: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+TonerIssuePercentage: PrtStatToner 
+TonerProblemPercentage: PrtStatToner 
+MemoryIssuePercentage: AvlblVrtlMmry, PrtMem 
+MemoryProblemPercentage: AvlblVrtlMmry, PrtMem 
+DeviceStatusPercentage: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+DeviceStatusProblemPercentage: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+SystemStatusPercentage: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+SystemStatusProblemPercentage: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+NetworkStatusPercentage: NetOK, PTROFFLINE 
+NetworkStatusProblemPercentage: NetOK, PTROFFLINE 
+PrintStatusPercentage: PrntPrcssTm, DeskPrntSpd 
+PrintStatusProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+PaperStatusPercentage: PrtPaper 
+PaperStatusProblemPercentage: PrtPaper 
+FontStatusPercentage: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontStatusProblemPercentage: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+TonerStatusPercentage: PrtStatToner 
+TonerStatusProblemPercentage: PrtStatToner 
+MemoryStatusPercentage: AvlblVrtlMmry, PrtMem 
+MemoryStatusProblemPercentage: AvlblVrtlMmry, PrtMem 
+JobStatusPercentage: PrntPrcssTm, DeskPrntSpd 
+JobStatusProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+QueueStatusPercentage: PrtQueue 
+QueueStatusProblemPercentage: PrtQueue 
+VolumeStatusPercentage: NtSpd 
+VolumeStatusProblemPercentage: NtSpd 
+SpeedStatusPercentage: NtSpd 
+SpeedStatusProblemPercentage: NtSpd 
+PageStatusPercentage: PrntPrcssTm, DeskPrntSpd 
+PageStatusProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+OrientationStatusPercentage: PgOrnttnOK 
+OrientationStatusProblemPercentage: PgOrnttnOK 
+SizeStatusPercentage: PrtPaper 
+SizeStatusProblemPercentage: PrtPaper 
+ColorStatusPercentage: GrphcsRltdDrvrSttngs 
+ColorStatusProblemPercentage: GrphcsRltdDrvrSttngs 
+GraphicsStatusPercentage: GrphcsRltdDrvrSttngs 
+GraphicsStatusProblemPercentage: GrphcsRltdDrvrSttngs 
+DriverStatusPercentage: DrvSet, DrvOK 
+DriverStatusProblemPercentage: DrvSet, DrvOK 
+SettingStatusPercentage: NtwrkCnfg, PrtCbl 
+SettingStatusProblemPercentage: NtwrkCnfg, PrtCbl 
+FontSettingStatusPercentage: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontSettingStatusProblemPercentage: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PaperSettingStatusPercentage: PrtPaper 
+PaperSettingStatusProblemPercentage: PrtPaper 
+QualityStatusPercentage: PrntPrcssTm, DeskPrntSpd 
+QualityStatusProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusPercentage: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+DensityStatusPercentage: PrntPrcssTm, DeskPrntSpd 
+DensityStatusProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+ClarityStatusPercentage: GrphcsRltdDrvrSttngs 
+ClarityStatusProblemPercentage: GrphcsRltdDrvrSttngs 
+ColorDensityStatusPercentage: GrphcsRltdDrvrSttngs 
+ColorDensityStatusProblemPercentage: GrphcsRltdDrvrSttngs 
+ColorClarityStatusPercentage: GrphcsRltdDrvrSttngs 
+ColorClarityStatusProblemPercentage: GrphcsRltdDrvrSttngs 
+TonerDensityStatusPercentage: PrtStatToner 
+TonerDensityStatusProblemPercentage: PrtStatToner 
+TonerClarityStatusPercentage: PrtStatToner 
+TonerClarityStatusProblemPercentage: PrtStatToner 
+PaperDensityStatusPercentage: PrtPaper 
+PaperDensityStatusProblemPercentage: PrtPaper 
+PaperClarityStatusPercentage: PrtPaper 
+PaperClarityStatusProblemPercentage: PrtPaper 
+DeviceQualityStatusPercentage: PrntPrcssTm, DeskPrntSpd 
+DeviceQualityStatusProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+GraphicsQualityStatusPercentage: GrphcsRltdDrvrSttngs 
+GraphicsQualityStatusProblemPercentage: GrphcsRltdDrvrSttngs 
+PaperQualityStatusPercentage: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusProblemPercentage: PrntPrcssTm, DeskPrntSpd 
+FontQualityStatusPercentage: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontQualityStatusProblemPercentage: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+NetworkQualityStatusPercentage: NetOK 
+NetworkQualityStatusProblemPercentage: NetOK 
+SystemQualityStatusPercentage: AppOK, EMFOK, LclOK 
+SystemQualityStatusProblemPercentage: AppOK, EMFOK, LclOK 
+DeviceIssueTime: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+DeviceProblemTime: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+SystemIssueTime: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+SystemProblemTime: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+NetworkIssueTime: NetOK, PTROFFLINE 
+NetworkProblemTime: NetOK, PTROFFLINE 
+PrintIssueTime: PrntPrcssTm, DeskPrntSpd 
+PrintProblemTime: PrntPrcssTm, DeskPrntSpd 
+PaperIssueTime: PrtPaper 
+PaperProblemTime: PrtPaper 
+FontIssueTime: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontProblemTime: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+TonerIssueTime: PrtStatToner 
+TonerProblemTime: PrtStatToner 
+MemoryIssueTime: AvlblVrtlMmry, PrtMem 
+MemoryProblemTime: AvlblVrtlMmry, PrtMem 
+DeviceStatusTime: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+DeviceStatusProblemTime: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff 
+SystemStatusTime: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+SystemStatusProblemTime: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6 
+NetworkStatusTime: NetOK, PTROFFLINE 
+NetworkStatusProblemTime: NetOK, PTROFFLINE 
+PrintStatusTime: PrntPrcssTm, DeskPrntSpd 
+PrintStatusProblemTime: PrntPrcssTm, DeskPrntSpd 
+PaperStatusTime: PrtPaper 
+PaperStatusProblemTime: PrtPaper 
+FontStatusTime: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontStatusProblemTime: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+TonerStatusTime: PrtStatToner 
+TonerStatusProblemTime: PrtStatToner 
+MemoryStatusTime: AvlblVrtlMmry, PrtMem 
+MemoryStatusProblemTime: AvlblVrtlMmry, PrtMem 
+JobStatusTime: PrntPrcssTm, DeskPrntSpd 
+JobStatusProblemTime: PrntPrcssTm, DeskPrntSpd 
+QueueStatusTime: PrtQueue 
+QueueStatusProblemTime: PrtQueue 
+VolumeStatusTime: NtSpd 
+VolumeStatusProblemTime: NtSpd 
+SpeedStatusTime: NtSpd 
+SpeedStatusProblemTime: NtSpd 
+PageStatusTime: PrntPrcssTm, DeskPrntSpd 
+PageStatusProblemTime: PrntPrcssTm, DeskPrntSpd 
+OrientationStatusTime: PgOrnttnOK 
+OrientationStatusProblemTime: PgOrnttnOK 
+SizeStatusTime: PrtPaper 
+SizeStatusProblemTime: PrtPaper 
+ColorStatusTime: GrphcsRltdDrvrSttngs 
+ColorStatusProblemTime: GrphcsRltdDrvrSttngs 
+GraphicsStatusTime: GrphcsRltdDrvrSttngs 
+GraphicsStatusProblemTime: GrphcsRltdDrvrSttngs 
+DriverStatusTime: DrvSet, DrvOK 
+DriverStatusProblemTime: DrvSet, DrvOK 
+SettingStatusTime: NtwrkCnfg, PrtCbl 
+SettingStatusProblemTime: NtwrkCnfg, PrtCbl 
+FontSettingStatusTime: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontSettingStatusProblemTime: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+PaperSettingStatusTime: PrtPaper 
+PaperSettingStatusProblemTime: PrtPaper 
+QualityStatusTime: PrntPrcssTm, DeskPrntSpd 
+QualityStatusProblemTime: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusTime: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusProblemTime: PrntPrcssTm, DeskPrntSpd 
+DensityStatusTime: PrntPrcssTm, DeskPrntSpd 
+DensityStatusProblemTime: PrntPrcssTm, DeskPrntSpd 
+ClarityStatusTime: GrphcsRltdDrvrSttngs 
+ClarityStatusProblemTime: GrphcsRltdDrvrSttngs 
+ColorDensityStatusTime: GrphcsRltdDrvrSttngs 
+ColorDensityStatusProblemTime: GrphcsRltdDrvrSttngs 
+ColorClarityStatusTime: GrphcsRltdDrvrSttngs 
+ColorClarityStatusProblemTime: GrphcsRltdDrvrSttngs 
+TonerDensityStatusTime: PrtStatToner 
+TonerDensityStatusProblemTime: PrtStatToner 
+TonerClarityStatusTime: PrtStatToner 
+TonerClarityStatusProblemTime: PrtStatToner 
+PaperDensityStatusTime: PrtPaper 
+PaperDensityStatusProblemTime: PrtPaper 
+PaperClarityStatusTime: PrtPaper 
+PaperClarityStatusProblemTime: PrtPaper 
+DeviceQualityStatusTime: PrntPrcssTm, DeskPrntSpd 
+DeviceQualityStatusProblemTime: PrntPrcssTm, DeskPrntSpd 
+GraphicsQualityStatusTime: GrphcsRltdDrvrSttngs 
+GraphicsQualityStatusProblemTime: GrphcsRltdDrvrSttngs 
+PaperQualityStatusTime: PrntPrcssTm, DeskPrntSpd 
+PaperQualityStatusProblemTime: PrntPrcssTm, DeskPrntSpd 
+FontQualityStatusTime: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+FontQualityStatusProblemTime: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK 
+NetworkQualityStatusTime: NetOK 
+NetworkQualityStatusProblemTime: NetOK 
+SystemQualityStatusTime: AppOK, EMFOK, LclOK 
+SystemQualityStatusProblemTime: AppOK, EMFOK, LclOK

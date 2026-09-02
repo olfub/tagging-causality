@@ -1,0 +1,8 @@
+Demographic:A,S,R
+Socioeconomic:E,O
+Spatial_Behavior:R,T
+Causal_Antecedent:A,S
+Causal_Intermediate:E,O,R
+Causal_Consequent:T,O
+Data_Type_Numeric:A,T
+Data_Type_Categorical:S,E,O,R

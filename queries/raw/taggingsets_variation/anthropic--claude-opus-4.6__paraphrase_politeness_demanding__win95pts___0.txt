@@ -1,0 +1,30 @@
+printer_hardware: PrtOn, PrtPaper, PrtCbl, PrtPort, CblPrtHrdwrOK, PrtMem, PTROFFLINE, TnrSpply
+printer_driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs, PrtPScript
+application: AppOK, AppData, DSApplctn, DataFile, AppDtGnTm
+network: NetPrint, NtwrkCnfg, NetOK, DS_NTOK, NtSpd, PC2PRT, NtGrbld
+local_system: DskLocal, LclOK, DS_LCLOK, LclGrbld
+print_spooling: PrtSpool, PrtThread, PrtQueue, EMFOK
+graphics_rendering: GDIIN, GDIOUT, EPSGrphc, NnPSGrphc, PSGRAPHIC, GrphcsRltdDrvrSttngs
+font: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+postscript: PrtPScript, PSGRAPHIC, EPSGrphc, GrbldPS, IncmpltPS, PSERRMEM, TstpsTxt
+output_quality: GrbldOtpt, LclGrbld, NtGrbld, GrbldPS, IncmpltPS, CmpltPgPrntd
+print_path: PrtPath, PrtMpTPth, PrtSel, PC2PRT, NetPrint
+data_flow: AppData, PrtData, PrtDataOut, GDIIN, GDIOUT, EMFOK, DataFile
+problem_symptom: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+status_indicator: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE
+memory: PrtMem, AvlblVrtlMmry, PSERRMEM, PrtStatMem, FllCrrptdBffr
+performance: PrntPrcssTm, DeskPrntSpd, NtSpd, HrglssDrtnAftrPrnt, PrtTimeOut, AppDtGnTm
+page_layout: PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+consumable: TnrSpply, PrtPaper, PrtStatPaper, PrtStatToner
+physical_connection: PrtCbl, PrtPort, CblPrtHrdwrOK, NtwrkCnfg, PC2PRT
+print_output: PrtDataOut, PrtFile, PrtIcon, PrtData
+ok_state: AppOK, EMFOK, DrvOK, NetOK, LclOK, DS_NTOK, DS_LCLOK, CblPrtHrdwrOK, TTOK, NnTTOK, PgOrnttnOK, PrntngArOK
+garbled: LclGrbld, NtGrbld, GrbldOtpt, GrbldPS
+root_cause: PrtOn, PrtPaper, TnrSpply, PrtCbl, NtwrkCnfg, DrvSet, FntInstlltn, AvlblVrtlMmry
+observable: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, HrglssDrtnAftrPrnt, GrbldOtpt, CmpltPgPrntd, Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, REPEAT, DeskPrntSpd
+intermediate: GDIIN, GDIOUT, EMFOK, PrtData, PrtDataOut, PrtThread, PrtSpool, PrtPath, PC2PRT
+software: AppOK, PrtDriver, DrvSet, DrvOK, PrtSpool, PrtThread, DSApplctn, PrtPScript
+printer_state: PrtOn, PTROFFLINE, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+buffer: FllCrrptdBffr, PrtTimeOut, PrtMem
+configuration: DrvSet, NtwrkCnfg, PrtSel, PrtMpTPth, GrphcsRltdDrvrSttngs, PgOrnttnOK, PrntngArOK
+repetition: REPEAT, HrglssDrtnAftrPrnt, PrntPrcssTm

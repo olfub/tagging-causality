@@ -1,0 +1,33 @@
+demographic: sex, age
+lifestyle: alcoholism, alcohol, obesity
+risk_factor: alcoholism, hepatotoxic, injections, transfusion, surgery, obesity, diabetes, alcohol
+exposure: injections, transfusion, surgery, hepatotoxic, alcohol, sex
+liver_disease: THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, carcinoma
+hepatitis: THepatitis, ChHepatitis, RHepatitis
+diagnosis: THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, Hyperbilirubinemia, carcinoma, gallstones, diabetes
+chronic_condition: ChHepatitis, PBC, fibrosis, Cirrhosis, diabetes, obesity, alcoholism
+complication: Cirrhosis, carcinoma, encephalopathy, ascites, bleeding, Hyperbilirubinemia
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, anorexia, nausea, flatulence, hepatalgia, joints
+pain_related: upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia, joints
+gastrointestinal: nausea, anorexia, flatulence
+clinical_sign: edema, ascites, hepatomegaly, spiders, jaundice, palms, bleeding, skin, encephalopathy, consciousness
+physical_exam: hepatomegaly, spleen, edge, irregular_liver, density, ascites, edema, spiders, palms, skin, jaundice, consciousness
+liver_finding: hepatomegaly, hepatalgia, edge, irregular_liver, density
+lab_test: bilirubin, phosphatase, alt, ast, amylase, ggtp, cholesterol, triglycerides, albumin, proteins, platelet, inr, urea, ESR
+liver_enzyme: alt, ast, ggtp, phosphatase
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+autoimmune_marker: ama, le_cells
+serology: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, ama, le_cells
+biliary: gallstones, choledocholithotomy, PBC, phosphatase, bilirubin, jaundice, Hyperbilirubinemia, ggtp
+procedure: surgery, choledocholithotomy, injections, transfusion
+metabolic: diabetes, obesity, triglycerides, cholesterol, fat, Steatosis
+coagulation: inr, platelet, bleeding
+blood_protein: albumin, proteins, edema, ascites
+patient_history: hospital, surgery, alcoholism, hepatotoxic, vh_amn
+upstream_cause: alcoholism, alcohol, hepatotoxic, gallstones, obesity, diabetes, injections, transfusion, age, sex
+downstream_effect: fibrosis, Cirrhosis, carcinoma, Hyperbilirubinemia, ascites, encephalopathy, bleeding, jaundice, edema
+liver_specific: alt, ast, ggtp, albumin, bilirubin, hepatomegaly, hepatalgia, edge, irregular_liver
+infection_route: injections, transfusion, surgery, sex
+hepatic_function: albumin, bilirubin, inr, proteins, encephalopathy, cholesterol
+imaging_or_palpation: density, irregular_liver, hepatomegaly, spleen, gallstones, edge
+inflammatory: ESR, le_cells, joints, ChHepatitis, RHepatitis

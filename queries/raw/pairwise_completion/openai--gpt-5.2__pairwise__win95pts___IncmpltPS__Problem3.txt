@@ -1,0 +1,8 @@
+1. In Windows 95 printer troubleshooting, a label like **IncmpltPS** strongly suggests a **fault condition** (e.g., *Incomplete PostScript*, truncated/invalid PS output, or a partially transmitted PS job).  
+2. A label like **Problem3** sounds like a **symptom bucket** or an observed issue category (e.g., “printing fails in a certain way,” “garbled output,” “job stops,” etc.).  
+3. In typical cause→effect structure, a concrete technical fault (incomplete/corrupt PostScript stream, driver generating bad PS, spooler truncation, communication interruption) would **produce** a user-visible printing problem category.  
+4. The reverse (an observed “Problem3” causing the PostScript to become incomplete) is less natural: symptoms don’t usually cause the underlying data stream defect; they are usually the result of it.
+
+Therefore, it’s more likely that **IncmpltPS causes Problem3**.
+
+<Answer>A</Answer>

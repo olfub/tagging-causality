@@ -1,0 +1,22 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the two items**  
+   - *Problem1* – the symptom the user reports (e.g., “the printer does not print” or “a printing error appears”).  
+   - *PrtData* – the data that is being sent to the printer (the print job, spool file, driver‑generated data).
+
+2. **Typical Windows 95 troubleshooting flow**  
+   - When a print failure occurs, the first thing a support technician checks is whether the **print data** (the job, driver output, spool file) is valid.  
+   - Common causes of failure are corrupted or incompatible print data, missing drivers, or spooler problems.  
+   - If the data is bad, the printer cannot process it, so the symptom (Problem1) appears.  
+
+3. **Alternative direction (Problem1 → PrtData)**  
+   - A hardware fault (e.g., a paper jam, bad cartridge) can generate an error that later shows up in the spooler or log.  
+   - However, in the majority of “printer not working” calls on Windows 95, the root cause is the **data** rather than the hardware, especially when the printer was working before.
+
+4. **Which direction is more likely?**  
+   - Empirically, the print data (PrtData) is the usual culprit for a sudden printing problem on a system that has not changed hardware.  
+   - Therefore, the cause‑and‑effect relationship most consistent with typical troubleshooting is **PrtData → Problem1**.
+
+**Conclusion:** The more plausible causal relationship is that the print data (PrtData) is causing the problem (Problem1).
+
+<Answer>B</Answer>

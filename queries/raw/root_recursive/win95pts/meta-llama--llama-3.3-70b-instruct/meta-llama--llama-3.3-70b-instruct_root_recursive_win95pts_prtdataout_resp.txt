@@ -1,0 +1,14 @@
+To determine the variables caused by prtdataout, we should analyze the given causal relationships step by step. However, the provided relationships directly involving prtdataout as a cause are not explicitly mentioned. 
+
+Given relationships:
+- appok causes appdata, datafile, prtdata, prtdataout, prtsel, dsapplctn
+- netok causes netprint, prtcbl, prtport, ntwrkcnfg
+- lclok causes ds_lclok
+
+And the question asks for the variables caused by prtdataout. Since there's no direct or indirect causal relationship provided in the problem statement where prtdataout is a cause, we rely solely on the explicit mentions.
+
+However, upon closer inspection, we notice that prtdataout is not directly mentioned as a cause for any other variable in the given relationships. The variables are listed with their causes, but none are listed as being caused by prtdataout.
+
+Therefore, the answer must reflect that there are no variables explicitly stated to be caused by prtdataout in the given causal relationships.
+
+<Answer></Answer>

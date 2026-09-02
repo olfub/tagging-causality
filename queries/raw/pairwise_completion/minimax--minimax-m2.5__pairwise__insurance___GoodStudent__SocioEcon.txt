@@ -1,0 +1,3 @@
+The relationship where SocioEcon causes GoodStudent is more plausible because socioeconomic status typically influences educational outcomes, such as academic performance, rather than the other way around. In causal reasoning, factors like family income and parental education (components of SocioEcon) are generally considered prior determinants of a student's academic success (GoodStudent).
+
+<Answer>B</Answer>

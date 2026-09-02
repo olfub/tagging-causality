@@ -1,0 +1,1 @@
+["goodstudent", "riskaversion", "vehicleyear", "makemodel", "homebase", "antitheft"]

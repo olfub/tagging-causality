@@ -1,0 +1,23 @@
+**Step‑by‑step reasoning**
+
+1. **Definitions**  
+   - **CVP** (central venous pressure) = right‑atrial pressure.  
+   - **PCWP** (pulmonary capillary wedge pressure) ≈ left‑atrial pressure (left‑ventricular end‑diastolic pressure).
+
+2. **Hemodynamic sequence**  
+   Blood flows from the systemic veins → right atrium → right ventricle → pulmonary artery → pulmonary capillaries → left atrium → left ventricle → systemic circulation.  
+   In this series circuit the *upstream* pressure (right‑atrial pressure, CVP) determines the amount of blood that can enter the pulmonary circulation, which in turn influences the *downstream* left‑atrial pressure (PCWP).
+
+3. **Typical physiologic changes**  
+   - A fluid bolus raises venous return → CVP rises → right‑ventricular preload rises → pulmonary blood flow increases → left‑atrial pressure (PCWP) rises.  
+   - Conversely, in a healthy heart a rise in PCWP does not normally retro‑gradely raise CVP because the low‑resistance pulmonary vascular bed buffers the transmission.
+
+4. **Pathologic exceptions**  
+   In left‑heart failure, a high PCWP can increase pulmonary vascular resistance and right‑ventricular afterload, causing a secondary rise in CVP. However, this is a *secondary* effect that occurs in disease states, not the most common direction of causation in routine hemodynamic changes.
+
+5. **Which direction is “more likely”?**  
+   In the majority of clinical scenarios (e.g., fluid resuscitation, simple volume shifts), the primary driver is the upstream pressure (CVP) influencing downstream pressure (PCWP). The reverse (PCWP → CVP) is less common and usually requires overt left‑heart pathology.
+
+**Conclusion:** The more likely cause‑and‑effect relationship is that **CVP drives PCWP**.
+
+<Answer>A</Answer>

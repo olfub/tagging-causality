@@ -1,0 +1,21 @@
+
+
+## Step-by-Step Reasoning
+
+**Step 1: Understanding the variables**
+- **Smoking** is a behavioral habit involving the use of tobacco/cigarettes.
+- **Yellow_Fingers** is a physical condition where fingers become stained/discolored.
+
+**Step 2: Evaluating Option A (Smoking → Yellow_Fingers)**
+- When a person smokes, they repeatedly hold cigarettes between their fingers.
+- The tar and nicotine in cigarette smoke deposit on the skin, causing a yellowish-brown discoloration over time.
+- This is a well-documented physical consequence of chronic smoking.
+
+**Step 3: Evaluating Option B (Yellow_Fingers → Smoking)**
+- Having yellow fingers (from any cause) would not logically drive a person to start or continue smoking.
+- There is no known biological or behavioral mechanism by which yellow fingers would cause smoking behavior.
+
+**Step 4: Conclusion**
+The causal direction is clear: Smoking is the **cause**, and yellow fingers is the **effect**. Nicotine and tar staining from holding cigarettes is a direct physical consequence of the smoking habit.
+
+<Answer>A</Answer>

@@ -1,0 +1,5 @@
+1. In Windows 95, when you print, the system typically **spools** the job first: it creates/uses a **print file** (spool file, e.g., in the spool directory).  
+2. Only after that spool file exists and is queued does the print subsystem/port monitor start **sending printer data out** to the selected port (LPT/COM/network).  
+3. So the presence/creation of a **PrtFile** is generally an upstream event that enables/feeds **PrtDataOut**, not the other way around.
+
+<Answer>B</Answer>

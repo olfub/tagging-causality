@@ -1,0 +1,44 @@
+case descriptor: Date, Scenario
+scenario contextual: Scenario, ScenRelAMCIN, AMCINInScen, CapInScen, ScenRelAMIns, AMInsWliScen, InsSclInScen, ScenRel3_4, ScnRelPlFcst
+scenario relative: ScenRelAMCIN, ScenRelAMIns, ScenRel3_4, ScnRelPlFcst
+morning assessment: AMInstabMt, MorningBound, MorningCIN, ScenRelAMCIN, AMCINInScen, ScenRelAMIns, AMDewptCalPl, AMInsWliScen
+current assessment: LatestCIN, CurPropConv
+change tendency: CapChange, LoLevMoistAd, InsChange
+forecast product: MountainFcst, PlainsFcst, CompPlFcst, N34StarFcst, R5Fcst, ScnRelPlFcst
+near term forecast: ScenRel3_4, N34StarFcst
+range five forecast: R5Fcst
+mountain region: AreaMeso_ALS, AMInstabMt, InsInMt, OutflowFrMt, MountainFcst, WindFieldMt
+plains region: CompPlFcst, AMDewptCalPl, ScnRelPlFcst, PlainsFcst, N34StarFcst, R5Fcst, WindFieldPln
+vertical motion: N0_7muVerMo, SubjVertMo, QGVertMotion, CombVerMo
+synoptic scale: N0_7muVerMo, QGVertMotion, SynForcng, WindAloft
+mesoscale forcing: AreaMeso_ALS, OutflowFrMt, MorningBound, Boundaries, SfcWndShfDis
+moisture: SatContMoist, RaoContMoist, CombMoisture, AreaMoDryAir, LoLevMoistAd, AMDewptCalPl, Dewpoints, MeanRH, RHRatio
+low level moisture: LoLevMoistAd, AMDewptCalPl, Dewpoints, MeanRH, RHRatio
+dry air: AreaMoDryAir
+cloud cover: VISCloudCov, IRCloudCover, CombClouds, CldShadeOth, CldShadeConv
+satellite imagery: SatContMoist, VISCloudCov, IRCloudCover
+visible satellite: VISCloudCov
+infrared satellite: IRCloudCover
+cloud shading: CldShadeOth, CldShadeConv
+convective shading: CldShadeConv
+instability: AMInstabMt, InsInMt, ScenRelAMIns, LIfr12ZDENSd, AMInsWliScen, InsSclInScen, LLIW, LowLLapse, MidLLapse, TempDis, InsChange
+cap inhibition: CapChange, MorningCIN, ScenRelAMCIN, AMCINInScen, CapInScen, LatestCIN
+lapse rate: LIfr12ZDENSd, LowLLapse, MidLLapse
+low level lapse: LowLLapse
+mid level lapse: MidLLapse
+relative humidity: MeanRH, RHRatio
+temperature profile: TempDis, LowLLapse, MidLLapse
+wind: WndHodograph, MvmtFeatures, SfcWndShfDis, WindAloft, WindFieldMt, WindFieldPln, LLIW
+wind field: WindAloft, WindFieldMt, WindFieldPln
+storm movement: WndHodograph, MvmtFeatures, CurPropConv, LLIW
+boundary: OutflowFrMt, MorningBound, Boundaries, SfcWndShfDis
+surface wind shift: SfcWndShfDis, MorningBound, Boundaries
+outflow boundary: OutflowFrMt
+convection: CldShadeConv, CurPropConv, MountainFcst, CompPlFcst, PlainsFcst, N34StarFcst, R5Fcst
+composite diagnosis: CombVerMo, CombMoisture, CombClouds, Boundaries, CompPlFcst
+objective evidence: N0_7muVerMo, QGVertMotion, SatContMoist, RaoContMoist, VISCloudCov, IRCloudCover, LIfr12ZDENSd, AMDewptCalPl, Dewpoints, LowLLapse, MeanRH, MidLLapse, RHRatio, TempDis, WindAloft
+subjective assessment: SubjVertMo, Scenario
+sounding data: RaoContMoist, AMDewptCalPl, Dewpoints, LowLLapse, MeanRH, MidLLapse, RHRatio, TempDis, WindAloft, LLIW, LIfr12ZDENSd
+lifted index: LIfr12ZDENSd, AMInsWliScen, LLIW
+numerical index: LIfr12ZDENSd, LLIW, N34StarFcst, R5Fcst
+area coverage: AreaMeso_ALS, AreaMoDryAir, VISCloudCov, IRCloudCover

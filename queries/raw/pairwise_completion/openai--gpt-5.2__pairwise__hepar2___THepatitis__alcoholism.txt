@@ -1,0 +1,15 @@
+1. **Check biological plausibility**
+   - It is biologically well-established that **heavy alcohol use can directly injure the liver**, causing **alcoholic hepatitis** and contributing to other inflammatory liver conditions.
+   - The reverse—**hepatitis causing alcoholism**—has no standard biological mechanism where liver inflammation reliably induces alcohol dependence.
+
+2. **Known epidemiology / risk factors**
+   - **Alcohol use disorder** is a major risk factor for liver disease, including **alcohol-associated hepatitis** and progression to cirrhosis.
+   - While having hepatitis could be associated with psychological distress, that would at most be an indirect, non-specific association and not a typical causal pathway to alcoholism.
+
+3. **Direction of causation most consistent with clinical knowledge**
+   - In clinical practice, **alcohol is a common causal exposure** leading to hepatitis-like liver inflammation.
+   - Hepatitis is **not** considered a typical cause of developing alcoholism.
+
+Therefore, the more likely cause-and-effect relationship is:
+
+<Answer>B</Answer>

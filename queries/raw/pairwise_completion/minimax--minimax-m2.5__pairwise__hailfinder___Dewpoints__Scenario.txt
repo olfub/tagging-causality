@@ -1,0 +1,19 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the variables**  
+   - *Dewpoints*: the temperature to which air must be cooled to become saturated with moisture; a measure of atmospheric moisture.  
+   - *Scenario*: the set of atmospheric conditions that produce a hail‑producing thunderstorm (e.g., strong uplift, sufficient moisture, instability).
+
+2. **Understand the physical relationship**  
+   - For hail to form, a thunderstorm needs ample moisture (high dewpoints) to provide the water vapour that can be lifted and turned into hail stones.  
+   - High dewpoints are therefore a *precursor* that helps create the storm environment; they are one of the ingredients that make a hail‑favourable scenario more likely.  
+   - Conversely, the occurrence of a hail storm does not normally raise the ambient dewpoint; in fact, the storm may cool the low‑level air and *lower* dewpoints.
+
+3. **Determine the direction of causality**  
+   - The evidence supports the direction **Dewpoints → Scenario** (higher moisture favors the development of a hail‑supporting weather scenario).  
+   - The reverse (Scenario → Dewpoints) is far less plausible because a storm does not generally cause the underlying moisture field to change in a way that would create the storm itself.
+
+4. **Conclusion**  
+   - The more likely causal relationship is that *dewpoints cause the hail scenario*.
+
+<Answer>A</Answer>

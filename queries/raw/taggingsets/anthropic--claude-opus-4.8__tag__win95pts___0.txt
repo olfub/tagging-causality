@@ -1,0 +1,38 @@
+Software: AppOK, DataFile, AppData, DSApplctn, AppDtGnTm, PrntPrcssTm
+Application: AppOK, AppData, DataFile, AppDtGnTm
+Storage: DskLocal, DataFile, PrtSpool, AvlblVrtlMmry, PrtMem, PrtStatMem
+Spooling: PrtSpool, PrtThread, PrtQueue, PrtData, PrtDataOut
+Driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+Rendering: EMFOK, GDIIN, GDIOUT, PrtDataOut
+GDI: GDIIN, GDIOUT, EMFOK
+PrinterHardware: PrtOn, PrtPaper, PrtMem, TnrSpply, PrtTimeOut, PC2PRT
+Consumables: PrtPaper, TnrSpply
+PrinterStatus: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE
+Network: NetPrint, NtwrkCnfg, NetOK, DS_NTOK, NtSpd, NtGrbld
+Local: DskLocal, LclOK, DS_LCLOK, LclGrbld
+Connection: PrtCbl, PrtPort, CblPrtHrdwrOK, PC2PRT, PrtPath, PrtMpTPth
+Cable: PrtCbl, CblPrtHrdwrOK
+Port: PrtPort, PrtSel
+Path: PrtPath, PrtMpTPth, PrtFile
+Selection: PrtSel, PrtIcon
+Memory: PrtMem, AvlblVrtlMmry, PSERRMEM, PrtStatMem
+PostScript: PrtPScript, PSGRAPHIC, EPSGrphc, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS
+Graphics: EPSGrphc, NnPSGrphc, PSGRAPHIC, GrphcsRltdDrvrSttngs
+NonPostScript: NnPSGrphc, NnTTOK
+Fonts: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+TrueType: TrTypFnts, PrntrAccptsTrtyp, TTOK, NnTTOK
+PageLayout: PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+Output: GrbldOtpt, LclGrbld, NtGrbld, GrbldPS, IncmpltPS, CmpltPgPrntd, TstpsTxt
+Garbled: GrbldOtpt, LclGrbld, NtGrbld, GrbldPS
+Timing: PrtTimeOut, HrglssDrtnAftrPrnt, AppDtGnTm, PrntPrcssTm, DeskPrntSpd, NtSpd
+Speed: DeskPrntSpd, NtSpd, PrntPrcssTm
+Symptom: HrglssDrtnAftrPrnt, REPEAT, FllCrrptdBffr, ScrnFntNtPrntrFnt
+Problem: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+Diagnostic: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, REPEAT
+DirectoryService: DSApplctn, DS_NTOK, DS_LCLOK
+OKstatus: AppOK, DrvOK, EMFOK, GDIOUT, NetOK, LclOK, DS_NTOK, DS_LCLOK, CblPrtHrdwrOK, TTOK, NnTTOK
+Buffer: FllCrrptdBffr, PrtSpool
+FinalPrint: CmpltPgPrntd, GrbldOtpt, PC2PRT
+PrinterOnline: PrtOn, PTROFFLINE, PrtStatOff
+Icon: PrtIcon, PrtSel
+FilePrint: PrtFile, PrtPath, DataFile

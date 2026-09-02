@@ -1,0 +1,17 @@
+**Step‑by‑step reasoning**
+
+1. **Define the terms**  
+   - *Anorexia* here refers to loss of appetite or reduced food intake.  
+   - *Upper_pain* refers to pain in the upper abdomen or chest region (e.g., epigastric or substernal pain).
+
+2. **Typical clinical presentations**  
+   - Many gastrointestinal or thoracic conditions that produce upper abdominal/chest pain (e.g., gastritis, peptic ulcer, cholecystitis, angina) commonly lead patients to **lose their appetite** because eating aggravates the pain. In these cases, the pain *causes* anorexia.  
+   - Conversely, anorexia as a primary eating disorder or chronic reduced intake can eventually lead to malnutrition, electrolyte disturbances, or gastric emptying problems, but it **does not directly produce upper‑region pain** in most patients. Pain would be a later, indirect consequence rather than a primary symptom.
+
+3. **Likelihood assessment**  
+   - The pathway “upper pain → reduced appetite” is well‑established in medical literature and clinical practice.  
+   - The reverse pathway, “anorexia → upper pain,” is less direct and less commonly observed; when it occurs, it is usually through secondary complications (e.g., gastric distention, ulcer formation) rather than a primary causal link.
+
+**Conclusion:** The more plausible cause‑and‑effect relationship is that **upper pain can cause anorexia**, not the other way around.
+
+<Answer>B</Answer>

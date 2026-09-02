@@ -1,0 +1,3 @@
+Based on medical knowledge and the classic "Asia" network used in probabilistic graphical models, smoking and visiting Asia are the root causes in this causal graph. Smoking influences lung cancer and bronchitis, while Asia influences tuberculosis. All other variables are affected by these or other variables within the set.
+
+<Answer>asia, smoke</Answer>

@@ -1,0 +1,12 @@
+Looking at the provided causal relationships, I need to determine what variables are caused by triglycerides.
+
+Let me analyze each causal relationship:
+1. sex causes pbc, alcoholism, obesity
+2. alcohol causes steatosis, fibrosis, cirrhosis, ggtp, ast, triglycerides, cholesterol, hepatotoxic, thepatitis, chhepatitis
+3. fibrosis causes cirrhosis
+
+In these relationships, triglycerides appears only as an effect (it is caused by alcohol), but there is no statement indicating that triglycerides causes any other variable.
+
+Based on the given information, triglycerides is not specified as a cause for any other variable in the system.
+
+<Answer></Answer>

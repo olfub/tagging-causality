@@ -1,0 +1,11 @@
+1. **Age is a time/biological maturation variable**: it represents how long someone has lived and the developmental stage of organs and physiology.
+
+2. **Congenital heart disease (CHD) is typically present from birth**: the underlying structural defect exists regardless of when it’s detected. However, **the probability of *being diagnosed* with a particular CHD subtype and the *clinical presentation* can strongly depend on age** (e.g., ductal closure after birth, changing pulmonary vascular resistance, growth-related symptom emergence).
+
+3. **Age can plausibly affect disease expression and detection**: many CHDs become symptomatic at characteristic ages, so age is a reasonable “cause” (or upstream determinant) of observed disease status in a clinical dataset (through physiology, exposure time, and diagnostic opportunity).
+
+4. **Disease does not cause age**: having a disease cannot make someone older or younger; at most it affects survival, but it still doesn’t determine age itself.
+
+Therefore, the more likely causal direction is **Age → Disease**.
+
+<Answer>A</Answer>

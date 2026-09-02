@@ -1,0 +1,15 @@
+To determine the cause-and-effect relationship between NtGrbld and NtwrkCnfg in the context of Windows 95, let's break down what these components are and their roles:
+
+1. **NtGrbld**: This refers to a component or a process related to the building or loading of the Windows NT (New Technology) graphical user interface (GUI) or other core components. In the context of Windows 95, which is built on top of MS-DOS and has its own GUI, this might relate to the initialization or setting up of the Windows environment, including network settings.
+
+2. **NtwrkCnfg**: This likely refers to the Network Configuration or settings. In Windows 95, setting up or configuring network settings is crucial for accessing networks, the internet, and shared resources.
+
+Given these definitions, the cause-and-effect relationship can be analyzed as follows:
+
+- **If NtGrbld causes NtwrkCnfg**: This would imply that the process of setting up or initializing the Windows NT graphical interface or core components (NtGrbld) directly results in or triggers the configuration of network settings (NtwrkCnfg). This sequence makes sense because the initial setup of the Windows environment might include setting up network configurations as part of its initialization process, especially if network connectivity is required for the system to function fully or for user convenience.
+
+- **If NtwrkCnfg causes NtGrbld**: This suggests that configuring network settings (NtwrkCnfg) leads to or causes the initialization of the Windows NT graphical interface or core components (NtGrbld). While network configuration is crucial, it is less likely that this process would be the cause of initializing or setting up the core graphical or system components of Windows, as these would typically be set up before or as part of the initial system configuration, not as a result of configuring network settings.
+
+Based on the roles of these components in Windows 95, it's more logical that the setup or initialization of the system's core components (which could include the preparation for network configuration) would occur before or as part of the system's boot process, rather than the configuration of network settings causing the system's core to initialize.
+
+<Answer>B</Answer>

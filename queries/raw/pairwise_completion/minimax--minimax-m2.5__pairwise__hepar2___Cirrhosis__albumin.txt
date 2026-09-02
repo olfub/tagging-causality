@@ -1,0 +1,3 @@
+Cirrhosis is a chronic liver disease that damages the liver's ability to produce albumin, leading to low albumin levels in the blood. In contrast, albumin is a protein produced by the liver and is not a causative agent for cirrhosis. Therefore, the cause-and-effect relationship where cirrhosis affects albumin levels is more plausible.
+
+<Answer>A</Answer>

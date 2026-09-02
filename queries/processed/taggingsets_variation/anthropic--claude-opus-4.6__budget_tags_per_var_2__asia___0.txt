@@ -1,0 +1,12 @@
+geographic:asia
+risk_factor:asia,smoke
+infectious:tub
+disease:tub,lung,bronc
+behavioral:smoke
+malignancy:lung
+derived:either
+intermediate:either
+diagnostic:xray
+observation:xray,dysp
+inflammatory:bronc
+symptom:dysp

@@ -1,0 +1,17 @@
+1. **Define the entities involved**
+   - **Bilirubin** is a bile pigment produced from heme breakdown (e.g., hemoglobin). It circulates in blood and is processed/excreted by the liver.
+   - **Skin** is a target tissue where certain circulating pigments can deposit or become visible through coloration.
+
+2. **Check biological plausibility for each direction**
+   - **A: “bilirubin causes skin”**  
+     Elevated bilirubin levels can lead to **yellow discoloration of the skin and sclera (jaundice)**. Mechanistically, bilirubin accumulates in tissues (including skin) when serum levels rise, producing the visible color change.
+   - **B: “skin causes bilirubin”**  
+     Skin itself does not produce bilirubin. Bilirubin production primarily results from systemic heme catabolism (reticuloendothelial system) and is handled by liver metabolism/excretion. Skin conditions do not generally generate bilirubin.
+
+3. **Compare with clinical knowledge**
+   - In medicine, **hyperbilirubinemia → jaundice (yellow skin)** is a classic cause-and-effect relationship.
+   - The reverse (skin causing bilirubin elevation) is not a standard physiological or pathological pathway.
+
+Therefore, **A** is far more likely.
+
+<Answer>A</Answer>

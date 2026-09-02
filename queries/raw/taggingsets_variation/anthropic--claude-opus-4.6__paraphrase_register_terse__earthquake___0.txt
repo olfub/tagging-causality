@@ -1,0 +1,14 @@
+root cause: Burglary, Earthquake
+external event: Burglary, Earthquake
+triggers alarm: Burglary, Earthquake
+sensor response: Alarm
+intermediate variable: Alarm
+human response: JohnCalls, MaryCalls
+phone call: JohnCalls, MaryCalls
+observable effect: JohnCalls, MaryCalls
+crime related: Burglary
+natural phenomenon: Earthquake
+automated system: Alarm
+person action: JohnCalls, MaryCalls
+rare event: Earthquake, Burglary
+leaf node: JohnCalls, MaryCalls

@@ -1,0 +1,16 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the typical sequence in an earthquake scenario**  
+   - An earthquake occurs → sensors detect ground motion → an *alarm* (e.g., a seismic warning or emergency siren) is triggered.  
+   - When people hear the alarm, they react by taking protective actions, such as *calling* family, friends, or emergency services.
+
+2. **Determine the plausible direction of causation**  
+   - It is far more common for an *alarm* (the warning signal) to **prompt** someone (like Mary) to make a phone call than for a phone call to **trigger** an earthquake alarm.  
+   - There is no plausible mechanism by which Mary’s phone call would cause an external alarm to sound, whereas the alarm is explicitly designed to alert people and prompt them to act (e.g., call others).
+
+3. **Conclusion**  
+   - The cause‑and‑effect relationship “Alarm causes MaryCalls” aligns with typical earthquake response procedures and is therefore more likely.
+
+**Final answer**
+
+<Answer>A</Answer>

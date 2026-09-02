@@ -1,0 +1,21 @@
+**Step‑by‑step reasoning**
+
+1. **Define the terms**  
+   - *Steatosis* (fatty liver) is the abnormal accumulation of fat droplets within liver cells. It can result from many causes, including obesity, metabolic syndrome, certain medications, and excessive alcohol intake.  
+   - *Alcoholism* (alcohol use disorder) is a chronic, relapsing condition characterized by impaired control over alcohol consumption, continued use despite negative consequences, and a compulsive pattern of drinking.
+
+2. **Understand the known pathophysiological link**  
+   - When the liver metabolizes alcohol, it produces acetaldehyde and generates oxidative stress, which disrupts normal fat metabolism.  
+   - This disruption leads to the accumulation of fatty acids in hepatocytes, producing alcoholic fatty liver (steatosis).  
+   - Numerous epidemiological and clinical studies consistently show that heavy, chronic alcohol use is a primary cause of steatosis.  
+
+3. **Consider the reverse direction**  
+   - There is no evidence that having a fatty liver (steatosis) triggers the compulsive, addictive behavior characteristic of alcoholism.  
+   - Steatosis can be present in people who never consume alcohol (non‑alcoholic fatty liver disease), and it does not lead to the development of alcohol dependence.
+
+4. **Conclusion**  
+   - The causal direction supported by medical evidence is **alcoholism → steatosis**, not the reverse.
+
+**Final answer**
+
+<Answer>B</Answer>

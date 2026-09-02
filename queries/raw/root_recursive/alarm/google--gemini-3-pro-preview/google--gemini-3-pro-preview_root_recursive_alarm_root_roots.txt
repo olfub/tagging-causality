@@ -1,0 +1,1 @@
+["hypovolemia", "lvfailure", "insuffanesth", "anaphylaxis", "pulmembolus", "kinkedtube", "disconnect", "minvolset", "fio2", "intubation"]

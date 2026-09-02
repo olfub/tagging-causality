@@ -1,0 +1,22 @@
+### Step-by-step causal reasoning
+
+1. **Clarify the variables**
+   - **DrivingSkill**: a (partly latent) driver capability—hazard perception, vehicle control, judgment, attention, etc.
+   - **DrivHist (Driving History)**: realized record of outcomes/behaviors over time—crashes, claims, violations, citations, prior incidents.
+
+2. **Time ordering**
+   - Driving skill exists *before* many of the recorded historical events occur.
+   - Driving history is an *accumulation* of past events, which are downstream consequences of how the person drives.
+
+3. **Mechanism plausibility**
+   - A very natural mechanism is: higher skill → fewer crashes/violations → “cleaner” driving history; lower skill → more adverse events → worse history.
+   - The reverse (history → skill) can happen (people learn after incidents, training after a ticket, experience over time), but **DrivHist** is mostly a *measurement/summary of past outcomes*, not a direct causal agent. The causal agent would be *experience/training/interventions*, which may correlate with DrivHist but are not the same variable.
+
+4. **Insurance modeling perspective**
+   - In risk modeling, **driving history is typically used as an observable proxy for underlying risk traits** (including driving skill and risk-taking), implying the direction: latent traits → observed history.
+   - Treating DrivHist as causing DrivingSkill often conflates “proxy measurement” with “cause.”
+
+5. **Conclusion**
+   - The more likely causal direction in the general case is **DrivingSkill → DrivHist**.
+
+<Answer>B</Answer>

@@ -1,0 +1,22 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the terms**  
+   - **PBC** = Primary Biliary Cholangitis (an autoimmune liver disease).  
+   - **AMA** = Antimitochondrial antibodies, auto‑antibodies directed against mitochondrial antigens.
+
+2. **Known clinical relationship**  
+   - Approximately 90‑95 % of patients with PBC test positive for AMA.  
+   - AMA is used as a highly specific diagnostic marker for PBC.
+
+3. **Direction of causality**  
+   - In the current understanding of autoimmune disease, the presence of auto‑antibodies is usually a consequence of the underlying immune dysregulation that characterizes the disease.  
+   - There is no substantial evidence that AMA itself initiates or drives the liver injury in PBC; rather, the autoimmune process of PBC leads to the production of AMA.
+
+4. **Evaluate the two options**  
+   - **A. PBC causes AMA** – aligns with the established view that the disease triggers the auto‑antibody response.  
+   - **B. AMA causes PBC** – not supported by data; AMA is regarded as a marker rather than a causative agent.
+
+5. **Conclusion**  
+   The more plausible cause‑and‑effect relationship is that the disease (PBC) leads to the generation of antimitochondrial antibodies.
+
+<Answer>A</Answer>

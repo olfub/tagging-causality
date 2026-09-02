@@ -1,0 +1,18 @@
+1. **Define the terms**
+   - **Anaphylaxis**: an acute, systemic allergic reaction driven by mast cell/basophil mediator release (e.g., histamine, leukotrienes).
+   - **TPR (Total Peripheral Resistance)**: the net resistance to blood flow offered by systemic vasculature; determined mainly by arteriolar tone.
+
+2. **Check the physiological direction of causality**
+   - In **anaphylaxis**, mediators cause:
+     - **Widespread vasodilation** (especially arteriolar dilation) → **decreases TPR**
+     - **Increased capillary permeability** → intravascular volume loss → contributes to hypotension
+     - Sometimes bronchospasm and airway edema, but the vascular effects are central to shock.
+   - Therefore, **anaphylaxis can cause changes in TPR** (classically a **drop** in TPR).
+
+3. **Evaluate the reverse relationship**
+   - **TPR changes do not cause anaphylaxis**. Low or high TPR is a hemodynamic state (from sepsis, drugs, neurogenic causes, etc.) but it does not trigger the immune-mediated mast cell degranulation that defines anaphylaxis.
+
+4. **Conclusion**
+   - The plausible causal direction is **anaphylaxis → (change in) TPR**, not the other way around.
+
+<Answer>A</Answer>

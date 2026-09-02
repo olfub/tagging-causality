@@ -1,0 +1,14 @@
+To determine the correct cause-and-effect relationship between "Disease" and "Sick", let's break it down:
+
+1. **Understanding the Terms**: 
+   - "Disease" refers to a specific condition that affects the body, often with known causes, symptoms, and treatments. For pediatric congenital heart disease, it's a condition present at birth that affects the heart's structure or function.
+   - "Sick" is a general term that means being in a state of illness or poor health, which can be caused by various factors including diseases.
+
+2. **Analyzing the Relationship**:
+   - If a child has a congenital heart disease, it means they are born with a condition affecting their heart, which can lead to them being sick. This implies that the disease is the cause, and being sick is the effect. 
+   - On the other hand, saying "Sick causes Disease" would mean that the general state of being ill causes the specific condition of congenital heart disease, which does not logically align with medical understanding. Congenital heart disease is a specific condition that contributes to a child being sick, not the other way around.
+
+3. **Conclusion**:
+   - Based on the analysis, it's more logical to conclude that having a disease (in this case, pediatric congenital heart disease) leads to the child being sick. Therefore, the correct cause-and-effect relationship is that Disease causes Sick.
+
+<Answer>A</Answer>

@@ -1,0 +1,14 @@
+1. Interpret the terms in a Windows 95 / printer context:  
+   - **PrtMem** is most naturally “printer memory” (RAM in the printer or memory available for spooling/rasterizing).  
+   - **DeskPrntSpd** is “desktop printing speed” (how fast jobs print from the PC/desktop workflow).
+
+2. Consider plausible mechanisms:  
+   - More **printer memory** lets the printer buffer larger rasterized pages, handle complex fonts/graphics, and reduce pauses while it waits for more data. That tends to **increase effective print speed** (or at least reduce slowdowns/stuttering).  
+   - The reverse (“printing speed causes printer memory”) doesn’t fit: speed is an outcome of hardware/software constraints; it doesn’t create or increase memory.
+
+3. Practical troubleshooting intuition (Windows 95 era):  
+   - When printers ran low on memory, jobs would print very slowly, pause between pages, or fail/partial-print. Adding memory (or reducing resolution/complexity) commonly improved throughput.
+
+Therefore, **PrtMem → DeskPrntSpd** is more likely.
+
+<Answer>B</Answer>

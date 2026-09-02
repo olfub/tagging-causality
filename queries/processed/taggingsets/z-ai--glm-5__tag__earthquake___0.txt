@@ -1,0 +1,5 @@
+Trigger:Burglary,Earthquake
+Natural:Earthquake
+Crime:Burglary
+Alert:Alarm
+Response:JohnCalls,MaryCalls

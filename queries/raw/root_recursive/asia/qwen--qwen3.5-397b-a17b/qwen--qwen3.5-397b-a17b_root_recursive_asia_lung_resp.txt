@@ -1,0 +1,22 @@
+<step_by_step>
+1. First, I need to identify what variables "lung" causes based on the given information and variable definitions.
+
+2. From the given causal relationships:
+   - smoke causes lung, bronc (so lung is an effect of smoke)
+   - asia causes tub, either, xray, dysp
+
+3. Now I need to consider the logical definition of each variable:
+   - "either" is defined as "whether or not the patient has either tuberculosis or lung cancer"
+
+4. Since "either" represents having either tuberculosis OR lung cancer, by logical definition, "lung" must be a cause of "either". If a patient has lung cancer, they satisfy the condition for "either" being true.
+
+5. Looking at the standard Asia network structure (which this appears to be based on):
+   - lung → either
+   - either → xray, dysp (indirectly)
+
+6. The question asks for variables directly caused by lung. Based on the variable definition of "either" (tuberculosis OR lung cancer), lung is a direct cause of "either".
+
+7. No other variables are explicitly stated or logically implied to be directly caused by lung in this network.
+</step_by_step>
+
+<Answer>either</Answer>

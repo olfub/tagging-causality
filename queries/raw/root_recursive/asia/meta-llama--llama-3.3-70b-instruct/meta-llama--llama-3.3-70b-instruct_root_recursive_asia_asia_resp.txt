@@ -1,0 +1,17 @@
+To determine which variables are caused by "asia", we should look at the given causal relationships and the conditions provided.
+
+1. **Given Causal Relationships**: 
+   - smoke causes lung
+   - smoke causes bronc
+   - The problem statement also implies that "asia" could be related to "tub" (tuberculosis) because it's a well-known fact that the incidence of tuberculosis can be higher in certain regions, including parts of Asia.
+
+2. **Conditions**:
+   - smoke and asia are not affected by any other variable.
+
+Given the information and the logic of causal relationships, we can infer that "asia" is likely to cause "tub" (tuberculosis) because visiting Asia could increase the risk of exposure to tuberculosis due to its prevalence in certain regions.
+
+Therefore, considering the potential causes and effects mentioned, "asia" would likely cause "tub". Additionally, since "either" is defined as whether or not the patient has either tuberculosis or lung cancer, if "asia" causes "tub", it indirectly affects "either" because "either" is true if "tub" is true.
+
+Thus, the variables directly or indirectly caused by "asia" are "tub" and "either".
+
+<Answer>tub, either</Answer>

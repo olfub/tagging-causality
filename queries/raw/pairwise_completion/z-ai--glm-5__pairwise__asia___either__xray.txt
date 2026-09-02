@@ -1,0 +1,27 @@
+# Analyzing Cause-and-Effect Relationship Between Diseases and X-rays
+
+Let me analyze both options step by step to determine which causal relationship is more plausible.
+
+## Understanding the components:
+- **Tuberculosis**: An infectious disease caused by Mycobacterium tuberculosis bacteria, primarily affecting the lungs
+- **Lung Cancer**: A malignant tumor in lung tissue, often caused by smoking, environmental factors, etc.
+- **X-ray**: A diagnostic imaging technique using electromagnetic radiation
+
+## Evaluating Option A: "Either Tuberculosis or Lung Cancer causes X-ray"
+
+This option suggests that having tuberculosis or lung cancer leads to getting an X-ray examination. This aligns with medical practice because:
+- Both diseases create visible changes in lung tissue
+- X-rays are a standard diagnostic tool to detect these conditions
+- When patients show symptoms of either condition, doctors typically order chest X-rays as part of diagnosis
+
+## Evaluating Option B: "X-ray causes Either Tuberculosis or Lung Cancer"
+
+This option suggests that X-ray exposure leads to developing tuberculosis or lung cancer. Let's examine this:
+- Tuberculosis is an infectious disease caused by bacteria, not by X-ray exposure
+- While ionizing radiation (including X-rays) can increase cancer risk, diagnostic X-rays use minimal radiation
+- The radiation dose from diagnostic X-rays is too low to be a significant cause of lung cancer
+
+## Conclusion:
+Option A describes the standard clinical pathway - diseases cause physical changes that are then diagnosed using X-rays. Option B contradicts medical knowledge about how these diseases develop.
+
+<Answer>A</Answer>

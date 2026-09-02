@@ -1,0 +1,11 @@
+demographic: Age, Sex, Education, Occupation, Residence
+personal_attribute: Age, Sex
+socioeconomic: Education, Occupation
+human_capital: Education, Occupation
+geographic: Residence, Travel
+mobility: Travel, Residence
+biological: Age, Sex
+learned: Education
+livelihood: Occupation
+location: Residence
+behavior: Travel

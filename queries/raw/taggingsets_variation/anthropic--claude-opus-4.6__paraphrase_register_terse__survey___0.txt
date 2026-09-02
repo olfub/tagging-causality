@@ -1,0 +1,19 @@
+demographic_baseline: Age, Sex
+innate_characteristic: Age, Sex
+determines_career_path: Age, Sex, Education
+socioeconomic_factor: Education, Occupation, Residence
+requires_time_to_acquire: Education, Occupation
+chosen_lifestyle: Residence, Travel, Occupation
+influenced_by_income: Residence, Travel
+biological: Age, Sex
+changes_over_lifespan: Education, Occupation, Residence, Travel
+immutable_at_birth: Sex
+monotonically_increasing: Age
+human_capital: Education, Occupation
+geographic: Residence, Travel
+credential: Education
+livelihood: Occupation
+discretionary_activity: Travel
+location_of_dwelling: Residence
+cause_of_opportunity: Age, Education, Occupation
+outcome_of_means: Travel, Residence

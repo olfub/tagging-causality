@@ -1,0 +1,20 @@
+risk factor:asia,smoke
+behavior:smoke
+geographic:asia
+disease:tub,lung,bronc
+lung disease:tub,lung
+infectious:tub
+malignancy:lung
+airway condition:bronc,dysp
+respiratory:tub,lung,bronc,dysp
+root cause:asia,smoke
+intermediate:either
+logical construct:either
+clinical observation:xray,dysp
+symptom:dysp
+diagnostic test:xray
+consequence:tub,lung,bronc,either,xray,dysp
+directly caused by exposure:tub,lung,bronc
+patient presentation:xray,dysp,bronc
+serious illness:tub,lung
+chronic:bronc,lung

@@ -1,0 +1,1 @@
+["ascites", "spiders", "spleen", "platelet", "inr", "albumin", "edge", "irregular_liver", "palms", "carcinoma", "encephalopathy", "proteins", "bilirubin", "phosphatase", "fatigue", "anorexia", "nausea", "alt", "ast", "ggtp", "cholesterol", "esr"]

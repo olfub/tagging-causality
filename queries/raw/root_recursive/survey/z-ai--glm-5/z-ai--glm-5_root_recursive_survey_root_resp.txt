@@ -1,0 +1,18 @@
+To determine the variables that are unaffected by any other variables (also known as exogenous or root variables), we analyze the causal relationships among the provided factors:
+
+1.  **Analyze <a> (Age):** Age is a biological attribute determined by time. A person's age does not change based on their sex, education, occupation, residence, or travel habits. It is an inherent property of the individual that exists independently of the other variables. Thus, Age is unaffected by others.
+
+2.  **Analyze <s> (Sex):** Biological sex is typically determined at birth. It is not caused by a person's age (in a causal sense regarding an individual's traits), education, occupation, where they live, or their travel behavior. Like age, it is a fundamental demographic characteristic. Thus, Sex is unaffected by others.
+
+3.  **Analyze <e> (Education):** Education is an acquired status. The level of education a person achieves is often influenced by their **Age** (generational differences in access to education), **Sex** (gender disparities in education), and **Residence** (access to schools in urban vs. rural areas). Since it is affected by other variables, it is not a root variable.
+
+4.  **Analyze <o> (Occupation):** A person's occupation is heavily dependent on their **Education** level, **Age** (stage in career lifecycle), **Sex** (gender roles), and **Residence** (job market availability). Since it is the result of other factors, it is not a root variable.
+
+5.  **Analyze <r> (Residence):** While a person's birthplace might be fixed, their current residence is often a result of migration choices influenced by **Occupation** (moving for a job), **Education** (moving for school), or **Age** (retirement locations). Because residence can change due to other factors, it is not strictly unaffected.
+
+6.  **Analyze <t> (Travel):** Travel behavior is a consequence of having the time (**Age**/retirement), money (**Occupation**), and location (**Residence**). It is clearly an outcome variable affected by others.
+
+**Conclusion:**
+Only **Age (<a>)** and **Sex (<s>)** are "given" attributes that act as starting points in the demographic causal structure. They are not caused by the other variables in the set.
+
+<Answer><a>, <s></Answer>

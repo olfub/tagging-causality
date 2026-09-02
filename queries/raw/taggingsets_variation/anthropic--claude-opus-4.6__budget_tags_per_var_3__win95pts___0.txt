@@ -1,0 +1,37 @@
+application: AppOK, DataFile, AppData, DSApplctn, AppDtGnTm
+boolean_ok: AppOK, EMFOK, DrvOK, NetOK, CblPrtHrdwrOK, LclOK, DS_NTOK, DS_LCLOK, PgOrnttnOK, PrntngArOK, CmpltPgPrntd, PrntrAccptsTrtyp, TTOK, NnTTOK
+software: AppOK, DrvSet, PrtDriver, PrtThread, DSApplctn, TrTypFnts, FntInstlltn, AvlblVrtlMmry
+data: DataFile, AppData, GDIIN, PrtDataOut, DSApplctn, DS_NTOK, DS_LCLOK, PrtData, NnPSGrphc
+file: DataFile, EPSGrphc, PrtFile
+process: AppData, PrtSpool, PrtThread, PrntPrcssTm
+local: DskLocal, LclOK, DS_LCLOK, LclGrbld
+storage: DskLocal
+hardware: DskLocal, PrtCbl, PC2PRT
+spooling: PrtSpool, PrtThread, PrtQueue
+print_path: PrtSpool, NetPrint, PrtSel, PrtDataOut, PrtPath, PrtMpTPth, PC2PRT, PrtFile, PrtIcon
+printer_hardware: PrtOn, PrtPaper, PrtCbl, PrtPort, CblPrtHrdwrOK, PTROFFLINE, TnrSpply, PrtMem, PrntrAccptsTrtyp, PrtData, PrtStatMem, PrtStatOff
+status: PrtOn, PrtPaper, DrvOK, PTROFFLINE, LclOK, PrtQueue, PrtIcon, PrtSel, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+power: PrtOn, PrtStatOff
+supply: PrtPaper, TnrSpply, PrtStatPaper, PrtStatToner
+network: NetPrint, NtwrkCnfg, NetOK, DS_NTOK, NtGrbld, PrtQueue, NtSpd, PrtMpTPth
+connectivity: NetPrint, NtwrkCnfg, NetOK, PTROFFLINE, PrtCbl, PrtPort, CblPrtHrdwrOK, PC2PRT, Problem2
+driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs, PrtPScript, NnTTOK
+rendering: PrtDriver, EMFOK, GDIIN, GDIOUT, PgOrnttnOK, PSGRAPHIC, ScrnFntNtPrntrFnt, TrTypFnts, TTOK, NnPSGrphc
+emf_gdi: EMFOK, GDIIN, GDIOUT
+configuration: DrvSet, PrtSel, PrtPath, NtwrkCnfg, PrtPort, GrphcsRltdDrvrSttngs, PrtPScript, PrntngArOK, PrtIcon, FntInstlltn
+routing: PrtPath, PrtMpTPth
+output: GDIOUT, PrtDataOut, CmpltPgPrntd, LclGrbld, NtGrbld, GrbldOtpt, REPEAT, TstpsTxt, GrbldPS, IncmpltPS, PrtFile, DeskPrntSpd, PrtData
+memory: PrtMem, FllCrrptdBffr, AvlblVrtlMmry, PSERRMEM, PrtStatMem
+resource: PrtMem, TnrSpply, AvlblVrtlMmry, PrtStatToner
+performance: PrtTimeOut, AppDtGnTm, PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt, NtSpd, Problem3
+timing: PrtTimeOut, AppDtGnTm, PrntPrcssTm, HrglssDrtnAftrPrnt, REPEAT
+error: PrtTimeOut, FllCrrptdBffr, PSERRMEM, IncmpltPS, ScrnFntNtPrntrFnt
+garbled: FllCrrptdBffr, LclGrbld, NtGrbld, GrbldOtpt, GrbldPS
+symptom: Problem1, GrbldOtpt, HrglssDrtnAftrPrnt, REPEAT
+diagnosis: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, TstpsTxt
+problem: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+page_setup: PgOrnttnOK, PrntngArOK, CmpltPgPrntd, PrtStatPaper
+graphics: EPSGrphc, NnPSGrphc, PSGRAPHIC, GrphcsRltdDrvrSttngs, Problem4
+postscript: EPSGrphc, PrtPScript, PSGRAPHIC, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS, Problem6
+font: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt, Problem5
+speed: DeskPrntSpd, NtSpd

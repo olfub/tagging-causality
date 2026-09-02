@@ -1,0 +1,25 @@
+printer_hardware: PrtOn, PrtPaper, PrtCbl, PrtPort, CblPrtHrdwrOK, PrtMem, TnrSpply, PTROFFLINE
+printer_driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs, PrtPScript
+printer_status: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE, PrtOn
+application_layer: AppOK, AppData, DataFile, DSApplctn, AppDtGnTm
+network_related: NetPrint, NtwrkCnfg, NetOK, NtSpd, PC2PRT, DS_NTOK, NtGrbld
+local_printing: DskLocal, LclOK, DS_LCLOK, LclGrbld
+graphics_rendering: GDIIN, GDIOUT, EPSGrphc, NnPSGrphc, PSGRAPHIC, GrphcsRltdDrvrSttngs
+font_handling: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+print_path: PrtPath, PrtMpTPth, PrtSel
+postscript: PrtPScript, PSGRAPHIC, GrbldPS, IncmpltPS, PSERRMEM, TstpsTxt
+data_flow: AppData, PrtData, PrtDataOut, EMFOK, GDIIN, GDIOUT, DataFile
+problem_diagnosis: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+output_quality: GrbldOtpt, GrbldPS, IncmpltPS, LclGrbld, NtGrbld, CmpltPgPrntd
+memory_resource: PrtMem, AvlblVrtlMmry, PSERRMEM, FllCrrptdBffr, PrtStatMem
+performance_timing: PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt, PrtTimeOut, NtSpd, AppDtGnTm
+spooling_queue: PrtSpool, PrtThread, PrtQueue, PrtIcon
+physical_connection: PrtCbl, PrtPort, PC2PRT, CblPrtHrdwrOK, NtwrkCnfg
+page_settings: PgOrnttnOK, PrntngArOK
+consumables: TnrSpply, PrtPaper, PrtStatPaper, PrtStatToner
+intermediate_status: AppOK, EMFOK, DrvOK, NetOK, LclOK, DS_NTOK, DS_LCLOK, CblPrtHrdwrOK, TTOK, NnTTOK, PgOrnttnOK, PrntngArOK
+observable_symptom: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, GrbldOtpt, HrglssDrtnAftrPrnt, CmpltPgPrntd, DeskPrntSpd, LclGrbld, NtGrbld, GrbldPS, IncmpltPS, REPEAT, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+print_output: PrtDataOut, PrtFile, PrtData, CmpltPgPrntd
+buffer_corruption: FllCrrptdBffr, PrtData, PrtMem
+configuration_setting: DrvSet, PrtSel, NtwrkCnfg, PrtPath, PrtMpTPth, GrphcsRltdDrvrSttngs, PgOrnttnOK, PrntngArOK, FntInstlltn
+root_cause: PrtOn, PrtPaper, PrtCbl, TnrSpply, DskLocal, NtwrkCnfg, DataFile, FntInstlltn, DrvSet, PrtSel, AppOK, AvlblVrtlMmry, ScrnFntNtPrntrFnt, EPSGrphc, NnPSGrphc, PrtPScript, PrtPort

@@ -1,0 +1,17 @@
+substance_use: Smoking
+physical_sign: Yellow_Fingers, Coughing, Fatigue
+mental_state: Anxiety, Attention_Disorder
+social_influence: Peer_Pressure
+innate_trait: Genetics, Born_an_Even_Day
+arbitrary: Born_an_Even_Day
+respiratory: Coughing, Lung_Cancer
+disease: Lung_Cancer, Allergy
+risk_factor: Smoking, Genetics, Anxiety, Peer_Pressure
+smoking_consequence: Yellow_Fingers, Coughing, Lung_Cancer
+immune_response: Allergy
+accident: Car_Accident
+energy_level: Fatigue
+cognitive: Attention_Disorder
+behavioral: Smoking, Peer_Pressure
+health_outcome: Lung_Cancer, Car_Accident, Fatigue
+biological: Genetics, Allergy

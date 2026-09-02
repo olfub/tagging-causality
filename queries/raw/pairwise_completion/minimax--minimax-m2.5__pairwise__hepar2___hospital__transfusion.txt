@@ -1,0 +1,15 @@
+**Step‑by‑step reasoning**
+
+1. **What is a transfusion?** – A transfusion is a medical procedure in which blood or blood products are delivered into a patient’s bloodstream.
+
+2. **Where do transfusions happen?** – Transfusions are performed in health‑care settings such as hospitals, clinics, or specialized blood banks. The hospital provides the necessary equipment, sterile environment, trained staff, and regulatory oversight.
+
+3. **Can a transfusion cause a hospital?** – A single transfusion (or the practice of transfusing) does not bring a hospital into existence; hospitals are built to provide a wide range of medical services, of which transfusion is just one.
+
+4. **Can a hospital cause a transfusion?** – The existence of a hospital (or any capable medical facility) creates the conditions that enable transfusions to be performed. In other words, the presence of the hospital *enables* or *causes* transfusions to occur.
+
+5. **Which causal direction is more plausible?** – The causal link “hospital → transfusion” (A) is far more plausible than “transfusion → hospital” (B).
+
+**Conclusion:** The cause‑and‑effect relationship that is more likely is **hospital causes transfusion**.
+
+<Answer>A</Answer>

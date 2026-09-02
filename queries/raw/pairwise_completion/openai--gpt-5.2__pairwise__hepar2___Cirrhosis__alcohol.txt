@@ -1,0 +1,16 @@
+1. **Define the candidate causal directions**
+   - **A:** Cirrhosis → alcohol use  
+   - **B:** Alcohol use → cirrhosis
+
+2. **Check biological plausibility / mechanism**
+   - Chronic heavy **alcohol consumption** can directly injure hepatocytes, promote inflammation, and lead to fibrosis and ultimately **cirrhosis** (well-established pathophysiology of alcohol-associated liver disease).
+   - **Cirrhosis** itself does not biologically cause alcohol to exist or be consumed; while illness can influence behavior (e.g., stress-related drinking), that is not a direct, general causal relationship and certainly not the primary/typical direction.
+
+3. **Check clinical/epidemiologic evidence**
+   - Alcohol is a major, common etiologic factor for cirrhosis across populations.
+   - The reverse (cirrhosis causing alcohol use) is not supported as a standard causal claim and would at most be a confounded/secondary behavioral association in some individuals, not the dominant causal pathway.
+
+4. **Conclusion**
+   - The more likely causal direction is **alcohol → cirrhosis**.
+
+<Answer>B</Answer>

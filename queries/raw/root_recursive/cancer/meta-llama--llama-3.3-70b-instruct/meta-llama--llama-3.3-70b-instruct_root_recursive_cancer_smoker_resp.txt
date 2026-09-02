@@ -1,0 +1,15 @@
+To find the variables caused by smoker, we should look at the given causal relationships and the information about the variables.
+
+1. The given causal relationships are:
+   - Pollution causes cancer and dyspnoea.
+   - There's no direct relationship mentioned where smoker causes any of the other variables directly.
+
+2. However, we know from general knowledge that being a smoker can cause cancer and dyspnoea. But, according to the task, we are to select variables based on the given causal relationships, and it's stated that "smoker are not affected by any other variable," which might imply looking for direct effects from the given statements.
+
+3. Since the task specifies relationships and we're only given that pollution causes cancer and dyspnoea, with no direct causal link mentioned from smoker to any variable, we must infer based on the information provided.
+
+However, this seems to be a misunderstanding since in real-world scenarios, smokers are indeed at a higher risk for cancer and dyspnoea. But given the structured and limited information provided, we do not have a direct causal link from smoker to any other variable as per the question's constraints.
+
+Thus, given the strict interpretation of the task and sticking to the provided causal relationships without assuming additional ones not mentioned:
+
+<Answer>cancer, dyspnoea</Answer>

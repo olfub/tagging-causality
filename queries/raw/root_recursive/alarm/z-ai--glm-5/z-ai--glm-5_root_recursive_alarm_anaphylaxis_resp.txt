@@ -1,0 +1,17 @@
+To determine the variables caused by `anaphylaxis`, let's analyze the provided causal relationships step by step.
+
+**Step 1: Identify the provided causal relationships.**
+The prompt explicitly lists the following causal relationships:
+1.  `hypovolemia` causes `lvedvolume`, `cvp`, `pcwp`, `strokevolume`, `co`, `bp`.
+2.  `lvfailure` causes `lvedvolume`, `strokevolume`, `co`, `bp`, `pcwp`.
+
+**Step 2: Search for 'anaphylaxis' as a cause.**
+We examine the list of relationships to see if `anaphylaxis` appears as a cause (on the left side of a "causes" statement).
+*   The first relationship starts with `hypovolemia`.
+*   The second relationship starts with `lvfailure`.
+*   There are no statements beginning with `anaphylaxis`.
+
+**Step 3: Determine the effects.**
+Since the provided text does not list any outgoing causal links from `anaphylaxis`, strictly following the given information, `anaphylaxis` causes no variables in this specific set.
+
+<Answer></Answer>

@@ -1,0 +1,32 @@
+
+
+# Identifying Root Variables (Unaffected by Others)
+
+I need to determine which variables are **not caused by any other variables** in this system. Let me reason through each variable:
+
+## Step-by-step analysis:
+
+1. **`asia`** (recently visited Asia): This is a background/travel factor. No disease or clinical variable in this set would *cause* someone to visit Asia. → **Root variable**
+
+2. **`smoke`** (smoker status): This is a lifestyle/behavioral factor. None of the other variables (diseases, tests) would cause someone to smoke. → **Root variable**
+
+3. **`tub`** (tuberculosis): Visiting Asia increases TB risk (caused by `asia`). → **Not a root**
+
+4. **`lung`** (lung cancer): Smoking causes lung cancer (caused by `smoke`). → **Not a root**
+
+5. **`bronc`** (bronchitis): Smoking causes bronchitis (caused by `smoke`). → **Not a root**
+
+6. **`either`** (TB or lung cancer): This is a logical/deterministic node caused by `tub` and `lung`. → **Not a root**
+
+7. **`xray`** (positive chest X-ray): An abnormal X-ray is caused by having TB or lung cancer (`either`). → **Not a root**
+
+8. **`dysp`** (dyspnoea): Shortness of breath is caused by `either` (TB/lung cancer) and `bronc`. → **Not a root**
+
+## Summary of causal flow:
+- `asia` → `tub` → `either` → `xray`, `dysp`
+- `smoke` → `lung` → `either`
+- `smoke` → `bronc` → `dysp`
+
+The two variables with **no incoming causal edges** are the background factors.
+
+<Answer>asia, smoke</Answer>

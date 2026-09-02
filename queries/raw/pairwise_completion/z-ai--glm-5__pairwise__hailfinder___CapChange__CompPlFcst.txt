@@ -1,0 +1,26 @@
+# Analyzing Causal Relationship Between CapChange and CompPlFcst
+
+To determine the most likely causal relationship, I need to understand what these variables represent in hail forecasting.
+
+## Understanding the Variables
+
+**CapChange**: In meteorology, this likely refers to changes in the "cap" or "capping inversion" - a layer of warm air aloft that can prevent or suppress thunderstorm development. Changes in the cap strength (weakening or strengthening) are important factors in severe weather forecasting.
+
+**CompPlFcst**: This appears to be a composite forecast parameter, likely related to predicting hail potential or other severe weather elements.
+
+## Analyzing Potential Causal Directions
+
+**Option A: CapChange causes CompPlFcst**
+- Changes in the cap strength directly influence thunderstorm development potential
+- Meteorological observations and measurements of cap changes would logically inform forecast parameters
+- This follows the physical process: atmospheric conditions change → forecasters adjust predictions accordingly
+
+**Option B: CompPlFcst causes CapChange**
+- This would suggest that the forecast itself changes atmospheric conditions
+- This contradicts how meteorology works - forecasts don't influence atmospheric processes
+- This direction doesn't follow the logical progression of physical causality in weather systems
+
+## Conclusion
+The cap is a physical atmospheric feature that directly influences storm development. Forecasters observe and measure these changes to inform their predictions. Therefore, changes in the cap would logically cause adjustments to composite forecast parameters, not the reverse.
+
+<Answer>A</Answer>

@@ -1,0 +1,13 @@
+To determine the variables that are caused by `datafile`, we need to analyze the given causal relationships. 
+
+1. `appok` causes `appdata`, `datafile`, `prtdata`, `prtdataout`, `prtsel`, `dsapplctn`.
+2. `netok` causes `netprint`, `prtcbl`, `prtport`, `ntwrkcnfg`.
+3. `lclok` causes `ds_lclok`.
+
+From the given relationships, `datafile` is directly caused by `appok`. However, to find out what is caused by `datafile`, we need to look for any relationship where `datafile` is the cause. 
+
+Upon examining the provided relationships, there is no direct or indirect mention of `datafile` causing any other variable. The relationships provided do not specify any effects of `datafile` on other variables.
+
+Therefore, based on the given information, there are no variables that are caused by `datafile`.
+
+<Answer></Answer>

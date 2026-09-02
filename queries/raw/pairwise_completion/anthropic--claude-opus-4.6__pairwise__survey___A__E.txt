@@ -1,0 +1,19 @@
+
+
+# Analyzing the Causal Relationship Between Age and Education
+
+## Step-by-Step Reasoning:
+
+**Step 1: Consider the nature of Age.**
+Age is a fundamental biological and temporal variable. It progresses naturally with the passage of time and is determined solely by one's date of birth. No external factor, including education, can *cause* a person to be a certain age.
+
+**Step 2: Consider the nature of Education.**
+Education level is an achieved characteristic that depends on time and opportunity. A person must reach a certain age before they can complete various levels of education (e.g., you must be ~18 to finish high school, ~22 for a bachelor's degree, etc.). Age acts as a prerequisite and constraint on educational attainment.
+
+**Step 3: Test the reverse direction.**
+Can obtaining more education cause someone to be older or younger? No. Education does not alter a person's age.
+
+**Step 4: Conclusion.**
+Age is a natural, exogenous variable that influences the *opportunity* and *level* of education a person can achieve. Education, however, has no causal effect on age. Therefore, **Age causes Education** is the correct causal direction.
+
+<Answer>A</Answer>

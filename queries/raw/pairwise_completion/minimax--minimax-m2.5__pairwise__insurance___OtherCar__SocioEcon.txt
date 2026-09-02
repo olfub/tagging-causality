@@ -1,0 +1,19 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the variables**  
+   - *SocioEcon*: a proxy for socioeconomic status (e.g., income, education, occupation).  
+   - *OtherCar*: a variable that describes something about “other car(s)” – most commonly the number of additional vehicles in the household, or an indicator of an accident involving another vehicle.
+
+2. **Consider typical causal ordering in insurance risk models**  
+   - Socioeconomic factors are fundamental, upstream determinants of many observable behaviors and assets.  
+   - Household income or wealth influences whether a person can afford to own multiple vehicles, what type of vehicle they drive, and how much they drive – all of which feed into the *OtherCar* variable.  
+   - In contrast, the mere presence of an extra car (or an accident with another car) is unlikely to change a person’s underlying socioeconomic status in a systematic way.
+
+3. **Evaluate the two candidate directions**  
+   - **A. OtherCar → SocioEcon**: Would mean that owning an extra car (or being in an accident) causally affects income or education. While a severe accident could temporarily affect finances, this is not the primary systematic relationship used in risk modeling.  
+   - **B. SocioEcon → OtherCar**: Means that socioeconomic status drives car ownership (or accident exposure). This aligns with well‑established economic theory and is the standard assumption in causal diagrams for insurance data.
+
+4. **Conclusion**  
+   The more plausible causal direction in a car‑insurance risk modeling context is **SocioEcon causes OtherCar**.
+
+<Answer>B</Answer>

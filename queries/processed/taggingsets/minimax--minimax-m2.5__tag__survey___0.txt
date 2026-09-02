@@ -1,0 +1,10 @@
+demographic:A,S,E,O,R
+biological:A,S
+socioeconomic:E,O,R
+geographic:R,T
+mobility:T
+acquired:E,O,T
+innate:A,S
+personal:A,S,E,O
+residential:R
+temporal:A

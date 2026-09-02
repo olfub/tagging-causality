@@ -1,0 +1,16 @@
+1. **Interpret the variables in a hail-forecast context**
+   - **Scenario**: a higher-level meteorological regime or event type (e.g., supercell outbreak, QLCS, multicell, elevated convection, synoptic vs. mesoscale setup).
+   - **MvmtFeatures**: measurable storm-motion/track characteristics (speed, direction, turning, propagation, deviant motion, etc.).
+
+2. **Check which is more “upstream” in the physical chain**
+   - A given **scenario** is largely set by the larger-scale environment: wind profile, forcing, storm mode, boundary orientation, Corfidi vectors, etc.
+   - Those ingredients strongly **constrain storm motion and evolution**, which is exactly what movement features summarize.
+
+3. **Assess whether movement features could plausibly determine the scenario**
+   - Movement features are typically **diagnostics/observations** derived after storms form and move.
+   - While motion can be *informative* for classifying a scenario, it doesn’t usually *create* the underlying synoptic/mesoscale regime. At most, it’s a cue used by analysts, not a physical cause.
+
+4. **Most likely causal direction**
+   - The **Scenario** (environmental/storm-mode regime) leads to characteristic **MvmtFeatures**.
+
+<Answer>B</Answer>

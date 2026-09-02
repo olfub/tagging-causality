@@ -1,0 +1,48 @@
+driver_attribute: GoodStudent, Age, SocioEcon, RiskAversion, DrivQuality, DrivingSkill, SeniorTrain, DrivHist
+vehicle_attribute: VehicleYear, RuggedAuto, MakeModel, Antilock, CarValue, AntiTheft, Cushioning, Airbag
+behavior: GoodStudent, RiskAversion, DrivQuality, DrivingSkill, Mileage, DrivHist
+risk_factor: GoodStudent, Age, RiskAversion, DrivQuality, Mileage, HomeBase, DrivHist
+skill: GoodStudent, DrivQuality, DrivingSkill, SeniorTrain
+training: GoodStudent, SeniorTrain
+academic: GoodStudent, SeniorTrain
+demographic: Age, SocioEcon, HomeBase
+personal: Age, SocioEcon, RiskAversion, HomeBase
+experience: Age, SeniorTrain, DrivHist
+life_stage: Age
+age_related: SeniorTrain
+financial: SocioEcon, ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost, CarValue
+wealth: SocioEcon, CarValue
+decision: SocioEcon, MakeModel, AntiTheft
+attitude: RiskAversion
+preventive: RiskAversion, Antilock, AntiTheft, Airbag
+vehicle_spec: VehicleYear, RuggedAuto, MakeModel, Antilock, Cushioning, Airbag
+car_related: VehicleYear, ThisCarDam, RuggedAuto, MakeModel, Mileage, Antilock, ThisCarCost, Theft, CarValue
+car_age: VehicleYear
+value_indicator: VehicleYear, MakeModel, CarValue
+observable: VehicleYear, MakeModel, Mileage, Antilock, AntiTheft, Airbag, OtherCar, DrivHist
+outcome: ThisCarDam, Accident, ThisCarCost, Theft, PropCost, OtherCarCost, MedCost, ILiCost
+physical_damage: ThisCarDam, Accident
+accident_consequence: ThisCarDam, OtherCar
+severity: ThisCarDam, Accident, Cushioning
+claim_related: ThisCarDam, ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+safety: RuggedAuto, Antilock, AntiTheft, Cushioning, Airbag
+crash_protection: RuggedAuto, Cushioning, Airbag
+physical_property: RuggedAuto, Cushioning
+event: Accident, Theft
+causal: Accident, DrivQuality, DrivingSkill
+road_incident: Accident, OtherCar
+performance: DrivQuality, DrivingSkill
+usage: Mileage, OtherCar
+exposure: Mileage, OtherCar
+ability: DrivingSkill
+cost: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+monetary: ThisCarCost, PropCost, OtherCarCost, MedCost, CarValue
+crime: Theft, HomeBase, AntiTheft
+loss: Theft
+external_risk: Theft
+location: HomeBase
+environment: HomeBase
+property: PropCost
+third_party: OtherCarCost, OtherCar, MedCost, ILiCost
+liability: ILiCost
+history: DrivHist

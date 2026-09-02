@@ -1,0 +1,21 @@
+
+
+# Identifying Variables Caused by PBC
+
+## Step-by-step reasoning
+
+**PBC (Primary Biliary Cirrhosis/Cholangitis)** is a chronic autoimmune liver disease. Based on the HEPAR2 network structure and medical domain knowledge, I need to identify its direct effects.
+
+1. **Fibrosis** – PBC progressively damages bile ducts, leading to liver fibrosis.
+2. **Hyperbilirubinemia** – Bile duct destruction causes elevated bilirubin levels.
+3. **Fatigue** – A hallmark symptom of PBC.
+4. **Itching** – Pruritus due to bile acid accumulation is a classic PBC symptom.
+5. **Phosphatase** – Elevated alkaline phosphatase is a key diagnostic marker.
+6. **AMA** – Anti-mitochondrial antibodies are the serological hallmark of PBC.
+7. **LE cells** – Associated with the autoimmune nature of PBC.
+8. **Joints** – Joint pain/arthralgia linked to autoimmune comorbidity.
+9. **Skin** – Skin manifestations (e.g., xanthomas, hyperpigmentation).
+
+These are all well-established direct clinical consequences or markers of PBC.
+
+<Answer>fibrosis, hyperbilirubinemia, fatigue, itching, phosphatase, ama, le_cells, joints, skin</Answer>

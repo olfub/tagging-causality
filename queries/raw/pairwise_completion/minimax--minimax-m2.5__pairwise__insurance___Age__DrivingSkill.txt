@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Define the variables**  
+   - *Age* is a chronological variable that increases over time for every person.  
+   - *DrivingSkill* is a measure of how well a person can drive, which depends on experience, physical abilities, cognitive functions, training, etc.
+
+2. **Consider the direction of influence**  
+   - As people get older they typically gain more driving experience (which can improve skill) but also may experience declines in vision, reaction time, etc. (which can reduce skill). In either case, the change in *Age* leads to a change in *DrivingSkill*.  
+   - The reverse direction (DrivingSkill causing Age) would imply that becoming a better driver makes a person older or younger. There is no plausible mechanism by which a person's driving ability could alter the passage of time or their chronological age.
+
+3. **Assess plausibility**  
+   - Age → DrivingSkill is consistent with many empirical findings (e.g., younger drivers have higher crash rates, older drivers may have declining skills).  
+   - DrivingSkill → Age lacks any known causal mechanism and is therefore highly implausible.
+
+4. **Conclusion**  
+   The more likely causal relationship is that **Age causes DrivingSkill**.
+
+<Answer>A</Answer>

@@ -1,0 +1,12 @@
+Risk_Factor: Asia, Smoking
+Disease: Tuberculosis, Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer
+Observable: X-ray, Dyspnoea
+Behavior: Smoking
+Geographic: Asia
+Infectious: Tuberculosis
+Neoplasm: Lung Cancer
+Airway: Bronchitis
+Parenchymal: Tuberculosis, Lung Cancer
+Deterministic: Either Tuberculosis or Lung Cancer
+Imaging: X-ray
+Symptom: Dyspnoea

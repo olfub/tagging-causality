@@ -1,0 +1,15 @@
+Lifestyle Factor:smoke,asia
+Medical Condition:tub,lung,bronc,dysp
+Diagnostic Test:xray
+Symptom:dysp
+Risk Factor:smoke,asia
+Disease:tub,lung,bronc
+Effect of Disease:xray,dysp,either
+Composite Variable:either
+Pulmonary Disease:tub,lung,bronc
+Observable Result:xray,dysp
+Location-Based Risk:asia
+Behavioral Risk:smoke
+Chronic Condition:lung,bronc
+Infectious Disease:tub
+Imaging Result:xray

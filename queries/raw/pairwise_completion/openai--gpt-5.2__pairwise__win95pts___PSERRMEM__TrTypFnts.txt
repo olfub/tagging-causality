@@ -1,0 +1,16 @@
+1) **Interpret the terms**
+- **PSERRMEM** is most plausibly a **PostScript “error: memory”** condition (the printer/PostScript interpreter runs out of available memory while processing a job).
+- **TrTypFnts** is most plausibly shorthand for **TrueType Fonts** handling in the Windows 95 printer driver settings (e.g., how TrueType fonts are sent to the printer: downloaded as outlines/Type 42, converted, substituted, etc.).
+
+2) **Typical Windows 95 printing behavior**
+- In Windows 95, when printing to a PostScript printer, the driver often **downloads fonts** (including TrueType fonts) to the printer as part of the job, depending on settings and the document’s font usage.
+- Downloading many/large fonts (or converting TrueType to PostScript outlines) can **increase the PostScript job size and the printer’s memory consumption**.
+
+3) **Causal direction that fits real-world failure modes**
+- If **TrueType font downloading/handling is aggressive** (many fonts, complex fonts, “download as outline,” etc.), it can **push the printer over its memory limit**, producing **PSERRMEM**.
+- The reverse direction (“PSERRMEM causes TrTypFnts”) doesn’t fit as well: a PostScript out-of-memory error is an *outcome* of resource exhaustion; it doesn’t typically *cause* the driver setting/condition “TrueType Fonts” to occur.
+
+4) **Most likely cause-and-effect**
+- **TrTypFnts → PSERRMEM** is the more plausible relationship.
+
+<Answer>B</Answer>

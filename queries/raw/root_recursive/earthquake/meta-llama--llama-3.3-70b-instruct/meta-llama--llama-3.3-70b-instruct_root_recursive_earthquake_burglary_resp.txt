@@ -1,0 +1,13 @@
+To solve this, let's analyze the given causal relationships step by step:
+
+1. Earthquake and burglary are not affected by any other variable, meaning they are independent causes.
+2. The given causal relationships are:
+   - Earthquake causes alarm
+   - Earthquake causes johncalls
+   - Earthquake causes marycalls
+
+There are no direct or indirect causal relationships mentioned that link burglary to any other variable as a cause. Thus, we are looking for variables that are caused by burglary, but according to the information provided, there are no such variables mentioned in the causal relationships.
+
+Therefore, based on the information given, there are no variables caused by burglary.
+
+<Answer></Answer>

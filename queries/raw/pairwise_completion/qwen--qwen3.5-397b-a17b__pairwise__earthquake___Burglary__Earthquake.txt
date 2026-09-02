@@ -1,0 +1,18 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Analyze the nature of an Earthquake.**
+An earthquake is a geological event caused by the sudden release of energy in the Earth's lithosphere, typically due to tectonic plate movement, volcanic activity, or fault slips. This process involves massive amounts of energy and occurs deep within the Earth's crust.
+
+**Step 2: Analyze the nature of a Burglary.**
+A burglary is a human criminal act involving illegal entry into a building with the intent to commit a crime, usually theft. The physical actions involved (breaking windows, picking locks, moving objects) occur on a very small scale and involve minimal energy compared to geological processes.
+
+**Step 3: Evaluate "Burglary causes Earthquake" (Option A).**
+For a burglary to cause an earthquake, the physical actions of the burglar would need to trigger a seismic event. There is no scientific mechanism by which breaking into a building or moving items inside can generate the force necessary to shift tectonic plates or cause fault lines to slip. Therefore, this relationship is scientifically impossible.
+
+**Step 4: Evaluate "Earthquake causes Burglary" (Option B).**
+When an earthquake occurs, it often causes structural damage, power outages, and chaos. Residents may be forced to evacuate their homes, security systems may fail, and law enforcement is typically diverted to rescue and emergency response efforts. These conditions create opportunities for crimes such as burglary or looting. Historical data from disaster zones often shows an increase in property crime following major seismic events. Therefore, this relationship is sociologically and logically plausible.
+
+**Conclusion:**
+Based on geological physics and sociological patterns, an earthquake can create the conditions that lead to burglaries, but burglaries cannot cause earthquakes.
+
+<Answer>B</Answer>

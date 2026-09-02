@@ -1,0 +1,13 @@
+Event: Burglary, Earthquake, Alarm
+NaturalCause: Earthquake
+HumanCause: Burglary
+Device: Alarm
+HumanResponse: JohnCalls, MaryCalls
+RootCause: Burglary, Earthquake
+Observable: JohnCalls, MaryCalls, Alarm
+Hidden: Burglary, Earthquake
+Trigger: Burglary, Earthquake
+Effect: Alarm, JohnCalls, MaryCalls
+Communication: JohnCalls, MaryCalls
+Security: Burglary, Alarm
+Intermediate: Alarm

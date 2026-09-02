@@ -1,0 +1,32 @@
+# Step-by-Step Causal Reasoning
+
+## Step 1: Understand the Variables
+
+In hail forecasting contexts:
+- **AMInstabMt** = Morning/AM Atmospheric Instability in Mountains (a physical atmospheric condition)
+- **InsInMt** = Instability Index in Mountains (a calculated/derived measurement)
+
+## Step 2: Consider the Temporal Order
+
+- Atmospheric instability conditions (AMInstabMt) exist as physical phenomena in the atmosphere
+- Instability indices (InsInMt) are calculated metrics derived from observed atmospheric conditions
+- Physical conditions must exist before they can be measured and converted into indices
+
+## Step 3: Consider the Logical Flow in Meteorology
+
+In weather forecasting:
+1. Raw atmospheric observations are collected first (temperature, humidity, pressure profiles)
+2. These observations determine the actual instability state (AMInstabMt)
+3. Instability indices (InsInMt) are then computed from these observations
+4. Indices are used to predict severe weather outcomes (like hail)
+
+## Step 4: Evaluate Causal Direction
+
+- **Option A**: Physical instability conditions → Instability Index (makes logical sense)
+- **Option B**: Instability Index → Physical instability conditions (doesn't make sense - indices don't create physical conditions)
+
+## Step 5: Conclusion
+
+The morning atmospheric instability (AMInstabMt) is the underlying physical condition that determines what the instability index (InsInMt) will be. The index is a measurement/derivation of the actual condition, not a cause of it.
+
+<Answer>A</Answer>

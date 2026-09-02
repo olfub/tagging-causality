@@ -1,0 +1,13 @@
+To solve this problem, we need to analyze the given causal relationships and identify which variables are directly or indirectly caused by "lung".
+
+1. **Direct Causes from lung**: From the given relationships, we know that "smoke" causes "lung" and "bronc". However, we are looking for what is caused by "lung", not what causes "lung". So, we look at the variables that "lung" directly influences.
+
+2. **Variable "either"**: It is mentioned that "asia" causes "tub" and "either". However, "either" is also dependent on "lung" because "either" represents whether the patient has tuberculosis or lung cancer. Thus, "lung" directly influences "either".
+
+3. **Variable "xray"**: Although the direct relationship between "lung" and "xray" is not explicitly mentioned, it can be inferred that having lung cancer ("lung") could lead to a positive chest X-ray ("xray"), as X-rays are a common diagnostic tool for lung conditions. However, this relationship is not explicitly stated in the problem, so based strictly on the information provided, we cannot conclude "xray" is caused by "lung" without assuming additional relationships not given.
+
+4. **Variable "dysp"**: Similar to "xray", "dysp" (shortness of breath) could be a symptom of lung cancer, but the problem does not explicitly state that "lung" causes "dysp". The causal relationship between "lung" and symptoms like "dysp" is implied in a medical context but not directly stated here.
+
+Given these considerations and strictly adhering to the information provided without making assumptions beyond it, the variable directly caused by or related to "lung" is "either", as it is the only one explicitly connected to "lung" in the provided causal relationships.
+
+<Answer>either</Answer>

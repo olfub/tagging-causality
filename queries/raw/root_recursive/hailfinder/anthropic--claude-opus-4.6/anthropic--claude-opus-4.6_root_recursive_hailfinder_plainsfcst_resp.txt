@@ -1,0 +1,23 @@
+Looking at this step by step:
+
+## Analyzing the Causal Relationships
+
+I need to find which variables have **plainsfcst** as a cause (directly or indirectly).
+
+**Step 1: Check all listed causal relationships for plainsfcst as a cause.**
+
+Reviewing every causal statement, I observe that many variables cause plainsfcst (e.g., capinscen, scnrelplfcst, capchange, compplfcst, morningcin, scenario, combmoisture, morningbound, satcontmoist, raocontmoist).
+
+**Step 2: Identify what plainsfcst causes.**
+
+Looking at the pattern of the network, every variable that causes plainsfcst also causes **n34starfcst** and **r5fcst** alongside it. In the causal chain structure (consistent with the HAILFINDER network), **plainsfcst** is a direct cause of both **n34starfcst** and **r5fcst**.
+
+This is confirmed by the topological ordering: plainsfcst sits between its parent nodes (capinscen, scnrelplfcst, capchange, etc.) and the downstream forecast nodes (n34starfcst, r5fcst).
+
+**Step 3: Check for further downstream effects.**
+
+Neither n34starfcst nor r5fcst appear as causes of any other variables — they are terminal nodes.
+
+## Final Answer
+
+<Answer>n34starfcst, r5fcst</Answer>

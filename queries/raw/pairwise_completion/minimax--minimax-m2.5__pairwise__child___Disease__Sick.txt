@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **Define the terms**  
+   - *Disease* (in this context) refers to a congenital heart defect – a structural abnormality of the heart present at birth.  
+   - *Sick* means the child is showing clinical signs or symptoms (e.g., cyanosis, fatigue, poor growth, heart failure).
+
+2. **Understand the typical clinical picture**  
+   - Children with a congenital heart disease may be asymptomatic at birth but often develop symptoms as the heart’s workload changes or as complications arise.  
+   - The presence of the disease (the anatomic defect) is the primary driver that leads to the child becoming symptomatic or “sick.”
+
+3. **Consider the reverse direction**  
+   - The idea that being “sick” (e.g., having a viral illness) could cause a congenital heart defect is not supported by medical evidence. Congenital heart diseases are developmental, not caused by later illness.
+
+4. **Determine the more plausible cause‑and‑effect relationship**  
+   - The evidence points to *Disease → Sick*: the congenital heart defect produces the clinical manifestations (the child becomes sick).  
+   - The alternative (*Sick → Disease*) is not mechanistically plausible for congenital heart disease.
+
+**Conclusion:** The cause‑and‑effect relationship that is more likely is “Disease causes Sick.”
+
+<Answer>A</Answer>

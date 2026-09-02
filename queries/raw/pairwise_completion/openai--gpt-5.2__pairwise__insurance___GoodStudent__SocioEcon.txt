@@ -1,0 +1,27 @@
+### Step-by-step causal reasoning
+
+1. **Interpret the variables**
+   - **SocioEcon** typically represents socioeconomic status (family income, parental education, neighborhood resources, etc.).
+   - **GoodStudent** typically represents academic performance/standing (e.g., good grades, honor roll), often used in auto insurance pricing as a proxy for responsibility.
+
+2. **Check plausibility of A: `GoodStudent → SocioEcon`**
+   - Being a “good student” can affect *future* earnings and thus *future* socioeconomic status for that individual.
+   - But in most insurance datasets, **SocioEcon is measured as current family/household SES**, especially for teen/young drivers, and **GoodStudent is also measured contemporaneously** (current grades).
+   - In that common setting, it’s hard for current grades to cause current family SES (reverse is far more plausible).
+
+3. **Check plausibility of B: `SocioEcon → GoodStudent`**
+   - Socioeconomic status can causally influence academic performance via:
+     - access to better schools, tutoring, stable housing, nutrition, healthcare
+     - parental time/resources and educational support
+     - safer environments and reduced stressors
+   - This is a well-supported and direct causal pathway.
+
+4. **Think like a risk modeler (confounding and measurement)**
+   - SocioEcon can be a **common cause** of both:
+     - **GoodStudent** (through the pathways above), and
+     - driving-related outcomes (vehicle type, exposure, neighborhood risk, supervision, etc.).
+   - This makes it especially important to recognize SES as upstream of student status, not the other way around, in typical observational data.
+
+**Conclusion:** The more likely causal direction is **SocioEcon causes GoodStudent**.
+
+<Answer>B</Answer>

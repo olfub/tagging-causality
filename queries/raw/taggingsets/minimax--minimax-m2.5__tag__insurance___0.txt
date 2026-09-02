@@ -1,0 +1,11 @@
+Demographics: Age, SeniorTrain, SocioEcon
+InsuranceStatus: GoodStudent
+RiskBehavior: RiskAversion, DrivQuality, DrivingSkill, DrivHist
+VehicleAttributes: VehicleYear, MakeModel, RuggedAuto, Antilock, Airbag, Cushioning
+VehicleDamage: ThisCarDam, ThisCarCost
+IncidentHistory: Accident, Theft
+OtherParty: OtherCar, OtherCarCost
+SecurityDevices: AntiTheft
+Location: HomeBase
+MedicalExpenses: MedCost, ILiCost
+FinancialLoss: PropCost, CarValue

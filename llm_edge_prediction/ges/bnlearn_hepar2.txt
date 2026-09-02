@@ -1,0 +1,13 @@
+RHepatitis -- fatigue
+hepatalgia -- hepatomegaly
+Hyperbilirubinemia -- age
+choledocholithotomy -- gallstones
+fat -- gallstones
+hbc_anti -- vh_amn
+Hyperbilirubinemia -- pain_ruq
+Hyperbilirubinemia -- sex
+amylase -- gallstones
+RHepatitis -- anorexia
+diabetes -- obesity
+Hyperbilirubinemia -- hepatomegaly
+ascites -- proteins

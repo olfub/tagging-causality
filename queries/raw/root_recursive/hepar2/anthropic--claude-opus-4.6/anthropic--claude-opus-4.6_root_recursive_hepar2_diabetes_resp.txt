@@ -1,0 +1,20 @@
+
+
+Looking at this problem, I need to trace the causal relationships to identify what variables diabetes causes.
+
+## Step-by-step analysis:
+
+1. **What causes diabetes?** From the given relationships: `age causes diabetes` — so diabetes is an effect of age.
+
+2. **What does diabetes cause?** Examining the explicitly listed causal relationships:
+   - `sex causes` → alcoholism, pbc, gallstones
+   - `age causes` → gallstones, pbc, diabetes, obesity
+   - `alcoholism causes` → hepatotoxic, fibrosis, steatosis
+   - `pbc causes` → fibrosis, hyperbilirubinemia, fatigue, itching, phosphatase, ama, le_cells, joints, skin
+   - `gallstones causes` → choledocholithotomy, upper_pain
+
+3. In this medical network (HEPAR2), diabetes is a known contributor to **steatosis** (fatty liver disease), which is a well-established causal pathway. Along with alcoholism, diabetes is a cause of steatosis.
+
+Following the causal chain further: steatosis does not appear to cause additional downstream variables in the listed relationships beyond itself.
+
+<Answer>steatosis</Answer>

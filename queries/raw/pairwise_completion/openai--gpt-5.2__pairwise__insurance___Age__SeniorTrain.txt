@@ -1,0 +1,16 @@
+1. **Define the variables in a car insurance context**
+   - **Age**: an inherent attribute of the driver (chronological age).
+   - **SeniorTrain**: a program indicator (e.g., whether the driver completed a senior/older-driver safety training course).
+
+2. **Check temporal/biological plausibility**
+   - A person’s **Age** exists before (and independent of) enrolling in any training program.
+   - Completing **SeniorTrain** cannot make someone older or younger; it doesn’t alter chronological age.
+
+3. **Consider typical eligibility/selection mechanisms**
+   - “Senior” training is usually **targeted to or required for older drivers** (often above a certain age threshold), meaning **Age influences the likelihood of SeniorTrain**.
+
+4. **Causal direction conclusion**
+   - **Age → SeniorTrain** is plausible and common.
+   - **SeniorTrain → Age** is not plausible.
+
+<Answer>A</Answer>

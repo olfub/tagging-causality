@@ -1,0 +1,13 @@
+
+
+Looking at this step by step:
+
+1. We are told that **anxiety, peer_pressure, genetics, born_an_even_day, and allergy** are root (exogenous) variables — they are not affected by any other variable.
+
+2. The causal relationships listed are: **"Currently none."**
+
+3. Since there are **no causal relationships defined** in this graph, genetics does not cause any other variable.
+
+There are no variables caused by genetics.
+
+<Answer></Answer>

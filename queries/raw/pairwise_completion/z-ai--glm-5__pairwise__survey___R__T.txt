@@ -1,0 +1,24 @@
+To determine the most likely cause-and-effect relationship, let's analyze the concepts from a demographic and logical perspective.
+
+**Step 1: Define the concepts.**
+*   **Residence:** This refers to a person's fixed place of living (home, dwelling). In demographic terms, this is a static state or a "stock" variable. It is the origin point of an individual's daily life.
+*   **Travel:** This refers to the movement of people between locations. In demographic and transport terms, this is a flow or activity. It typically implies a temporary movement away from a fixed point with an expectation of return (e.g., commuting, tourism).
+
+**Step 2: Analyze the relationship "Residence causes Travel."**
+*   **Logical Precedence:** One must have a location to start from before one can travel. Residence provides the origin and the anchor for travel activities.
+*   **Demographic Determinants:** The location of a person's residence is a primary determinant of their travel patterns. For example, where someone lives determines their commute distance to work, their access to transportation networks, and their proximity to services like grocery stores or schools.
+*   **Necessity:** The existence of a residence creates the necessity for travel (to work, to shop, to socialize) and provides the base to which the traveler returns. Without a residence, movement is typically classified as migration or nomadism, not standard "travel."
+
+**Step 3: Analyze the relationship "Travel causes Residence."**
+*   **Definition Constraint:** Travel implies temporary movement. If travel leads to a change in living location, it is technically defined as **migration**, not just travel.
+*   **Exceptions vs. Rules:** While a person might travel to a new city and decide to move there (making the travel a precursor to a new residence), this is a specific scenario (migration) rather than a general rule.
+*   **Reverse Causality in Planning:** While urban planners note that "travel demand" influences where residences are built, at the individual demographic level, the act of traveling does not inherently create a residence.
+
+**Step 4: Compare the likelihood.**
+*   Residence is the necessary pre-condition for standard travel behavior. You travel *from* where you reside. The attributes of the residence (location, type) dictate the nature of the travel.
+*   Therefore, the arrow of causality flows much more strongly from the fixed state (Residence) to the dynamic activity (Travel).
+
+**Conclusion:**
+Residence acts as the anchor and origin for activity. The decision of where to live dictates the patterns of how and where one travels. While travel can occasionally lead to a change in residence (migration), in general demographic behavior, residence is the cause that generates the travel demand.
+
+<Answer>A</Answer>

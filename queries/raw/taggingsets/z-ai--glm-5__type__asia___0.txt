@@ -1,0 +1,3 @@
+Risk Factor: Asia, Smoking
+Disease: Tuberculosis, Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer
+Observation: X-ray, Dyspnoea

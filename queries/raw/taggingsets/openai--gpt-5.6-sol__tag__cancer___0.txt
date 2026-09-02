@@ -1,0 +1,7 @@
+Risk factor: Pollution, Smoker
+Environmental exposure: Pollution
+Behavioral exposure: Smoker
+Disease state: Cancer
+Disease indicator: Xray, Dyspnoea
+Imaging finding: Xray
+Respiratory symptom: Dyspnoea

@@ -1,0 +1,6 @@
+ExogenousFactor: Burglary, Earthquake
+NaturalEvent: Earthquake
+HumanCrime: Burglary
+MediatingSensor: Alarm
+EndogenousNode: Alarm, JohnCalls, MaryCalls
+BehavioralResponse: JohnCalls, MaryCalls

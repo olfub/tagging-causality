@@ -1,0 +1,15 @@
+1. Interpret the variables in a Windows 95 networking/printer context:  
+   - **NtwrkCnfg** = the network is configured (protocols, client, bindings, IP/subnet or DHCP, workgroup, etc.).  
+   - **NetOK** = the network is functioning correctly (you can see other machines, reach the server/print share, browse Network Neighborhood, etc.).
+
+2. Consider the causal direction during troubleshooting:  
+   - In Windows 95, you generally **set or fix the network configuration first** (install/bind TCP/IP or IPX/SPX, correct settings, reboot), and **then** you verify whether the network works.  
+   - If configuration is wrong or missing, the network typically won’t be “OK” (no connectivity, can’t browse, can’t connect to shared printers).
+
+3. Evaluate each proposed relationship:  
+   - **A. NetOK causes NtwrkCnfg**: This would mean “the network being OK makes the configuration happen,” which is backwards—network health doesn’t normally create or correct configuration.  
+   - **B. NtwrkCnfg causes NetOK**: Correct configuration is a prerequisite that often leads to the network working properly.
+
+Therefore, the more likely cause-and-effect relationship is:
+
+<Answer>B</Answer>

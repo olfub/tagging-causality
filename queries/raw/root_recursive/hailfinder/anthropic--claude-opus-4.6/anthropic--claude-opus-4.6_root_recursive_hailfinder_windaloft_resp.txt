@@ -1,0 +1,20 @@
+
+
+Looking at this step by step:
+
+1. First, I need to identify if `windaloft` appears on the **left side** (as a cause) of any causal relationship listed.
+
+2. Reviewing all the causal relationships provided:
+   - `satcontmoist causes ... windaloft ...`
+   - `raocontmoist causes ... windaloft ...`
+   - `combmoisture causes ... windaloft ...`
+
+   In all these cases, `windaloft` appears as an **effect** (right side), not as a cause.
+
+3. Checking every listed causal relationship for `windaloft` as a cause: `satcontmoist`, `raocontmoist`, `morningbound`, `date`, `scenario`, `morningcin`, `amdewptcalpl`, `combmoisture`, `compplfcst`, `capchange`, `inschange`, `scnrelplfcst`, `capinscen`, `inssclinscen`, `plainsfcst`, `n34starfcst` — none of these is `windaloft`.
+
+4. `windaloft` is also listed as a root variable ("not affected by any other variable" is not stated for it — it is an effect of other variables), but it does **not** cause any other variable according to the given causal relationships.
+
+**No variables are caused by `windaloft`.**
+
+<Answer></Answer>

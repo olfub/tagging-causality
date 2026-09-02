@@ -1,0 +1,17 @@
+To determine the cause-and-effect relationship between the options provided, let's analyze them step by step:
+
+1. **Understanding the Conditions:**
+   - **Tuberculosis (TB)** is a bacterial infection that primarily affects the lungs but can spread to other parts of the body. It's known for causing symptoms like coughing, weight loss, and fever.
+   - **Lung Cancer** refers to the uncontrolled growth of abnormal cells in one or both lungs, which can lead to symptoms such as persistent cough, chest pain, and difficulty breathing.
+   - **X-ray** is an imaging test used to diagnose various conditions by taking pictures of the inside of the body, including the lungs.
+
+2. **Analyzing the First Option (A): Either Tuberculosis or Lung Cancer causes X-ray.**
+   - This option suggests that having either Tuberculosis or Lung Cancer would cause an X-ray to be taken. In medical practice, when a patient shows symptoms of a lung condition, such as coughing or chest pain, a healthcare provider might order an X-ray as part of the diagnostic process to examine the lungs more closely. Therefore, it's plausible that the presence of lung conditions (Tuberculosis or Lung Cancer) could lead to the use of X-ray as a diagnostic tool.
+
+3. **Analyzing the Second Option (B): X-ray causes Either Tuberculosis or Lung Cancer.**
+   - This option implies that undergoing an X-ray would cause either Tuberculosis or Lung Cancer. X-rays are a diagnostic tool that uses low levels of radiation to produce images of the inside of the body. While high doses of radiation over time can increase the risk of cancer, a single or occasional X-ray does not directly cause diseases like Tuberculosis (which is caused by a bacterial infection) or Lung Cancer in the sense of immediate causation. The risk of developing cancer from an X-ray is related to long-term exposure and is a topic of concern in medical imaging, but it does not directly cause existing conditions like TB or Lung Cancer in the way this option suggests.
+
+4. **Conclusion:**
+   - Based on the analysis, the first option (A) is more logical. Tuberculosis and Lung Cancer are conditions that might lead to the use of an X-ray for diagnosis, not the other way around. X-rays are used to help diagnose these conditions, not cause them.
+
+<Answer>A</Answer>

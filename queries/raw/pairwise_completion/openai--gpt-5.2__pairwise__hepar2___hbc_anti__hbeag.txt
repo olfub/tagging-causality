@@ -1,0 +1,15 @@
+1. **Interpret the variables (HBV serology):**  
+   - **hbeag** = hepatitis B *e* antigen, a **viral protein** produced during active HBV replication (a marker of higher viral replication/infectivity).  
+   - **hbc_anti** = antibody to hepatitis B core antigen (anti‑HBc), an **immune response marker** indicating HBV exposure/infection.
+
+2. **Basic causal biology:**  
+   Viral antigens (like **HBeAg**) appear because the virus is present and replicating. Antibodies (like **anti‑HBc**) arise **downstream** as the host immune system responds to infection.
+
+3. **Compare the proposed directions:**  
+   - **A. hbc_anti → hbeag**: An antibody causing a viral antigen to appear is biologically implausible; if anything, antibodies tend to **neutralize/clear** virus rather than induce antigen production.  
+   - **B. hbeag → hbc_anti**: While **HBeAg does not specifically “cause” anti‑HBc** (anti‑HBc is directed at core antigen), the *presence of viral antigens/active infection* is upstream of developing HBV antibodies. So this direction is **much more consistent** with immune response causality.
+
+4. **Important nuance:**  
+   The most accurate causal structure is that **HBV infection/replication causes both** HBeAg positivity and anti‑HBc positivity. But **between the two options**, B aligns better with biology.
+
+<Answer>B</Answer>

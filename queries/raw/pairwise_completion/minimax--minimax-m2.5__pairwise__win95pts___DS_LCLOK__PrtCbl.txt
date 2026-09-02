@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the symbols**  
+   - *DS_LCLOK* – In Windows 95 printer‑related diagnostics this typically stands for “Data‑Set Lost Clock” (or “Device‑Status Lost Clock”). It indicates that the parallel‑port clock signal from the printer is missing.  
+   - *PrtCbl* – Short for “Printer Cable”. It denotes a problem with the physical cable or the connection between the PC and the printer.
+
+2. **Typical hardware behavior**  
+   - The PC’s parallel‑port hardware monitors the printer’s clock line (used in IEEE‑1284 nibble‑mode communication).  
+   - If the cable is broken, loose, or otherwise faulty, the clock line cannot be maintained, so the system records a *DS_LCLOK* error.  
+
+3. **Causality direction**  
+   - A faulty cable (PrtCbl) → loss of the clock signal → *DS_LCLOK* (symptom).  
+   - The reverse (DS_LCLOK → PrtCbl) would imply that a missing clock signal somehow creates a cable problem, which is not how hardware works; the clock loss is a consequence, not a cause.
+
+4. **Conclusion**  
+   - The more plausible cause‑and‑effect relationship is that the printer‑cable issue leads to the “lost clock” status, i.e., **PrtCbl causes DS_LCLOK**.
+
+<Answer>B</Answer>

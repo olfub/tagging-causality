@@ -1,0 +1,16 @@
+To determine the variables caused by `ast`, we need to examine the provided causal relationships to see if `ast` appears as a cause (on the left side of a relationship).
+
+1.  **Analyze the given causal relationships:**
+    *   `sex` causes `pbc`, `alcoholism`, `obesity`.
+    *   `alcohol` causes `steatosis`, `fibrosis`, `cirrhosis`, `ggtp`, `ast`, `triglycerides`, `cholesterol`, `hepatotoxic`, `thepatitis`, `chhepatitis`.
+    *   `fibrosis` causes `cirrhosis`.
+
+2.  **Identify the role of `ast`:**
+    *   From the second relationship, we see that `alcohol` causes `ast`. This makes `ast` an effect of `alcohol`.
+    *   We look for any statement starting with `ast causes...` or where `ast` is the parent node.
+
+3.  **Conclusion:**
+    *   There are no relationships listed where `ast` is the cause.
+    *   Therefore, `ast` does not cause any other variable in the provided set.
+
+<Answer></Answer>

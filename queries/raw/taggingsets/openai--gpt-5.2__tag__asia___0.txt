@@ -1,0 +1,13 @@
+TravelRegion: Asia
+InfectiousDisease: Tuberculosis
+LifestyleExposure: Smoking
+Malignancy: Lung Cancer
+ChronicRespiratoryCondition: Bronchitis
+CompositeDiseaseIndicator: Either Tuberculosis or Lung Cancer
+ImagingTest: X-ray
+RespiratorySymptom: Dyspnoea
+RespiratoryDisease: Tuberculosis, Lung Cancer, Bronchitis
+SmokingRelatedOutcome: Lung Cancer, Bronchitis
+UpstreamExogenousFactor: Asia, Smoking
+DownstreamClinicalFinding: X-ray, Dyspnoea
+SeriousUnderlyingDisease: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer

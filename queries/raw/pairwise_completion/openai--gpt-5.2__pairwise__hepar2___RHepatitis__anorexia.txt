@@ -1,0 +1,18 @@
+### Step-by-step causal reasoning
+
+1. **Clarify what each term represents**
+   - **RHepatitis**: A form of hepatitis (liver inflammation/injury). Regardless of the specific subtype, hepatitis generally implies hepatic inflammation and impaired liver function.
+   - **Anorexia**: Loss of appetite (a symptom/sign), not the eating disorder “anorexia nervosa” unless specified.
+
+2. **Check whether hepatitis commonly produces anorexia**
+   - Hepatitis frequently causes **systemic symptoms** such as **fatigue, nausea, malaise, and anorexia**.
+   - Mechanistically, liver inflammation and cholestasis can lead to cytokine-mediated “sickness behavior,” altered metabolism, nausea, and reduced appetite.
+
+3. **Check whether anorexia commonly produces hepatitis**
+   - Simple loss of appetite **does not typically cause hepatitis**.
+   - While severe malnutrition can contribute to liver dysfunction in some contexts, that is not the usual or direct causal pathway to “hepatitis,” and it would be an atypical inference compared with the well-known symptom profile of hepatitis.
+
+4. **Most plausible direction**
+   - The common, clinically expected relationship is: **hepatitis → anorexia**, not the reverse.
+
+<Answer>A</Answer>

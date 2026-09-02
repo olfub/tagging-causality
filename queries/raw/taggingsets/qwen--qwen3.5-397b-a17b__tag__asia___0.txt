@@ -1,0 +1,5 @@
+RiskFactor: Asia, Smoking
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+CompositeVariable: Either Tuberculosis or Lung Cancer
+DiagnosticTest: X-ray
+Symptom: Dyspnoea

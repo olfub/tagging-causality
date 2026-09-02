@@ -1,0 +1,13 @@
+Demographic:A,S,E,O,R
+Socioeconomic Status:E,O,R
+Biological:A,S
+Behavioral:T,O
+Geographic:R,T,O
+Background:A,S,E,R
+Lifestyle:T,O,R
+Modifiable:E,O,R,T
+Non-modifiable:A,S
+Categorical:S,O,R,T
+Ordinal:E,A
+Temporal:A,T
+Environment:R,O

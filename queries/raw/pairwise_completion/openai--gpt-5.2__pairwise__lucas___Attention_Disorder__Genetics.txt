@@ -1,0 +1,13 @@
+1. **Check temporal/biological plausibility**  
+   - **Genetics** (inherited DNA variants) are present from conception.  
+   - An **attention disorder** (e.g., ADHD) is a neurodevelopmental/clinical phenotype that emerges during development and is influenced by many factors.
+
+2. **Assess whether the effect could plausibly cause the proposed cause**  
+   - For **Attention_Disorder → Genetics** to be true, having an attention disorder would need to *change inherited genetic variants* in a way that explains “Genetics.” That’s not how genetics works (ignoring rare, non-inherited somatic mutations, which wouldn’t constitute “Genetics” as a cause of the disorder at population level).
+
+3. **Evaluate known evidence patterns**  
+   - Attention disorders show **heritability** and associations with many genetic loci; genetics is a well-established contributing cause (alongside environment).
+
+Therefore, the more likely causal direction is:
+
+<Answer>B</Answer>

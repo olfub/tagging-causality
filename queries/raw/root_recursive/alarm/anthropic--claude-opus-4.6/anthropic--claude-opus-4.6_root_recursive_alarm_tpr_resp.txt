@@ -1,0 +1,30 @@
+
+
+# Variables Caused by TPR
+
+Looking at this problem, I need to trace the causal effects of **tpr** through the network.
+
+## Identifying TPR's Direct Effects
+
+Based on the ALARM network structure (which this problem represents), **tpr** (total peripheral resistance) directly causes:
+- **catechol** (TPR influences catecholamine release)
+- **bp** (TPR directly affects blood pressure, along with cardiac output)
+
+## Tracing Downstream Effects
+
+**Through catechol:**
+- catechol → **hr** (catecholamines affect heart rate)
+- hr → **co** (heart rate affects cardiac output)
+- hr → **hrekg** (heart rate appears on EKG monitor)
+- hr → **hrsat** (heart rate affects oxygen saturation readings)
+- co → **bp** (cardiac output affects blood pressure — already captured)
+- bp → **hrbp** (blood pressure feeds into HR/BP ratio)
+
+**Through bp directly:**
+- bp → **hrbp** (already captured)
+
+## Verification
+
+This matches the pattern seen with **insuffanesth**, which also causes catechol as its first downstream effect and shares the exact same set of descendants: {catechol, hr, hrekg, hrsat, co, bp, hrbp}.
+
+<Answer>catechol, hr, hrekg, hrsat, co, bp, hrbp</Answer>

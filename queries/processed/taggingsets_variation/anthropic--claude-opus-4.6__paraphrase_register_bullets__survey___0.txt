@@ -1,0 +1,15 @@
+biological:A,S
+innate:A,S
+fixed-at-birth:S
+time-varying:A,E,O,R,T
+demographic:A,S,E,O,R
+socioeconomic:E,O,R
+human-capital:E,O
+choice-based:E,O,R,T
+location-related:R,T
+behavioral:T
+upstream-cause:A,S
+skill-related:E,O
+continuous-temporal:A
+geographic:R,T
+outcome-like:T

@@ -1,0 +1,31 @@
+liver_disease: THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, carcinoma, vh_amn, Hyperbilirubinemia
+hepatitis: THepatitis, ChHepatitis, RHepatitis, vh_amn
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, edema, bleeding, flatulence, anorexia, nausea, jaundice, hepatalgia, encephalopathy, ascites
+physical_sign: skin, spiders, palms, hepatomegaly, spleen, edge, irregular_liver, density, consciousness
+lab_test: bilirubin, triglycerides, phosphatase, proteins, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, albumin, fat
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+autoimmune_marker: ama, le_cells
+liver_enzyme: alt, ast, ggtp, phosphatase
+liver_function: bilirubin, albumin, proteins, inr, platelet
+demographic: sex, age
+risk_factor: alcoholism, alcohol, obesity, diabetes, hepatotoxic, injections, transfusion, surgery, hospital, sex
+infection_route: injections, transfusion, sex, hospital, surgery
+substance_use: alcohol, alcoholism, hepatotoxic
+metabolic: diabetes, obesity, triglycerides, cholesterol, Steatosis, fat
+biliary: gallstones, choledocholithotomy, phosphatase, ggtp, bilirubin, Hyperbilirubinemia, jaundice, PBC
+pain_related: upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia
+portal_hypertension: ascites, spleen, edema, spiders, encephalopathy, bleeding
+coagulation: inr, platelet, bleeding
+gastrointestinal: flatulence, anorexia, nausea, gallstones
+skin_manifestation: skin, spiders, palms, jaundice, itching
+procedure: surgery, choledocholithotomy, injections, transfusion
+abdominal_finding: hepatomegaly, spleen, ascites, density, edge, irregular_liver, pressure_ruq, pain_ruq
+chronic_condition: ChHepatitis, Cirrhosis, fibrosis, PBC, Steatosis, alcoholism, diabetes, obesity
+complication: Cirrhosis, carcinoma, encephalopathy, ascites, bleeding, Hyperbilirubinemia
+liver_palpation: hepatomegaly, hepatalgia, density, edge, irregular_liver
+protein_marker: albumin, proteins
+inflammatory_marker: ESR, le_cells
+pancreatic: amylase
+blood_marker: platelet, ESR, urea
+outcome: Cirrhosis, carcinoma, fibrosis
+exposure: hospital, hepatotoxic, alcohol

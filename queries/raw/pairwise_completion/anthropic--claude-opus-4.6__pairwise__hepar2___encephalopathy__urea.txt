@@ -1,0 +1,20 @@
+
+
+## Step-by-Step Reasoning
+
+**Step 1: Understanding Urea**
+Urea is a metabolic waste product formed by the liver during protein breakdown. It circulates in the blood and is normally excreted by the kidneys.
+
+**Step 2: Understanding Encephalopathy**
+Encephalopathy is a broad term referring to brain dysfunction or disease, which can have many causes (toxic, metabolic, infectious, etc.).
+
+**Step 3: Known Medical Relationship**
+- When kidney function declines, urea (and other toxins) accumulate in the blood — a condition called **uremia**.
+- Elevated urea levels are a well-established cause of **uremic encephalopathy**, where the buildup of urea and related toxins leads to brain dysfunction (confusion, altered consciousness, seizures, etc.).
+- Similarly, in **hepatic encephalopathy**, the liver fails to convert ammonia to urea properly, but the underlying mechanism still involves toxic metabolic byproducts affecting the brain.
+
+**Step 4: Determining Causal Direction**
+- Elevated urea (a biochemical substance) → leads to encephalopathy (a clinical condition). ✅
+- Encephalopathy causing urea doesn't align with known pathophysiology. Encephalopathy is a *consequence*, not a cause of elevated urea.
+
+<Answer>B</Answer>

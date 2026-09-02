@@ -1,0 +1,19 @@
+To determine which variables are caused by `marycalls`, we need to examine the causal relationships described in the prompt.
+
+1.  **Analyze the given causal relationships:**
+    *   `burglary` causes `alarm`.
+    *   `earthquake` causes `alarm`, `johncalls`, and `marycalls`.
+
+2.  **Determine the direction of causality:**
+    *   Since `earthquake` causes `marycalls`, the causality flows from `earthquake` $\rightarrow$ `marycalls`.
+    *   `marycalls` is an effect, not a cause, in this relationship.
+
+3.  **Search for effects of `marycalls`:**
+    *   We look for any statement indicating that `marycalls` causes another variable.
+    *   The provided text does not state that `marycalls` causes `alarm`, `johncalls`, `burglary`, or `earthquake`.
+    *   Therefore, `marycalls` does not cause any other variable in this specific model.
+
+4.  **Conclusion:**
+    *   There are no variables caused by `marycalls`.
+
+<Answer>None</Answer>

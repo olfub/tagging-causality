@@ -1,0 +1,3 @@
+Since the problem states that there are currently no causal relationships defined, it is not possible to determine which variables are caused by prtmem. Therefore, no variables can be selected based on the given information.
+
+<Answer></Answer>

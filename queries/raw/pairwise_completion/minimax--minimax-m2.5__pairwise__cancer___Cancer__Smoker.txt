@@ -1,0 +1,11 @@
+**Step‑by‑step reasoning**
+
+1. **Temporality**: To infer causality, the presumed cause must precede the effect. Lung cancer is diagnosed after a person has been smoking for some time; the onset of cancer occurs later than the habit of smoking.
+2. **Strength of association**: Epidemiology consistently shows a strong dose‑response relationship: the more a person smokes (higher pack‑years), the greater the risk of developing lung cancer.
+3. **Biological plausibility**: Cigarette smoke contains carcinogens (e.g., benzo[a]pyrene, nitrosamines) that cause DNA damage in lung tissue, leading to malignant transformation.
+4. **Consistency**: The link between smoking and lung cancer is observed across many populations, study designs, and time periods.
+5. **Alternative explanations**: While other factors (e.g., asbestos exposure, genetic predisposition) can also influence lung cancer risk, they do not explain the high incidence of lung cancer in smokers relative to non‑smokers.
+
+Given the above evidence, the direction of causality is clear: **being a smoker increases the risk of developing lung cancer**. Therefore, the cause‑and‑effect relationship “Smoker causes Cancer” (option B) is the one supported by scientific evidence.
+
+<Answer>B</Answer>

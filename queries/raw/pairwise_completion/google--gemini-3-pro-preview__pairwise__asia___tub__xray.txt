@@ -1,0 +1,25 @@
+To determine the correct cause-and-effect relationship, let's analyze the nature of both Tuberculosis and X-rays in a medical context.
+
+**Step 1: Define the terms.**
+*   **Tuberculosis (TB):** An infectious disease caused by the bacterium *Mycobacterium tuberculosis*. It primarily affects the lungs.
+*   **X-ray:** A form of medical imaging used to visualize the inside of the body, particularly bones and the chest cavity.
+
+**Step 2: Analyze Option A (Tuberculosis causes X-ray).**
+*   How do they relate? When a patient has Tuberculosis, they often present symptoms like coughing, fever, or weight loss.
+*   These symptoms prompt a doctor to order diagnostic tests.
+*   The primary diagnostic tool for checking the condition of the lungs is a chest X-ray.
+*   Therefore, the presence of the disease (Tuberculosis) triggers the action of taking an image (X-ray). While the disease doesn't physically create the machine or the radiation, it is the *causal factor* for the X-ray procedure being performed.
+
+**Step 3: Analyze Option B (X-ray causes Tuberculosis).**
+*   Can an X-ray cause an infection? Tuberculosis is caused specifically by a bacterium.
+*   X-rays are a form of ionizing radiation. While excessive radiation can cause cellular damage or increase cancer risk, it cannot spontaneously generate complex bacteria like *Mycobacterium tuberculosis*.
+*   Therefore, undergoing an X-ray cannot give a patient Tuberculosis.
+
+**Step 4: Conclusion.**
+The relationship is one of medical necessity and diagnosis. The existence of the disease leads to the procedure.
+*   A patient gets TB -> The doctor orders an X-ray. (Likely causal chain).
+*   A patient creates bacteria because of radiation. (Impossible).
+
+Thus, the presence of Tuberculosis is the cause for the X-ray to happen.
+
+<Answer>A</Answer>

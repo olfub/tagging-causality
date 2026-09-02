@@ -1,0 +1,12 @@
+risk_factor:asia,smoke
+travel_history:asia
+behavioral_exposure:smoke
+disease:tub,lung,bronc
+pulmonary_condition:tub,lung,either,bronc
+infectious_disease:tub
+malignancy:lung
+airway_inflammation:bronc
+composite_condition:either
+diagnostic_test:xray
+clinical_observation:xray,dysp
+symptom:dysp

@@ -1,0 +1,18 @@
+1. **Define the variables**
+   - **Accident**: the occurrence of a crash/claim event.
+   - **ILiCost**: Injury Liability Cost (payout/claimed cost associated with bodily injury liability).
+
+2. **Check the natural temporal order**
+   - An **accident happens first**, then any **injury liability payments** (medical, settlements, legal costs) are determined and paid afterward.
+   - So the timeline strongly supports **Accident → ILiCost**.
+
+3. **Mechanism plausibility**
+   - **Accident → ILiCost**: Direct mechanism: a crash can injure third parties, generating bodily injury liability costs.
+   - **ILiCost → Accident**: Hard to justify as a real-world causal mechanism. The cost is a consequence/measurement of severity after an event, not something that typically makes a crash occur.
+
+4. **Confounding vs causation**
+   - It’s true that underlying factors (driver riskiness, exposure, environment) can increase both accident probability and expected costs, but that’s **shared causes**, not **ILiCost causing Accident**.
+
+Therefore, the more likely cause-and-effect relationship is:
+
+<Answer>A</Answer>

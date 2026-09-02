@@ -1,0 +1,29 @@
+vertical_motion: N0_7muVerMo, SubjVertMo, QGVertMotion, CombVerMo
+moisture: SatContMoist, RaoContMoist, CombMoisture, AreaMoDryAir, Dewpoints, MeanRH, RHRatio, LoLevMoistAd, AMDewptCalPl
+cloud_cover: VISCloudCov, IRCloudCover, CombClouds
+cloud_shading: CldShadeOth, CldShadeConv
+instability: AMInstabMt, InsInMt, InsChange, InsSclInScen, AMInsWliScen, ScenRelAMIns, LIfr12ZDENSd, LLIW
+convective_inhibition: MorningCIN, AMCINInScen, ScenRelAMCIN, LatestCIN, CapChange, CapInScen
+wind: WndHodograph, OutflowFrMt, WindAloft, WindFieldMt, WindFieldPln, SfcWndShfDis
+boundary: MorningBound, Boundaries, OutflowFrMt
+forecast_output: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst, ScnRelPlFcst
+scenario_related: Scenario, ScenRelAMCIN, ScenRelAMIns, ScenRel3_4, AMCINInScen, CapInScen, InsSclInScen, AMInsWliScen
+combined_variable: CombVerMo, CombMoisture, CombClouds
+mountain_region: AMInstabMt, InsInMt, OutflowFrMt, MountainFcst, WindFieldMt
+plains_region: PlainsFcst, CompPlFcst, ScnRelPlFcst, WindFieldPln
+temperature: TempDis, LowLLapse, MidLLapse
+lapse_rate: LowLLapse, MidLLapse
+synoptic_scale: SynForcng, QGVertMotion, N0_7muVerMo
+mesoscale: AreaMeso_ALS, AreaMoDryAir, MvmtFeatures
+observation: VISCloudCov, IRCloudCover, SatContMoist, RaoContMoist, LIfr12ZDENSd, AMDewptCalPl, Dewpoints, MeanRH, MidLLapse, LowLLapse, TempDis, SfcWndShfDis, WindAloft
+derived_quantity: CombVerMo, CombMoisture, CombClouds, CapChange, InsChange, LoLevMoistAd, LatestCIN, CurPropConv
+temporal_context: Date, MorningBound, MorningCIN
+convective_potential: CurPropConv, CompPlFcst, PlainsFcst, MountainFcst, N34StarFcst, R5Fcst
+upper_air: WindAloft, MidLLapse, N0_7muVerMo, QGVertMotion, WndHodograph
+surface: SfcWndShfDis, Dewpoints, MorningBound, Boundaries, TempDis
+morning_measurement: MorningCIN, MorningBound, AMInstabMt, AMDewptCalPl, AMCINInScen, AMInsWliScen
+change_variable: CapChange, InsChange, LoLevMoistAd
+relative_to_scenario: ScenRelAMCIN, ScenRelAMIns, ScenRel3_4, ScnRelPlFcst, AMCINInScen, CapInScen, InsSclInScen, AMInsWliScen
+atmospheric_feature: MvmtFeatures, SynForcng, Boundaries, MorningBound
+wind_field: WindFieldMt, WindFieldPln, WindAloft
+humidity: MeanRH, RHRatio, Dewpoints, AMDewptCalPl

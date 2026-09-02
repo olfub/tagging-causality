@@ -1,0 +1,4 @@
+Demographic trait:A,S
+Socioeconomic attainment:E,O
+Location:R
+Behavior:T

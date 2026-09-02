@@ -1,0 +1,22 @@
+Looking at this problem, I need to identify which variables are causally affected by "burglary" in what appears to be the classic Alarm Bayesian network.
+
+**Step-by-step reasoning:**
+
+1. **Understanding the network structure**: This is the classic Alarm network with variables: Burglary, Earthquake, Alarm, JohnCalls, and MaryCalls.
+
+2. **Root nodes**: Burglary and Earthquake are stated to not be affected by any other variable (they are root nodes).
+
+3. **Standard causal relationships in the Alarm network**:
+   - Burglary → Alarm (burglary can trigger the alarm)
+   - Earthquake → Alarm (earthquake can trigger the alarm)
+   - Alarm → JohnCalls (alarm can cause John to call)
+   - Alarm → MaryCalls (alarm can cause Mary to call)
+
+4. **Variables caused by Burglary**:
+   - **Alarm**: Directly caused by Burglary
+   - **JohnCalls**: Indirectly caused by Burglary (through Alarm)
+   - **MaryCalls**: Indirectly caused by Burglary (through Alarm)
+
+5. **Earthquake**: Not caused by Burglary (it's an independent root node)
+
+<Answer>alarm,johncalls,marycalls</Answer>

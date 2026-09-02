@@ -1,0 +1,1 @@
+["drivhist", "drivingskill", "drivquality", "ruggedauto", "carvalue", "mileage", "makemodel", "homebase", "vehicleyear"]

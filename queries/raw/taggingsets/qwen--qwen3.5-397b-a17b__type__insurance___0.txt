@@ -1,0 +1,4 @@
+DriverTrait: Age, DrivHist, DrivQuality, DrivingSkill, GoodStudent, HomeBase, RiskAversion, SeniorTrain, SocioEcon
+VehicleFeature: Airbag, AntiTheft, Antilock, CarValue, Cushioning, MakeModel, Mileage, RuggedAuto, VehicleYear
+IncidentEvent: Accident, OtherCar, Theft, ThisCarDam
+FinancialCost: ILiCost, MedCost, OtherCarCost, PropCost, ThisCarCost

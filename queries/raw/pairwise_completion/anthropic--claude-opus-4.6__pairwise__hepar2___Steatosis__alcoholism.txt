@@ -1,0 +1,17 @@
+
+
+## Step-by-step reasoning:
+
+1. **Steatosis** (fatty liver disease) is a condition where excess fat accumulates in liver cells.
+
+2. **Alcoholism** (chronic excessive alcohol consumption) is a behavioral/substance use disorder.
+
+3. It is well-established in medical literature that chronic alcohol consumption disrupts normal liver metabolism — specifically, it impairs fatty acid oxidation, increases lipogenesis, and promotes fat accumulation in hepatocytes.
+
+4. **Alcoholic steatosis** (alcoholic fatty liver) is recognized as the earliest and most common stage of **alcoholic liver disease (ALD)**. It can progress to steatohepatitis, fibrosis, and eventually cirrhosis.
+
+5. The reverse direction — steatosis causing someone to develop alcoholism — has no established biological or behavioral mechanism.
+
+6. Therefore, **alcoholism is the cause**, and **steatosis is the effect**.
+
+<Answer>B</Answer>

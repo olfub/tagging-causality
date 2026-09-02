@@ -1,0 +1,18 @@
+
+
+# Identifying Variables Caused by Pulmembolus
+
+## Step-by-Step Reasoning
+
+**Step 1:** Pulmembolus (pulmonary embolism) is identified as a root node — it is not affected by any other variable.
+
+**Step 2:** I need to determine its direct causal effects based on medical/physiological reasoning and the structure of this causal network (which corresponds to the well-known ALARM network).
+
+**Step 3:** A pulmonary embolus is a sudden blockage in the pulmonary arteries. Its direct physiological consequences are:
+
+- **pap (pulmonary artery pressure):** A blockage in the pulmonary arteries directly increases the blood pressure in those arteries (pulmonary hypertension).
+- **shunt:** A pulmonary embolus blocks blood flow through part of the lung, causing a mismatch where blood bypasses functional gas exchange areas, effectively creating a shunt.
+
+**Step 4:** Other variables like sao2, pvsat, etc., may be *indirectly* affected (downstream), but the **direct** causal children of pulmembolus are pap and shunt.
+
+<Answer>pap, shunt</Answer>

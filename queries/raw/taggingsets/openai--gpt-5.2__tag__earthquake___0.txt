@@ -1,0 +1,8 @@
+external_event: Burglary,Earthquake
+crime_event: Burglary
+natural_disaster: Earthquake
+alarm_system_signal: Alarm
+alarm_dependent: Alarm,JohnCalls,MaryCalls
+witness_call: JohnCalls,MaryCalls
+john_specific: JohnCalls
+mary_specific: MaryCalls

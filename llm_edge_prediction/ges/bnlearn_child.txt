@@ -1,0 +1,12 @@
+Disease -- LungFlow
+Disease -- DuctFlow
+CO2 -- LungParench
+Disease -- LungParench
+Age -- Sick
+Disease -- LVH
+LVH -- LVHreport
+CO2 -- CO2Report
+BirthAsphyxia -- Disease
+Age -- Disease
+Disease -- Sick
+CardiacMixing -- Disease

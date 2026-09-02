@@ -1,0 +1,29 @@
+**Step‑by‑step reasoning**
+
+1. **Pathophysiology of gallstones**  
+   - Gallstones (especially cholesterol stones) form when bile becomes supersaturated with cholesterol.  
+   - This supersaturation is promoted by factors that increase cholesterol secretion into bile or impair gallbladder emptying.
+
+2. **Effect of dietary fat**  
+   - A high‑fat diet stimulates gallbladder contraction and increases the amount of cholesterol secreted into bile.  
+   - Consequently, chronic high‑fat intake raises the risk of cholesterol supersaturation and stone formation.
+
+3. **Epidemiologic evidence**  
+   - Obesity, rapid weight loss, and high‑fat diets are well‑documented risk factors for developing gallstones.  
+   - Numerous cohort and case‑control studies show a positive association between high-fat intake and gallstone incidence.
+
+4. **Reverse direction (gallstones → fat)**  
+   - Gallstones can obstruct the biliary tree and cause fat malabsorption (steatorrhea) only when they lodge in the common bile duct.  
+   - This obstruction leads to *weight loss*, not increased fat consumption or obesity.  
+   - There is no credible mechanism by which the mere presence of gallstones would cause a person to eat more fat.
+
+5. **Temporal relationship**  
+   - Exposure to high‑fat feeding precedes the development of gallstones (often by months to years).  
+   - Gallstones are usually incidental findings and do not precede dietary changes that increase fat intake.
+
+6. **Conclusion**  
+   - The causal direction supported by pathophysiology, epidemiology, and temporality is **fat → gallstones**.
+
+Therefore, the more plausible cause‑and‑effect relationship is **A. fat causes gallstones**.
+
+<Answer>A</Answer>

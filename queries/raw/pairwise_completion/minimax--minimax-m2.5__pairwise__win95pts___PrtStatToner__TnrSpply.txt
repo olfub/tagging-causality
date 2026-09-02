@@ -1,0 +1,16 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the variables**  
+   - *PrtStatToner* = the printer status that reports the toner level (e.g., “toner low” or “toner OK”).  
+   - *TnrSpply* = the actual amount of toner still present in the cartridge (the physical supply).
+
+2. **Determine the plausible direction of causation**  
+   - The printer’s status reading is derived from a sensor or driver that measures the *actual* toner amount.  
+   - If the toner supply is low, the status will indicate a low‑toner condition.  
+   - The reverse (the status *causing* the amount of toner to change) does not make sense in normal operation; the status is a *result* of the supply, not the cause of it.
+
+3. **Conclusion**  
+   - The cause is the physical toner supply (*TnrSpply*), and the effect is the reported printer status (*PrtStatToner*).  
+   - Therefore, the more likely causal relationship is **“TnrSpply causes PrtStatToner.”**
+
+<Answer>B</Answer>

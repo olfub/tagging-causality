@@ -1,0 +1,22 @@
+
+
+report: LVHreport, CO2Report, XrayReport, GruntingReport
+true_physiological_state: CO2, ChestXray, Grunting, LVH
+cardiac: LVH, LVHreport, DuctFlow, CardiacMixing
+pulmonary: LungParench, LungFlow, Grunting, GruntingReport, CO2, CO2Report, ChestXray, XrayReport
+oxygenation: HypDistrib, HypoxiaInO2, LowerBodyO2, RUQO2
+etiology: BirthAsphyxia, Disease
+hemodynamic: DuctFlow, CardiacMixing, LungFlow, HypDistrib
+patient_characteristic: Age, BirthAsphyxia
+clinical_outcome: Sick
+symptom: Grunting, GruntingReport, Sick
+blood_gas: CO2, CO2Report, HypoxiaInO2, LowerBodyO2, RUQO2
+pathophysiology: DuctFlow, CardiacMixing, LungParench, LungFlow, HypDistrib, HypoxiaInO2
+imaging: ChestXray, XrayReport
+neonatal: BirthAsphyxia, Age, Disease, Sick
+measurement: CO2, LowerBodyO2, RUQO2, LVH, ChestXray, Grunting
+disease_mechanism: Disease, DuctFlow, CardiacMixing, LungParench, LungFlow
+upstream_cause: BirthAsphyxia, Disease, Age
+downstream_observable: LVHreport, CO2Report, XrayReport, GruntingReport, Sick, LowerBodyO2, RUQO2
+intermediate_process: DuctFlow, CardiacMixing, LungParench, LungFlow, HypDistrib, HypoxiaInO2
+oxygen_measurement: LowerBodyO2, RUQO2, HypoxiaInO2

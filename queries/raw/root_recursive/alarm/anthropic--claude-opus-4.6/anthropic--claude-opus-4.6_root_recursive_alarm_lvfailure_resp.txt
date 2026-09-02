@@ -1,0 +1,21 @@
+
+
+# Variables Caused by `lvfailure`
+
+## Step-by-Step Reasoning
+
+**What does `lvfailure` represent?**
+Left ventricular failure — the left ventricle cannot pump blood effectively.
+
+**What physiological quantities would be directly affected?**
+
+1. **`lvedvolume` (LV end-diastolic volume):** When the left ventricle fails, it cannot eject blood properly. This causes blood to accumulate in the ventricle, directly increasing the end-diastolic volume. → **Caused by `lvfailure`** ✓
+
+2. **`strokevolume` (stroke volume):** A failing left ventricle directly reduces the volume of blood pumped per contraction. → **Caused by `lvfailure`** ✓
+
+**Ruling out other variables as direct effects of `lvfailure`:**
+- Variables like `co`, `bp`, `pcwp`, `pap`, etc. are downstream consequences but are mediated through `strokevolume` and `lvedvolume` — they are not *directly* caused by `lvfailure`.
+- Variables like `history`, `hypovolemia`, `anaphylaxis`, etc. are listed as exogenous (not affected by any variable), so they cannot be caused by `lvfailure`.
+- Ventilation-related and monitoring-related variables have no direct physiological link to LV failure itself.
+
+<Answer>lvedvolume, strokevolume</Answer>

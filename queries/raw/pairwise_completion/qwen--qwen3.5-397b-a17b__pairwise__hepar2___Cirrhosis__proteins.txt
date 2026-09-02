@@ -1,0 +1,34 @@
+## Step-by-Step Analysis
+
+### Step 1: Understanding Cirrhosis
+Cirrhosis is a chronic liver disease where healthy liver tissue is replaced with scar tissue. It results from long-term liver damage caused by factors like:
+- Alcohol abuse
+- Viral hepatitis (B, C)
+- Non-alcoholic fatty liver disease
+- Autoimmune conditions
+
+### Step 2: Understanding the Liver-Protein Relationship
+The liver is responsible for producing many essential proteins, including:
+- Albumin (maintains blood volume)
+- Clotting factors (for blood coagulation)
+- Transport proteins
+
+### Step 3: Evaluating Option A (Cirrhosis → Proteins)
+When cirrhosis develops:
+- Liver function declines
+- Protein synthesis is impaired
+- Blood protein levels change (e.g., decreased albumin, altered clotting factors)
+
+**This direction has medical validity** - cirrhosis affects protein production and levels.
+
+### Step 4: Evaluating Option B (Proteins → Cirrhosis)
+- Proteins themselves do not cause cirrhosis
+- There is no known causal pathway where proteins lead to liver scarring
+- Cirrhosis is caused by liver damage, not by proteins
+
+**This direction lacks medical validity.**
+
+### Step 5: Conclusion
+While the wording "Cirrhosis causes proteins" is imprecise (it would be more accurate to say "Cirrhosis affects protein production/levels"), the causal direction in Option A is medically correct. Cirrhosis impacts protein metabolism, not the reverse.
+
+<Answer>A</Answer>

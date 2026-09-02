@@ -1,0 +1,17 @@
+To determine which variables are caused by `jaundice`, we must examine the provided causal relationships to see if `jaundice` appears as a causal factor (on the left side of the "causes" relationship) for any other variable.
+
+1.  **Analyze the provided causal relationships:**
+    *   `sex` causes `pbc`, `ama`, `alcoholism`.
+    *   `pbc` causes `fibrosis`, `cirrhosis`, `bilirubin`, `phosphatase`, `cholesterol`, `itching`, `fatigue`, `jaundice`, `hepatomegaly`, `spleen`, `ascites`, `edema`, `spiders`, `palms`, `albumin`, `proteins`, `platelet`, `inr`, `carcinoma`, `density`, `esr`, `ggtp`, `alt`, `ast`, `hepatalgia`, `pain`, `upper_pain`, `pain_ruq`, `pressure_ruq`, `anorexia`, `nausea`, `flatulence`, `bleeding`, `encephalopathy`, `consciousness`, `urea`, `irregular_liver`, `edge`, `skin`, `joints`, `triglycerides`.
+    *   `cirrhosis` causes `ascites`, `edema`, `encephalopathy`, `bleeding`, `inr`, `platelet`, `spleen`, `jaundice`, `bilirubin`, `albumin`, `proteins`, `spiders`, `palms`, `carcinoma`, `irregular_liver`, `density`, `edge`, `hepatomegaly`, `consciousness`, `urea`, `hepatalgia`, `pain`, `upper_pain`, `pain_ruq`, `pressure_ruq`, `anorexia`, `nausea`, `flatulence`.
+
+2.  **Search for `jaundice` as a cause:**
+    *   In the first relationship, `sex` is the cause. `jaundice` is not involved.
+    *   In the second relationship, `pbc` is the cause. `jaundice` is listed as an *effect* (one of the variables caused by `pbc`), not a cause itself.
+    *   In the third relationship, `cirrhosis` is the cause. `jaundice` is listed as an *effect* (one of the variables caused by `cirrhosis`), not a cause itself.
+
+3.  **Conclusion:**
+    *   There are no statements in the provided text where `jaundice` acts as a cause for any other variable.
+    *   Therefore, based on the given information, `jaundice` does not cause any of the listed variables.
+
+<Answer></Answer>

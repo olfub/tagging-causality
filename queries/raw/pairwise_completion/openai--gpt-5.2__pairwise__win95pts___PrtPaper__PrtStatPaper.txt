@@ -1,0 +1,16 @@
+1. Interpret the variables in a Windows 95 printer context:  
+   - **PrtPaper**: the *actual physical condition* of paper in the printer (paper present, loaded correctly, not empty/jammed).  
+   - **PrtStatPaper**: the *printer’s reported status* about paper (e.g., “Out of paper”, “Paper jam”, “Paper OK”) shown to Windows/spooler/UI.
+
+2. Consider the real-world mechanism:  
+   - The printer has sensors (paper-out sensor, feed sensor, jam detection).  
+   - Those sensors detect the **physical paper state** and then the printer firmware exposes a **status bit/message** that Windows reads.
+
+3. Direction of causality:  
+   - Changing the physical paper situation (remove paper, load paper, clear jam) will change what status is reported.  
+   - Merely changing the reported status in software doesn’t normally make paper appear/disappear; at most, it could be a stale/incorrect reading, but that’s not the typical causal direction.
+
+4. Therefore, the more likely cause-and-effect relationship is:  
+   **PrtPaper → PrtStatPaper**.
+
+<Answer>A</Answer>

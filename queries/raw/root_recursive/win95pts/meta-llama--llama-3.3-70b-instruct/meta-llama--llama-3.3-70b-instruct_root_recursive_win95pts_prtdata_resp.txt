@@ -1,0 +1,16 @@
+To find the variables caused by prtdata, let's analyze the given causal relationships step by step.
+
+1. **appok causes**: appdata, datafile, prtdata, prtdataout, prtsel, dsapplctn
+2. **netok causes**: netprint, prtcbl, prtport, ntwrkcnfg
+3. **lclok causes**: ds_lclok
+
+From the given relationships, we see that **prtdata** is caused by **appok**. Now, we need to find out which variables are directly or indirectly caused by **prtdata**.
+
+Given the direct causal relationships:
+- There is no direct relationship where **prtdata** causes another variable. However, we can infer indirect relationships.
+
+But since **prtdata** itself is caused by **appok** and there's no further causal relation provided where **prtdata** directly causes another variable, we need to be careful in our analysis. The question asks for variables "caused by **prtdata**," but in the provided relationships, **prtdata** does not directly cause any other variable.
+
+Thus, based on the information given, the answer to the question as phrased ("Select the variables that are caused by prtdata") would reflect that there are no variables directly caused by **prtdata** according to the provided causal relationships.
+
+<Answer></Answer>

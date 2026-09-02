@@ -1,0 +1,21 @@
+To determine the root nodes (variables unaffected by any other variables) in a causal graph for lung cancer, we must apply domain knowledge regarding the typical causal relationships associated with these specific factors.
+
+**Step 1: Analyze the Causal Relationships**
+
+*   **Pollution (<pollution>):** Environmental pollution is generally considered an external factor. While it might be correlated with location, within the context of this specific closed system (Pollution, Smoker, Cancer, Xray, Dyspnoea), it is not caused by smoking, cancer, x-rays, or dyspnoea. Therefore, it acts as a root or exogenous variable.
+*   **Smoker (<smoker>):** Smoking behavior is a lifestyle choice. While social factors influence it, none of the other variables in this list (pollution, cancer, x-ray, dyspnoea) *cause* a person to become a smoker (though a diagnosis might cause them to *stop*, the initial state is usually treated as a root cause in these standard Bayesian networks). Therefore, it acts as a root or exogenous variable.
+*   **Cancer (<cancer>):** Lung cancer is biologically caused by carcinogens. In this model, it is a downstream effect of both `<pollution>` and `<smoker>`. Therefore, it is *affected* by other variables.
+*   **Xray (<xray>):** An X-ray result is an observation/test used to detect cancer. It does not cause cancer, pollution, or smoking. It is *caused* by the presence of ` <cancer>`. Therefore, it is affected by other variables.
+*   **Dyspnoea (<dyspnoea>):** Dyspnoea (shortness of breath) is a symptom. It is physically *caused* by the presence of lung cancer (`<cancer>`). It is technically possible for pollution or smoking to cause it directly as well, but in the standard "Asia/Lung Cancer" Bayesian network structure, it is usually a child of Cancer. Regardless, it is an effect, not a root cause.
+
+**Step 2: Identify the Independent (Root) Variables**
+
+Based on the analysis above, the variables that initiate the causal chains and are not receiving arrows from other variables in this set are:
+1.  Pollution
+2.  Smoker
+
+**Step 3: Final Selection**
+
+The variables unaffected by any other variables are `<pollution>` and `<smoker>`.
+
+<Answer>pollution, smoker</Answer>

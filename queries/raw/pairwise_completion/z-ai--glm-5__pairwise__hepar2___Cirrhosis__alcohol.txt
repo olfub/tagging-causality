@@ -1,0 +1,19 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Define the medical conditions.**
+*   **Alcohol (specifically chronic and excessive consumption):** This is a behavior or exposure factor. In the context of liver health, it acts as a hepatotoxin—a substance that causes damage to the liver.
+*   **Cirrhosis:** This is a late-stage liver disease characterized by fibrosis (scarring) and poor liver function. It is the result of long-term, continuous damage to the liver.
+
+**Step 2: Analyze the biological mechanism.**
+When alcohol is metabolized by the liver, it produces harmful substances that can inflame and damage liver cells. Over years of heavy drinking, this ongoing damage leads to the destruction of healthy liver tissue, which is replaced by scar tissue. As the scarring progresses, it reaches the stage known as cirrhosis. This progression is medically termed "Alcoholic Liver Disease."
+
+**Step 3: Evaluate Option A (Cirrhosis causes alcohol).**
+This option suggests that the presence of liver scarring forces an individual to consume alcohol or biologically generates alcohol within the body. This contradicts medical science. While a person with cirrhosis may continue to drink, the disease itself is not the origin or cause of the alcohol consumption. This represents a reverse-causality fallacy.
+
+**Step 4: Evaluate Option B (Alcohol causes Cirrhosis).**
+This option aligns with established etiology. Chronic alcohol abuse is one of the leading causes of cirrhosis worldwide (alongside hepatitis B and C and non-alcoholic fatty liver disease). The causal link is direct and well-documented: the toxic exposure (alcohol) leads to the pathological outcome (cirrhosis).
+
+**Conclusion:**
+The biological pathway proceeds from the consumption of a toxic substance to the resulting organ damage. Therefore, alcohol causes cirrhosis.
+
+<Answer>B</Answer>

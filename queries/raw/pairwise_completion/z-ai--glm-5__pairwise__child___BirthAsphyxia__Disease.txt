@@ -1,0 +1,22 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Define the terms in the context of pediatric medicine.**
+*   **Disease:** In this context, "Disease" refers to Congenital Heart Disease (CHD). By definition, "congenital" means the condition is present at birth. Structural heart defects form during early fetal development (usually during the first trimester of pregnancy).
+*   **Birth Asphyxia:** This refers to a lack of oxygen (hypoxia) and blood flow to the baby during the birthing process or immediately after birth. This is an event that occurs at a specific point in time around delivery.
+
+**Step 2: Analyze Option A (BirthAsphyxia causes Disease).**
+*   Since Congenital Heart Disease develops during fetal development (weeks 3–8 of gestation), it exists *before* the birthing process begins.
+*   An event occurring at birth (asphyxia) cannot travel back in time to cause a structural defect that formed months earlier.
+*   Therefore, it is physiologically impossible for Birth Asphyxia to be the primary cause of a Congenital Heart Disease defect.
+
+**Step 3: Analyze Option B (Disease causes BirthAsphyxia).**
+*   Babies with severe Congenital Heart Disease often have compromised cardiovascular systems.
+*   During labor and delivery, the fetus undergoes physiological stress. A heart that is structurally abnormal may not be able to handle the stress of labor or the transition to breathing air after birth.
+*   If the heart cannot pump oxygenated blood effectively due to a defect, the baby can suffer from hypoxia (lack of oxygen).
+*   Consequently, infants born with Congenital Heart Disease are at a significantly higher risk of experiencing Birth Asphyxia. The pre-existing condition (Disease) leads to the complication (Birth Asphyxia).
+
+**Step 4: Conclusion.**
+*   The temporal relationship confirms that the Disease (Congenital Heart Disease) precedes the Birth Asphyxia.
+*   Clinically, CHD is a known risk factor for birth asphyxia.
+
+<Answer>B</Answer>

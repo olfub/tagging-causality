@@ -1,0 +1,38 @@
+## Step-by-Step Analysis
+
+### 1. Understanding the Conditions
+
+**Hyperbilirubinemia**: Elevated bilirubin levels in the blood, indicating impaired bilirubin metabolism or excretion.
+
+**Hepatomegaly**: Enlargement of the liver, typically due to inflammation, congestion, infiltration, or other pathological processes.
+
+### 2. Pathophysiological Relationship
+
+- **Bilirubin metabolism**: Bilirubin is processed by healthy liver cells (hepatocytes), conjugated, and excreted in bile
+- **Liver pathology**: When the liver is diseased or damaged, it often becomes enlarged (hepatomegaly) AND loses its ability to properly process bilirubin
+
+### 3. Causal Direction Analysis
+
+**Option A (Hyperbilirubinemia → Hepatomegaly)**:
+- Elevated bilirubin itself does not cause liver enlargement
+- Hyperbilirubinemia is a biochemical marker, not a structural cause
+- This direction is not supported by pathophysiology
+
+**Option B (Hepatomegaly → Hyperbilirubinemia)**:
+- Liver enlargement reflects underlying liver pathology (inflammation, congestion, infiltration)
+- These same pathological changes impair hepatocyte function
+- Impaired liver function leads to reduced bilirubin processing → hyperbilirubinemia
+- This follows the clinical disease progression
+
+### 4. Clinical Evidence
+
+In practice:
+- Liver diseases (hepatitis, cirrhosis, congestive hepatopathy) cause hepatomegaly first
+- As liver dysfunction progresses, bilirubin metabolism becomes impaired
+- Hyperbilirubinemia is considered a **consequence** of liver dysfunction, not a cause
+
+### 5. Important Caveat
+
+Both conditions are typically caused by an underlying liver pathology. However, in the causal chain, the structural/functional liver changes (manifesting as hepatomegaly) precede the metabolic consequence (hyperbilirubinemia).
+
+<Answer>B</Answer>

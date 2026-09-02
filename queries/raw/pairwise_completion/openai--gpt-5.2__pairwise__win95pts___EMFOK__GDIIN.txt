@@ -1,0 +1,6 @@
+1. In Windows 95 printing, applications typically render print output through **GDI** (Graphics Device Interface).  
+2. If GDI is initialized/engaged for a print job (what **GDIIN** plausibly indicates), the system can then generate an **EMF** (Enhanced Metafile) spool representation of the job (or otherwise validate EMF handling), which would correspond to **EMFOK** (“EMF OK”).  
+3. That ordering matches the usual dependency: **you don’t get a successful EMF creation/validation without GDI first producing the drawing output**.  
+4. The reverse (EMFOK causing GDIIN) is less plausible because “EMF OK” would be a downstream success state, not something that triggers GDI to start.
+
+<Answer>B</Answer>

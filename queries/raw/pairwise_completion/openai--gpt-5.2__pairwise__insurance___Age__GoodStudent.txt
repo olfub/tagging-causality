@@ -1,0 +1,12 @@
+1) **Check what each variable represents**
+- **Age**: a person’s chronological age.
+- **GoodStudent**: an indicator/attribute typically tied to being a student with good grades (often used for insurance discounts, usually among younger drivers).
+
+2) **Test the plausibility of each causal direction**
+- **A. Age → GoodStudent**: As people get older, the likelihood of being in school and eligible for a “good student” classification generally changes (e.g., it’s more common at teen/college ages and less common later). Age can therefore affect the probability of someone qualifying as a “GoodStudent.”
+- **B. GoodStudent → Age**: Being a good student cannot make someone older or younger. This direction violates basic temporal/physical constraints.
+
+3) **Consider real-world data-generating processes in insurance**
+- In auto insurance, “good student” discounts are often **restricted to certain age ranges** (e.g., under 25) and require grade criteria. That’s consistent with **Age influencing whether GoodStudent is even applicable/observed**.
+
+<Answer>A</Answer>

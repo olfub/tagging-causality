@@ -1,0 +1,23 @@
+## Step-by-Step Analysis
+
+**Step 1: Understanding the terms**
+- **Cirrhosis**: A chronic liver disease characterized by scarring (fibrosis) of liver tissue, leading to impaired liver function
+- **Edge**: In medical context, this refers to the "liver edge" - a physical examination finding where physicians palpate the border of the liver
+
+**Step 2: Understanding the relationship**
+- The liver edge is a **physical finding** that can be observed/felt during examination
+- Cirrhosis is a **disease process** that affects liver tissue structure
+
+**Step 3: Analyzing causality direction**
+- When cirrhosis develops, it causes structural changes in the liver (fibrosis, nodules, scarring)
+- These structural changes manifest as observable changes in the liver edge (becoming hard, irregular, nodular, or enlarged)
+- The liver edge itself is merely a **symptom/sign** of the underlying disease, not a cause
+
+**Step 4: Evaluating the options**
+- **Option A (Cirrhosis causes edge)**: Makes medical sense - the disease causes physical changes that can be detected as changes in the liver edge
+- **Option B (edge causes Cirrhosis)**: Does not make medical sense - a physical examination finding cannot cause a disease process
+
+**Step 5: Conclusion**
+The disease process (cirrhosis) causes the physical manifestation (changes in liver edge), not vice versa.
+
+<Answer>A</Answer>

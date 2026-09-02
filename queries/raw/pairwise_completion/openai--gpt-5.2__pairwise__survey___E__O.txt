@@ -1,0 +1,24 @@
+1. **Temporal order (what typically comes first):**  
+   In most life courses, people complete some level of **education before** entering stable, long-term **occupational roles** (e.g., finishing high school/college/trade training before taking a career-track job).
+
+2. **Mechanism (how one plausibly affects the other):**  
+   Education builds **skills, credentials, and human capital** that directly shape:
+   - eligibility for certain jobs (licensing/degree requirements),
+   - access to higher-status occupations,
+   - hiring and wage offers.  
+   This is a well-established pathway in demographic and labor economics research.
+
+3. **Strength and generality of the relationship:**  
+   Across populations, education is a broad determinant of occupational outcomes. While the reverse can happen, it is more conditional and less universal.
+
+4. **Reverse causality (Occupation → Education) exists but is typically secondary:**  
+   Occupation can influence education through:
+   - employer tuition benefits,
+   - income enabling further schooling,
+   - occupational requirements that prompt additional credentials.  
+   However, this usually describes **adult/continuing education** and is not the dominant overall pattern compared to education shaping initial and subsequent occupational opportunities.
+
+5. **Confounding considerations:**  
+   Factors like family background, ability, and local labor markets affect both education and occupation, but even accounting for these, the **primary causal direction** in standard demographic models remains **Education → Occupation**.
+
+<Answer>A</Answer>

@@ -1,0 +1,25 @@
+**Step‑by‑step reasoning**
+
+1. **What is cirrhosis?**  
+   - Cirrhosis is chronic scarring of the liver, usually due to long‑term injury (e.g., alcohol, viral hepatitis, fatty liver disease).  
+   - It disrupts normal liver architecture and function.
+
+2. **How does cirrhosis affect the circulation?**  
+   - The scarred liver resists blood flow, leading to **portal hypertension** (high pressure in the portal vein).  
+   - Portal hypertension forces blood to find alternative pathways (varices, splenomegaly).  
+   - The liver’s synthetic function declines → **reduced production of albumin** (a major plasma protein that maintains oncotic pressure).
+
+3. **How do these changes cause edema?**  
+   - Lower albumin → decreased plasma oncotic pressure → fluid leaks from capillaries into interstitial spaces → **edema** (often peripheral edema and ascites).  
+   - Portal hypertension also increases hydrostatic pressure in splanchnic capillaries, promoting fluid accumulation in the peritoneal cavity (ascites).  
+
+4. **Can edema cause cirrhosis?**  
+   - Edema is a symptom—a manifestation of underlying pathology (e.g., heart failure, kidney disease, low protein states).  
+   - There is no plausible physiological mechanism by which peripheral swelling or fluid overload directly damages the liver to produce fibrotic scarring.  
+   - While severe edema can reflect systemic issues that may secondarily affect the liver (e.g., hypoperfusion), it does not initiate the fibrotic changes that define cirrhosis.
+
+5. **Conclusion**  
+   - The causal direction supported by pathophysiology is **cirrhosis → edema** (option A).  
+   - Edema does not cause cirrhosis; it is a downstream effect of liver dysfunction.
+
+<Answer>A</Answer>

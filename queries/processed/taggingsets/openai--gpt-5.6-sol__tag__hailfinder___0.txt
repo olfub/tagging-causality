@@ -1,0 +1,51 @@
+Vertical motion:N0_7muVerMo,SubjVertMo,QGVertMotion,CombVerMo
+Subjective assessment:SubjVertMo,CurPropConv
+Quasigeostrophic:QGVertMotion
+Satellite derived:N0_7muVerMo,SatContMoist,VISCloudCov,IRCloudCover
+Combined product:CombVerMo,CombMoisture,CombClouds
+Spatial area:AreaMeso_ALS,AreaMoDryAir
+Mesoscale:AreaMeso_ALS,Boundaries,MvmtFeatures
+Moisture:SatContMoist,RaoContMoist,CombMoisture,AreaMoDryAir,LoLevMoistAd,AMDewptCalPl,Dewpoints,MeanRH,RHRatio
+Contiguous moisture:SatContMoist,RaoContMoist
+Radiosonde derived:RaoContMoist
+Dry air:AreaMoDryAir
+Cloud:VISCloudCov,IRCloudCover,CombClouds,CldShadeOth,CldShadeConv
+Cloud cover:VISCloudCov,IRCloudCover,CombClouds
+Visible imagery:VISCloudCov
+Infrared imagery:IRCloudCover
+Cloud shading:CldShadeOth,CldShadeConv
+Convection:CldShadeConv,CurPropConv,CompPlFcst,MountainFcst,PlainsFcst,N34StarFcst,R5Fcst
+Morning conditions:AMInstabMt,MorningBound,ScenRelAMCIN,MorningCIN,AMCINInScen,ScenRelAMIns,LIfr12ZDENSd,AMDewptCalPl,AMInsWliScen
+Instability:AMInstabMt,InsInMt,InsChange,ScenRelAMIns,LIfr12ZDENSd,AMInsWliScen,InsSclInScen,LLIW
+Mountain region:AMInstabMt,InsInMt,OutflowFrMt,MountainFcst,WindFieldMt
+Plains region:CompPlFcst,AMDewptCalPl,ScnRelPlFcst,PlainsFcst,WindFieldPln
+Wind:WndHodograph,SfcWndShfDis,WindAloft,WindFieldMt,WindFieldPln
+Hodograph:WndHodograph
+Boundary:OutflowFrMt,MorningBound,Boundaries,SfcWndShfDis
+Outflow:OutflowFrMt
+Forecast:CompPlFcst,MountainFcst,ScnRelPlFcst,PlainsFcst,N34StarFcst,R5Fcst
+Composite forecast:CompPlFcst
+Regional forecast product:N34StarFcst,R5Fcst
+N34 product:N34StarFcst
+R5 product:R5Fcst
+Cap:CapChange,CapInScen
+Temporal change:CapChange,InsChange
+Low level:LoLevMoistAd,LLIW,LowLLapse,SfcWndShfDis
+Advection:LoLevMoistAd
+Time index:Date
+Scenario:Scenario,ScenRelAMCIN,AMCINInScen,CapInScen,ScenRelAMIns,AMInsWliScen,InsSclInScen,ScenRel3_4,ScnRelPlFcst
+Scenario relative:ScenRelAMCIN,ScenRelAMIns,ScenRel3_4,ScnRelPlFcst
+Scenario input:AMCINInScen,CapInScen,AMInsWliScen,InsSclInScen
+Convective inhibition:ScenRelAMCIN,MorningCIN,AMCINInScen,LatestCIN
+Stability index:LIfr12ZDENSd,LLIW
+Dew point:AMDewptCalPl,Dewpoints
+Lapse rate:LowLLapse,MidLLapse
+Mid level:MidLLapse,MeanRH
+Relative humidity:MeanRH,RHRatio
+Ratio metric:RHRatio
+Feature movement:MvmtFeatures
+Surface wind shift:SfcWndShfDis
+Synoptic forcing:SynForcng
+Temperature distribution:TempDis
+Upper air:WindAloft,WndHodograph,RaoContMoist
+Wind field:WindFieldMt,WindFieldPln

@@ -1,0 +1,27 @@
+
+
+Looking at this medical causal system, I need to identify variables that serve as **root causes** — ones that no other variable in the system can influence.
+
+## Step-by-step reasoning:
+
+**Demographic/biological constants:**
+- **sex**: Biological sex is determined independently and cannot be caused by any other variable in this system (diseases, lab values, symptoms, exposures, etc. do not determine sex).
+- **age**: Age is an exogenous variable — no medical condition, lab result, or exposure in this list causes a person's age.
+
+**Checking other candidate root variables:**
+- **alcoholism**: Influenced by `sex` and `age` (sex and age are known risk factors for alcoholism) → **not a root**
+- **obesity**: Influenced by `sex`, `age`, and lifestyle factors → **not a root**
+- **hospital**: Hospital admission is caused by underlying medical conditions → **not a root**
+- **surgery**: Driven by conditions like `gallstones` or other diseases → **not a root**
+- **hepatotoxic**: Exposure can be driven by `hospital` treatment or medications → **not a root**
+- **injections/transfusion**: Driven by `hospital`, `surgery`, or conditions like `diabetes` → **not roots**
+- **gallstones**: Influenced by `sex`, `age`, `obesity`, `cholesterol` → **not a root**
+- **diabetes**: Influenced by `obesity`, `age` → **not a root**
+
+All other variables (diseases, symptoms, lab markers, signs) are downstream consequences of conditions, demographics, or exposures.
+
+## Conclusion
+
+The only variables that are truly unaffected by any other variables in this system are:
+
+<Answer>sex, age</Answer>

@@ -1,0 +1,7 @@
+Behavior: Smoking
+Symptom: Yellow_Fingers, Fatigue, Coughing
+Disease: Lung_Cancer
+Event: Car_Accident
+Internal_Factor: Genetics, Anxiety, Attention_Disorder, Allergy
+Social_Factor: Peer_Pressure
+Control_Variable: Born_an_Even_Day

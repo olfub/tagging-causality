@@ -1,0 +1,8 @@
+Behavior: Smoking
+Social: Peer_Pressure
+Psychological: Anxiety
+Genetic: Genetics
+Medical_Condition: Attention_Disorder, Lung_Cancer, Allergy
+Symptom: Yellow_Fingers, Coughing, Fatigue
+Accident: Car_Accident
+Control: Born_an_Even_Day

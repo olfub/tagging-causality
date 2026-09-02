@@ -1,0 +1,24 @@
+
+
+## Step-by-Step Reasoning
+
+**Step 1: Temporal Order**
+Education typically precedes occupation in a person's life trajectory. People usually complete their education (or a substantial portion) *before* entering a full-time occupation.
+
+**Step 2: Causal Mechanism**
+Education directly determines the range of occupations available to a person:
+- A medical degree is required to become a physician.
+- A law degree is required to practice law.
+- Advanced technical education opens doors to engineering, research, etc.
+- Lower levels of education tend to limit access to certain professional occupations.
+
+**Step 3: Consider the Reverse**
+Could occupation cause education? In some cases (e.g., returning to school mid-career), occupation might influence *further* education. However, this is a secondary and less common pathway compared to the dominant direction.
+
+**Step 4: Demographic Research Consensus**
+In sociology and demography, education is consistently modeled as a **predictor** of occupational attainment, forming part of the classic status attainment model (Blau & Duncan, 1967). Education is an upstream determinant of occupation.
+
+## Conclusion
+The dominant and more likely causal direction is that **Education causes Occupation**.
+
+<Answer>A</Answer>

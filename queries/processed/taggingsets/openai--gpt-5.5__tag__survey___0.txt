@@ -1,0 +1,11 @@
+Demographic:A,S,E,O,R
+Innate:A,S
+Chronological:A
+Gender:S
+Socioeconomic:E,O,R
+Human capital:E,O
+Employment:O
+Geographic:R
+Mobility:R,T
+Travel behavior:T
+Life choice:E,O,R,T

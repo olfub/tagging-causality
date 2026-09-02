@@ -1,0 +1,26 @@
+## Step-by-Step Analysis
+
+**Step 1: Understanding the conditions**
+- **Hepatitis**: Inflammation of the liver, which can be caused by viruses (A, B, C, D, E), alcohol, toxins, medications, or autoimmune conditions
+- **Alcoholism**: A chronic condition characterized by excessive, compulsive alcohol consumption (alcohol use disorder)
+
+**Step 2: Evaluating Option A (Hepatitis causes alcoholism)**
+- There is no established medical evidence that liver inflammation leads to alcohol dependence
+- While someone with hepatitis might continue drinking, the disease itself doesn't cause addiction
+- This direction contradicts our understanding of addiction mechanisms
+
+**Step 3: Evaluating Option B (Alcoholism causes hepatitis)**
+- Chronic excessive alcohol consumption is a **well-documented cause** of liver damage
+- Alcohol is directly toxic to liver cells (hepatocytes)
+- This can lead to: fatty liver → alcoholic hepatitis → cirrhosis
+- "Alcoholic hepatitis" is literally named after this causal relationship
+- This is established medical knowledge supported by extensive research
+
+**Step 4: Medical consensus**
+- The medical community universally recognizes alcohol abuse as a major cause of liver disease
+- The reverse relationship is not recognized in medical literature
+
+**Conclusion:**
+The evidence strongly supports that alcoholism can cause hepatitis (specifically alcoholic hepatitis), while there is no credible evidence that hepatitis causes alcoholism.
+
+<Answer>B</Answer>

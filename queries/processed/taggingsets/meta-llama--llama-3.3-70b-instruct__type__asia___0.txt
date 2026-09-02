@@ -1,0 +1,4 @@
+Disease:tub,lung,bronc,either,dysp
+Location:asia
+Behavior:smoke
+DiagnosticTool:xray

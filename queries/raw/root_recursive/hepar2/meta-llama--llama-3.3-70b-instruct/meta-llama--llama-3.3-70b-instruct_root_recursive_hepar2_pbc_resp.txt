@@ -1,0 +1,17 @@
+To determine the variables caused by PBC (Primary Biliary Cholangitis), we should consider the known effects and associations of PBC. PBC is a chronic liver disease characterized by the progressive destruction of the bile ducts within the liver, leading to cholestasis and, ultimately, liver damage. The causal relationships indicated involve "sex" causing PBC, which implies that being female increases the risk of developing PBC, as it is known that PBC predominantly affects women.
+
+Given the information and the known effects of PBC on the liver, we can infer that PBC could potentially lead to conditions associated with liver damage and dysfunction. However, from the provided list, we need to identify which conditions are directly or indirectly caused by PBC based on known medical relationships.
+
+PBC can lead to:
+- Cirrhosis, as the disease progresses and leads to extensive liver scarring.
+- Hyperbilirubinemia, due to the obstruction of bile flow, which can cause jaundice.
+- Hepatomegaly (enlargement of the liver) due to inflammation and scarring.
+- Steatosis (fatty liver) might not be a direct consequence but can coexist or be related to other metabolic conditions.
+- Cholesterol abnormalities, as the liver plays a crucial role in cholesterol metabolism.
+- Jaundice, due to the buildup of bilirubin.
+- Itching (pruritus), a common symptom in patients with PBC due to the buildup of bile salts in the skin.
+- Fatigue, which is a non-specific symptom but common in chronic liver diseases.
+- Potential impact on liver enzymes such as ALT, AST, and GGT, which can be elevated in PBC.
+
+Based on these relationships:
+<Answer>cirrhosis, hyperbilirubinemia, hepatomegaly, jaundice, itching, fatigue, alt, ast, ggtp</Answer>

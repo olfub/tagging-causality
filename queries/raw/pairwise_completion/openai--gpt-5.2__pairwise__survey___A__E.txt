@@ -1,0 +1,12 @@
+1. **Check what can logically influence what (time order):**  
+   - **Age** increases as time passes; you must *exist longer* to reach later schooling stages.  
+   - **Education** is something typically accumulated over time (years of schooling), so having more age generally makes higher education *possible*.
+
+2. **Assess whether the reverse direction is plausible:**  
+   - Education does **not** make a person older or younger; it can correlate with age in datasets (older cohorts may have different schooling levels), but that’s not a direct causal effect of education on age.
+
+3. **Interpretation in demographic terms:**  
+   - Age is a fundamental demographic variable that often precedes and constrains education attainment (e.g., compulsory schooling ages, typical ages for college).  
+   - Education can affect many outcomes (income, health, fertility), but **not age**.
+
+<Answer>A</Answer>

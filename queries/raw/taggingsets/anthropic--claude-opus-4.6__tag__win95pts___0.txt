@@ -1,0 +1,31 @@
+
+
+physical_hardware: PrtOn, PrtPaper, PrtCbl, PrtPort, PrtMem, TnrSpply, CblPrtHrdwrOK
+consumable_supply: PrtPaper, TnrSpply, PrtStatPaper, PrtStatToner
+printer_status_report: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE
+network: NetPrint, NtwrkCnfg, NetOK, DS_NTOK, NtGrbld, NtSpd, PC2PRT
+local_printing: DskLocal, LclOK, DS_LCLOK, LclGrbld
+driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs, PrtPScript
+application: AppOK, AppData, DSApplctn, AppDtGnTm, DataFile
+graphics_processing: GDIIN, GDIOUT, EMFOK, EPSGrphc, NnPSGrphc, PSGRAPHIC, GrphcsRltdDrvrSttngs
+postscript: PrtPScript, PSGRAPHIC, GrbldPS, IncmpltPS, PSERRMEM, TstpsTxt, EPSGrphc
+font: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+memory: PrtMem, AvlblVrtlMmry, PSERRMEM, PrtStatMem, FllCrrptdBffr
+data_flow: DataFile, AppData, PrtData, PrtDataOut, GDIIN, GDIOUT, EMFOK
+print_routing: PrtPath, PrtMpTPth, PrtSel, NetPrint, DskLocal
+spooling: PrtSpool, PrtQueue, PrtThread
+connectivity: PrtCbl, PrtPort, CblPrtHrdwrOK, PC2PRT, NetOK, LclOK
+page_formatting: PgOrnttnOK, PrntngArOK, CmpltPgPrntd, ScrnFntNtPrntrFnt
+timing_performance: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, NtSpd, PrtTimeOut, HrglssDrtnAftrPrnt
+garbled_output: LclGrbld, NtGrbld, GrbldOtpt, GrbldPS
+error_condition: PSERRMEM, FllCrrptdBffr, PrtTimeOut, IncmpltPS, GrbldPS, PTROFFLINE
+diagnosed_problem: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+functional_status: AppOK, EMFOK, DrvOK, NetOK, LclOK, DS_NTOK, DS_LCLOK, CblPrtHrdwrOK, TTOK, NnTTOK, PgOrnttnOK, PrntngArOK
+root_cause: PrtOn, PrtPaper, PrtCbl, PrtMem, TnrSpply, PrtPort, NtwrkCnfg, AppOK, DataFile, DrvSet, FntInstlltn, AvlblVrtlMmry, PrtDriver, EPSGrphc, NnPSGrphc, TrTypFnts, PrntrAccptsTrtyp, PrtPScript
+intermediate_state: EMFOK, GDIIN, GDIOUT, PrtDataOut, PrtData, PrtThread, PrtSpool, PC2PRT, NetOK, LclOK, CblPrtHrdwrOK, DrvOK, TTOK, NnTTOK, DS_NTOK, DS_LCLOK, FllCrrptdBffr
+observable_symptom: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, GrbldOtpt, DeskPrntSpd, CmpltPgPrntd, HrglssDrtnAftrPrnt, REPEAT
+software: AppOK, PrtDriver, PrtSpool, DSApplctn, DrvSet, DrvOK, FntInstlltn, AvlblVrtlMmry, PrtThread
+configuration_setting: DrvSet, GrphcsRltdDrvrSttngs, NtwrkCnfg, PrtSel, PrtPath, PrtMpTPth, PrtPScript
+user_interface: PrtIcon, PrtSel, PrtQueue, HrglssDrtnAftrPrnt, PrtFile
+print_output: PrtDataOut, PrtData, PrtFile, CmpltPgPrntd, GrbldOtpt, IncmpltPS
+recurrence: REPEAT

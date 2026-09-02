@@ -1,0 +1,12 @@
+demographic:A,S,E,O,R
+innate:A,S
+biological:A,S
+fixed-at-birth:S
+time-varying:A,E,O,R,T
+acquired:E,O
+socioeconomic:E,O,R
+human-capital:E,O
+choice-based:E,O,R,T
+location-related:R,T
+activity:T,O
+personal-attribute:A,S,E

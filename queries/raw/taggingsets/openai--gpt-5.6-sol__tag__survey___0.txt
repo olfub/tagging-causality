@@ -1,0 +1,9 @@
+Demographic: Age, Sex
+Chronological: Age
+Sex classification: Sex
+Socioeconomic: Education, Occupation
+Educational attainment: Education
+Employment status: Occupation
+Geographic: Residence, Travel
+Residential context: Residence
+Mobility behavior: Travel

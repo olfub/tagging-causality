@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **Understanding the terms**  
+   - *Dyspnoea* (shortness of breath) is a symptom.  
+   - *Cancer* (specifically lung cancer) is a disease that can produce various symptoms, including dyspnoea.
+
+2. **Direction of causality**  
+   - When a tumor grows in the lung or airways, it can physically obstruct airflow, reduce lung capacity, or cause pleural effusion, all of which lead to dyspnoea.  
+   - Dyspnoea is a functional symptom and does not contain mechanisms (e.g., genetic mutations, cellular proliferation) that could initiate the development of cancer.
+
+3. **Evidence from clinical practice**  
+   - Medical literature consistently shows that dyspnoea is a common presenting symptom of lung cancer, not a precursor.  
+   - There is no known pathway whereby experiencing breathlessness would cause malignant transformation of cells.
+
+4. **Conclusion**  
+   - The more plausible causal direction is that cancer (lung cancer) *causes* dyspnoea, not the reverse.
+
+Therefore, the cause‑and‑effect relationship that is more likely is **A. Cancer causes Dyspnoea**.
+
+<Answer>A</Answer>

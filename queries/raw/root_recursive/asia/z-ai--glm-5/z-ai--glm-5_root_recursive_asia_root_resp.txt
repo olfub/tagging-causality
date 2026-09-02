@@ -1,0 +1,21 @@
+To identify the variables that are unaffected by any other variables (also known as exogenous or root variables), we need to analyze the causal relationships typical for this medical context (specifically resembling the "Asia" or ALARM Bayesian network structure).
+
+1.  **Analyze `<asia>` (Visit to Asia):** This variable represents a historical event regarding travel. Whether a patient has visited Asia is a pre-existing condition or history. It is a risk factor for tuberculosis but is not caused by the patient's current lung disease, smoking status, or symptoms. Therefore, it is unaffected by other variables in the set.
+
+2.  **Analyze `<smoke>` (Smoking):** Smoking is a lifestyle choice/habit. It is a major risk factor that causes lung cancer and bronchitis. However, in the context of medical diagnosis causal graphs, a patient's smoking status is generally treated as an independent variable; having lung cancer or bronchitis does not retroactively cause someone to be a smoker. Thus, it is unaffected by other variables in the set.
+
+3.  **Analyze `<tub>` (Tuberculosis):** Tuberculosis is a disease. In this context, the probability of having tuberculosis is influenced by whether the patient visited `<asia>`. Since it is affected by `<asia>`, it is not a root variable.
+
+4.  **Analyze `<lung>` (Lung Cancer):** Lung cancer is a disease strongly caused by `<smoke>`. Since it is an effect of smoking, it is not a root variable.
+
+5.  **Analyze `<bronc>` (Bronchitis):** Bronchitis is an inflammation often caused by `<smoke>`. Since it is an effect of smoking, it is not a root variable.
+
+6.  **Analyze `<either>` (Tuberculosis or Lung Cancer):** This is a deterministic variable representing a diagnosis. It depends entirely on the presence of `<tub>` or `<lung>`. It is caused by those variables, so it is not a root variable.
+
+7.  **Analyze `<xray>` (Chest X-ray):** The X-ray result is a test outcome. It is caused by the state of the disease (specifically `<either>`). It is not a root variable.
+
+8.  **Analyze `<dysp>` (Dyspnoea):** Shortness of breath is a symptom. It is caused by diseases like `<bronc>` and `<either>`. It is not a root variable.
+
+In conclusion, the only variables that act as causes but are not themselves caused by other variables in the graph are the patient's history of visiting Asia and their smoking status.
+
+<Answer>asia, smoke</Answer>

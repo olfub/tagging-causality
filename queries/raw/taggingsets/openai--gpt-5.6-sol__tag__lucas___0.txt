@@ -1,0 +1,18 @@
+Behavioral_exposure: Smoking
+Visible_physical_sign: Yellow_Fingers
+Psychosocial_factor: Anxiety, Peer_Pressure, Attention_Disorder
+Hereditary_factor: Genetics
+Neurodevelopmental_condition: Attention_Disorder
+Birth_attribute: Born_an_Even_Day
+Acute_external_event: Car_Accident
+Nonspecific_symptom: Fatigue
+Immune_related_condition: Allergy
+Respiratory_symptom: Coughing
+Malignant_disease: Lung_Cancer
+Baseline_factor: Genetics, Born_an_Even_Day
+Modifiable_factor: Smoking, Anxiety, Peer_Pressure
+Clinical_condition: Anxiety, Attention_Disorder, Allergy, Lung_Cancer
+Physical_manifestation: Yellow_Fingers, Fatigue, Coughing
+Respiratory_related: Smoking, Allergy, Coughing, Lung_Cancer
+Potential_risk_factor: Smoking, Anxiety, Peer_Pressure, Genetics, Attention_Disorder
+Potential_outcome: Yellow_Fingers, Car_Accident, Fatigue, Coughing, Lung_Cancer

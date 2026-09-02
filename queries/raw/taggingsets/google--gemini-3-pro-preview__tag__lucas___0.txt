@@ -1,0 +1,14 @@
+biomedical_condition: Anxiety, Attention_Disorder, Fatigue, Allergy, Coughing, Lung_Cancer, Yellow_Fingers
+symptom: Yellow_Fingers, Fatigue, Coughing
+disease: Lung_Cancer, Attention_Disorder, Anxiety, Allergy
+behavior: Smoking, Peer_Pressure
+genetic_factor: Genetics, Allergy, Lung_Cancer, Anxiety, Attention_Disorder
+external_factor: Peer_Pressure, Car_Accident, Smoking
+mental_state: Anxiety, Attention_Disorder, Fatigue, Peer_Pressure
+physical_manifestation: Yellow_Fingers, Coughing, Lung_Cancer, Fatigue
+safety_event: Car_Accident
+demographic_attribute: Born_an_Even_Day
+irrelevant_noise: Born_an_Even_Day
+chronic_condition: Lung_Cancer, Attention_Disorder, Anxiety, Allergy
+acute_event: Car_Accident, Coughing
+risk_factor: Smoking, Peer_Pressure, Genetics, Anxiety

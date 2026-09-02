@@ -1,0 +1,5 @@
+Risk Factor:asia,smoke
+Disease:tub,lung,bronc
+Symptom:dysp
+Test Result:xray
+Logical Combination:either

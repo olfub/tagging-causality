@@ -1,0 +1,21 @@
+1. **Define the variables**
+   - **Age**: a person’s chronological time since birth.
+   - **DrivingSkill**: capability at driving (perception, reaction, hazard awareness, vehicle control), which can improve with practice and can decline with aging.
+
+2. **Check physical/biological plausibility (can one variable change the other?)**
+   - **Can DrivingSkill cause Age?** No. Improving or worsening driving skill cannot make someone older or younger.
+   - **Can Age cause DrivingSkill?** Yes, plausibly and commonly:
+     - **Younger → less experience** (on average), still developing judgment and risk perception.
+     - **Middle ages → more experience** and often better hazard anticipation.
+     - **Older ages → possible declines** in vision, reaction time, or cognition, which can reduce driving performance.
+
+3. **Think in terms of interventions**
+   - If we could “intervene” to change **Age** (hypothetically), we would expect **DrivingSkill** to change because experience and physiological factors change with age.
+   - If we “intervene” to change **DrivingSkill** (training), **Age** stays the same.
+
+4. **Common-cause vs direct cause**
+   - While factors like **experience**, **training**, and **health** also influence DrivingSkill, **Age** is still a strong upstream driver through those pathways (and sometimes directly via aging effects).
+
+Therefore, the more likely causal direction is **Age → DrivingSkill**.
+
+<Answer>A</Answer>

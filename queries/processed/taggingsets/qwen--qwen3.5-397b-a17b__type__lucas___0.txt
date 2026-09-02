@@ -1,0 +1,7 @@
+Exogenous_Factor:Genetics,Born_an_Even_Day
+Social_Environmental:Peer_Pressure
+Mental_Health_Condition:Anxiety,Attention_Disorder
+Behavioral_Habit:Smoking
+Medical_Condition:Lung_Cancer,Allergy
+Physical_Symptom:Yellow_Fingers,Coughing,Fatigue
+External_Event:Car_Accident

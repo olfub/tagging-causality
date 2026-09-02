@@ -1,0 +1,22 @@
+
+
+exogenous: Asia, Smoking
+exposure: Asia, Smoking
+geographic: Asia
+behavioral: Smoking
+disease: Tuberculosis, Lung Cancer, Bronchitis
+infectious: Tuberculosis
+cancer: Lung Cancer
+chronic: Bronchitis
+respiratory: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea
+lung-related: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer
+smoking-related: Lung Cancer, Bronchitis
+derived: Either Tuberculosis or Lung Cancer
+intermediate: Either Tuberculosis or Lung Cancer
+clinical observation: X-ray, Dyspnoea
+diagnostic: X-ray
+imaging: X-ray
+symptom: Dyspnoea
+breathing: Dyspnoea, Bronchitis
+medical outcome: Tuberculosis, Lung Cancer, Bronchitis, X-ray, Dyspnoea
+downstream effect: Either Tuberculosis or Lung Cancer, X-ray, Dyspnoea, Bronchitis

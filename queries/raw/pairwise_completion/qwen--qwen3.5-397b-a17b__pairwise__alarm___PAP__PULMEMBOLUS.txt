@@ -1,0 +1,28 @@
+## Step-by-Step Analysis
+
+### Step 1: Define the Terms
+- **PAP (Pulmonary Artery Pressure)**: A hemodynamic measurement reflecting the pressure within the pulmonary arteries
+- **PULMEMBOLUS (Pulmonary Embolism)**: A blockage in the pulmonary arteries, typically caused by blood clots that travel from elsewhere in the body
+
+### Step 2: Understand the Pathophysiology
+When a pulmonary embolism occurs:
+1. A clot obstructs blood flow in the pulmonary vasculature
+2. This obstruction increases pulmonary vascular resistance
+3. Increased resistance leads to elevated pressure in the pulmonary arteries
+4. This manifests as increased PAP on monitoring
+
+### Step 3: Evaluate Causal Direction
+- **Option A (PAP → PULMEMBOLUS)**: Elevated pulmonary artery pressure does not create blood clots or cause embolisms. This direction is physiologically incorrect.
+
+- **Option B (PULMEMBOLUS → PAP)**: A pulmonary embolism creates mechanical obstruction, which directly causes increased pulmonary artery pressure. This is a well-established pathophysiological relationship in critical care medicine.
+
+### Step 4: Clinical Context
+In ICU monitoring:
+- Pulmonary embolism is the **pathological event** (cause)
+- Elevated PAP is a **hemodynamic consequence** (effect)
+- Clinicians use elevated PAP as one indicator to detect possible pulmonary embolism
+
+### Conclusion
+The pulmonary embolism causes the elevation in pulmonary artery pressure, not vice versa.
+
+<Answer>B</Answer>

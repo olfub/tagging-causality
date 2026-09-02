@@ -1,0 +1,33 @@
+Let me work through this step by step.
+
+## Step 1: Understanding the Variables
+- **Education**: Refers to a person's level of educational attainment
+- **Residence**: Refers to where a person lives (location, type of area, etc.)
+
+## Step 2: Analyzing Option A (Education → Residence)
+- Higher education typically leads to better job opportunities
+- Jobs are often concentrated in specific geographic areas (cities, certain regions)
+- Educated individuals generally have more financial resources to choose their living location
+- People often relocate after completing education to match their qualifications with job markets
+- Education influences preferences for neighborhoods (school districts, amenities, cultural opportunities)
+
+## Step 3: Analyzing Option B (Residence → Education)
+- Where someone lives *during childhood* can affect educational opportunities (school quality, resources)
+- Neighborhood characteristics can influence educational outcomes
+- However, this is more about educational *opportunities* rather than determining final education level
+- Adult residence is less likely to cause changes in completed education
+
+## Step 4: Considering Temporal Order
+- Education is typically completed before major adult residential decisions
+- People frequently move *after* education to pursue career opportunities
+- The causal flow more naturally goes from education completion → residential choice
+
+## Step 5: Demographic Research Consensus
+- Sociological and demographic research generally supports education as a predictor of residential mobility and location
+- Migration patterns show educated individuals moving to areas with matching employment opportunities
+- Income (influenced by education) is a key determinant of housing and location choices
+
+## Conclusion
+While there is some bidirectional relationship (especially regarding childhood residence affecting educational opportunities), the stronger and more direct causal relationship in demographic terms is that **Education causes Residence**. Education level significantly influences where people choose to live based on employment, income, and lifestyle factors.
+
+<Answer>A</Answer>

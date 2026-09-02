@@ -1,0 +1,14 @@
+1. **Interpret the terms**
+   - **AvlblVrtlMmry** = “Available Virtual Memory” (how much virtual memory Windows 95 can still allocate).
+   - **PSERRMEM** = a **PostScript memory error** (commonly meaning the PostScript driver/printer ran out of memory/resources while processing a print job).
+
+2. **Consider the typical printing failure mode in Windows 95**
+   - When available memory/virtual memory is **low**, large or complex PostScript jobs (big images, complex fonts, many vectors) are more likely to fail with a **memory-related PostScript error**.
+
+3. **Check the reverse direction**
+   - A PostScript memory error (**PSERRMEM**) is an *error outcome*, not something that would normally *cause* the system’s available virtual memory value to change as the primary effect. The print job may stop or fail, but the error itself isn’t the root cause increasing/decreasing AvlblVrtlMmry in a consistent causal sense.
+
+4. **Most plausible causal relationship**
+   - **Low AvlblVrtlMmry → higher chance of PSERRMEM**.
+
+<Answer>A</Answer>

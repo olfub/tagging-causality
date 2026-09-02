@@ -1,0 +1,18 @@
+
+
+## Step-by-Step Reasoning
+
+**Step 1: Understand the entities**
+- **Asia** is a geographic continent/region.
+- **Tuberculosis (TB)** is an infectious disease caused by *Mycobacterium tuberculosis*.
+
+**Step 2: Evaluate Option A – "Asia causes Tuberculosis"**
+While a continent doesn't literally *cause* a disease, this can be interpreted epidemiologically: conditions prevalent in parts of Asia — such as high population density, overcrowding, limited healthcare access, poverty, and certain environmental factors — contribute to higher rates of TB transmission and incidence. Asia indeed bears a disproportionately high burden of TB globally. In this sense, being in/from Asia is a **risk factor** for TB.
+
+**Step 3: Evaluate Option B – "Tuberculosis causes Asia"**
+A disease cannot cause a continent to come into existence. This direction is nonsensical — there is no logical mechanism by which TB would create or give rise to a geographic region.
+
+**Step 4: Conclusion**
+The only plausible causal direction is that conditions associated with Asia (geographic, socioeconomic, demographic) contribute to the prevalence of Tuberculosis.
+
+<Answer>A</Answer>

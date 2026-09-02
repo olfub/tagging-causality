@@ -1,0 +1,14 @@
+Risk Factor:smoke,asia
+Behavior:smoke
+Travel History:asia
+Disease:tub,lung,bronc
+Respiratory Condition:tub,lung,bronc,dysp
+Symptom:dysp
+Diagnostic Test:xray
+Environmental Exposure:asia
+Composite Condition:either
+Cause:smoke,asia,tub,lung,bronc,either
+Effect:tub,lung,bronc,either,xray,dysp
+Clinical Observation:xray,dysp
+Lung Related:lung,bronc,tub
+Intermediate Node:either

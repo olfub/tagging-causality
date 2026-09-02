@@ -1,0 +1,21 @@
+
+
+## Step-by-Step Reasoning
+
+**Step 1: Understand the variables.**
+- **Genetics** refers to inherited DNA and genetic makeup, determined at conception.
+- **Attention_Disorder** (e.g., ADHD) is a neurodevelopmental condition affecting focus and behavior.
+
+**Step 2: Consider the directionality of causation.**
+- Genetics is a foundational biological factor established before birth. It is upstream of most phenotypic traits and disorders.
+- Attention disorders like ADHD are highly heritable (~70–80% heritability), meaning genetic variation plays a major role in their development.
+
+**Step 3: Evaluate Option A (Attention_Disorder → Genetics).**
+- A behavioral/neurodevelopmental disorder cannot alter a person's inherited genetic code. This reverses the logical causal order.
+
+**Step 4: Evaluate Option B (Genetics → Attention_Disorder).**
+- Genetic variants (e.g., in dopamine receptor and transporter genes) are well-established risk factors for ADHD. This follows the standard biological causal pathway: genes → brain development → attention disorder.
+
+**Conclusion:** Genetics is a cause/risk factor for Attention Disorder, not the other way around.
+
+<Answer>B</Answer>

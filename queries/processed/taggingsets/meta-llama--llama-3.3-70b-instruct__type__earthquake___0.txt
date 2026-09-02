@@ -1,0 +1,3 @@
+Event:Burglary,Earthquake
+AlarmSystem:Alarm
+PhoneCall:JohnCalls,MaryCalls

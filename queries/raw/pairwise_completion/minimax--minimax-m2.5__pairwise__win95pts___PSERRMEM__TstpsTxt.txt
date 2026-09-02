@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Identify what each term likely represents**  
+   - **PSERRMEM** – A Windows 95/PostScript error code that indicates a *memory* problem (“PostScript Error MEMory”). It is the error that appears when the printer driver cannot allocate enough memory to process a print job.  
+   - **TstpsTxt** – Likely the name of a built‑in test file used to check PostScript printing (e.g., “testps.txt”). It is a small, simple PostScript test page.
+
+2. **Consider the typical troubleshooting flow in Windows 95**  
+   - When a user runs the printer troubleshooter, the system often tries to print a small test page (TstpsTxt) to see if the printer works.  
+   - If the printer driver lacks sufficient memory (PSERRMEM), the test page fails and the error is displayed.
+
+3. **Determine which direction makes the most sense**  
+   - **Option A (PSERRMEM → TstpsTxt)**: Would mean the memory error *produces* the test‑page content. That is unrealistic; a memory error does not generate a test file.  
+   - **Option B (TstpsTxt → PSERRMEM)**: Means the act of printing the test page *triggers* the memory error. This matches the real‑world scenario: a test job that pushes the driver’s memory limits causes the PSERRMEM error.
+
+4. **Conclusion**  
+   The more plausible cause‑and‑effect relationship is that the test page (TstpsTxt) provokes the memory error (PSERRMEM).
+
+<Answer>B</Answer>

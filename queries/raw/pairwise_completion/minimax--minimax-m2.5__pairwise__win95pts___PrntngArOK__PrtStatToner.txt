@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the variables**  
+   - **PrtStatToner**: This represents the printer’s status regarding its toner level (e.g., “toner low”, “toner OK”).  
+   - **PrntngArOK**: This represents whether the actual printing area (the output on the page) is acceptable (e.g., clear, not faded, no streaks).
+
+2. **Determine the logical direction of influence**  
+   - The toner level is a condition of the printer itself. If the toner is low or defective, the printed output will be affected (faded, streaked, etc.).  
+   - Conversely, the quality of the printed output does not change the printer’s toner status; the toner level is a property of the hardware, not a result of the printed page.
+
+3. **Match the influence to the cause‑effect options**  
+   - *Option A* suggests that “Printing area OK” causes “Printer status toner”. This would imply the printed page determines the toner level, which is not realistic.  
+   - *Option B* suggests that “Printer status toner” causes “Printing area OK”. This matches the real‑world behavior: a low‑toner state leads to a poor print area, whereas a good toner state leads to an acceptable print area.
+
+4. **Conclusion**  
+   The more plausible cause‑and‑effect relationship is that the printer’s toner status determines whether the printing area is okay.
+
+<Answer>B</Answer>

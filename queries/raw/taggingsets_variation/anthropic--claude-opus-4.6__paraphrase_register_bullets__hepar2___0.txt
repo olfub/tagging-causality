@@ -1,0 +1,34 @@
+liver_disease: THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, Cirrhosis, Steatosis, carcinoma, vh_amn, Hyperbilirubinemia
+hepatitis_type: THepatitis, ChHepatitis, RHepatitis, vh_amn
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+liver_enzyme: alt, ast, ggtp, phosphatase
+laboratory_value: bilirubin, triglycerides, phosphatase, proteins, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, albumin, fat
+autoimmune_marker: ama, le_cells
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, bleeding, flatulence, anorexia, nausea, hepatalgia
+clinical_sign: edema, ascites, hepatomegaly, spiders, palms, spleen, jaundice, skin, encephalopathy, irregular_liver, edge, density, consciousness
+risk_factor: alcoholism, alcohol, hepatotoxic, injections, transfusion, surgery, hospital, obesity, diabetes
+infection_route: injections, transfusion, surgery, hospital, sex
+demographic: sex, age
+pain_related: upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia
+liver_exam_finding: hepatomegaly, hepatalgia, density, edge, irregular_liver
+metabolic: diabetes, obesity, triglycerides, cholesterol, fat, Steatosis
+biliary: gallstones, choledocholithotomy, phosphatase, bilirubin, Hyperbilirubinemia, ggtp, jaundice, itching
+autoimmune_condition: ama, le_cells, PBC, joints
+coagulation: platelet, inr, bleeding
+portal_hypertension: ascites, spleen, edema, spiders, encephalopathy, bleeding
+chronic_liver_condition: fibrosis, Cirrhosis, PBC, ChHepatitis, carcinoma
+complication: Hyperbilirubinemia, encephalopathy, ascites, bleeding, carcinoma, Cirrhosis
+gastrointestinal: anorexia, nausea, flatulence, upper_pain
+skin_manifestation: skin, spiders, palms, jaundice, itching
+alcohol_related: alcoholism, alcohol
+blood_protein: proteins, albumin
+procedure: choledocholithotomy, surgery, injections, transfusion
+diagnosis: alcoholism, THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, gallstones, carcinoma
+hepatic_function: proteins, albumin, inr, bilirubin, encephalopathy, consciousness
+liver_damage_indicator: alt, ast, bilirubin, albumin, inr, fibrosis, Cirrhosis
+abdominal_finding: upper_pain, pain_ruq, pressure_ruq, hepatomegaly, hepatalgia, spleen, ascites, gallstones, flatulence
+cause: alcoholism, hepatotoxic, gallstones, obesity, diabetes, vh_amn
+outcome: fibrosis, Cirrhosis, carcinoma, Hyperbilirubinemia, encephalopathy, ascites
+modifiable: alcoholism, alcohol, obesity, diabetes, injections, hepatotoxic
+serological: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, ama, le_cells, ESR
+structural_change: fibrosis, Cirrhosis, irregular_liver, hepatomegaly, density, edge, carcinoma

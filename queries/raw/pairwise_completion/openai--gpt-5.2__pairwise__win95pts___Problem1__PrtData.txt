@@ -1,0 +1,10 @@
+To decide direction, we look at what each term typically represents in Windows 95 printing:
+
+1. **“PrtData”** sounds like **printer data/configuration** (e.g., stored settings, driver/job state data, spool-related data, or a data/registry store used by the printer subsystem/driver).
+2. A **printing “Problem1”** (generic printing failure/misbehavior) is often an **effect** of something being wrong with that underlying printer data (corruption, bad configuration, mismatched driver state, etc.).
+3. If **Problem1 caused PrtData**, that would mean the *symptom* (printing problem) is what *creates/produces* the printer data. That’s less consistent with how Windows printing works: the data/config is generally **pre-existing input/state** used by the printing process.
+4. It’s more plausible that **bad/incorrect/corrupted PrtData leads to Problem1** (the printing issue), because printing relies on those stored settings/state to function correctly.
+
+So the more likely causal direction is:
+
+<Answer>B</Answer>

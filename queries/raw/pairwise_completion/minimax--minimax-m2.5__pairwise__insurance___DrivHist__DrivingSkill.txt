@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Define the variables**  
+   - *DrivHist* (Driving History): a record of past events such as accidents, traffic violations, claims, etc.  
+   - *DrivingSkill*: the driver’s actual ability to operate a vehicle safely (e.g., reaction time, hazard perception, maneuvering skill).
+
+2. **Consider the logical direction of influence**  
+   - *DrivingSkill → DrivHist*: A driver’s skill directly affects the likelihood of incurring accidents or violations. Higher skill generally leads to a cleaner history; lower skill increases the chance of mishaps.  
+   - *DrivHist → DrivingSkill*: While a poor history might prompt a driver to seek training or become more cautious, the raw occurrence of past events does not fundamentally change the underlying ability to drive. It is less plausible that past incidents *cause* a change in the driver’s intrinsic skill level.
+
+3. **Evaluate empirical plausibility in insurance risk modeling**  
+   - Insurers treat driving history as a **predictor** of future risk because it reflects the outcome of the driver’s skill (and other factors).  
+   - Models rarely treat past accidents as a cause of the driver’s skill; instead, they treat skill (often proxied by age, experience, or education) as a causal factor influencing the history.
+
+4. **Conclusion**  
+   The more logically and empirically sound causal direction is that **DrivingSkill determines the DrivingHistory** (i.e., B).
+
+<Answer>B</Answer>

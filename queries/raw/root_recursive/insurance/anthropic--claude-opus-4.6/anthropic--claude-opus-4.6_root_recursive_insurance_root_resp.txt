@@ -1,0 +1,36 @@
+
+
+# Identifying Root Variables in Car Insurance Causal Model
+
+## Reasoning Process
+
+I need to find variables that have **no causal parents** — variables that are not influenced by any other variable in the system.
+
+**Step 1: Identify demographic/fundamental characteristics**
+- **age**: A person's age is a fundamental demographic characteristic. No other variable in this system causes someone's age. ✅ **Root**
+- **socioecon**: Socioeconomic status is an exogenous policyholder characteristic. In car insurance risk modeling, this is treated as a given demographic input alongside age, not determined by other model variables. ✅ **Root**
+
+**Step 2: Verify all other variables have at least one causal parent**
+- **riskaversion** ← age, socioecon
+- **goodstudent** ← age, socioecon, riskaversion
+- **vehicleyear** ← socioecon, riskaversion
+- **makemodel** ← socioecon, riskaversion
+- **homebase** ← socioecon, riskaversion
+- **seniortrain** ← age, riskaversion
+- **antitheft** ← socioecon, riskaversion
+- **drivingskill** ← age, seniortrain
+- **drivquality** ← drivingskill, riskaversion
+- **drivhist** ← drivquality
+- **mileage** ← vehicleyear, makemodel (older/different cars accumulate different mileage)
+- **airbag/antilock/ruggedauto/cushioning** ← vehicleyear, makemodel
+- **carvalue** ← vehicleyear, makemodel, mileage
+- **accident** ← drivquality, mileage, antilock, ...
+- **othercar** ← homebase, mileage
+- **thiscardam/medcost/othercarcost** ← accident, ...
+- **theft** ← antitheft, homebase, carvalue
+- **thiscarcost** ← thiscardam, carvalue, theft
+- **ilicost/propcost** ← downstream cost variables
+
+All non-root variables trace back to **age** and **socioecon** as ultimate causes.
+
+<Answer>age, socioecon</Answer>

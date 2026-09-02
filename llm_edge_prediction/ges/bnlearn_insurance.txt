@@ -1,0 +1,11 @@
+Age -- GoodStudent
+SocioEcon -- VehicleYear
+Age -- SeniorTrain
+Age -- SocioEcon
+OtherCar -- SocioEcon
+Age -- RiskAversion
+DrivingSkill -- SeniorTrain
+Age -- DrivingSkill
+GoodStudent -- SocioEcon
+RiskAversion -- SeniorTrain
+MakeModel -- SocioEcon

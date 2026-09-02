@@ -1,0 +1,11 @@
+Demographic: Age, Sex, Education, Occupation, Residence
+Innate: Age, Sex
+Chronological: Age
+Gender: Sex
+Socioeconomic: Education, Occupation, Residence
+Human capital: Education, Occupation
+Employment: Occupation
+Geographic: Residence
+Mobility: Residence, Travel
+Travel behavior: Travel
+Life choice: Education, Occupation, Residence, Travel

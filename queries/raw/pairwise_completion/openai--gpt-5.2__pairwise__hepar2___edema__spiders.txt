@@ -1,0 +1,16 @@
+1. **Clarify the entities**
+   - **Edema** = swelling due to excess fluid in tissues.
+   - **Spiders** = arthropods; clinically relevant mainly via **bites/envenomation**.
+
+2. **Check plausibility of A: “edema causes spiders”**
+   - There is no biological, ecological, or medical mechanism by which a patient’s tissue fluid accumulation would generate or attract spiders in a direct cause-and-effect sense.
+   - At most, severe illness could correlate with living conditions, but that would be **confounding**, not edema *causing* spiders.
+
+3. **Check plausibility of B: “spiders cause edema”**
+   - **Spider bites** can produce **localized inflammation**: pain, erythema, and **swelling (edema)** at the bite site.
+   - Some envenomations can cause more extensive local tissue reaction and edema; allergic reactions to bites can also produce swelling.
+
+4. **Directionality**
+   - The medically coherent causal direction is: **spider bite/envenomation → inflammatory response → localized edema**.
+
+<Answer>B</Answer>

@@ -1,0 +1,3 @@
+The scenario (the atmospheric conditions that can produce hail) occurs first and then leads to the occurrence of hail on a particular day. The date is merely a temporal label and does not generate the weather pattern. Therefore, the more plausible causal direction is **Scenario causes Date**.
+
+<Answer>B</Answer>

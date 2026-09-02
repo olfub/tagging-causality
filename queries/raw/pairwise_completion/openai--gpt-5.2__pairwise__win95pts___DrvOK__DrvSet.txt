@@ -1,0 +1,14 @@
+1. **Interpret the variables (Windows 95 printer-driver context):**  
+   - **DrvSet** = the printer driver has been selected/installed/configured (“set”) for the printer.  
+   - **DrvOK** = the driver is functioning/valid/recognized as OK (passes basic checks, loads properly, matches the device/port, etc.).
+
+2. **Think about the typical sequence in Windows 95 troubleshooting:**  
+   - You first **choose/install the correct driver** (DrvSet).  
+   - Once it’s set, Windows can then **load/validate it and report it as OK** (DrvOK).  
+   - If the driver is *not* set, it generally can’t be “OK” in any meaningful operational sense, because there’s nothing configured to validate/use.
+
+3. **Check which direction makes more causal sense:**  
+   - **A. DrvOK → DrvSet** would imply that the driver being OK somehow *causes* it to become installed/configured. That’s backwards: “OK status” is typically a *result* of having a correct driver installed and configured.  
+   - **B. DrvSet → DrvOK** matches the normal causal chain: setting/installing the right driver is what enables the system to consider it OK.
+
+<Answer>B</Answer>

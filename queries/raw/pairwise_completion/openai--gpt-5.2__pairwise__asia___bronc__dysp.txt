@@ -1,0 +1,16 @@
+1. **Define the entities**
+   - **Bronchitis**: inflammation of the bronchi, typically causing airway wall edema, mucus hypersecretion, and increased airway resistance.
+   - **Dyspnoea**: the *symptom* of perceived breathing difficulty; it is not a disease process itself.
+
+2. **Check biological plausibility (mechanism)**
+   - **Bronchitis → Dyspnoea**: inflamed airways + mucus plugging + bronchospasm can narrow airways and increase work of breathing, producing shortness of breath.
+   - **Dyspnoea → Bronchitis**: dyspnoea is a symptom arising from many causes (asthma, COPD, heart failure, pneumonia, anemia, etc.) and does not itself inflame bronchi or cause infection. At most, it prompts evaluation; it’s not a causal agent.
+
+3. **Clinical directionality**
+   - In practice, patients develop **bronchitis** and then experience **cough, sputum, wheeze, and sometimes dyspnoea**—especially if they have underlying COPD/asthma or severe inflammation.
+   - The reverse direction (dyspnoea causing bronchitis) is not a standard causal pathway.
+
+4. **Conclusion**
+   - The more likely cause-and-effect relationship is **Bronchitis causes Dyspnoea**.
+
+<Answer>A</Answer>

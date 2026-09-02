@@ -1,0 +1,26 @@
+ApplicationStatus: AppOK
+ApplicationDataArtifact: DataFile, AppData, PrtFile, PrtIcon
+LocalDiskStorage: DskLocal
+SpoolerQueueSubsystem: PrtSpool, PrtQueue
+PrinterPowerOfflineState: PrtOn, PrtStatOff, PTROFFLINE
+PaperSupplyStatus: PrtPaper, PrtStatPaper
+TonerSupplyStatus: TnrSpply, PrtStatToner
+MemoryResourceStatus: PrtMem, AvlblVrtlMmry, PrtStatMem, PSERRMEM
+NetworkPrintMode: NetPrint, PC2PRT
+PrinterDriverStatus: PrtDriver, DrvOK
+DriverSettingsConfig: DrvSet, GrphcsRltdDrvrSttngs, PgOrnttnOK, PrntngArOK
+PrintThreading: PrtThread
+GDI_EMF_DataPath: GDIIN, GDIOUT, EMFOK
+PrinterSelectionAndRouting: PrtSel, PrtPath, PrtMpTPth
+NetworkConfiguration: NtwrkCnfg
+ConnectivityStatus: NetOK, LclOK, DS_NTOK, DS_LCLOK
+PhysicalConnectionHardware: PrtCbl, PrtPort, CblPrtHrdwrOK
+DownstreamPrintApplication: DSApplctn
+PrintDataStream: PrtData, PrtDataOut
+TimeoutAndBufferIntegrity: PrtTimeOut, FllCrrptdBffr
+PerformanceTimingAndSpeed: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, NtSpd, HrglssDrtnAftrPrnt
+FontCompatibilityStatus: ScrnFntNtPrntrFnt, TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK
+PageCompletionStatus: CmpltPgPrntd
+PostScriptAndGraphicContent: EPSGrphc, NnPSGrphc, PrtPScript, PSGRAPHIC, TstpsTxt, GrbldPS, IncmpltPS
+GarbledOutputSymptoms: LclGrbld, NtGrbld, GrbldOtpt, REPEAT
+ProblemIndicator: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6

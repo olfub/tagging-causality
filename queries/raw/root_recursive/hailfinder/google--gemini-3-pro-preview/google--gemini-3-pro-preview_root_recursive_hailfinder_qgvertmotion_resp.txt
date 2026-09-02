@@ -1,0 +1,5 @@
+Based on the information provided, the variable `qgvertmotion` is listed as a root variable (not affected by any other variable), and the section regarding causal relationships states "Currently none."
+
+Therefore, according to the provided rules, there are no variables caused by `qgvertmotion`.
+
+<Answer></Answer>

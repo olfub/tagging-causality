@@ -1,0 +1,29 @@
+moisture: SatContMoist, RaoContMoist, CombMoisture, AreaMoDryAir, AMDewptCalPl, Dewpoints, MeanRH, RHRatio, LoLevMoistAd
+vertical_motion: N0_7muVerMo, SubjVertMo, QGVertMotion, CombVerMo
+cloud: VISCloudCov, IRCloudCover, CombClouds, CldShadeOth, CldShadeConv
+instability: AMInstabMt, InsInMt, InsChange, InsSclInScen, ScenRelAMIns, AMInsWliScen, LIfr12ZDENSd
+convective_inhibition: MorningCIN, AMCINInScen, ScenRelAMCIN, CapChange, CapInScen, LatestCIN
+boundary: MorningBound, Boundaries, SfcWndShfDis
+wind: WndHodograph, WindAloft, WindFieldMt, WindFieldPln, LLIW, OutflowFrMt
+forecast: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst, ScnRelPlFcst
+scenario: Scenario, ScenRelAMCIN, AMCINInScen, CapInScen, ScenRelAMIns, AMInsWliScen, InsSclInScen, ScenRel3_4
+mountain: AMInstabMt, InsInMt, MountainFcst, WindFieldMt, OutflowFrMt
+plains: AMDewptCalPl, CompPlFcst, PlainsFcst, WindFieldPln, ScnRelPlFcst
+combined: CombVerMo, CombMoisture, CombClouds
+convection: CurPropConv, CldShadeConv, OutflowFrMt
+temperature: TempDis, LowLLapse, MidLLapse
+synoptic_forcing: SynForcng, MvmtFeatures
+lapse_rate: LowLLapse, MidLLapse
+morning: MorningCIN, MorningBound, AMInstabMt, AMCINInScen, AMDewptCalPl, AMInsWliScen
+surface: SfcWndShfDis, Dewpoints, MorningBound, Boundaries
+low_level: LLIW, LowLLapse, LoLevMoistAd, Dewpoints
+upper_level: WindAloft, QGVertMotion
+area: AreaMeso_ALS, AreaMoDryAir
+change: CapChange, InsChange, LoLevMoistAd
+observation: VISCloudCov, IRCloudCover, SatContMoist, RaoContMoist, LIfr12ZDENSd, AMDewptCalPl
+shading: CldShadeOth, CldShadeConv
+temporal: Date, LatestCIN, MorningCIN, MorningBound
+relative_to_scenario: ScenRelAMCIN, ScenRelAMIns, ScenRel3_4, ScnRelPlFcst
+mesoscale: AreaMeso_ALS, MvmtFeatures
+severity_forecast: N34StarFcst, R5Fcst
+wind_field: WindFieldMt, WindFieldPln

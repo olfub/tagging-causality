@@ -1,0 +1,6 @@
+Demographic:A,S
+Socioeconomic:E,O,R
+Achieved:E,O
+Spatial:R,T
+Behavior:T
+Temporal:A

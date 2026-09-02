@@ -1,0 +1,22 @@
+
+
+# Identifying Root Variables (Unaffected by Others)
+
+Let me think through each variable and whether it could be caused by other variables in the system:
+
+## Step-by-step reasoning:
+
+1. **Burglary**: This is an external criminal event. It is not caused by earthquakes, alarms, or phone calls. It occurs independently based on external circumstances. → **Root variable**
+
+2. **Earthquake**: This is a natural geological event. It is not triggered by burglaries, alarms, or phone calls. It occurs independently. → **Root variable**
+
+3. **Alarm**: An alarm is typically triggered *by* something — in this context, either a burglary or an earthquake can set off the alarm. → **Has causes (burglary, earthquake)**
+
+4. **JohnCalls**: John would call because he heard the alarm going off. → **Has a cause (alarm)**
+
+5. **MaryCalls**: Mary would call because she heard the alarm going off. → **Has a cause (alarm)**
+
+## Conclusion:
+The variables that are **not affected by any other variables** (i.e., exogenous/root nodes) are **burglary** and **earthquake**. These are independent external events that can trigger downstream effects but are not themselves caused by any variable in this system.
+
+<Answer>burglary, earthquake</Answer>

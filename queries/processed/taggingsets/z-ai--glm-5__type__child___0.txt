@@ -1,0 +1,8 @@
+History:BirthAsphyxia
+Diagnosis:Disease
+Pathophysiology:LVH,DuctFlow,CardiacMixing,LungParench,LungFlow,Sick
+Symptom:HypDistrib,HypoxiaInO2,Grunting
+Measurement:CO2,LowerBodyO2,RUQO2
+Report:LVHreport,CO2Report,XrayReport,GruntingReport
+Procedure:ChestXray
+Demographic:Age

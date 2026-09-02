@@ -1,0 +1,3 @@
+To find the variables caused by appdata, we should look at the given causal relationships and identify any variable that is directly or indirectly caused by appdata. However, from the provided information, there are no direct causal relationships stated where appdata is the cause. The information given shows that appok causes appdata, but it does not specify what appdata causes. Since the question asks for variables caused by appdata and the provided relationships do not specify any variables being caused by appdata, we cannot identify any variables that are directly caused by appdata based on the given causal relationships.
+
+<Answer></Answer>

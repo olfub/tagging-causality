@@ -1,0 +1,25 @@
+birth: BirthAsphyxia
+risk_factor: BirthAsphyxia, Age
+condition: BirthAsphyxia, Disease
+hypoxia: HypDistrib, HypoxiaInO2
+oxygenation: HypDistrib, HypoxiaInO2, LowerBodyO2, RUQO2
+physiological: HypDistrib, CO2, LVH, DuctFlow, LungParench, LungFlow
+measurement: HypoxiaInO2, CO2, LowerBodyO2
+blood_gas: CO2, CO2Report
+imaging: ChestXray, XrayReport
+diagnostic_test: ChestXray, RUQO2
+lung: ChestXray, LungParench, LungFlow
+symptom: Grunting
+respiratory: Grunting, GruntingReport
+observable: Grunting, Sick
+report: LVHreport, CO2Report, XrayReport, GruntingReport
+cardiac: LVHreport, LVH, DuctFlow, CardiacMixing
+clinical_finding: LVHreport, CO2Report, XrayReport, GruntingReport
+peripheral: LowerBodyO2
+underlying_cause: Disease
+diagnosis: Disease
+demographic: Age
+patient_characteristic: Age, Sick
+structural: LVH, LungParench, CardiacMixing
+blood_flow: DuctFlow, CardiacMixing, LungFlow
+outcome: Sick

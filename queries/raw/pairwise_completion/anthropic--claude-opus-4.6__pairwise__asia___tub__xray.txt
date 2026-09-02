@@ -1,0 +1,20 @@
+
+
+## Step-by-Step Reasoning
+
+**Understanding the entities:**
+- **Tuberculosis** is an infectious lung disease caused by *Mycobacterium tuberculosis*.
+- **X-ray** is a diagnostic test/imaging result used to detect lung abnormalities.
+
+**Evaluating Option A: Tuberculosis causes X-ray**
+- In medical causal reasoning (e.g., Bayesian networks like the well-known ASIA model), diseases are modeled as **causes** of observable findings. Tuberculosis produces lung abnormalities (e.g., cavities, infiltrates) that **cause** an abnormal X-ray result.
+- The presence of disease leads to (causes) the diagnostic observation.
+
+**Evaluating Option B: X-ray causes Tuberculosis**
+- An X-ray is a diagnostic tool — it *detects* disease but does not *create* it. Radiation from an X-ray does not cause tuberculosis (which is caused by a bacterial infection).
+- This reverses the logical direction of causation.
+
+**Conclusion:**
+In the standard causal framework for medical diagnosis, the disease (Tuberculosis) is the **cause**, and the diagnostic finding (X-ray result) is the **effect**.
+
+<Answer>A</Answer>

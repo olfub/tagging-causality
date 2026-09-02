@@ -1,0 +1,16 @@
+1. **Interpret the signals (typical ICU naming):**
+   - **HREKG**: heart rate derived from the **ECG/EKG** (electrical activity; R–R intervals).
+   - **HRSAT**: heart rate (pulse rate) derived from the **pulse oximeter/SpO₂ pleth** (mechanical pulse detected optically).
+
+2. **Physiology and timing (cause → effect):**
+   - The **electrical depolarization** of the heart (seen on EKG) **initiates** contraction.
+   - That contraction produces a **mechanical pulse wave** that reaches peripheral sites (finger/ear) after a short delay (pulse transit time).
+   - Therefore, changes in **true heart rate** show up **first** in the EKG-derived HR and **then** in the pleth-derived pulse rate.
+
+3. **Causal direction between these measured streams:**
+   - While both are *measurements* of an underlying heart rhythm, if forced to choose a directional relationship, the **EKG-based HR is upstream** of the peripheral pulse detection.
+   - It’s not physiologically plausible that the pulse oximeter-derived HR would *cause* the EKG-derived HR.
+
+**Conclusion:** The more likely cause-and-effect direction is **HREKG → HRSAT**.
+
+<Answer>A</Answer>

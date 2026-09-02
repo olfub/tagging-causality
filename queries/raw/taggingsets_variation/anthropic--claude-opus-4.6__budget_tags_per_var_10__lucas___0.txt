@@ -1,0 +1,66 @@
+health_condition: Anxiety, Attention_Disorder, Fatigue, Allergy, Lung_Cancer
+behavioral: Smoking, Peer_Pressure
+physical_symptom: Yellow_Fingers, Fatigue, Coughing
+disease: Lung_Cancer
+mental_health: Anxiety, Attention_Disorder
+habit: Smoking
+social_influence: Peer_Pressure
+genetic_factor: Genetics
+respiratory: Coughing, Lung_Cancer
+cosmetic_sign: Yellow_Fingers
+cause_of_disease: Smoking, Genetics, Anxiety
+consequence: Yellow_Fingers, Coughing, Fatigue, Lung_Cancer
+innate: Genetics, Born_an_Even_Day, Allergy
+modifiable: Smoking, Anxiety, Peer_Pressure
+immune_response: Allergy
+cognitive: Attention_Disorder, Anxiety
+random: Born_an_Even_Day
+accident: Car_Accident
+lifestyle: Smoking, Peer_Pressure
+chronic: Attention_Disorder, Fatigue, Allergy, Lung_Cancer
+medical_diagnosis: Lung_Cancer, Allergy, Attention_Disorder, Anxiety
+observable_sign: Yellow_Fingers, Coughing, Fatigue
+biological: Genetics, Fatigue, Allergy, Lung_Cancer
+psychological: Anxiety, Attention_Disorder, Peer_Pressure
+external_event: Car_Accident
+risk_factor: Smoking, Genetics, Anxiety, Peer_Pressure
+body_signal: Yellow_Fingers, Coughing, Fatigue
+predetermined: Genetics, Born_an_Even_Day
+environmental: Peer_Pressure
+irrelevant_to_health: Born_an_Even_Day, Car_Accident
+voluntary: Smoking, Peer_Pressure
+addictive: Smoking
+exposure: Smoking
+adult_onset: Smoking
+secondary_effect: Yellow_Fingers, Coughing, Fatigue
+discoloration: Yellow_Fingers
+indicator: Yellow_Fingers, Coughing
+visible: Yellow_Fingers
+external_manifestation: Yellow_Fingers
+emotional: Anxiety
+stress_related: Anxiety
+interpersonal: Peer_Pressure
+external_cause: Peer_Pressure, Car_Accident
+inherited: Genetics, Allergy
+unmodifiable: Genetics, Born_an_Even_Day
+internal: Genetics, Attention_Disorder, Allergy, Lung_Cancer
+baseline: Genetics, Born_an_Even_Day
+neurological: Attention_Disorder
+impairment: Attention_Disorder, Fatigue
+developmental: Attention_Disorder
+arbitrary: Born_an_Even_Day
+demographic: Born_an_Even_Day
+non_causal: Born_an_Even_Day
+trivial: Born_an_Even_Day
+traumatic: Car_Accident
+unplanned: Car_Accident
+physical: Car_Accident
+rare_event: Car_Accident
+harm: Car_Accident
+acute: Car_Accident, Coughing
+energy: Fatigue
+hypersensitivity: Allergy
+physiological: Allergy, Coughing
+reflex: Coughing
+serious: Lung_Cancer
+terminal: Lung_Cancer

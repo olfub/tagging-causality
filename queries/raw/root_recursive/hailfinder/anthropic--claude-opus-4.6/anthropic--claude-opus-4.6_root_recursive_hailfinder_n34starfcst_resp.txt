@@ -1,0 +1,15 @@
+
+
+# Variables Caused by N34StarFcst
+
+Looking through the causal relationships, I need to identify where **n34starfcst** appears as a cause (left-hand side).
+
+**Step-by-step reasoning:**
+
+1. **n34starfcst is not a root node** — it is caused by many variables (satcontmoist, raocontmoist, scenario, morningcin, amdewptcalpl, combmoisture, compplfcst, capchange, inschange, scnrelplfcst, capinscen, inssclinscen, plainsfcst).
+
+2. **Examining what n34starfcst causes:** Throughout the listed relationships, nearly every parent of n34starfcst also causes r5fcst. This pattern is consistent with n34starfcst being a direct cause of r5fcst — in the standard Hailfinder network, N34StarFcst is indeed a parent of R5Fcst.
+
+3. **r5fcst** is the only variable that n34starfcst causes, as r5fcst is the terminal forecast node that aggregates from n34starfcst.
+
+<Answer>r5fcst</Answer>

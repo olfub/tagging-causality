@@ -1,0 +1,15 @@
+VerticalVelocity: N0_7muVerMo, SubjVertMo, QGVertMotion, CombVerMo
+ProfileMoisture: SatContMoist, RaoContMoist, CombMoisture, MeanRH, RHRatio
+SurfaceMoisture: Dewpoints, AMDewptCalPl
+FeatureArea: AreaMeso_ALS, AreaMoDryAir
+CloudCover: VISCloudCov, IRCloudCover, CombClouds
+CloudShading: CldShadeOth, CldShadeConv
+InstabilityIndex: AMInstabMt, InsInMt, InsChange, AMInsWliScen, InsSclInScen, ScenRelAMIns, LIfr12ZDENSd, LLIW
+ConvectiveInhibition: CapChange, CapInScen, MorningCIN, LatestCIN, AMCINInScen, ScenRelAMCIN
+AtmosphericStability: LowLLapse, MidLLapse, TempDis
+WindField: WindAloft, WindFieldMt, WindFieldPln, WndHodograph
+MesoscaleBoundary: OutflowFrMt, MorningBound, Boundaries, SfcWndShfDis
+SynopticFeature: SynForcng, MvmtFeatures
+ForecastMetric: CompPlFcst, MountainFcst, ScnRelPlFcst, PlainsFcst, N34StarFcst, R5Fcst, CurPropConv, ScenRel3_4
+MoistureAdvection: LoLevMoistAd
+ContextualMetadata: Date, Scenario

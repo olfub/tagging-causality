@@ -1,0 +1,21 @@
+
+
+## Step-by-Step Reasoning
+
+**Option A: Age causes DrivingSkill**
+- Age is a natural, exogenous variable — it progresses independently of other factors.
+- As a person ages, their driving skill changes in predictable ways:
+  - **Young drivers** tend to have less experience, leading to lower skill levels.
+  - **Middle-aged drivers** generally have accumulated experience, leading to higher skill.
+  - **Elderly drivers** may experience declining reflexes, vision, and cognitive function, reducing driving skill.
+- In insurance risk models, **age is a well-established causal factor** that influences driving ability and risk profiles.
+
+**Option B: DrivingSkill causes Age**
+- This would imply that a person's driving ability determines how old they are.
+- This is logically nonsensical — no level of driving skill can make someone younger or older.
+- Causality cannot flow in this direction.
+
+## Conclusion
+Age is a fundamental demographic variable that **causally influences** driving skill through mechanisms like experience accumulation, physical decline, and cognitive changes. The reverse — driving skill determining one's age — has no plausible causal mechanism.
+
+<Answer>A</Answer>

@@ -1,0 +1,18 @@
+To decide the more likely cause → effect direction, interpret these as:
+
+- **NtwrkCnfg** = network configuration/settings (ports, protocols, print server/queue settings).
+- **NtGrbld** = “not garbled”/“garbled” print symptom (i.e., output corruption).
+
+### Step 1: Which one is a *setting* vs a *symptom*?
+- **Network configuration** is an upstream **system state/setting**.
+- **Garbled (or not garbled) output** is a downstream **result/symptom** of how data is delivered/interpreted.
+
+### Step 2: Plausible mechanism in Windows 95 printing
+Misconfigured network printing (wrong queue type, incorrect port/protocol, incorrect spool settings, wrong data mode to a print server) can lead to print jobs being transmitted/handled incorrectly, which can manifest as **garbled output**.
+
+### Step 3: Reverse direction check
+It’s not realistic that “garbled/not-garbled output” would *cause* the network configuration to change by itself. At most, it might prompt a user/admin to change settings, but that’s not the direct causal relationship implied here.
+
+So the more likely causal direction is:
+
+<Answer>B</Answer>

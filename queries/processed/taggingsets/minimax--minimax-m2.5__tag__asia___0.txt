@@ -1,0 +1,11 @@
+region:asia
+exposure:smoke
+disease:tub,lung,either,bronc
+infection:tub
+cancer:lung
+respiratory:lung,bronc,either,dysp
+symptom:dysp
+diagnostic_test:xray
+lung_related:lung,bronc,either,xray
+smoking_related:smoke,lung,bronc
+risk_factor:smoke,asia

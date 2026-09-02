@@ -1,0 +1,15 @@
+1. Consider what each event is:  
+   - **Earthquake**: a geophysical event (ground shaking).  
+   - **Alarm**: a human-made detection/alert system or a triggered warning (e.g., building alarm, emergency alert).
+
+2. Check physical plausibility and direction of influence:  
+   - It is physically plausible that **earthquake shaking** triggers **alarms** (seismic sensors, building safety systems, car alarms, emergency notifications).  
+   - It is not plausible that an **alarm** (sound/notification) would cause tectonic plates to move and produce an **earthquake**.
+
+3. Consider typical real-world mechanisms:  
+   - Earthquakes often cause alarms via vibration sensors, automatic shutdown systems, and emergency alert networks.  
+   - Alarms are generally responses to hazards, not causes of them.
+
+Therefore, the more likely cause-and-effect relationship is: **Earthquake causes Alarm**.
+
+<Answer>B</Answer>

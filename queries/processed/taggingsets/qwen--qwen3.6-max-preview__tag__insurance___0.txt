@@ -1,0 +1,11 @@
+Demographic:Age,SocioEcon
+DriverAttribute:GoodStudent,RiskAversion,DrivingSkill,SeniorTrain,DrivHist
+VehicleAttribute:VehicleYear,MakeModel,CarValue,RuggedAuto,Mileage
+SafetyMechanism:Antilock,Airbag,Cushioning,AntiTheft
+EnvironmentalContext:HomeBase
+BehavioralIndicator:DrivQuality,Mileage,DrivHist,GoodStudent
+StochasticEvent:Accident,Theft
+PhysicalConsequence:ThisCarDam,OtherCar
+FinancialConsequence:ThisCarCost,OtherCarCost,MedCost,PropCost,ILiCost
+CausalRoot:Age,SocioEcon,VehicleYear,MakeModel,HomeBase
+CausalLeaf:ThisCarCost,OtherCarCost,MedCost,PropCost,ILiCost,ThisCarDam,OtherCar

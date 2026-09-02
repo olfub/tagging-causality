@@ -1,0 +1,6 @@
+EnvironmentalExposure: Pollution, Smoker
+DirectlyIntervenable: Pollution, Smoker, Xray
+PhysiologicalState: Cancer, Dyspnoea
+CausalAntecedent: Pollution, Smoker, Cancer
+CausalConsequent: Cancer, Xray, Dyspnoea
+PatientSpecific: Smoker, Cancer, Dyspnoea, Xray

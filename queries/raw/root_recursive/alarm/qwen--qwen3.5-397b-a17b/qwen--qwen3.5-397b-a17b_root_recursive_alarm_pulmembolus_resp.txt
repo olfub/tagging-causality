@@ -1,0 +1,25 @@
+Based on the provided text, we need to identify variables caused by `pulmembolus`.
+
+1.  **Analyze the Explicit Causal Relationships:**
+    The prompt explicitly lists the following causal relationships:
+    *   `hypovolemia` causes `lvedvolume`, `cvp`, `pcwp`, `strokevolume`, `co`, `bp`, `pap`, `hr`, `tpr`, `catechol`, `errlowoutput`, `pvsat`, `expco2`, `artco2`, `sao2`, `hrbp`, `hrekg`.
+    *   `errcauter` causes `bp`, `hr`.
+    *   `anaphylaxis` causes `tpr`, `hr`.
+
+    There is no explicit statement in the "causal relationships" section that lists variables caused by `pulmembolus`.
+
+2.  **Analyze Variable Definitions for Semantic Causality:**
+    *   `<pulmembolus>`: "sudden blockage in the pulmonary arteries".
+    *   `<pap>`: "blood pressure in the pulmonary artery".
+    *   `<pvsat>`: "amount of oxygen bound to hemoglobin in the pulmonary artery".
+
+    From a medical and logical reasoning perspective based on the definitions provided:
+    *   A blockage in the pulmonary arteries (`pulmembolus`) would directly affect the blood pressure within those arteries (`pap`).
+    *   A blockage would also affect the oxygenation of the blood in those arteries (`pvsat`).
+
+    In the standard ALARM causal network (which this variable set corresponds to), `pulmembolus` is known to cause `pap` and `pvsat`. Although the explicit "causes" list in the prompt text omitted this line (likely due to truncation), the definitions provided allow for this inference, and it aligns with the domain knowledge expected in this context.
+
+3.  **Conclusion:**
+    Based on the definitions and standard causal structure associated with these variables (ALARM network), `pulmembolus` causes `pap` and `pvsat`.
+
+<Answer>pap, pvsat</Answer>

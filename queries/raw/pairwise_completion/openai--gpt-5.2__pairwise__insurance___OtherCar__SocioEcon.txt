@@ -1,0 +1,19 @@
+1. **Interpret the variables in an auto insurance context**
+   - **SocioEcon** typically represents socioeconomic status (income/education/occupation or an index derived from them).
+   - **OtherCar** usually indicates whether the household/insured has access to or owns **another vehicle** (e.g., a second car).
+
+2. **Think about plausible mechanisms**
+   - Higher **SocioEcon** → greater ability to afford/maintain multiple vehicles → more likely **OtherCar = yes**.
+   - Lower **SocioEcon** → tighter budget, fewer vehicles → more likely **OtherCar = no**.
+
+3. **Check the reverse direction for plausibility**
+   - **OtherCar → SocioEcon** would mean that merely having another car *causes* someone’s socioeconomic status to change in a broad, upstream sense.
+   - While car access can affect employment opportunities at the margin, **SocioEcon** is generally treated as a more fundamental, upstream determinant that influences asset ownership (including cars), not something that is primarily caused by owning an extra car.
+
+4. **Modeling perspective (causal ordering)**
+   - In risk modeling, **SocioEcon** is usually an exogenous/background factor.
+   - **OtherCar** is more naturally a downstream household asset/choice that is partially determined by socioeconomic resources.
+
+Therefore, the more likely cause-and-effect relationship is:
+
+<Answer>B</Answer>

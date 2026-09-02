@@ -1,0 +1,10 @@
+Step‑by‑step reasoning:
+
+1. **Hepatotoxic** refers to agents or conditions that damage the liver.  
+2. Liver injury can lead to accumulation of metabolic waste products and release of inflammatory mediators, which can stimulate the chemoreceptor trigger zone and the vagal afferents that induce **nausea**.  
+3. **Nausea** is a symptom (a feeling of needing to vomit) and does not itself produce liver damage. While severe vomiting could theoretically lead to electrolyte imbalances or aspiration, nausea alone is not a known cause of hepatotoxicity.  
+4. Therefore, the causal direction “hepatotoxic → nausea” is biologically plausible, whereas the reverse (“nausea → hepatotoxic”) is not supported by evidence.
+
+Thus, the more likely cause‑and‑effect relationship is **A**.
+
+<Answer>A</Answer>

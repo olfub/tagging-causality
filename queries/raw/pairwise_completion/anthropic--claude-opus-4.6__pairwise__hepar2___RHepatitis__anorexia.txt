@@ -1,0 +1,28 @@
+
+
+# Evaluating the Causal Relationship Between Hepatitis and Anorexia
+
+## Step-by-Step Analysis
+
+**Step 1: Define the terms**
+- **Hepatitis** (RHepatitis): Inflammation of the liver caused by viral infection, toxins, alcohol, or autoimmune conditions.
+- **Anorexia**: In medical terminology, this refers to **loss of appetite** (distinct from anorexia nervosa, the eating disorder).
+
+**Step 2: Does Hepatitis cause Anorexia?**
+- Yes. Anorexia (loss of appetite) is one of the **classic early symptoms** of hepatitis.
+- Liver inflammation disrupts bile production and metabolism, leading to nausea, malaise, and appetite loss.
+- This is well-documented across all types of hepatitis (A, B, C, alcoholic, etc.).
+
+**Step 3: Does Anorexia cause Hepatitis?**
+- Loss of appetite alone does not cause liver inflammation.
+- While prolonged severe malnutrition (as in anorexia nervosa) *can* lead to liver damage, this is a secondary/indirect effect and is not the primary or more likely causal direction.
+
+**Step 4: Compare the two directions**
+- Hepatitis → Anorexia is a **direct, well-established, and primary** clinical relationship.
+- Anorexia → Hepatitis is indirect and far less common.
+
+## Conclusion
+
+Hepatitis directly causes anorexia (loss of appetite) as a hallmark symptom.
+
+<Answer>A</Answer>

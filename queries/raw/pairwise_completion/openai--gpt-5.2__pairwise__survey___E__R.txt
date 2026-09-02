@@ -1,0 +1,21 @@
+1. **Clarify what each variable represents**
+   - **Education** (highest degree/years completed) is typically a **slow-moving, “stock”** characteristic: it accumulates over many years and then becomes relatively stable in adulthood.
+   - **Residence** (where someone currently lives) is typically a **more changeable, “flow”** characteristic: people can move in response to life events.
+
+2. **Check likely time ordering (a key cue for causal direction)**
+   - For many adults, **most education is completed before** their current residential situation (especially before settling into a long-term neighborhood/city).
+   - People commonly **move after** finishing schooling (for jobs, family formation, affordability).
+
+3. **Assess plausible mechanisms**
+   - **Education → Residence** mechanisms are strong and direct:
+     - Higher education → better-paying occupations → ability to afford higher-cost areas.
+     - Higher education → job opportunities concentrated in certain metros → relocation.
+     - Education correlates with preferences and constraints that shape neighborhood selection.
+   - **Residence → Education** also has mechanisms (school quality, access, peer effects), but these are strongest **earlier in life** (childhood residence) and depend on measuring *residence at formative ages*, not necessarily *current* residence.
+
+4. **Consider what’s most common in demographic data**
+   - In many demographic/census-type settings, “Residence” is measured **current**, while education is **completed attainment**. In that common setup, the more plausible direction is that education helps determine where you end up living (via income/job sorting), rather than current residence causing already-completed education.
+
+**Conclusion:** While there can be feedback over the life course, the more likely causal direction in typical demographic contexts is **Education causes Residence**.
+
+<Answer>A</Answer>

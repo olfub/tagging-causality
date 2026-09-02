@@ -1,0 +1,13 @@
+TravelRegion:asia
+InfectiousDisease:tub
+LifestyleExposure:smoke
+Malignancy:lung
+ChronicRespiratoryCondition:bronc
+CompositeDiseaseIndicator:either
+ImagingTest:xray
+RespiratorySymptom:dysp
+RespiratoryDisease:tub,lung,bronc
+SmokingRelatedOutcome:lung,bronc
+UpstreamExogenousFactor:asia,smoke
+DownstreamClinicalFinding:xray,dysp
+SeriousUnderlyingDisease:tub,lung,either

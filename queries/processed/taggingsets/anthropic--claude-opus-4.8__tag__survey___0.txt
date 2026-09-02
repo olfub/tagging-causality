@@ -1,0 +1,13 @@
+Demographic:A,S,E,O,R
+Innate:A,S
+Immutable:A,S
+Socioeconomic:E,O
+Individual:A,S,E,O,T
+Behavioral:T,O
+Temporal:A,E,O
+Geographic:R,T
+Acquired:E,O,R,T
+Outcome:T
+Mobility:T,R
+Personal-attribute:A,S,E,O
+Life-stage-dependent:E,O,R

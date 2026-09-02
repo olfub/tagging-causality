@@ -1,0 +1,14 @@
+To determine the more likely cause-and-effect relationship between "DrivHist" (driving history) and "DrivingSkill," let's analyze the possible directions of causality step by step.
+
+1. **Understanding the Terms**:
+   - **DrivHist (Driving History)**: This refers to the record of a person's driving experiences, including accidents, tickets, and overall performance on the road.
+   - **DrivingSkill**: This pertains to the ability, proficiency, and competence of a driver in operating a vehicle safely and effectively.
+
+2. **Analyzing Causality**:
+   - **A. DrivHist causes DrivingSkill**: This option suggests that a person's driving history influences their driving skill. At first glance, this might seem plausible because one might think that the experiences (accidents, near misses, etc.) recorded in a driving history could teach a driver to become more skilled over time. However, upon closer inspection, this relationship seems less direct. A driving history is more of a reflection of past driving behaviors and outcomes rather than a cause of future driving competence.
+   
+   - **B. DrivingSkill causes DrivHist**: This option implies that a driver's skill level affects their driving history. This relationship makes more intuitive sense because a skilled driver is less likely to be involved in accidents or receive tickets, thereby directly influencing their driving history. Conversely, a less skilled driver is more likely to have a driving history marked by infractions or accidents.
+
+3. **Conclusion**: Considering the logical flow of cause and effect, it's more reasonable to conclude that a driver's skill level (DrivingSkill) would have a direct impact on their driving history (DrivHist). The competence and ability of a driver would naturally influence the outcomes and events recorded in their driving history.
+
+<Answer>B</Answer>

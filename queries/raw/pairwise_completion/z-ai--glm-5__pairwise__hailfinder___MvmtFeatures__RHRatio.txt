@@ -1,0 +1,33 @@
+# Analyzing the Causal Relationship Between MvmtFeatures and RHRatio
+
+To determine the more likely causal relationship, I need to consider what these variables represent in the context of hail forecasting.
+
+## Understanding the Variables
+
+**MvmtFeatures**: This likely refers to movement features of storms, such as storm motion, propagation characteristics, or radar-derived motion fields.
+
+**RHRatio**: This likely refers to Relative Humidity Ratio, which represents moisture content or distribution in the atmosphere.
+
+## Evaluating Causal Direction
+
+Let me analyze both potential causal relationships:
+
+### Option A: MvmtFeatures causes RHRatio
+- Storm movement would need to directly change environmental moisture patterns
+- Movement itself doesn't typically alter the broader humidity field
+- No clear physical mechanism exists for storm motion to directly modify atmospheric moisture ratios used in forecasting
+
+### Option B: RHRatio causes MvmtFeatures
+- Environmental humidity is a precondition for storm development
+- Moisture gradients and profiles influence storm behavior and movement
+- Humidity patterns affect storm propagation mechanisms
+- In meteorology, environmental parameters typically influence storm characteristics rather than vice versa
+- Forecasters use humidity parameters to predict storm behavior, including movement
+
+## Meteorological Principles
+
+In severe weather forecasting, the moisture field (represented by RHRatio) is considered an environmental parameter that exists prior to and independent of specific storm movement. Storm systems develop within and respond to their thermodynamic environment, with humidity profiles influencing storm development, intensity, and movement characteristics.
+
+The direction of causality aligns with standard meteorological understanding: environmental conditions → storm behavior.
+
+<Answer>B</Answer>

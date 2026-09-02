@@ -1,0 +1,14 @@
+To determine which variables are caused by johncalls, let's break down the given information and relationships:
+
+1. Earthquake and burglary are not affected by any other variable, meaning they are independent causes.
+2. Earthquake causes alarm, johncalls, and marycalls. This establishes a direct causal relationship from earthquake to these three variables.
+
+Given that we are asked about the variables caused by johncalls, we need to look at the causal relationships starting from johncalls. The provided information does not specify any direct causal relationships starting from johncalls to any other variables. The relationships provided are:
+
+- Earthquake → Alarm
+- Earthquake → JohnCalls
+- Earthquake → MaryCalls
+
+There is no information provided that suggests johncalls causes any of the variables directly. Therefore, based on the given causal relationships, johncalls does not cause any of the listed variables.
+
+<Answer></Answer>

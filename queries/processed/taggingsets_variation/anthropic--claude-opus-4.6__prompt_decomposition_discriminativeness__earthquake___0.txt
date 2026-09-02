@@ -1,0 +1,12 @@
+cause:Burglary,Earthquake
+effect:Alarm,JohnCalls,MaryCalls
+event:Burglary,Earthquake
+sensor:Alarm
+human_response:JohnCalls,MaryCalls
+physical:Burglary,Earthquake,Alarm
+communication:JohnCalls,MaryCalls
+trigger:Burglary,Earthquake
+observable:Alarm,JohnCalls,MaryCalls
+crime:Burglary
+natural_disaster:Earthquake
+alert_system:Alarm

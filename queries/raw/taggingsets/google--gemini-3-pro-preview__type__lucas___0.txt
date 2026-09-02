@@ -1,0 +1,7 @@
+Constitutional_Factor: Genetics, Born_an_Even_Day
+Environmental_Factor: Peer_Pressure
+Psychological_State: Anxiety, Attention_Disorder
+Behavior: Smoking
+Symptom: Yellow_Fingers, Fatigue, Coughing, Allergy
+Disease: Lung_Cancer
+External_Event: Car_Accident

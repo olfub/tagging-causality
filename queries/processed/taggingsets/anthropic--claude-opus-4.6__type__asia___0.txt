@@ -1,0 +1,5 @@
+Risk Factor:asia,smoke
+Disease:tub,lung,bronc
+Pathological State:either
+Diagnostic Test:xray
+Symptom:dysp

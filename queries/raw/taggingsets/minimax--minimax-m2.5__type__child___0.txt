@@ -1,0 +1,7 @@
+ClinicalDiagnosis: BirthAsphyxia, Disease, LVH, Sick
+Condition: HypDistrib, HypoxiaInO2
+Symptom: Grunting
+Demographic: Age
+LabMeasurement: CO2, LowerBodyO2, RUQO2, DuctFlow, CardiacMixing, LungFlow
+DiagnosticTest: ChestXray
+ClinicalReport: LVHreport, CO2Report, XrayReport, GruntingReport, LungParench

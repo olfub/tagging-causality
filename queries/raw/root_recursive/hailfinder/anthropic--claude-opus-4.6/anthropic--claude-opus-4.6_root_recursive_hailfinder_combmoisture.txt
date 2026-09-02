@@ -1,0 +1,1 @@
+["areamodryair", "cldshadeoth", "cldshadeconv", "compplfcst", "mountainfcst", "capchange", "lolevmoistad", "inschange", "scnrelplfcst", "capinscen", "inssclinscen", "plainsfcst", "n34starfcst", "r5fcst", "dewpoints", "lowllapse", "meanrh", "midllapse", "mvmtfeatures", "rhratio", "sfcwndshfdis", "synforcng", "tempdis", "windaloft", "windfieldmt", "windfieldpln"]

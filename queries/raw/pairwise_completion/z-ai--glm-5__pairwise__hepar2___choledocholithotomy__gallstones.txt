@@ -1,0 +1,28 @@
+# Analyzing the Cause-Effect Relationship Between Choledocholithotomy and Gallstones
+
+## Step 1: Understanding the Medical Terms
+- **Gallstones**: Hard deposits that form in the gallbladder, composed primarily of cholesterol or bilirubin
+- **Choledocholithotomy**: A surgical procedure to remove stones from the common bile duct
+
+## Step 2: Analyzing Option A
+Does choledocholithotomy cause gallstones?
+- Choledocholithotomy is a treatment procedure that removes existing stones
+- The purpose of this surgery is to eliminate stones, not create them
+- There's no known mechanism by which this surgical procedure would cause formation of new gallstones
+
+## Step 3: Analyzing Option B
+Do gallstones cause choledocholithotomy?
+- Gallstones can form in the gallbladder and sometimes migrate to the common bile duct
+- When stones block the common bile duct (choledocholithiasis), they can cause pain, infection, and jaundice
+- This condition requires treatment, often via choledocholithotomy
+- The presence of stones in the common bile duct creates the medical necessity for this surgical intervention
+
+## Step 4: Establishing the Temporal Relationship
+- Gallstones form first (cause)
+- Choledocholithotomy is performed as a treatment (effect)
+- This follows the logical sequence of disease → treatment
+
+## Step 5: Conclusion
+Based on medical knowledge and logical causality, gallstones cause the need for choledocholithotomy, not the reverse.
+
+<Answer>B</Answer>

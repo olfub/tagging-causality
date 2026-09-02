@@ -1,0 +1,9 @@
+Event:Burglary,Earthquake,Alarm
+Emergency:Burglary,Earthquake,Alarm
+Call:JohnCalls,MaryCalls
+HumanAction:JohnCalls,MaryCalls,Alarm
+NaturalDisaster:Earthquake
+Theft:Burglary
+Telephone:JohnCalls,MaryCalls
+AlarmSystem:Alarm
+Response:JohnCalls,MaryCalls,Alarm

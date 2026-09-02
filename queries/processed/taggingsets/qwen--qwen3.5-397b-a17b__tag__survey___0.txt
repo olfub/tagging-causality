@@ -1,0 +1,5 @@
+Immutable:A,S
+Mutable:E,O,R,T
+Socioeconomic:E,O,R
+Geographic:R,T
+Activity:O,T

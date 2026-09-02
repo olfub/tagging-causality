@@ -1,0 +1,23 @@
+Environmental Exposure:asia
+Behavioral Risk Factor:smoke
+Modifiable Lifestyle:smoke
+Travel History:asia
+Disease:tub,lung,bronc
+Infectious Disease:tub
+Chronic Disease:lung,bronc
+Malignancy:lung
+Respiratory Condition:tub,lung,bronc,dysp
+Pulmonary Pathology:tub,lung,bronc
+Symptom:dysp
+Diagnostic Test Result:xray
+Observable Indicator:xray,dysp
+Logical Aggregate:either
+Latent Intermediate:either
+Risk Factor:asia,smoke
+Consequence of Disease:xray,dysp,either
+Root Cause:asia,smoke
+Clinical Outcome:xray,dysp
+Smoking Related:lung,bronc
+Detected by Imaging:tub,lung,either
+Patient Reported:dysp
+Precedes Diagnosis:asia,smoke,tub,lung,bronc

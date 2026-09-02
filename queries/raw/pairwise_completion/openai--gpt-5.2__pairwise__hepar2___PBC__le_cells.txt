@@ -1,0 +1,12 @@
+1. **Define the entities**
+   - **PBC (Primary biliary cholangitis)** is an autoimmune cholestatic liver disease (classically associated with antimitochondrial antibodies; can have various autoantibodies).
+   - **LE cells** are a *laboratory phenomenon* (neutrophils/macrophages that have phagocytosed antibody-coated nuclear material), historically associated with **SLE** and other autoimmune/inflammatory states. They are **not** a mechanistic driver of disease; they are a *result/marker* of an autoantibody milieu.
+
+2. **Assess biological plausibility of each direction**
+   - **“LE cells cause PBC” (B)**: implausible. LE cells are not a pathogenic agent; they are a cytologic finding produced under certain immunologic conditions. They don’t have a known causal pathway leading to bile-duct–targeted autoimmunity.
+   - **“PBC causes LE cells” (A)**: while not a classic hallmark, it is at least plausible that an autoimmune disease like PBC could be associated with broader autoantibody activity and, rarely, an LE-cell phenomenon (i.e., as an epiphenomenon/marker), especially given autoimmune overlap contexts.
+
+3. **Most likely direction given forced choice**
+   - If one must pick a direction, the *disease state (PBC)* leading to a *laboratory finding (LE cells)* is more plausible than the lab finding causing the disease.
+
+<Answer>A</Answer>

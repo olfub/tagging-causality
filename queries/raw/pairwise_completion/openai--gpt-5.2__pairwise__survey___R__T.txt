@@ -1,0 +1,19 @@
+1. **Clarify the variables**
+   - **Residence** typically refers to where someone lives (e.g., urban vs. rural, region, neighborhood).
+   - **Travel** typically refers to how much/where/how often someone travels (commuting, leisure trips, long-distance travel frequency).
+
+2. **Consider the most common causal direction in demographics**
+   - Where you **live** strongly shapes your travel behavior:
+     - Urban residents often have shorter trips, more public transit options, and different commuting patterns.
+     - Rural residents often need longer car trips for work, services, and shopping.
+     - Living near airports, transit hubs, tourist areas, or job centers affects travel frequency and modes.
+   - This is a standard “environment/opportunity structure → behavior” relationship.
+
+3. **Evaluate the reverse direction**
+   - **Travel causing Residence** can happen in specific cases (e.g., someone travels for work and later relocates; frequent travel leads to moving closer to an airport; migration after a trip).
+   - But for most people and in most standard demographic datasets, “amount of travel” is more often an outcome of residential location rather than a primary driver of where they live.
+
+4. **Which is more likely overall?**
+   - The more typical and broadly applicable causal relationship is: **Residence influences Travel**.
+
+<Answer>A</Answer>

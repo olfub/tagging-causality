@@ -1,0 +1,19 @@
+# Finding Variables Caused by `ptroffline`
+
+## Step-by-Step Analysis
+
+1. **Identify `ptroffline`'s status:** The problem states that `ptroffline` is a root variable (not affected by any other variable).
+
+2. **Check the listed causal relationships:** I reviewed each of the explicitly listed causal relationships:
+   - `dsklocal` causes → ds_lclok, lclok, pc2prt, lclgrbld, grbldotpt, prtdata, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+   - `drvset` causes → drvok, gdiout, prtdataout, pc2prt, prtdata, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+   - `prtcbl` causes → cblprthrdwrok, lclok, pc2prt, lclgrbld, grbldotpt, prtdata, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+   - `prtport` causes → cblprthrdwrok, lclok, pc2prt, lclgrbld, grbldotpt, prtdata, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+   - `prtmem` causes → prtstatmem, fllcrrptdbffr, prttimeout, prtdata, problem1, hrglssdrtnaftrprnt
+   - `tnrspply` causes → prtstattoner, fllcrrptdbffr, prttimeout, prtdata, problem1, hrglssdrtnaftrprnt
+
+3. **Identify the pattern:** Each root cause variable maps to its corresponding status indicator (e.g., `prtmem → prtstatmem`, `tnrspply → prtstattoner`). Following the same structural pattern in this printer troubleshooting network, `ptroffline` (PTROFFLINE) maps to `prtstatoff` (PrtStatOff), which represents the printer's offline status indicator.
+
+4. **Confirm `prtstatoff`:** The variable `prtstatoff` exists in the network and is not listed as a root variable, meaning it must be caused by something — and `ptroffline` is the natural and only candidate.
+
+<Answer>prtstatoff</Answer>

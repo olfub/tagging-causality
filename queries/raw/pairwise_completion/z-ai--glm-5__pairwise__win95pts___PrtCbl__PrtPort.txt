@@ -1,0 +1,17 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Define the variables in the context of Windows 95 troubleshooting.**
+*   **PrtPort (Printer Port):** This refers to the physical hardware interface on the computer (e.g., Parallel Port/LPT1) and its configuration (BIOS settings, ECP/EPP modes, I/O address). This is a component of the computer itself.
+*   **PrtCbl (Printer Cable):** This refers to the physical cable used to connect the computer's port to the printer. This is an external accessory.
+
+**Step 2: Analyze the physical and logical hierarchy.**
+The Printer Port is the host interface. The Printer Cable is the medium that relies on that interface to function. The existence and configuration of the port dictate the type of cable required (e.g., a parallel port requires a parallel cable, specific ECP modes require IEEE-1284 compliant cables).
+
+**Step 3: Apply the "Intervention" test.**
+*   **Scenario A (PrtCbl causes PrtPort):** If you change the printer cable (e.g., swap a generic cable for a bi-directional one), does the physical printer port on the computer or its BIOS configuration change? No. The port remains the same.
+*   **Scenario B (PrtPort causes PrtCbl):** If you change the Printer Port (e.g., you configure the LPT1 port in the BIOS to be an ECP port), does it affect the cable? Yes. An ECP port configuration *causes* a requirement for a specific type of cable (an IEEE-1284 compliant cable) to function correctly. The state of the port determines the necessary state of the cable.
+
+**Step 4: Determine dependency.**
+In the causal chain of a printer setup, the computer's hardware configuration (Port) is the root cause. The connection medium (Cable) is the dependent variable. The port settings create the conditions that the cable must meet. Therefore, the Port is the cause, and the Cable (or its selection/status) is the effect.
+
+<Answer>B</Answer>

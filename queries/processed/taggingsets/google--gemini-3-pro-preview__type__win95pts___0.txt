@@ -1,0 +1,7 @@
+SystemStatus:AppOK,DskLocal,PrtSpool,PrtOn,NetPrint,PrtDriver,PrtThread,EMFOK,GDIIN,DrvSet,DrvOK,GDIOUT,PrtSel,PrtDataOut,PrtPath,NtwrkCnfg,PTROFFLINE,NetOK,CblPrtHrdwrOK,LclOK,DSApplctn,PrtMpTPth,DS_NTOK,DS_LCLOK,PC2PRT,PrtMem,PrtTimeOut,FllCrrptdBffr,PgOrnttnOK,PrntngArOK,ScrnFntNtPrntrFnt,CmpltPgPrntd,GrphcsRltdDrvrSttngs,PrtPScript,TrTypFnts,FntInstlltn,PrntrAccptsTrtyp,TTOK,NnTTOK,REPEAT,AvlblVrtlMmry,PrtIcon,PrtQueue,NtSpd,PrtStatPaper,PrtStatToner,PrtStatMem,PrtStatOff
+HardwareComponent:PrtPaper,PrtCbl,PrtPort,TnrSpply
+DataArtifact:DataFile,AppData,EPSGrphc,NnPSGrphc,PSGRAPHIC,TstpsTxt,PrtFile
+Symptom:LclGrbld,NtGrbld,GrbldOtpt,HrglssDrtnAftrPrnt,PSERRMEM,GrbldPS,IncmpltPS
+ProblemLabel:Problem1,Problem2,Problem3,Problem4,Problem5,Problem6
+PerformanceMetric:AppDtGnTm,PrntPrcssTm,DeskPrntSpd
+DataContent:PrtData

@@ -1,0 +1,19 @@
+
+
+# Identifying Root Variables (No Parents) in the Win95pts Printer Troubleshooting Network
+
+## Reasoning Process
+
+I need to identify variables that represent **fundamental states, hardware properties, user configurations, or document properties** — things that aren't caused by other variables in the system.
+
+**Physical/Hardware States:** `PrtOn` (printer powered on), `PrtPaper` (paper loaded), `PrtCbl` (cable connected), `PrtMem` (printer memory), `TnrSpply` (toner supply), `DskLocal` (local disk OK), `PrtPort` (port configured), `PrtPScript` (PostScript-capable printer), `PrntrAccptsTrtyp` (printer accepts TrueType)
+
+**User Configurations/Settings:** `PrtSel` (printer selected), `DrvSet` (driver settings), `NtwrkCnfg` (network configuration), `NetPrint` (network printing enabled), `PrtPath` (print path), `PrtDriver` (driver installed), `GrphcsRltdDrvrSttngs` (graphics driver settings), `PTROFFLINE` (offline setting)
+
+**Application/Document Properties:** `AppOK` (application OK), `DataFile` (data file OK), `DSApplctn` (application type), `EPSGrphc` (EPS graphics), `NnPSGrphc` (non-PS graphics), `TrTypFnts` (TrueType fonts used), `FntInstlltn` (fonts installed)
+
+**System State:** `AvlblVrtlMmry` (available virtual memory), `PrtMpTPth` (print mapped path)
+
+All other variables (e.g., `AppData`, `GDIIN`, `DrvOK`, `GDIOUT`, `Problem1`–`Problem6`, `PrtStatPaper`, etc.) are **downstream effects** of these root causes.
+
+<Answer>appok, datafile, dsklocal, prton, prtpaper, netprint, prtdriver, drvset, prtsel, ntwrkcnfg, prtcbl, prtport, prtmem, tnrspply, ptroffline, grphcsrltddrvrsttngs, epsgrphc, nnpsgrphc, prtpscript, trtypfnts, fntinstlltn, prntraccptstrtyp, avlblvrtlmmry, dsapplctn, prtmptpth, prtpath</Answer>

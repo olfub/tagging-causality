@@ -1,0 +1,18 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Define the medical conditions.**
+*   **Bronchitis** is an inflammation of the lining of the bronchial tubes, which carry air to and from the lungs. It is a pathological disease state involving swelling and increased mucus production.
+*   **Dyspnoea** is the medical term for shortness of breath or difficulty breathing. It is a symptom or a subjective sensation reported by the patient.
+
+**Step 2: Analyze Option A (Bronchitis causes Dyspnoea).**
+When a patient has bronchitis, the airways become inflamed and narrowed, and they often produce excess mucus. This physical obstruction and narrowing of the airways make it difficult for air to flow in and out of the lungs efficiently. Consequently, the patient experiences shortness of breath. Therefore, it is medically accurate that the disease process (bronchitis) generates the symptom (dyspnoea).
+
+**Step 3: Analyze Option B (Dyspnoea causes Bronchitis).**
+Dyspnoea is a symptom associated with many different conditions, such as asthma, heart failure, pneumonia, anxiety, and bronchitis. While chronic labored breathing could theoretically stress the airways, dyspnoea itself is a sensation or clinical sign, not a pathogen or inflammatory agent. A symptom cannot biologically initiate the specific inflammatory cascade required to cause bronchitis. Dyspnoea is the *result* of the airway obstruction, not the *cause* of the inflammation.
+
+**Step 4: Conclusion.**
+The physiological pathway flows from the structural pathology to the functional symptom. The inflammation and mucus production of bronchitis obstruct airflow, which leads to the sensation of dyspnoea.
+
+Therefore, the correct relationship is that Bronchitis causes Dyspnoea.
+
+<Answer>A</Answer>

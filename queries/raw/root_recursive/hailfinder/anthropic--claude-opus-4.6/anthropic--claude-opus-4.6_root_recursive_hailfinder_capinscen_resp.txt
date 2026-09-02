@@ -1,0 +1,30 @@
+Looking at this problem, I need to determine which variables are caused (directly or indirectly) by **capinscen**.
+
+## Step-by-Step Analysis
+
+**Step 1: Identify capinscen's position in the causal graph.**
+
+capinscen receives causal influence from: scenario, morningcin, capchange, compplfcst, combmoisture, satcontmoist, raocontmoist, morningbound (it appears in their effect lists).
+
+**Step 2: Use ancestor descendant sets to deduce capinscen's effects.**
+
+The key insight is to examine the *smallest* descendant set among capinscen's ancestors:
+
+- **capchange causes:** capinscen, plainsfcst, n34starfcst, r5fcst
+
+In the original network structure, capchange's only direct child is capinscen. Therefore:
+- capchange's descendants = {capinscen} ∪ capinscen's descendants
+
+This means: capinscen's descendants = {plainsfcst, n34starfcst, r5fcst}
+
+**Step 3: Cross-verify with morningcin's descendant set.**
+
+- **morningcin causes:** amcininscen, capinscen, plainsfcst, n34starfcst, r5fcst
+
+The chain morningcin → amcininscen → capinscen means:
+- morningcin's descendants = {amcininscen} ∪ {capinscen} ∪ capinscen's descendants
+- = {amcininscen, capinscen, plainsfcst, n34starfcst, r5fcst} ✓
+
+This confirms capinscen's descendants = {plainsfcst, n34starfcst, r5fcst}.
+
+<Answer>plainsfcst, n34starfcst, r5fcst</Answer>

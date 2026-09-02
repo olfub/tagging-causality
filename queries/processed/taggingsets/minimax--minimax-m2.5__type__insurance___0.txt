@@ -1,0 +1,10 @@
+Demographic:Age,SocioEcon
+RiskFactor:GoodStudent,RiskAversion,SeniorTrain
+DrivingBehavior:DrivQuality,DrivingSkill,DrivHist
+VehicleAttribute:VehicleYear,RuggedAuto,MakeModel,Mileage,OtherCar
+VehicleValue:CarValue
+SafetyFeature:Antilock,Cushioning,Airbag
+SecurityFeature:AntiTheft
+Incident:Accident,ThisCarDam,Theft
+Cost:ThisCarCost,PropCost,OtherCarCost,MedCost,ILiCost
+Location:HomeBase

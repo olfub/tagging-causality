@@ -1,0 +1,25 @@
+AcademicStatus: GoodStudent
+DemographicAge: Age
+SocioeconomicStatus: SocioEcon
+PsychologicalTrait: RiskAversion
+VehicleModelIdentity: MakeModel
+VehicleAgeYear: VehicleYear
+VehicleClassRuggedness: RuggedAuto
+VehicleConditionDamage: ThisCarDam
+VehicleUseIntensity: Mileage
+VehicleHomeLocation: HomeBase
+VehicleSafetyFeature: Antilock, Airbag, Cushioning
+VehicleSecurityFeature: AntiTheft
+DriverSkillLevel: DrivingSkill
+DriverTrainingProgram: SeniorTrain
+DriverBehaviorQuality: DrivQuality
+DriverHistoryRecord: DrivHist
+AdverseEventAccident: Accident
+AdverseEventTheft: Theft
+AssetMarketValue: CarValue
+InsurancePremiumThisVehicle: ThisCarCost
+InsurancePremiumOtherVehicle: OtherCarCost
+OtherVehicleOwnership: OtherCar
+InsuranceCostPropertyDamage: PropCost
+InsuranceCostMedical: MedCost
+InsuranceCostLiabilityInjury: ILiCost

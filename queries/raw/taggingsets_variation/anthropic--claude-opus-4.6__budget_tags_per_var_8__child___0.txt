@@ -1,0 +1,73 @@
+birth: BirthAsphyxia
+perinatal: BirthAsphyxia
+event: BirthAsphyxia
+cause: BirthAsphyxia, Disease
+risk_factor: BirthAsphyxia, Age
+neonatal: BirthAsphyxia, Grunting, Disease, Sick
+condition: BirthAsphyxia, LVH
+binary: BirthAsphyxia, Sick
+hypoxia: HypDistrib, HypoxiaInO2
+distribution: HypDistrib
+pattern: HypDistrib
+spatial: HypDistrib
+observable: HypDistrib, Grunting, Sick
+blood_flow: HypDistrib, DuctFlow, CardiacMixing, LungFlow
+cardiovascular: HypDistrib, DuctFlow, CardiacMixing, LungFlow
+physiological: HypDistrib, HypoxiaInO2, CO2, LowerBodyO2, RUQO2, LVH, DuctFlow, CardiacMixing, LungParench, LungFlow
+oxygen: HypoxiaInO2, LowerBodyO2, RUQO2
+gas: CO2, HypoxiaInO2, CO2Report
+measurement: CO2, HypoxiaInO2, LowerBodyO2, RUQO2
+blood: CO2, HypoxiaInO2, LowerBodyO2, RUQO2
+respiratory: Grunting, GruntingReport, LungParench, LungFlow, HypoxiaInO2
+clinical_finding: HypoxiaInO2, Grunting, Sick, HypDistrib
+continuous: CO2, Age
+arterial: CO2
+laboratory: CO2, CO2Report
+carbon_dioxide: CO2, CO2Report
+imaging: ChestXray, XrayReport
+diagnostic: ChestXray
+radiology: ChestXray, XrayReport
+chest: ChestXray, XrayReport
+clinical_test: ChestXray
+lung: LungParench, LungFlow, ChestXray
+test_result: ChestXray
+symptom: Grunting, GruntingReport, Sick
+sign: Grunting, GruntingReport
+breathing: Grunting
+physical_exam: Grunting
+report: LVHreport, CO2Report, XrayReport, GruntingReport
+documented: LVHreport, CO2Report, XrayReport, GruntingReport
+clinical_record: LVHreport, CO2Report, XrayReport, GruntingReport
+interpretation: LVHreport, CO2Report, XrayReport, GruntingReport
+diagnosis_report: LVHreport, CO2Report, XrayReport, GruntingReport
+cardiac: LVHreport, LVH, DuctFlow, CardiacMixing
+heart: LVHreport, CardiacMixing, LVH
+ventricular: LVHreport, LVH
+saturation: LowerBodyO2, RUQO2
+monitoring: LowerBodyO2, RUQO2
+peripheral: LowerBodyO2, RUQO2
+lower_body: LowerBodyO2
+upper_body: RUQO2
+diagnosis: Disease
+pathology: Disease, LVH, CardiacMixing, LungParench
+etiology: Disease
+classification: Disease
+disease_state: Disease
+demographic: Age
+temporal: Age
+patient: Age
+age: Age
+characteristic: Age
+background: Age
+structural: LVH, DuctFlow, LungParench
+anatomical: LVH, DuctFlow, LungParench
+circulation: DuctFlow, CardiacMixing, LungFlow
+ductus: DuctFlow
+mixing: CardiacMixing
+tissue: LungParench
+parenchyma: LungParench
+pulmonary: LungFlow
+flow: LungFlow
+overall_status: Sick
+assessment: Sick
+outcome: Sick

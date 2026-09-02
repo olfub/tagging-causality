@@ -1,0 +1,19 @@
+
+
+# Causal Reasoning: MvmtFeatures vs. RHRatio
+
+## Step-by-step Analysis
+
+**Understanding the variables:**
+- **RHRatio** (Relative Humidity Ratio): An atmospheric/environmental parameter describing the moisture profile of the atmosphere (e.g., ratio of relative humidity at different vertical levels). This is typically a **pre-storm environmental condition**.
+- **MvmtFeatures** (Movement Features): Characteristics related to storm motion (speed, direction, propagation). These are **storm behavior characteristics**.
+
+**Causal reasoning in hail forecasting:**
+1. In meteorological causal chains, **environmental conditions** (thermodynamic and kinematic profiles) are generally the **upstream drivers** of storm characteristics and behavior.
+2. The moisture environment (captured by RHRatio) influences atmospheric instability, wind profiles, and storm dynamics — all of which affect how a storm moves.
+3. Storm movement features are an **outcome** shaped by the atmospheric environment, not the other way around.
+4. While storms can locally modify humidity, in a forecasting causal framework, the environmental state is set *before* storm behavior manifests.
+
+**Conclusion:** The environmental moisture parameter (RHRatio) is the cause, and storm movement behavior (MvmtFeatures) is the effect.
+
+<Answer>B</Answer>

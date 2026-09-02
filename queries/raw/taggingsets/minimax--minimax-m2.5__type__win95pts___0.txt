@@ -1,0 +1,31 @@
+Application: AppOK, AppData, DSApplctn
+PrintJobData: DataFile, PrtData
+Disk: DskLocal
+Spooler: PrtSpool, PrtQueue
+PrinterPowerState: PrtOn, PTROFFLINE, PrtStatOff
+PrinterPaperSupply: PrtPaper, PrtStatPaper
+PrinterTonerSupply: TnrSpply, PrtStatToner
+PrinterMemory: PrtMem, PrtStatMem
+PrinterConnectivity: PrtCbl, PrtPort, CblPrtHrdwrOK, PC2PRT
+PrinterThread: PrtThread
+PrinterDriver: PrtDriver, DrvSet, DrvOK
+GraphicsSettings: GrphcsRltdDrvrSttngs
+GDIEMF: EMFOK, GDIIN, GDIOUT
+PrintSelection: PrtSel
+PrintDataOut: PrtDataOut
+PrintPath: PrtPath, PrtMpTPth
+Network: NetPrint, NetOK, NtwrkCnfg, NtSpd
+LocalStatus: LclOK
+TokenStatus: DS_NTOK, DS_LCLOK
+PrintTimeout: PrtTimeOut
+BufferError: FllCrrptdBffr
+ProblemFlag: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+PerformanceTiming: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt
+PrintQuality: PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+FontRelated: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+GraphicsPostScript: EPSGrphc, NnPSGrphc, PrtPScript, PSGRAPHIC
+OutputError: LclGrbld, NtGrbld, GrbldOtpt, PSERRMEM, GrbldPS, IncmpltPS
+MemoryAvailability: AvlblVrtlMmry
+PrintFile: PrtFile, PrtIcon
+RepeatFlag: REPEAT
+TestPostScript: TstpsTxt

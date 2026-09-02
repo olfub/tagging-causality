@@ -1,0 +1,15 @@
+environmental: Pollution
+behavioral: Smoker
+lifestyle: Smoker
+disease: Cancer
+symptom: Dyspnoea
+diagnostic: Xray
+imaging: Xray
+risk_factor: Pollution, Smoker
+exposure: Pollution, Smoker
+medical: Cancer, Xray, Dyspnoea
+health_outcome: Cancer, Dyspnoea
+respiratory: Dyspnoea, Pollution
+exogenous: Pollution
+latent: Cancer
+observable: Xray, Dyspnoea

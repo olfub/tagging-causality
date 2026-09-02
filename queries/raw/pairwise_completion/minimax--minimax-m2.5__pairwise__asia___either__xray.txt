@@ -1,0 +1,9 @@
+Step 1: Understand the terms. Tuberculosis and Lung Cancer are lung diseases, while X-ray is a diagnostic imaging tool used to visualize the lungs.
+
+Step 2: Consider typical causal relationships. In medical practice, when Tuberculosis or Lung Cancer are present, they often lead to observable abnormalities in the lungs that can be detected via X-ray. Additionally, the suspicion of these diseases may prompt doctors to order an X-ray. Thus, the disease influences the X-ray results or the decision to use X-ray.
+
+Step 3: Consider the reverse. X-ray is a diagnostic procedure and does not cause Tuberculosis or Lung Cancer. While excessive radiation exposure carries some risk, X-rays in standard medical settings are not known to cause these specific diseases.
+
+Step 4: Conclude which relationship is more plausible. The causal direction from disease to X-ray findings (or use of X-ray) is well-established, whereas the reverse is not supported by medical evidence.
+
+<Answer>A</Answer>

@@ -1,0 +1,21 @@
+
+
+## Step-by-Step Reasoning
+
+**Understanding the variables:**
+- **PAP** = Pulmonary Artery Pressure (a hemodynamic measurement)
+- **PULMEMBOLUS** = Pulmonary Embolus (a blood clot lodged in the pulmonary vasculature)
+
+**Evaluating Option A: PAP causes PULMEMBOLUS**
+- This would mean that pulmonary artery pressure itself causes a blood clot to form or lodge in the lungs.
+- While elevated PAP can be associated with various conditions, high pulmonary artery pressure does not cause emboli. Pulmonary emboli originate from venous thrombi (e.g., deep vein thrombosis) that travel to the lungs.
+
+**Evaluating Option B: PULMEMBOLUS causes PAP**
+- When a pulmonary embolus lodges in the pulmonary vasculature, it obstructs blood flow through the pulmonary arteries.
+- This obstruction directly increases resistance in the pulmonary circulation, leading to **elevated pulmonary artery pressure (PAP)**.
+- This is a well-established pathophysiological mechanism in critical care medicine.
+
+**Conclusion:**
+A pulmonary embolus is a pathological event that leads to elevated pulmonary artery pressure — not the other way around. The embolus is the **cause**, and the change in PAP is the **effect**.
+
+<Answer>B</Answer>

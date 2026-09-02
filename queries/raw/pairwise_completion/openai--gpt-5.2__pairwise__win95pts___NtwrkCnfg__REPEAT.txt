@@ -1,0 +1,18 @@
+1. **Interpret the terms in a Windows 95 printer-troubleshooting context**
+   - **NtwrkCnfg** most plausibly refers to **Network Configuration** (protocols, printer sharing, capture of LPT ports, SMB/NetBIOS settings, etc.).
+   - **REPEAT** most plausibly refers to a **repeating behavior/symptom**, e.g.:
+     - print jobs **reprinting over and over**,
+     - a job that **keeps retrying**,
+     - or a dialog/action that **repeats** due to spooler/connection retries.
+
+2. **Typical causal pattern in troubleshooting**
+   - Configuration issues (wrong port capture, unstable network link, incorrect printer share/queue, protocol mismatch) commonly **produce repeat symptoms**:
+     - The spooler may resend if it doesn’t get an acknowledgment.
+     - A captured LPT port to a flaky share can cause repeated attempts.
+     - Misconfigured sharing/redirector can lead to jobs “stuck” and retried.
+   - The reverse—**a repeating symptom causing the network configuration itself**—is much less plausible. A symptom like repeated printing doesn’t automatically reconfigure the network; at most it might prompt a *user* to change settings, but that’s an indirect human intervention, not a direct causal mechanism.
+
+3. **More likely direction**
+   - **NtwrkCnfg → REPEAT** fits standard cause (configuration) → effect (symptom) reasoning.
+
+<Answer>A</Answer>

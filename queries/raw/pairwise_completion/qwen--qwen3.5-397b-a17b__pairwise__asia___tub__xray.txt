@@ -1,0 +1,21 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+1.  **Analyze the Entities:**
+    *   **Tuberculosis (TB):** This is an infectious disease caused by the bacterium *Mycobacterium tuberculosis*. It is a pathological condition affecting the lungs.
+    *   **X-ray:** This is a diagnostic imaging technique using electromagnetic radiation. It is a medical procedure used to visualize internal structures.
+
+2.  **Evaluate Option B (X-ray causes Tuberculosis):**
+    *   For an X-ray to cause Tuberculosis, the imaging procedure would need to introduce the *Mycobacterium tuberculosis* bacteria into the patient's body or trigger the infection biologically.
+    *   X-rays involve radiation, not biological agents. While high doses of radiation can affect tissue, diagnostic X-rays do not cause bacterial infections. Tuberculosis is transmitted via airborne droplets from an infected person, not via radiation.
+    *   Therefore, this relationship is biologically impossible.
+
+3.  **Evaluate Option A (Tuberculosis causes X-ray):**
+    *   In a medical context, causality often refers to clinical workflow or indication.
+    *   When a patient has Tuberculosis (or symptoms suggestive of it), this condition is the *reason* or *cause* for a physician to order a Chest X-ray.
+    *   The existence of the disease leads to the event of performing the diagnostic test. Therefore, the disease is the causal factor for the administration of the X-ray.
+
+4.  **Conclusion:**
+    *   Option B is scientifically incorrect.
+    *   Option A correctly reflects the diagnostic relationship where the presence of the disease leads to the use of the imaging tool.
+
+<Answer>A</Answer>

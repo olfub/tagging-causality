@@ -1,0 +1,22 @@
+# Finding Variables Caused by `prtdata`
+
+## Step-by-Step Analysis
+
+I need to check whether `prtdata` appears on the **left side** (as a cause) in any of the listed causal relationships.
+
+Let me scan through all provided causal relationships:
+
+1. **dsklocal** causes → ds_lclok, lclok, pc2prt, lclgrbld, grbldotpt, **prtdata**, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+2. **drvset** causes → drvok, gdiout, prtdataout, pc2prt, **prtdata**, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+3. **prtcbl** causes → cblprthrdwrok, lclok, pc2prt, lclgrbld, grbldotpt, **prtdata**, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+4. **prtport** causes → cblprthrdwrok, lclok, pc2prt, lclgrbld, grbldotpt, **prtdata**, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+5. **prtmem** causes → prtstatmem, fllcrrptdbffr, prttimeout, **prtdata**, problem1, hrglssdrtnaftrprnt
+6. **tnrspply** causes → prtstattoner, fllcrrptdbffr, prttimeout, **prtdata**, problem1, hrglssdrtnaftrprnt
+7. **pc2prt** causes → **prtdata**, prttimeout, fllcrrptdbffr, problem1, hrglssdrtnaftrprnt
+8. All remaining relationships (ptroffline, epsgrphc, nnpsgrphc, trtypfnts, fntinstlltn, avlblvrtlmmry, dsapplctn, lclgrbld) — none have prtdata as a cause.
+
+## Conclusion
+
+`prtdata` appears only as an **effect** (right side) in multiple relationships. It **never** appears as a **cause** (left side) in any causal relationship. Therefore, `prtdata` is a leaf node and does not cause any other variable.
+
+<Answer></Answer>

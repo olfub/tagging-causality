@@ -1,0 +1,3 @@
+Since no causal relationships are provided in the problem, and fntinstlltn is listed as an exogenous variable (not affected by any other variable), there are no directed edges from fntinstlltn to any other variables. Therefore, no variables are caused by fntinstlltn.
+
+<Answer></Answer>

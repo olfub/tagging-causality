@@ -1,0 +1,22 @@
+ApplicationStatus: AppOK, EMFOK, LclOK, NetOK, DS_NTOK, DS_LCLOK
+PrinterStatus: PrtOn, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+PrinterHardware: PrtCbl, PrtPort, CblPrtHrdwrOK
+PrintJob: PrtQueue, PrtMpTPth, PrtPath
+PrinterDriver: PrtDriver, DrvSet, DrvOK
+NetworkConfiguration: NtwrkCnfg, NetPrint, PC2PRT
+GraphicSettings: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PSGRAPHIC
+FontSettings: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK
+PrintData: PrtData, PrtDataOut, PrtFile
+ErrorReporting: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+PrintingProcess: PrntPrcssTm, DeskPrntSpd, PgOrnttnOK, PrntngArOK
+MemoryAvailability: AvlblVrtlMmry, PSERRMEM, PrtMem
+PaperSettings: PrtPaper, TnrSpply
+TimeoutSettings: PrtTimeOut, HrglssDrtnAftrPrnt
+SystemFiles: DataFile, DskLocal, PrtSpool
+ApplicationData: AppData, AppDtGnTm, DSApplctn
+PrinterOffline: PTROFFLINE
+BufferSettings: FllCrrptdBffr, IncmpltPS, GrbldPS, GrbldOtpt
+ThreadStatus: PrtThread
+ScreenSettings: ScrnFntNtPrntrFnt
+CompletionStatus: CmpltPgPrntd, REPEAT 
+NetworkSpeed: NtSpd, NetPrint

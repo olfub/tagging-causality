@@ -1,0 +1,12 @@
+1. **Consider physical plausibility (mechanism):**  
+   - An **earthquake** is caused by sudden movement along geological faults and the release of tectonic stress. A **burglary** has no realistic physical mechanism to trigger tectonic plate motion.  
+   → So “Burglary → Earthquake” is extraordinarily implausible.
+
+2. **Consider social/behavioral consequences:**  
+   - An **earthquake** can damage buildings, break doors/windows, disable alarms, cut power, and overwhelm emergency services. It can also create periods of disorder or reduced security.  
+   → These conditions can **increase opportunities for burglary/looting**, making “Earthquake → Burglary” plausible.
+
+3. **Direction of influence:**  
+   - The direction consistent with known science and real-world patterns is that earthquakes can change human environments and incentives, sometimes leading to more property crime, not the other way around.
+
+<Answer>B</Answer>

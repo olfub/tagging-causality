@@ -1,0 +1,21 @@
+
+
+# Analyzing the Causal Relationship
+
+## Step 1: Understand the Variables
+- **PrntrAccptsTrtyp**: Whether the printer accepts TrueType fonts
+- **PrtPScript**: Whether the printer prints/uses PostScript
+
+## Step 2: Consider the Causal Direction
+
+**Option A (PrntrAccptsTrtyp → PrtPScript):** The ability to accept TrueType fonts causes the printer to use PostScript? This doesn't make strong causal sense — many non-PostScript printers accept TrueType fonts (e.g., via GDI rendering).
+
+**Option B (PrtPScript → PrntrAccptsTrtyp):** Whether the printer is a PostScript printer determines how it handles TrueType fonts. This makes strong causal sense because:
+- PostScript is a **fundamental printer technology/capability** — it's intrinsic to the printer's design.
+- Whether a printer accepts TrueType fonts is a **derived capability** that depends on the underlying technology (PostScript printers handle TrueType differently, converting them to PostScript outlines).
+- In the Windows 95 printer troubleshooting Bayesian network, the printer's core technology (PostScript vs. non-PostScript) is an upstream cause that influences downstream behaviors like TrueType font handling.
+
+## Step 3: Conclusion
+The printer's PostScript capability is a more fundamental property that **causes/determines** whether and how it accepts TrueType fonts — not the other way around.
+
+<Answer>B</Answer>

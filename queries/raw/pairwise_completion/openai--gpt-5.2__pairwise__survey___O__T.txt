@@ -1,0 +1,16 @@
+1. **Define the variables**
+   - **Occupation**: the type of job/role someone has (e.g., consultant, teacher, truck driver).
+   - **Travel**: frequency/extent of travel (business trips, commuting, leisure travel).
+
+2. **Check plausibility of each causal direction**
+   - **Occupation → Travel** is common because many jobs *directly require* travel (sales, consulting, flight crew) or *enable/limit* it via pay, paid time off, schedule flexibility, and location requirements.
+   - **Travel → Occupation** can happen (e.g., travel broadens skills, leads to connections, inspires career changes), but it’s typically a weaker, less direct, and more context-dependent pathway.
+
+3. **Consider what tends to vary first in real life**
+   - People usually **choose/hold an occupation**, then their **travel patterns adjust** to job demands and resources.
+   - Travel experiences may influence career paths, but not as consistently across the population.
+
+4. **Demographic/structural mechanism**
+   - Occupation is tied to socioeconomic status and workplace norms, both of which systematically shape travel frequency and type. This makes **Occupation → Travel** the more robust causal relationship in general.
+
+<Answer>A</Answer>

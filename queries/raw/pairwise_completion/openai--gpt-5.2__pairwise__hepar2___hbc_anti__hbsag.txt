@@ -1,0 +1,16 @@
+1) **What these markers represent**
+- **HBsAg** = hepatitis B *surface antigen* circulating in blood, reflecting **current HBV infection** (acute or chronic).
+- **anti-HBc (hbc_anti)** = *antibody* against hepatitis B core antigen, reflecting the host **immune response to HBV exposure/infection** (IgM early in acute infection; IgG persists long-term).
+
+2) **Biological directionality**
+- Antibodies (like **anti-HBc**) do not induce viral antigens (like **HBsAg**). If anything, antibodies help **clear** antigen.
+- The presence of viral antigens/viral replication is what **stimulates** the immune system to generate antibodies.
+
+3) **Typical temporal sequence in infection**
+- In acute HBV, **HBsAg appears first**, then **anti-HBc (especially IgM) appears shortly after** as the immune response develops.
+- Therefore, the more plausible causal direction is from infection/antigenemia (captured by HBsAg positivity) to development of anti-HBc.
+
+4) **Conclusion**
+- Between the two options, **HBsAg causing (i.e., leading to the development of) anti-HBc** is far more likely than the reverse.
+
+<Answer>B</Answer>

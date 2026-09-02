@@ -1,0 +1,12 @@
+Environmental factor:Pollution
+Behavioral factor:Smoker
+Risk factor:Pollution,Smoker
+Disease:Cancer
+Symptom:Dyspnoea
+Diagnostic test:Xray
+Medical outcome:Cancer,Xray,Dyspnoea
+Root cause:Pollution,Smoker
+Effect of disease:Xray,Dyspnoea
+Lifestyle:Smoker
+External exposure:Pollution
+Observable indicator:Xray,Dyspnoea

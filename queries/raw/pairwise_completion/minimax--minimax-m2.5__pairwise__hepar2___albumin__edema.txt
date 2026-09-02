@@ -1,0 +1,27 @@
+**Step‑by‑step reasoning**
+
+1. **What is albumin?**  
+   - Albumin is the main protein in blood plasma. It contributes to plasma oncotic (colloid) pressure, which helps keep fluid inside the blood vessels.
+
+2. **How does fluid move between capillaries and tissues?**  
+   - Fluid movement is governed by Starling forces: hydrostatic pressure pushes fluid out of the capillary, while oncotic pressure (mostly due to albumin) pulls fluid back in.
+
+3. **What happens when albumin levels fall?**  
+   - Reduced plasma oncotic pressure decreases the ability to pull fluid back into the vasculature.  
+   - The imbalance leads to excess fluid leaking into the interstitial space, producing **edema**.
+
+4. **Clinical examples**  
+   - **Nephrotic syndrome**: massive loss of albumin in the urine → hypo‑albuminemia → severe peripheral edema.  
+   - **Liver disease**: decreased albumin synthesis → low serum albumin → ascites and edema.  
+   - **Malnutrition**: low albumin → edema.
+
+5. **Does edema cause changes in albumin?**  
+   - Edema is a consequence of fluid accumulation; it does not normally cause albumin levels to change.  
+   - In some conditions, the composition of the fluid (transudate vs. exudate) may differ, but the primary driver of the edema is the altered albumin (or oncotic) pressure, not the reverse.
+
+6. **Conclusion**  
+   - The causal direction supported by physiology and clinical evidence is **deficient albumin → edema** (i.e., low albumin causes edema).  
+   - Therefore, the relationship “albumin causes edema” (interpreted as low albumin leads to edema) is far more plausible than “edema causes albumin.”
+
+**Answer:**  
+<Answer>A</Answer>

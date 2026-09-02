@@ -1,0 +1,11 @@
+OxygenMeasurement: LowerBodyO2, RUQO2, HypoxiaInO2
+CarbonDioxideMeasurement: CO2
+MedicalImaging: ChestXray, XrayReport
+DiseaseIndicator: Disease
+Symptom: Grunting, Sick
+SymptomReport: GruntingReport
+MedicalCondition: LVH, LungParench, LungFlow, CardiacMixing, DuctFlow
+MedicalTestReport: LVHreport, CO2Report
+Demographic: Age
+BirthComplication: BirthAsphyxia 
+BloodFlowDistribution: HypDistrib

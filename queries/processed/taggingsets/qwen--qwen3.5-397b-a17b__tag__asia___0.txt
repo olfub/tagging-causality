@@ -1,0 +1,5 @@
+RiskFactor:asia,smoke
+Disease:tub,lung,bronc
+CompositeVariable:either
+DiagnosticTest:xray
+Symptom:dysp

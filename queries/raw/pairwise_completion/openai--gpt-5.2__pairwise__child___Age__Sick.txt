@@ -1,0 +1,9 @@
+1. **Temporal direction:** Age increases as time passes; it is not something that can be produced by becoming sick. Illness can happen at any age, but it doesn’t make someone “older” in the causal sense.
+
+2. **Biological plausibility:** Many diseases (including pediatric congenital heart disease presentations and complications) have **age-related incidence and age-related detection**, meaning **age influences the probability of being sick** or being diagnosed.
+
+3. **Alternative direction check:** “Sick causes Age” would imply illness causes aging itself, which is not a meaningful causal relationship in standard clinical/epidemiologic reasoning (even if illness affects survival or development, it doesn’t cause chronological age).
+
+Therefore, the more likely cause-and-effect relationship is:
+
+<Answer>A</Answer>

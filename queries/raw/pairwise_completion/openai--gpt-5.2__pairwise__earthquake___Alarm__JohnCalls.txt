@@ -1,0 +1,8 @@
+1. In the classic earthquake domain, the **Alarm** is a device/system that can be triggered by causes like an **Earthquake** or **Burglary**.  
+2. When the **Alarm** goes off, people nearby (like **John**) may **hear it** and then **decide to call** (JohnCalls).  
+3. This makes **JohnCalls an effect** (a downstream response) of the **Alarm**.  
+4. The reverse direction—**JohnCalls causes Alarm**—is implausible: John making a phone call does not typically trigger a physical alarm system to sound.
+
+So the more likely cause-and-effect relationship is: **Alarm → JohnCalls**.
+
+<Answer>A</Answer>

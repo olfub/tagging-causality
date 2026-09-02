@@ -1,0 +1,16 @@
+1. **Temporal order (which can happen first?)**  
+   People typically start **smoking** before any diagnosis of **lung cancer**. A cause must occur before (or at least not after) its effect.
+
+2. **Biological plausibility / mechanism**  
+   Cigarette smoke contains carcinogens (e.g., polycyclic aromatic hydrocarbons, nitrosamines) that induce DNA damage, promote mutations, chronic inflammation, and impaired repair—mechanisms that plausibly lead to **cancer development**.
+
+3. **Epidemiologic evidence**  
+   Large cohort and case-control studies consistently show higher lung cancer incidence among smokers, with **dose–response** relationships (more pack-years → higher risk) and risk reduction after cessation—patterns expected if **smoking causes cancer**.
+
+4. **Reverse causation check (could cancer cause smoking?)**  
+   Lung cancer does not plausibly induce someone to become a smoker as a general causal pathway. While stress from illness could change behaviors, that would not explain the robust population-level associations and dose–response seen.
+
+5. **Confounding considerations**  
+   Even accounting for confounders (e.g., socioeconomic factors), the association remains strong and mechanistically supported, making **Smoker → Cancer** the more credible causal direction.
+
+<Answer>B</Answer>

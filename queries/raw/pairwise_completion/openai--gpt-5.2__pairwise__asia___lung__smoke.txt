@@ -1,0 +1,15 @@
+1. **Check temporal order (cause must come before effect):**  
+   People typically **start smoking years before** any lung cancer develops. Lung cancer usually occurs later in life after prolonged exposure.
+
+2. **Assess biological plausibility and mechanism:**  
+   Tobacco smoke contains multiple **carcinogens** (e.g., polycyclic aromatic hydrocarbons, nitrosamines) that cause **DNA damage**, promote mutations, and drive malignant transformation in lung tissue. This provides a clear mechanistic pathway: **smoking → cellular damage → cancer**.
+
+3. **Look at epidemiologic evidence (association, dose-response, consistency):**  
+   Large cohort and case-control studies consistently show smoking is strongly associated with lung cancer, with a **dose-response relationship** (more pack-years → higher risk). Risk decreases after smoking cessation, supporting causality.
+
+4. **Consider reverse causation (does lung cancer cause smoking?):**  
+   There is no credible mechanism or consistent evidence that developing lung cancer causes people to begin smoking. If anything, diagnosis tends to reduce smoking.
+
+**Conclusion:** The more likely causal relationship is **Smoking causes Lung Cancer**.
+
+<Answer>B</Answer>

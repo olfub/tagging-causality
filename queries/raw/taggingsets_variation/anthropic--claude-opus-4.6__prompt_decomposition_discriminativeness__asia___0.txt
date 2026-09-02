@@ -1,0 +1,17 @@
+geographic_region: Asia
+disease: Tuberculosis, Lung Cancer, Bronchitis
+respiratory_condition: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea
+risk_factor: Asia, Smoking
+behavior: Smoking
+symptom: Dyspnoea
+diagnostic_result: X-ray
+binary_variable: Asia, Tuberculosis, Smoking, Lung Cancer, Either Tuberculosis or Lung Cancer, X-ray, Bronchitis, Dyspnoea
+derived_variable: Either Tuberculosis or Lung Cancer
+lung_related: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea, X-ray
+observable: Smoking, X-ray, Dyspnoea, Asia
+latent_condition: Either Tuberculosis or Lung Cancer
+cause_of_breathlessness: Either Tuberculosis or Lung Cancer, Bronchitis
+detectable_by_xray: Either Tuberculosis or Lung Cancer
+infection: Tuberculosis
+cancer: Lung Cancer
+travel_related: Asia

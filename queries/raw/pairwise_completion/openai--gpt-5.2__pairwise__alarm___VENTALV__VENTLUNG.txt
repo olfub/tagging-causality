@@ -1,0 +1,18 @@
+To decide direction, interpret the variables physiologically:
+
+1. **VENTLUNG** most plausibly refers to *overall/total lung ventilation* (e.g., minute ventilation delivered to the lungs: tidal volume × respiratory rate).
+2. **VENTALV** most plausibly refers to *alveolar ventilation*—the portion of ventilation that actually reaches alveoli and participates in gas exchange.
+
+Key relationship:
+
+3. **Alveolar ventilation is determined by total ventilation minus dead space ventilation**:  
+   \[
+   \dot V_A = \dot V_E - \dot V_D \quad \text{(or)} \quad \dot V_A = (V_T - V_D)\times RR
+   \]
+   This makes **alveolar ventilation downstream of lung/total ventilation**, given dead space.
+
+4. Clinically, if you increase **VENTLUNG** (raise tidal volume or respiratory rate), **VENTALV** generally increases (unless dead space changes enough to offset it). The reverse direction—alveolar ventilation “causing” total lung ventilation—doesn’t fit the usual mechanistic control: alveolar ventilation is an outcome of how much ventilation is delivered and how much is wasted as dead space.
+
+Therefore, the more likely causal direction is:
+
+<Answer>B</Answer>

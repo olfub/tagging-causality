@@ -1,0 +1,17 @@
+demographic:A,S,E,O,R
+innate_characteristic:A,S
+biological:A,S
+acquired_characteristic:E,O,R
+socioeconomic:E,O,R
+human_capital:E,O
+geographic:R,T
+mobility:R,T
+behavior:T
+activity:T,O
+determined_at_birth:S
+changes_over_time:A,E,O,R,T
+life_stage_dependent:E,O,T
+personal_attribute:A,S
+choice:E,O,R,T
+cause_of_income:E,O
+spatial:R,T

@@ -1,0 +1,32 @@
+disease: alcoholism, vh_amn, THepatitis, ChHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, carcinoma
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, bleeding, flatulence, anorexia, nausea, pain, edema, hepatalgia, jaundice
+liver_related: vh_amn, THepatitis, ChHepatitis, hepatotoxic, PBC, fibrosis, Steatosis, Cirrhosis, hepatomegaly, hepatalgia, alt, ast, ggtp, irregular_liver, edge, carcinoma, RHepatitis, density
+risk_factor: alcoholism, alcohol, hepatotoxic, injections, transfusion, sex, age, surgery, obesity, diabetes, hospital
+demographic: sex, age
+physical_sign: skin, spiders, palms, jaundice, spleen, hepatomegaly, edema, ascites, irregular_liver, edge, density, consciousness
+procedure: surgery, choledocholithotomy, injections, transfusion
+infection_route: hospital, surgery, injections, transfusion, sex
+biliary: gallstones, choledocholithotomy, phosphatase, Hyperbilirubinemia, bilirubin, ggtp, cholesterol, PBC
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+hepatitis: vh_amn, THepatitis, ChHepatitis, RHepatitis
+liver_enzyme: alt, ast, ggtp, phosphatase
+metabolic: diabetes, obesity, triglycerides, cholesterol, Steatosis, fat
+gastrointestinal: flatulence, nausea, anorexia, upper_pain, pain_ruq, amylase, gallstones
+liver_disease_progression: fibrosis, Cirrhosis, carcinoma
+autoimmune: PBC, ama, le_cells, joints
+pain_related: upper_pain, pain_ruq, pressure_ruq, hepatalgia, pain, joints
+coagulation: platelet, inr, bleeding
+liver_failure: encephalopathy, ascites, edema, bleeding, consciousness, albumin, proteins, inr
+abdominal_finding: hepatomegaly, spleen, ascites, pressure_ruq, pain_ruq
+skin_sign: skin, spiders, palms, jaundice, itching
+blood_test: bilirubin, platelet, inr, urea, ESR, albumin, proteins, triglycerides, cholesterol
+serological: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, ama, le_cells
+substance_use: alcoholism, alcohol
+portal_hypertension: ascites, spleen, edema, bleeding, spiders, encephalopathy
+liver_physical_exam: hepatomegaly, hepatalgia, density, edge, irregular_liver
+chronic_condition: ChHepatitis, PBC, fibrosis, Cirrhosis, alcoholism, diabetes, obesity
+acute_condition: THepatitis, RHepatitis
+dietary: fat, alcohol, obesity
+laboratory_value: bilirubin, triglycerides, phosphatase, proteins, platelet, inr, urea, alt, ast, amylase, ggtp, cholesterol, albumin, ESR
+neurological: encephalopathy, consciousness
+hepatocellular: alt, ast, albumin, proteins, carcinoma

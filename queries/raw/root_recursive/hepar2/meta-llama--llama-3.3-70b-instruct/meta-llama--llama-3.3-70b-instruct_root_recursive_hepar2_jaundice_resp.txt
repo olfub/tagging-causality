@@ -1,0 +1,9 @@
+To find the variables caused by jaundice, we should analyze the given causal relationships step by step:
+
+1. The given causal relationships do not specify any variable being directly caused by jaundice. 
+2. Since jaundice itself is caused by pbc, and there's no direct causal relationship where jaundice causes another variable, we look for indirect relationships.
+3. However, upon closer inspection, it's clear that the question is asking for direct causation from jaundice, which is not provided in the information given.
+
+Therefore, based on the provided causal relationships, there are no variables directly caused by jaundice.
+
+<Answer></Answer>

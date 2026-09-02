@@ -1,0 +1,62 @@
+risk_factor: alcoholism, hepatotoxic, hospital, surgery, gallstones, injections, transfusion, sex, age, diabetes, obesity, alcohol
+lifestyle: alcoholism, obesity, alcohol
+chronic: alcoholism, ChHepatitis, PBC, diabetes, Cirrhosis
+behavioral: alcoholism, sex, alcohol
+liver_disease: vh_amn, THepatitis, ChHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, RHepatitis, carcinoma
+hepatitis: vh_amn, THepatitis, ChHepatitis, RHepatitis, hbsag, hbeag
+infectious: vh_amn, THepatitis, injections, transfusion, ChHepatitis, RHepatitis, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+complication: vh_amn, fibrosis, Cirrhosis, Hyperbilirubinemia, edema, bleeding, encephalopathy, ascites, consciousness, carcinoma
+exposure: hepatotoxic, hospital, surgery, choledocholithotomy, injections, transfusion, alcohol
+liver_related: hepatotoxic, hepatomegaly, hepatalgia, density, jaundice, edge, irregular_liver
+drug_related: hepatotoxic
+acute: THepatitis, RHepatitis
+procedure: hospital, surgery, choledocholithotomy, injections, transfusion
+environmental: hospital
+intervention: surgery, choledocholithotomy
+biliary: gallstones, choledocholithotomy, PBC, Hyperbilirubinemia, bilirubin, itching, phosphatase, ggtp, jaundice
+abdominal: gallstones, upper_pain, pain_ruq, pressure_ruq, flatulence, ascites, hepatomegaly, hepatalgia, spleen
+condition: gallstones, Steatosis, Hyperbilirubinemia
+blood_related: transfusion
+demographic: sex, age
+patient_characteristic: sex, age
+autoimmune: PBC, ama, le_cells, joints
+progressive: fibrosis, Cirrhosis, carcinoma
+histological: fibrosis, Steatosis
+metabolic_condition: diabetes, obesity, Steatosis, triglycerides, fat, cholesterol
+comorbidity: diabetes, obesity
+lab_finding: Hyperbilirubinemia
+lipid: triglycerides, fat, cholesterol
+lab_test: triglycerides, bilirubin, fat, phosphatase, ama, le_cells, proteins, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, albumin, hbsag, hbsag_anti, density, hbc_anti, hcv_anti, hbeag
+blood_test: triglycerides, bilirubin, ama, le_cells, proteins, platelet, inr, urea, ESR, amylase, cholesterol, albumin, hbsag_anti, hbc_anti, hcv_anti
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, joints, pain, bleeding, flatulence, hepatalgia, anorexia, nausea
+systemic: fatigue, anorexia
+patient_reported: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, joints, pain, flatulence, hepatalgia, anorexia, nausea
+nonspecific: fatigue, pain, ESR, nausea
+liver_function_test: bilirubin, phosphatase, proteins, inr, alt, ast, ggtp, albumin
+skin_related: itching, skin, spiders, jaundice, palms
+pain_related: upper_pain, pain_ruq, pressure_ruq, joints, pain, hepatalgia
+dietary: fat
+physical_exam: skin, spleen, hepatomegaly, density, edge, irregular_liver, spiders, palms
+dermatological: skin
+autoimmune_marker: ama, le_cells
+clinical_sign: edema, bleeding, encephalopathy, ascites, hepatomegaly, consciousness, spiders, jaundice, edge, irregular_liver, palms, skin, spleen
+fluid_related: edema
+coagulation: platelet, inr, bleeding
+hematological: platelet
+gastrointestinal: flatulence, amylase, anorexia, nausea
+portal_hypertension: edema, encephalopathy, ascites, spleen
+neurological: encephalopathy, consciousness
+kidney_function: urea
+metabolic: urea
+inflammatory: ESR
+hepatocellular: alt, ast
+liver_enzyme: phosphatase, alt, ast, ggtp
+pancreatic: amylase
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+immune_response: hbsag_anti, hbc_anti, hcv_anti
+patient_state: consciousness
+vascular: spiders, palms
+nutritional: proteins, albumin
+diagnostic: density, edge, irregular_liver
+malignancy: carcinoma
+continuous: age

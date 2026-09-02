@@ -1,0 +1,3 @@
+The variables that have no incoming causal arrows (i.e., they are not caused by any other variable in the set) are **pollution** and **smoker**. These are the root nodes in the causal graph.
+
+<Answer>pollution,smoker</Answer>

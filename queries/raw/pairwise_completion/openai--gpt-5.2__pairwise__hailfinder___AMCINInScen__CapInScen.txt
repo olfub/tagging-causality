@@ -1,0 +1,14 @@
+1. **Interpret the variables**
+   - **CapInScen**: the strength/presence of a **capping inversion** (“the cap”) in the thermodynamic profile.
+   - **AMCINInScen**: a measure of **convective inhibition (CIN)** in the scenario (i.e., the negative buoyancy that must be overcome for parcels to reach their LFC). Regardless of the exact prefix, it’s still a CIN metric.
+
+2. **Physical relationship**
+   - A stronger cap (warmer layer aloft / stronger inversion) increases the negative buoyancy for rising parcels.
+   - That directly **increases CIN** (more energy required to initiate deep convection).
+
+3. **Direction of causality**
+   - The **cap is a physical feature** of the atmosphere.
+   - **CIN is a diagnostic consequence** computed from the temperature/moisture profile (including the cap).
+   - Therefore, it is more plausible that changes in **CapInScen** lead to changes in **AMCINInScen**, not the other way around.
+
+<Answer>B</Answer>

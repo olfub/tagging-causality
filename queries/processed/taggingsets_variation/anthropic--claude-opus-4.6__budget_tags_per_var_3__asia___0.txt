@@ -1,0 +1,17 @@
+geographic:asia
+risk_factor:asia,smoke
+travel_related:asia,tub
+disease:tub,lung,bronc
+infectious:tub
+behavioral:smoke
+cause:smoke,asia
+malignant:lung
+respiratory:lung,bronc,dysp
+intermediate:either
+logical_construct:either
+latent:either
+diagnostic:xray
+observable:xray,dysp,smoke
+clinical_sign:xray,dysp
+chronic:bronc
+symptom:dysp

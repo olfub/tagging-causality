@@ -1,0 +1,1 @@
+["goodstudent", "riskaversion", "seniortrain", "drivingskill", "medcost", "mileage"]

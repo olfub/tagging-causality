@@ -1,0 +1,22 @@
+Let’s compare the plausibility of each causal direction using medical/biological reasoning.
+
+### 1) Check whether there’s a credible mechanism from **fat → gallstones**
+There are well-established pathways linking higher body fat (adiposity) and high-fat/high-calorie diets to gallstone formation:
+
+- **Cholesterol supersaturation of bile (obesity/metabolic factors):** Increased hepatic cholesterol secretion in obesity makes bile more cholesterol-rich, which promotes cholesterol crystal formation and gallstones.
+- **Gallbladder hypomotility:** Obesity and certain dietary patterns can reduce gallbladder emptying, causing bile stasis, which favors stone formation.
+- **Clinical epidemiology:** Obesity and rapid weight loss (often from dieting) are recognized risk factors for gallstones.
+
+So “fat causes gallstones” is mechanistically and epidemiologically supported (interpreting “fat” as excess body fat and/or high-fat dietary patterns contributing to stone risk).
+
+### 2) Check whether there’s a credible mechanism from **gallstones → fat**
+Gallstones can cause:
+- biliary colic, cholecystitis, pancreatitis
+- food avoidance (often fat avoidance) due to symptom triggers
+
+But gallstones do **not** plausibly cause increased body fat. If anything, symptomatic gallstones might lead some people to **reduce** fat intake or lose weight. There isn’t a standard causal pathway where gallstones lead to becoming “fat.”
+
+### 3) Directional conclusion
+The direction **fat → gallstones** is far more biologically plausible and supported by evidence than **gallstones → fat**.
+
+<Answer>A</Answer>

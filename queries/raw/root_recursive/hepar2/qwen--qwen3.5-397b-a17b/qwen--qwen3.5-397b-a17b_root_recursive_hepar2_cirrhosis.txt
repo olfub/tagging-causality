@@ -1,0 +1,1 @@
+["ascites", "edema", "encephalopathy", "bleeding", "inr", "platelet", "spleen", "jaundice", "bilirubin", "albumin", "proteins", "spiders", "palms", "carcinoma", "irregular_liver", "density", "edge", "hepatomegaly", "consciousness", "urea", "hepatalgia", "pain", "upper_pain", "pain_ruq", "pressure_ruq", "anorexia", "nausea", "flatulence"]

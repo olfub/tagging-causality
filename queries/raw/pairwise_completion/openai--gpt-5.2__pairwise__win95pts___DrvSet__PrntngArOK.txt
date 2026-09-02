@@ -1,0 +1,19 @@
+1. Interpret the variables in a Windows 95 printer-troubleshooting context:  
+   - **DrvSet** = the correct printer **driver is installed/configured**.  
+   - **PrntngArOK** = **printing is working / output is OK**.
+
+2. Consider the mechanism:  
+   - In Windows 95, the printer driver is the software component that translates application output into commands the printer understands. If the driver is missing/incorrect/misconfigured, printing commonly fails or produces garbage output.  
+   - Therefore, setting/installing the correct driver is a plausible *cause* of printing working.
+
+3. Check the reverse direction (printing OK → driver set):  
+   - Printing successfully might *indicate* that the driver is set, but that’s **evidence/diagnostic inference**, not a causal mechanism.  
+   - While a user might install a driver *because* printing isn’t OK, “printing is OK” doesn’t typically trigger driver installation/configuration.
+
+4. Counterfactual test:  
+   - If **DrvSet were not true** (driver not set correctly), would **PrntngArOK** still likely be true? Often no.  
+   - If **PrntngArOK were not true** (printing fails), would **DrvSet** necessarily become true? Not necessarily.
+
+So the more likely causal direction is **DrvSet → PrntngArOK**.
+
+<Answer>A</Answer>

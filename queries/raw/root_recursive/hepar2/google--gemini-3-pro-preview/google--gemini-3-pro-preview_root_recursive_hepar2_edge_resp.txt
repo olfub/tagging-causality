@@ -1,0 +1,20 @@
+To determine which variables are caused by `edge`, I need to examine the provided causal relationships and look for `edge` on the left side of any "causes" statement (i.e., `edge causes ...`).
+
+Here is the analysis of the provided relationships:
+
+1.  **Variable:** `edge`
+2.  **Scan for `edge` as a cause:**
+    *   `alcoholism causes ...` (No)
+    *   `hepatotoxic causes ...` (No)
+    *   `gallstones causes ...` (No)
+    *   `injections causes ...` (No)
+    *   `sex causes ...` (No)
+    *   `obesity causes ...` (No)
+    *   `steatosis causes ...` (No)
+    *   `cirrhosis causes ...` (Note: `edge` is found here as an *effect* of `cirrhosis`, not a cause.)
+    *   `pbc causes ...` (No)
+
+**Conclusion:**
+There are no causal statements in the provided text where `edge` acts as a cause for any other variable.
+
+<Answer></Answer>

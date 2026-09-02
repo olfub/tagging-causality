@@ -1,0 +1,22 @@
+**Step‑by‑step reasoning**
+
+1. **What do the two variables represent?**  
+   - *Age* is a chronological measure of how many years a person has lived. It is a background, non‑modifiable variable.  
+   - *Education* is an attained characteristic (years of schooling, degree level, etc.) that can change over the life course.
+
+2. **Can education change a person’s age?**  
+   - No. Obtaining more education does not alter the number of years a person has been alive. Age is determined solely by the passage of time.
+
+3. **Can age affect education?**  
+   - Yes. To attend school a child must reach a minimum age (school‑entry age).  
+   - Older individuals may have *less* education because of cohort effects (e.g., older generations had fewer educational opportunities).  
+   - Conversely, some older adults return to education, but the typical, population‑level pattern is that age constrains or shapes the *timing* and *amount* of schooling.
+
+4. **Direction of plausible causation**  
+   - The more defensible causal arrow in demographic research is **from Age to Education** (Age → Education).  
+   - The reverse arrow (Education → Age) would imply that gaining education changes the number of years a person has lived, which is logically impossible.
+
+5. **Conclusion**  
+   - The cause‑and‑effect relationship that is more likely is **Age causes Education**.
+
+<Answer>A</Answer>

@@ -1,0 +1,15 @@
+Environmental exposure:Pollution
+Behavioral factor:Smoker
+Exogenous risk factor:Pollution,Smoker
+Lifestyle habit:Smoker
+Pathological condition:Cancer
+Disease outcome:Cancer
+Diagnostic test result:Xray
+Clinical symptom:Dyspnoea
+Patient-reported:Dyspnoea,Smoker
+Medically measured:Xray,Cancer
+Consequence of disease:Xray,Dyspnoea
+Long-term accumulated exposure:Pollution,Smoker
+Respiratory manifestation:Dyspnoea
+Precedes diagnosis:Pollution,Smoker,Cancer
+Internal biological state:Cancer

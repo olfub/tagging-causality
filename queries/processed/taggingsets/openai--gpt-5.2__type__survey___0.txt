@@ -1,0 +1,4 @@
+Demographic attribute:A,S
+Socioeconomic status:E,O
+Geographic location:R
+Mobility behavior:T

@@ -1,0 +1,25 @@
+# Tracing the Causal Effects of MorningBound
+
+## Step-by-step reasoning
+
+**Step 1:** MorningBound is a root node. In the HAILFINDER network, its direct child is **Boundaries** (along with OutflowFrMt as co-parent).
+
+**Step 2:** Boundaries feeds into the forecast chain as a parent of:
+- **CldShadeConv** (cloud shading from convection)
+- **CompPlFcst** (composite plains forecast)
+
+**Step 3:** From CompPlFcst, the downstream effects are:
+- **CapChange**, **LoLevMoistAd**, **InsChange**
+
+**Step 4:** From CldShadeConv, additional downstream effects include:
+- **InsChange** (additional parent path)
+- **MountainFcst** (convective cloud shading affects mountain forecasts)
+
+**Step 5:** Further downstream through the forecast chain:
+- CapChange → **CapInScen**
+- InsChange → **InsSclInScen**
+- These combine into **ScnRelPlFcst** → **PlainsFcst** → **N34StarFcst**, **R5Fcst**
+
+**Step 6:** Verification against given constraints: SatContMoist causes InsChange but NOT InsInMt, so InsInMt is not downstream of Boundaries. Similarly, ScenRel3_4, ScenRelAMIns, and AMInsWliScen are not downstream of the Boundaries pathway (confirmed by their absence from satcontmoist's causal list despite their potential intermediaries being present).
+
+<Answer>boundaries, cldshadeconv, compplfcst, capchange, lolevmoistad, inschange, mountainfcst, capinscen, inssclinscen, scnrelplfcst, plainsfcst, n34starfcst, r5fcst</Answer>

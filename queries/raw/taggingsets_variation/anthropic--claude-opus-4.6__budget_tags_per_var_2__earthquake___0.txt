@@ -1,0 +1,7 @@
+cause: Burglary, Earthquake
+crime: Burglary
+natural: Earthquake
+detection: Alarm
+intermediate: Alarm
+response: JohnCalls, MaryCalls
+human: JohnCalls, MaryCalls

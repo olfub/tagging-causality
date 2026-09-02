@@ -1,0 +1,12 @@
+1. **Interpret the variables**  
+   - **PrtPort**: the printer *port/interface* available/selected on the PC (e.g., LPT1/parallel, COM/serial, USB).  
+   - **PrtCbl**: the *cable* you use to connect the printer (parallel cable, serial cable, USB cable).
+
+2. **Think about direction of constraint**  
+   - The **port/interface type** determines what kind of cable is compatible. If the PC/printer connection is **parallel (LPT)**, you need a **parallel cable**; if it’s **serial (COM)**, you need a **serial cable**, etc.  
+   - A cable doesn’t normally “create” or determine what port exists on the PC; at most, a cable can be faulty and prevent communication, but it doesn’t cause the port type/setting to exist.
+
+3. **Most likely causal relationship**  
+   - **PrtPort → PrtCbl** is the more plausible direction (the port drives the required cable choice).
+
+<Answer>B</Answer>

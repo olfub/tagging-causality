@@ -1,0 +1,16 @@
+1. **Define the terms clinically**
+   - **Ascites** = pathologic accumulation of fluid in the peritoneal cavity.
+   - **“Proteins”** in this context most commonly refers to **serum proteins**, especially **albumin**, which is the major determinant of plasma oncotic pressure.
+
+2. **Consider established physiologic mechanisms**
+   - **Low serum albumin (hypoalbuminemia)** reduces **plasma oncotic pressure**, making fluid more likely to leave the intravascular space and accumulate in interstitial/third spaces, including the **peritoneal cavity → ascites**.
+   - This is a classic mechanism in conditions like **cirrhosis (reduced hepatic albumin synthesis)**, **nephrotic syndrome (albumin loss in urine)**, and **protein-losing enteropathy**.
+
+3. **Check the reverse direction**
+   - Ascites itself does not typically *cause* an increase in serum proteins.
+   - While large-volume ascites can be associated with **protein-containing fluid in the peritoneum**, and repeated paracentesis or ongoing leakage could contribute to protein depletion over time, that’s not the primary or most direct causal relationship implied here (and it would be “ascites contributes to *low* proteins,” not “causes proteins”).
+
+4. **Most likely causal direction**
+   - **Abnormal proteins (especially low albumin)** are a well-known causal contributor to **ascites**, not the other way around.
+
+<Answer>B</Answer>

@@ -1,0 +1,18 @@
+Physiological: BirthAsphyxia, HypDistrib, HypoxiaInO2, CO2, Grunting, LowerBodyO2, RUQO2, DuctFlow, CardiacMixing, LungParench, LungFlow, LVH
+Measurement: ChestXray, LVHreport, CO2Report, XrayReport, GruntingReport, LowerBodyO2, RUQO2, HypoxiaInO2
+Report: LVHreport, CO2Report, XrayReport, GruntingReport
+Diagnosis: Disease
+Demographic: Age
+RiskFactor: BirthAsphyxia
+Symptom: Grunting, HypDistrib, HypoxiaInO2
+OxygenLevel: HypoxiaInO2, LowerBodyO2, RUQO2
+BloodGas: CO2, CO2Report
+Imaging: ChestXray, XrayReport
+CardiacStructure: LVH, DuctFlow, CardiacMixing
+PulmonaryState: LungParench, LungFlow
+Severity: Sick, Disease
+Congenital: BirthAsphyxia, Disease, DuctFlow, CardiacMixing
+Circulation: HypDistrib, DuctFlow, CardiacMixing, LungFlow
+RootCause: BirthAsphyxia, Disease
+Observable: ChestXray, LVHreport, CO2Report, XrayReport, GruntingReport, LowerBodyO2, RUQO2, HypoxiaInO2, Grunting, Age, Sick
+Latent: Disease, DuctFlow, CardiacMixing, LungParench, LungFlow, LVH, HypDistrib, BirthAsphyxia, CO2

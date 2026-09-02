@@ -1,0 +1,18 @@
+
+
+crime: Burglary
+natural_phenomenon: Earthquake
+external_event: Burglary, Earthquake
+root_cause: Burglary, Earthquake
+detection_device: Alarm
+triggered_by_event: Alarm
+notification: Alarm, JohnCalls, MaryCalls
+human_response: JohnCalls, MaryCalls
+phone_call: JohnCalls, MaryCalls
+security_related: Burglary, Alarm
+observable_outcome: JohnCalls, MaryCalls
+rare_occurrence: Burglary, Earthquake
+automated: Alarm
+person_dependent: JohnCalls, MaryCalls
+intermediate: Alarm
+terminal_effect: JohnCalls, MaryCalls

@@ -1,0 +1,16 @@
+1. **Interpret the variables meteorologically**
+   - **SfcWndShfDis**: a measure of how strong/abrupt a **surface wind shift** is across some boundary (often a front, outflow boundary, dryline, etc.).
+   - **TempDis**: a measure of **temperature discontinuity/contrast** across that same boundary (i.e., air-mass difference).
+
+2. **Identify the common physical situation**
+   - In many hail-relevant setups, both strong wind shifts and temperature contrasts co-occur because they are both signatures of an **air-mass boundary** (front/outflow/dryline).
+
+3. **Assess which direction is more physically plausible**
+   - A **temperature discontinuity** implies different air masses and density/pressure fields on either side of a boundary.
+   - Those differences support **changes in the pressure-gradient force and near-surface flow**, making a **wind shift** across the boundary more likely.
+   - By contrast, a surface wind shift by itself is usually not the *root cause* of a temperature discontinuity; rather, both are consequences of the boundary, and the air-mass/thermal contrast is more foundational.
+
+4. **Conclusion**
+   - If forced to pick a direction, it is more plausible that the **temperature discontinuity drives/induces the wind shift** than the reverse.
+
+<Answer>B</Answer>

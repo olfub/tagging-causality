@@ -1,0 +1,21 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the causal relationships**  
+   - Burglary → Alarm  
+   - Earthquake → Alarm  
+   - Alarm → JohnCalls  
+   - Alarm → MaryCalls  
+
+2. **Determine the children (effects) of each variable**  
+   - Burglary’s child: Alarm  
+   - Earthquake’s child: Alarm  
+   - Alarm’s children: JohnCalls, MaryCalls  
+   - JohnCalls has no children (no outgoing edges)  
+   - MaryCalls has no children (no outgoing edges)
+
+3. **Find the variables caused by MaryCalls**  
+   Since MaryCalls has no outgoing edges in the given causal graph, there are no variables that are caused by MaryCalls.
+
+**Answer**
+
+<Answer></Answer>

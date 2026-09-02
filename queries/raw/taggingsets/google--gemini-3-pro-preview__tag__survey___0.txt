@@ -1,0 +1,13 @@
+Demographic: Age, Sex, Education, Occupation, Residence
+Socioeconomic Status: Education, Occupation, Residence
+Biological: Age, Sex
+Behavioral: Travel, Occupation
+Geographic: Residence, Travel, Occupation
+Background: Age, Sex, Education, Residence
+Lifestyle: Travel, Occupation, Residence
+Modifiable: Education, Occupation, Residence, Travel
+Non-modifiable: Age, Sex
+Categorical: Sex, Occupation, Residence, Travel
+Ordinal: Education, Age
+Temporal: Age, Travel
+Environment: Residence, Occupation

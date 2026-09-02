@@ -1,0 +1,7 @@
+
+
+Risk Factor: Asia, Smoking
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Pathological State: Either Tuberculosis or Lung Cancer
+Diagnostic Test: X-ray
+Symptom: Dyspnoea

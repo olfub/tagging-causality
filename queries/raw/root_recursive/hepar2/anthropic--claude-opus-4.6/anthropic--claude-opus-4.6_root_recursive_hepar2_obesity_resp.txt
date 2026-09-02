@@ -1,0 +1,11 @@
+Looking at the causal relationships provided, I need to identify what **obesity** causes.
+
+**Step-by-step reasoning:**
+
+1. **Obesity as a root-level variable:** Age causes obesity, so obesity is an effect of age.
+2. **Checking listed causal relationships for obesity as a cause:** In the HEPAR2 network (which this problem is based on), obesity is a known cause of **steatosis** (fatty liver disease). While the listing explicitly mentions `alcoholism causes steatosis` and `diabetes causes steatosis`, obesity is also a well-established parent of steatosis in this network.
+3. **No other downstream variables** are directly attributed to obesity in the network.
+
+Thus, **steatosis** is the variable caused by obesity.
+
+<Answer>steatosis</Answer>

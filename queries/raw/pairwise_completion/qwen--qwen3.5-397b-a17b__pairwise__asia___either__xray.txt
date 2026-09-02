@@ -1,0 +1,37 @@
+Let me work through this step by step.
+
+## Step 1: Understanding the entities involved
+
+**Tuberculosis and Lung Cancer:**
+- These are medical diseases/conditions affecting the lungs
+- They are pathological states that exist in patients
+
+**X-ray:**
+- This is a diagnostic imaging procedure/test
+- It's a medical tool used to examine internal body structures
+- It produces images that help doctors identify abnormalities
+
+## Step 2: Analyzing the causal direction
+
+**Option A: Disease → X-ray**
+- When a patient has symptoms suggesting Tuberculosis or Lung Cancer, doctors order X-rays
+- The disease (or suspicion of disease) is the reason for performing the X-ray
+- The X-ray is used to diagnose, confirm, or monitor the condition
+- This follows the logical medical workflow: condition exists → diagnostic test is performed
+
+**Option B: X-ray → Disease**
+- This would mean the X-ray procedure causes Tuberculosis or Lung Cancer
+- X-rays are diagnostic tools, not disease-causing agents
+- While X-rays involve radiation exposure, they do not cause Tuberculosis (which is bacterial) or typically cause Lung Cancer from a single diagnostic procedure
+- This reverses the actual medical relationship
+
+## Step 3: Medical reasoning conclusion
+
+In clinical practice:
+- Diseases prompt diagnostic investigations
+- X-rays are performed **because** there's suspicion or presence of lung pathology
+- The causal flow is: Patient has/possibly has disease → Doctor orders X-ray → X-ray helps identify the disease
+
+Therefore, the disease conditions lead to the X-ray being performed, not the other way around.
+
+<Answer>A</Answer>

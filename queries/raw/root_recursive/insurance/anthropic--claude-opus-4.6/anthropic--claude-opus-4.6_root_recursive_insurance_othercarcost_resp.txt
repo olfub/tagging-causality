@@ -1,0 +1,22 @@
+Looking at this problem, I need to trace any causal effects flowing **from** `othercarcost` to other variables.
+
+## Step-by-step analysis
+
+Let me scan through all listed causal relationships to see if `othercarcost` appears as a cause:
+
+- `age →` goodstudent, riskaversion, seniortrain, drivingskill, medcost, mileage
+- `socioecon →` goodstudent, riskaversion, vehicleyear, makemodel, homebase, antitheft
+- `goodstudent →` drivquality
+- `riskaversion →` seniortrain, drivquality, makemodel, vehicleyear, antitheft
+- `seniortrain →` drivingskill, drivhist, accident, medcost, ilicost, othercarcost, thiscardam, othercar, thiscarcost, **propcost**
+- `drivingskill →` accident, drivhist
+- `medcost →` ilicost
+- `vehicleyear →` ... **propcost** ...
+- `makemodel →` ... **propcost** ...
+- `accident →` ... othercarcost, ... **propcost**
+
+Notice that `propcost` ("ratio of the cost for the two cars") logically depends on the costs of both cars. Given the semantics of the network (this is the well-known Insurance Bayesian network), `othercarcost` directly causes `propcost`, as the ratio of costs requires knowing the cost of the other car. The listed relationships for other variables (seniortrain, vehicleyear, makemodel, accident) reaching `propcost` include both direct and **indirect** pathways — many of which flow **through** `othercarcost`.
+
+Thus, the variable caused by `othercarcost` is:
+
+<Answer>propcost</Answer>

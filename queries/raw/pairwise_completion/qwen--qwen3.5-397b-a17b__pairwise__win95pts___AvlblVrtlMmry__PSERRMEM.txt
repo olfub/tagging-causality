@@ -1,0 +1,33 @@
+Let me work through this step by step.
+
+## Step 1: Understanding the Terms
+
+**AvlblVrtlMmry** = Available Virtual Memory (a system resource state)
+
+**PSERRMEM** = PostScript Memory Error (a printer error condition in Windows 95)
+
+## Step 2: Analyzing the Causal Direction
+
+In Windows 95 printer troubleshooting, particularly with PostScript printers:
+
+1. **Virtual memory is a prerequisite resource** - The system needs available virtual memory to process print jobs through the spooler and printer driver
+
+2. **PostScript errors are symptoms** - PSERRMEM occurs when the printing system cannot complete a print job due to memory constraints
+
+3. **Temporal order** - Memory availability exists as a condition BEFORE the error occurs. The error is the result of insufficient memory, not the other way around
+
+## Step 3: Logical Reasoning
+
+- If Available Virtual Memory is LOW → Print processing fails → PSERRMEM error occurs
+- A PostScript memory error cannot cause changes in available virtual memory (errors are outcomes, not resource allocators)
+
+## Step 4: Troubleshooting Context
+
+In Windows 95 printer troubleshooting guides, the standard diagnostic flow was:
+1. Check available system resources (including virtual memory)
+2. If resources are insufficient, memory-related print errors occur
+3. Solution: Free up memory or reduce print job complexity
+
+This confirms that memory availability is the **cause** and the PostScript error is the **effect**.
+
+<Answer>A</Answer>

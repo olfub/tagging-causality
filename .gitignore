@@ -1,0 +1,10 @@
+api_keys/
+
+**/__pycache__/
+data/bnlearn_files/**.pkl
+old/
+other/
+results/
+
+# just too many files, we will provide them separately
+queries/raw/full_pairwise

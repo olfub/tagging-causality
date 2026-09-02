@@ -1,0 +1,11 @@
+Actor:Age,SocioEcon,RiskAversion,GoodStudent,DrivingSkill,SeniorTrain,DrivHist,DrivQuality
+Asset:VehicleYear,MakeModel,RuggedAuto,Mileage,CarValue,HomeBase
+Financial:ThisCarCost,OtherCarCost,PropCost,MedCost,ILiCost,CarValue,SocioEcon
+Incident:Accident,Theft
+Liability:OtherCar,OtherCarCost,ILiCost
+Medical:MedCost,Cushioning,Airbag
+Protection:Antilock,Airbag,AntiTheft,RuggedAuto,Cushioning,SeniorTrain
+Result:ThisCarDam,OtherCar,ThisCarCost,OtherCarCost,PropCost,MedCost,ILiCost
+RiskFactor:RiskAversion,DrivQuality,DrivHist,Mileage,VehicleYear,HomeBase
+TheftContext:Theft,AntiTheft,HomeBase,CarValue
+Vehicle:VehicleYear,MakeModel,RuggedAuto,Mileage,Antilock,Airbag,Cushioning,ThisCarDam

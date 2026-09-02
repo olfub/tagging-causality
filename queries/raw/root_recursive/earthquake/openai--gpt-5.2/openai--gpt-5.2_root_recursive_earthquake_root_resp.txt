@@ -1,0 +1,10 @@
+In this system, we first look for variables that do not have any plausible causes *within the listed set* (i.e., they are exogenous “root” variables).
+
+- **Burglary** is not caused by any of the other listed variables.
+- **Earthquake** is not caused by any of the other listed variables.
+- **Alarm** is typically caused by Burglary and/or Earthquake.
+- **JohnCalls** and **MaryCalls** are typically caused by the Alarm.
+
+So the variables unaffected by any other variables are:
+
+<Answer>burglary,earthquake</Answer>

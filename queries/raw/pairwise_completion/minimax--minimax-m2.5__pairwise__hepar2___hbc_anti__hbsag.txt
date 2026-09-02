@@ -1,0 +1,17 @@
+**Step‑by‑step reasoning**
+
+1. **What are the markers?**  
+   - **HBsAg** (hepatitis B surface antigen) is a protein that appears on the surface of the hepatitis B virus (HBV) and is the first serological marker detectable after infection. Its presence indicates an active HBV infection.  
+   - **HBc‑anti** (anti‑HBc, i.e., antibody to the hepatitis B core antigen) is produced by the host’s immune system in response to the HBV core antigen (HBcAg).  
+
+2. **Temporal sequence of HBV serology**  
+   - After exposure to HBV, the virus replicates and the **HBsAg** becomes detectable in the blood (usually within 4 weeks).  
+   - As the immune system recognizes the virus, it mounts a response against the core protein, leading to the appearance of **anti‑HBc** (first IgM, later IgG), typically a few weeks after HBsAg appears.
+
+3. **Cause‑effect relationship**  
+   - The presence of the viral antigen (HBsAg) triggers the host’s immune system to produce the corresponding antibody. In other words, **the existence of HBsAg (and the underlying infection) leads to the production of anti‑HBc**.  
+   - There is no plausible biological mechanism by which the presence of anti‑HBc would cause the virus to produce HBsAg.
+
+**Conclusion:** The more plausible causal direction is **HBsAg → anti‑HBc** (i.e., “hbsag causes hbc_anti”).
+
+<Answer>B</Answer>

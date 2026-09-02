@@ -1,0 +1,13 @@
+travel:asia
+risk factor:asia,smoke
+behavior:smoke
+disease:tub,lung,bronc
+infection:tub
+cancer:lung
+lung condition:tub,lung,bronc
+chronic airway disease:bronc
+intermediate node:either
+diagnostic test:xray
+symptom:dysp
+observable:smoke,asia,xray,dysp
+latent:tub,lung,either,bronc

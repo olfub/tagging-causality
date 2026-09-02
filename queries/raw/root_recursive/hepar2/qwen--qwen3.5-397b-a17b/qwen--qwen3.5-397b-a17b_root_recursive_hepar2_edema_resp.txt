@@ -1,0 +1,16 @@
+Based on the provided causal relationships, we need to identify which variables are listed as effects of `edema` (i.e., where `edema` is the cause).
+
+1.  **Analyze the provided causal statements:**
+    *   `sex` causes `pbc`, `ama`, `alcoholism`.
+    *   `pbc` causes `fibrosis`, `cirrhosis`, `bilirubin`, `phosphatase`, `cholesterol`, `itching`, `fatigue`, `jaundice`, `hepatomegaly`, `spleen`, `ascites`, `edema`, `spiders`, `palms`, `albumin`, `proteins`, `platelet`, `inr`, `carcinoma`, `density`, `esr`, `ggtp`, `alt`, `ast`, `hepatalgia`, `pain`, `upper_pain`, `pain_ruq`, `pressure_ruq`, `anorexia`, `nausea`, `flatulence`, `bleeding`, `encephalopathy`, `consciousness`, `urea`, `irregular_liver`, `edge`, `skin`, `joints`, `triglycerides`.
+    *   `cirrhosis` causes `ascites`, `edema`, `encephalopathy`, `bleeding`, `inr`, `platelet`, `spleen`, `jaundice`, `bilirubin`, `albumin`, `proteins`, `spiders`, `palms`, `carcinoma`, `irregular_liver`, `density`, `edge`, `hepatomegaly`, `consciousness`, `urea`, `hepatalgia`, `pain`, `upper_pain`, `pain_ruq`, `pressure_ruq`, `anorexia`, `nausea`, `flatulence`.
+
+2.  **Locate `edema` in the relationships:**
+    *   In the relationship starting with `pbc`, `edema` is listed as an effect (`pbc` causes `edema`).
+    *   In the relationship starting with `cirrhosis`, `edema` is listed as an effect (`cirrhosis` causes `edema`).
+    *   There are no relationships where `edema` is listed on the left side of "causes" (i.e., there is no statement `edema causes ...`).
+
+3.  **Conclusion:**
+    *   Since `edema` does not appear as a cause in any of the provided relationships, there are no variables caused by `edema` according to the given text.
+
+<Answer></Answer>

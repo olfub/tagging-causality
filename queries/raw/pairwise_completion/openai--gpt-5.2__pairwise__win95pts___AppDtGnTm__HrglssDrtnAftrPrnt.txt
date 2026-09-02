@@ -1,0 +1,14 @@
+1) Interpret the variables in a Windows 95 printing context:  
+- **AppDtGnTm**: likely “Application Data Generation Time” — how long the application takes to generate the print data/spool job.  
+- **HrglssDrtnAftrPrnt**: likely “Hourglass Duration After Print” — how long Windows shows the busy/hourglass cursor after you initiate/complete printing.
+
+2) Consider plausible mechanisms:  
+- If the **application takes longer to generate the print data**, Windows will remain busy longer (spooling, rendering, sending to the driver/queue), which directly increases the **hourglass duration**.
+
+3) Check the reverse direction:  
+- The **hourglass duration** is mostly an observable symptom of underlying work being done (rendering/spooling/driver/IO). It doesn’t typically *cause* the application to take longer generating data; it’s more an indicator of that work.
+
+4) Therefore, the more likely causal direction is:  
+**AppDtGnTm → HrglssDrtnAftrPrnt**.
+
+<Answer>A</Answer>

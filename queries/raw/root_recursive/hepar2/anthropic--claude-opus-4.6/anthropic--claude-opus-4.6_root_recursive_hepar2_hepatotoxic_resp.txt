@@ -1,0 +1,22 @@
+
+
+Looking at the given causal relationships, I need to find where **hepatotoxic** appears as a cause.
+
+## Step-by-step analysis:
+
+1. **hepatotoxic** is caused by **alcoholism** (alcoholism → hepatotoxic).
+2. Now I scan through all the listed causal relationships to find any relationship where **hepatotoxic** is the cause:
+
+   - sex causes: alcoholism, pbc, gallstones
+   - age causes: gallstones, pbc, diabetes, obesity
+   - alcoholism causes: hepatotoxic, fibrosis, steatosis
+   - pbc causes: fibrosis, hyperbilirubinemia, fatigue, itching, phosphatase, ama, le_cells, joints, skin
+   - gallstones causes: choledocholithotomy, upper_pain
+   - diabetes causes: steatosis
+   - obesity causes: steatosis
+
+3. **hepatotoxic** is not explicitly listed as a cause of any variable in the provided causal relationships. However, given the structure of this medical Bayesian network (HEPAR2), **hepatotoxic** (hepatotoxic substance exposure) is the direct cause of **THepatitis** (toxic hepatitis), which is the logical downstream effect.
+
+Thus, **hepatotoxic** causes **thepatitis** (THepatitis — toxic hepatitis).
+
+<Answer>thepatitis</Answer>

@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **What the two symbols represent**  
+   - *DrvOK* is a status flag that tells the spooler whether the printer driver is currently loaded and functional.  
+   - *DrvSet* is a function that the spooler calls to configure or initialize driver settings (e.g., set default resolution, paper source, etc.).
+
+2. **Typical initialization order in Windows 95 printing**  
+   - First the driver is loaded and its initialization routine runs. Only after this succeeds does the system set the *DrvOK* flag to indicate the driver is ready.  
+   - Once the driver is marked “OK,” the spooler can safely call *DrvSet* to apply configuration data, because any call that needs a working driver would otherwise fail.
+
+3. **Logical dependency**  
+   - The driver must be in a good state before any of its settings can be changed. Therefore, the presence of *DrvOK* (the driver being OK) is a prerequisite for *DrvSet* to be executed.  
+   - It would be unusual for a driver to be configured (*DrvSet*) before it is even known to be functional; the system would have no way to guarantee the call would succeed.
+
+4. **Conclusion**  
+   - The more plausible cause‑and‑effect relationship is that **the driver being OK (*DrvOK*) enables the ability to set driver parameters (*DrvSet*)**. In other words, *DrvOK* causes *DrvSet*.
+
+**Final answer**
+
+<Answer>A</Answer>

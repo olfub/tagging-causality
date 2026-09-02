@@ -1,0 +1,25 @@
+
+
+# Identifying Variables Caused by Smoke
+
+## Step-by-Step Reasoning
+
+Looking at the classic "Asia" (chest clinic) Bayesian network structure:
+
+1. **`asia`** and **`smoke`** are root nodes (not affected by any other variable) — confirmed by the problem statement.
+
+2. **`asia → tub`** is explicitly given.
+
+3. Now, for **`smoke`**: In this well-known causal model, smoking is a direct cause of:
+   - **`lung`** (lung cancer) — smoking causes lung cancer.
+   - **`bronc`** (bronchitis) — smoking causes bronchitis.
+
+4. **`either`** is caused by `tub` and `lung` (not directly by `smoke`).
+
+5. **`xray`** is caused by `either`.
+
+6. **`dysp`** is caused by `either` and `bronc`.
+
+While `smoke` has downstream effects on `either`, `xray`, and `dysp` through intermediate variables, the variables **directly caused** by `smoke` are `lung` and `bronc`.
+
+<Answer>lung, bronc</Answer>

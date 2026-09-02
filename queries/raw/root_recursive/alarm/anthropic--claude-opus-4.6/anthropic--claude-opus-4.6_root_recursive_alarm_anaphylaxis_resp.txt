@@ -1,0 +1,19 @@
+
+
+# Variables Caused by Anaphylaxis
+
+## Step-by-step Reasoning
+
+**Step 1: Identify anaphylaxis's role in the network.**
+Anaphylaxis is listed as a root node (not affected by any other variable).
+
+**Step 2: Apply medical/physiological reasoning.**
+Anaphylaxis is a severe allergic reaction that causes massive vasodilation—this directly impacts the force exerted on circulating blood by the vasculature (i.e., **TPR**, total peripheral resistance).
+
+**Step 3: Check consistency with the network structure.**
+This is consistent with the well-known ALARM (A Logical Alarm Reduction Mechanism) Bayesian network, where anaphylaxis is a direct parent of TPR. No other variable is directly caused by anaphylaxis.
+
+**Step 4: Trace downstream effects.**
+Through TPR, anaphylaxis indirectly influences variables further downstream (e.g., bp, catechol, hr, etc.), but the **direct** causal child of anaphylaxis is TPR.
+
+<Answer>tpr</Answer>

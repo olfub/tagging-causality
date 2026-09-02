@@ -1,0 +1,19 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Define the medical terms.**
+*   **PBC** stands for Primary Biliary Cholangitis (formerly known as Primary Biliary Cirrhosis). It is a chronic autoimmune disease that slowly destroys the bile ducts in the liver.
+*   **Joints** in this context refers to joint disorders, pain (arthralgia), or arthritis.
+
+**Step 2: Analyze the biological nature of PBC.**
+PBC is a systemic autoimmune disease. While it primarily targets the liver, autoimmune conditions often have manifestations that affect other parts of the body (extrahepatic manifestations).
+
+**Step 3: Analyze the relationship between PBC and joint issues.**
+Medical literature establishes that musculoskeletal symptoms, including joint pain and arthritis, are common extrahepatic manifestations of PBC. Studies show that a significant percentage of patients with PBC experience joint symptoms. The systemic autoimmune inflammation associated with PBC is the underlying cause of these joint issues.
+
+**Step 4: Evaluate the reverse relationship.**
+There is no evidence to suggest that having joint pain or arthritis causes a person to develop Primary Biliary Cholangitis. While a patient might have joint issues *before* a PBC diagnosis (due to the autoimmune nature of the disease progressing), the joint issues themselves do not trigger the specific autoimmune destruction of the bile ducts found in PBC.
+
+**Step 5: Determine the direction of causality.**
+Since PBC is the underlying systemic disease that produces symptoms in various body parts, including the joints, the disease (PBC) causes the symptom (joint issues).
+
+<Answer>A</Answer>

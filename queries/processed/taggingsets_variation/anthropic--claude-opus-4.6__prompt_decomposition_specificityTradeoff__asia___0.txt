@@ -1,0 +1,18 @@
+geographic location:asia
+disease:tub,lung,bronc
+symptom:dysp
+behavior:smoke
+diagnostic test:xray
+risk factor:asia,smoke
+respiratory condition:tub,lung,bronc,dysp
+derived variable:either
+root cause:asia,smoke
+clinical observation:xray,dysp
+infectious:tub
+lifestyle:smoke
+chronic:lung,bronc
+directly observable:smoke,asia,xray,dysp
+underlying condition:tub,lung
+logical disjunction:either
+influenced by smoking:lung,bronc
+influenced by geography:tub

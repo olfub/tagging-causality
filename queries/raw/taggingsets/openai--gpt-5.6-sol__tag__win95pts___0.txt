@@ -1,0 +1,44 @@
+application layer: AppOK, AppData, DSApplctn, AppDtGnTm
+document data: DataFile, AppData, PrtData, PrtDataOut, PrtFile
+local storage: DataFile, DskLocal
+print workflow: PrtSpool, PrtThread, PrtDataOut, PrtQueue, PrntPrcssTm
+printer device: PrtOn, PrtPaper, PrtMem, TnrSpply
+network printing: NetPrint, NtwrkCnfg, NetOK, PrtMpTPth, DS_NTOK, NtGrbld, NtSpd
+local printing: DskLocal, LclOK, DS_LCLOK, LclGrbld
+printer driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+graphics pipeline: EMFOK, GDIIN, GDIOUT, EPSGrphc, NnPSGrphc, PSGRAPHIC
+print selection: PrtSel, PrtPath, PrtMpTPth
+physical connection: PrtCbl, PrtPort, CblPrtHrdwrOK, PC2PRT
+printer availability: PrtOn, PTROFFLINE, NetOK, LclOK, DS_NTOK, DS_LCLOK
+positive status: AppOK, EMFOK, DrvOK, NetOK, CblPrtHrdwrOK, LclOK, DS_LCLOK, PgOrnttnOK, PrntngArOK, TTOK
+offline status: PTROFFLINE, PrtStatOff
+printer configuration: DrvSet, PrtSel, NtwrkCnfg, PgOrnttnOK, PrntngArOK, GrphcsRltdDrvrSttngs
+printer consumables: PrtPaper, TnrSpply, PrtStatPaper, PrtStatToner
+memory resource: PrtMem, AvlblVrtlMmry, PSERRMEM, PrtStatMem
+buffer condition: FllCrrptdBffr, GrbldOtpt, IncmpltPS
+timeout condition: PrtTimeOut, HrglssDrtnAftrPrnt
+performance timing: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, NtSpd
+page layout: PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+output completeness: CmpltPgPrntd, IncmpltPS
+garbled output: LclGrbld, NtGrbld, GrbldOtpt, GrbldPS
+font handling: ScrnFntNtPrntrFnt, TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK
+TrueType support: TrTypFnts, PrntrAccptsTrtyp, TTOK, NnTTOK
+font mismatch: ScrnFntNtPrntrFnt, NnTTOK
+PostScript processing: PrtPScript, PSGRAPHIC, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS
+PostScript input: EPSGrphc, PrtPScript, PSGRAPHIC, TstpsTxt
+non-PostScript input: NnPSGrphc
+graphics settings: GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc
+reproducibility: REPEAT, HrglssDrtnAftrPrnt
+printer user interface: PrtIcon, PrtQueue
+printer status monitor: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+failure symptom: PTROFFLINE, FllCrrptdBffr, ScrnFntNtPrntrFnt, LclGrbld, NtGrbld, GrbldOtpt, HrglssDrtnAftrPrnt, PSERRMEM, GrbldPS, IncmpltPS
+diagnostic test: DS_NTOK, DS_LCLOK, TstpsTxt, REPEAT
+problem indicator: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+basic printing problem: Problem1, AppOK, PrtOn, PrtData
+performance problem: Problem2, AppDtGnTm, PrntPrcssTm, DeskPrntSpd, NtSpd
+queue problem: Problem3, PrtSpool, PrtIcon, PrtQueue
+graphics problem: Problem4, GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PSGRAPHIC
+font problem: Problem5, ScrnFntNtPrntrFnt, FntInstlltn, PrntrAccptsTrtyp, NnTTOK
+PostScript problem: Problem6, PSERRMEM, GrbldPS, IncmpltPS
+upstream input: DataFile, AppData, GDIIN, EPSGrphc, NnPSGrphc, TstpsTxt
+downstream output: GDIOUT, PrtDataOut, CmpltPgPrntd, GrbldOtpt, GrbldPS, IncmpltPS

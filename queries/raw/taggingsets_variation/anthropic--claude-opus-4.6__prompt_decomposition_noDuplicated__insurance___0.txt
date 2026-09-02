@@ -1,0 +1,21 @@
+driver_characteristic: GoodStudent, Age, SocioEcon, RiskAversion, DrivingSkill, DrivHist, SeniorTrain, DrivQuality
+vehicle_property: VehicleYear, RuggedAuto, MakeModel, Mileage, Antilock, CarValue, Airbag, Cushioning, AntiTheft
+cost: ThisCarCost, OtherCarCost, MedCost, PropCost, ILiCost
+outcome: ThisCarDam, Accident, Theft, ThisCarCost, OtherCarCost, MedCost, PropCost, ILiCost
+safety_feature: Antilock, Airbag, Cushioning
+damage: ThisCarDam, Accident, OtherCarCost, MedCost
+demographic: Age, SocioEcon, GoodStudent, HomeBase
+behavior: RiskAversion, DrivQuality, DrivingSkill, DrivHist, GoodStudent
+training: SeniorTrain, GoodStudent, DrivingSkill
+vehicle_age: VehicleYear, Mileage, CarValue
+theft_related: Theft, AntiTheft, HomeBase, CarValue
+financial: SocioEcon, CarValue, ThisCarCost, OtherCarCost, MedCost, PropCost, ILiCost
+protection: Airbag, Antilock, Cushioning, RuggedAuto, AntiTheft
+cause: DrivQuality, DrivingSkill, RiskAversion, Accident, Theft
+liability: ILiCost, OtherCarCost, MedCost, OtherCar
+vehicle_identity: MakeModel, VehicleYear, CarValue, RuggedAuto
+location: HomeBase
+physical_damage: ThisCarDam, Cushioning, RuggedAuto, Accident
+skill: DrivingSkill, DrivQuality, SeniorTrain, DrivHist
+property: PropCost, ThisCarCost, ThisCarDam, CarValue
+other_party: OtherCar, OtherCarCost, MedCost, ILiCost

@@ -1,0 +1,7 @@
+upstream_event:Burglary,Earthquake
+security_incident:Burglary
+seismic_incident:Earthquake
+alert_signal:Alarm
+phone_call_report:JohnCalls,MaryCalls
+john_report:JohnCalls
+mary_report:MaryCalls

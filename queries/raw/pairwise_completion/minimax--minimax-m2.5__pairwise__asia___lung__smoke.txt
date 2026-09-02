@@ -1,0 +1,11 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the variables** – “Smoking” is a behavior (exposure) and “Lung Cancer” is a disease (outcome).  
+2. **Look at the temporal order** – People start smoking *before* they develop lung cancer; the disease appears later in life.  
+3. **Evidence from epidemiology** – Numerous large‑scale studies consistently show that smokers have a much higher risk of developing lung cancer than non‑smokers.  
+4. **Biological plausibility** – Tobacco smoke contains carcinogens that cause DNA damage in lung cells, leading to malignant transformation.  
+5. **Consider reverse causality** – It is implausible that having lung cancer would cause a person to start smoking; lung cancer does not produce a behavior that leads to smoking initiation.  
+
+Given these points, the causal direction supported by evidence is **Smoking → Lung Cancer**.
+
+<Answer>B</Answer>

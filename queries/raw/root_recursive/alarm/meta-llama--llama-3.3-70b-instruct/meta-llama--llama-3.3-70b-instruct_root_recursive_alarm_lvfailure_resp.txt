@@ -1,0 +1,19 @@
+To determine the variables caused by lvfailure, let's analyze the given causal relationships and the definitions of the variables:
+
+1. **lvfailure** occurs when there is dysfunction of the left ventricle causing insufficient delivery of blood to vital body organs. This implies that lvfailure could directly influence variables related to blood pressure, heart function, and possibly the amount of blood or oxygen being delivered to various parts of the body.
+
+2. Given causal relationships:
+   - history causes lvfailure, hypovolemia, anaphylaxis, pulmembolus
+   - No direct causes of lvfailure are listed other than history, but we are looking for effects.
+
+From the definitions:
+- **lvedvolume** (amount of blood present in the left ventricle before contraction), **strokevolume** (volume of blood pumped out of the left ventricle of the heart during each systolic cardiac contraction), and **co** (amount of blood pumped by the heart per minute) are directly related to the functioning of the left ventricle. Thus, lvfailure could potentially cause changes in these variables because if the left ventricle is not functioning properly, it would affect how much blood is in the ventricle before contraction, how much blood is pumped out, and the overall cardiac output.
+- **cvp** (measure of blood pressure in the vena cava), **pcwp** (pulmonary capillary wedge pressure), **bp** (pressure of circulating blood against the walls of blood vessels), and **pap** (blood pressure in the pulmonary artery) are related to blood pressure in different parts of the body. Lvfailure could lead to decreased blood pressure due to insufficient blood delivery, potentially affecting these variables.
+- **hr** (heart rate) and **hrekg** (heart rate displayed on EKG monitor) could be influenced as the body tries to compensate for the decreased efficiency of the left ventricle by increasing heart rate.
+- **hrbp** (ratio of heart rate and blood pressure) would also be affected because it directly relates to both heart rate and blood pressure.
+- **errlowoutput** could be a consequence of lvfailure since the left ventricle's inability to efficiently pump blood would result in low output.
+
+Other variables like **hypovolemia**, **anaphylaxis**, **pulmembolus** are listed as caused by **history**, not directly by **lvfailure**, based on the provided causal relationships.
+
+Therefore, considering direct influences and the descriptions provided:
+<Answer>lvedvolume, strokevolume, co, cvp, pcwp, bp, pap, hr, hrekg, hrbp, errlowoutput</Answer>

@@ -1,0 +1,17 @@
+To determine the more likely cause-and-effect relationship between PrtStatToner and TnrSpply, let's break down what each term could imply in the context of a printer troubleshooting in Windows 95:
+
+1. **PrtStatToner**: This could refer to the "Printer Status Toner," indicating the status of the toner in the printer. It might show if the toner is low, empty, or full.
+
+2. **TnrSpply**: This seems to refer to the "Toner Supply," which would be the actual toner cartridge or the amount of toner available for printing.
+
+Given these interpretations:
+
+- **Cause-and-effect relationship**: The cause-and-effect relationship suggests that one event (the cause) leads to another event (the effect). 
+
+- **A. PrtStatToner causes TnrSpply**: This would suggest that the status of the printer's toner (PrtStatToner) causes the toner supply (TnrSpply). However, it's more logical that the toner supply's condition (full, low, empty) would influence the printer's status regarding the toner, not the other way around.
+
+- **B. TnrSpply causes PrtStatToner**: This option indicates that the toner supply (TnrSpply) causes the printer status toner (PrtStatToner). This relationship makes more sense because the actual state of the toner supply (how much toner is left, whether it's a new cartridge, etc.) would directly influence what the printer reports about its toner status.
+
+Therefore, considering the logical flow of cause and effect in the context of printer troubleshooting, the relationship where the toner supply affects the printer's status report on the toner is more plausible.
+
+<Answer>B</Answer>

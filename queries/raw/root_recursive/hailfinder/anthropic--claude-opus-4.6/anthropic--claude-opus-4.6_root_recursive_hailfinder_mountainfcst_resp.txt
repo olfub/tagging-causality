@@ -1,0 +1,19 @@
+Looking at this problem, I need to find all variables where `mountainfcst` appears on the **left side** (as a cause) of a causal relationship.
+
+Let me systematically go through every listed causal relationship:
+
+1. **satcontmoist causes** → mountainfcst is an *effect* here, not a cause
+2. **raocontmoist causes** → mountainfcst is an *effect* here
+3. **morningbound causes** → mountainfcst is an *effect* here
+4. **date causes** → mountainfcst not mentioned
+5. **scenario causes** → mountainfcst not mentioned
+6. **morningcin causes** → mountainfcst not mentioned
+7. **amdewptcalpl causes** → mountainfcst not mentioned
+8. **combmoisture causes** → mountainfcst is an *effect* here
+9. **compplfcst causes** → mountainfcst is an *effect* here
+
+In all listed causal relationships, `mountainfcst` only ever appears as an **effect** (on the right side). It never appears as a **cause** (on the left side) of any other variable. It is a leaf/terminal node in the causal graph.
+
+There are **no variables** caused by `mountainfcst`.
+
+<Answer></Answer>

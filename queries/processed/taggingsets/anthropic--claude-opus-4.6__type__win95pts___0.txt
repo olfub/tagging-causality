@@ -1,0 +1,16 @@
+DiagnosedProblem:Problem1,Problem2,Problem3,Problem4,Problem5,Problem6
+PrinterHardware:PrtOn,PrtPaper,PrtMem,TnrSpply,PrtCbl,PrtPort
+PrinterStatusIndicator:PrtStatPaper,PrtStatToner,PrtStatMem,PrtStatOff,PTROFFLINE
+NetworkState:NtwrkCnfg,NetOK,NetPrint,NtSpd,DS_NTOK
+ConnectionStatus:CblPrtHrdwrOK,LclOK,DS_LCLOK,PC2PRT,PrtMpTPth
+ApplicationState:AppOK,AppData,DSApplctn,DataFile,DskLocal
+PrintPipelineState:PrtSpool,PrtThread,PrtData,PrtDataOut,PrtPath,PrtQueue,PrtFile,PrtIcon
+DriverConfiguration:DrvSet,DrvOK,PrtDriver,PrtSel
+GraphicsProcessing:GDIIN,GDIOUT,EMFOK,GrphcsRltdDrvrSttngs,EPSGrphc,NnPSGrphc,PSGRAPHIC,PrtPScript
+FontHandling:TrTypFnts,FntInstlltn,PrntrAccptsTrtyp,TTOK,NnTTOK,ScrnFntNtPrntrFnt
+OutputQuality:GrbldOtpt,LclGrbld,NtGrbld,GrbldPS,IncmpltPS,CmpltPgPrntd
+PageSetting:PgOrnttnOK,PrntngArOK
+MemoryResource:FllCrrptdBffr,AvlblVrtlMmry,PSERRMEM,PrtTimeOut
+ProcessingDuration:AppDtGnTm,PrntPrcssTm,DeskPrntSpd,HrglssDrtnAftrPrnt
+PostScriptDiagnostic:TstpsTxt
+PrintBehavior:REPEAT

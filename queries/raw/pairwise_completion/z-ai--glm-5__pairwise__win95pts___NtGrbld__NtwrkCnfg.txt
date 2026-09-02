@@ -1,0 +1,25 @@
+# Analyzing Cause-and-Effect Relationship in Windows 95 Printer Troubleshooting
+
+Let me break down this problem by first understanding what these abbreviations likely mean in the context of Windows 95 printer troubleshooting:
+
+## Decoding the abbreviations:
+- **NtGrbld**: Likely "Network Garbled" - referring to garbled or corrupted network printer output
+- **NtwrkCnfg**: Likely "Network Configuration" - referring to network printer configuration settings
+
+## Analyzing causal direction:
+
+**Option A: NtGrbld causes NtwrkCnfg**
+This would mean that garbled network printer output causes network configuration. This seems illogical because:
+- Configuration settings are typically set before output is produced
+- Symptoms don't usually cause settings; settings cause symptoms
+
+**Option B: NtwrkCnfg causes NtGrbld**
+This would mean that network configuration causes garbled network printer output. This makes more sense because:
+- Configuration is an input/setting that would logically precede output
+- Incorrect network configuration is a known cause of garbled printer output in Windows 95
+- This follows the typical pattern in troubleshooting where settings cause symptoms
+
+## Conclusion:
+Based on Windows 95 printer troubleshooting principles, network configuration (NtwrkCnfg) would logically cause whether output is garbled (NtGrbld), not the reverse.
+
+<Answer>B</Answer>

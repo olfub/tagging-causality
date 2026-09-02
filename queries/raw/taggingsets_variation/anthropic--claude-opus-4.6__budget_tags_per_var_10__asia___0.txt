@@ -1,0 +1,62 @@
+geographic: Asia
+travel: Asia
+location: Asia
+demographic: Asia
+background: Asia
+predisposing: Asia, Smoking
+environmental: Asia
+exogenous: Asia, Smoking
+risk factor: Asia, Smoking
+exposure: Asia, Smoking
+behavior: Smoking
+lifestyle: Smoking
+voluntary: Smoking
+substance use: Smoking
+modifiable: Smoking
+habitual: Smoking
+cause: Smoking, Asia
+disease: Tuberculosis, Lung Cancer, Bronchitis
+infection: Tuberculosis
+bacterial: Tuberculosis
+infectious: Tuberculosis
+treatable: Tuberculosis
+lung: Tuberculosis, Lung Cancer, Bronchitis
+respiratory: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea
+chronic: Tuberculosis, Lung Cancer, Bronchitis, Smoking
+pathology: Tuberculosis, Lung Cancer, Bronchitis
+medical condition: Tuberculosis, Lung Cancer, Bronchitis
+malignancy: Lung Cancer
+tumor: Lung Cancer
+oncology: Lung Cancer
+fatal: Lung Cancer
+derived: Either Tuberculosis or Lung Cancer
+intermediate: Either Tuberculosis or Lung Cancer
+latent: Either Tuberculosis or Lung Cancer
+disjunction: Either Tuberculosis or Lung Cancer
+aggregate: Either Tuberculosis or Lung Cancer
+computed: Either Tuberculosis or Lung Cancer
+abstract: Either Tuberculosis or Lung Cancer
+logical: Either Tuberculosis or Lung Cancer
+combination: Either Tuberculosis or Lung Cancer
+hidden: Either Tuberculosis or Lung Cancer
+diagnostic: X-ray
+imaging: X-ray
+test: X-ray
+radiology: X-ray
+measurement: X-ray
+detection: X-ray
+medical procedure: X-ray
+evidence: X-ray, Dyspnoea
+clinical: X-ray, Dyspnoea
+observation: X-ray, Dyspnoea
+inflammation: Bronchitis
+airway: Bronchitis
+pulmonary: Bronchitis
+cough: Bronchitis
+symptom: Dyspnoea
+breathing: Dyspnoea
+patient-reported: Dyspnoea
+subjective: Dyspnoea
+manifestation: Dyspnoea
+discomfort: Dyspnoea
+downstream: X-ray, Dyspnoea, Either Tuberculosis or Lung Cancer

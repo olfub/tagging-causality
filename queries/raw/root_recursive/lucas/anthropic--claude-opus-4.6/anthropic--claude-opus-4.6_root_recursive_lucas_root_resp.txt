@@ -1,0 +1,27 @@
+
+
+# Identifying Root Variables (Unaffected by Other Variables)
+
+Looking at each variable, I need to determine which ones are **not caused** by any other variable in this set.
+
+## Step-by-step Analysis:
+
+| Variable | Could be caused by other variables? | Reasoning |
+|---|---|---|
+| **Genetics** | ❌ No | Determined at conception; not influenced by any listed variable |
+| **Peer_Pressure** | ❌ No | External social factor; not caused by other variables here |
+| **Born_an_Even_Day** | ❌ No | Completely random; cannot be caused by anything |
+| **Anxiety** | ❌ No | A baseline psychological trait; serves as a root cause (e.g., can drive smoking) |
+| **Allergy** | ❌ No | An inherent immune predisposition; not caused by other variables here |
+| **Smoking** | ✅ Yes | Influenced by peer_pressure, anxiety |
+| **Yellow_Fingers** | ✅ Yes | Caused by smoking |
+| **Attention_Disorder** | ✅ Yes | Influenced by genetics |
+| **Car_Accident** | ✅ Yes | Influenced by attention_disorder, fatigue |
+| **Fatigue** | ✅ Yes | Caused by lung_cancer or other conditions |
+| **Coughing** | ✅ Yes | Caused by lung_cancer, allergy, smoking |
+| **Lung_Cancer** | ✅ Yes | Caused by smoking, genetics |
+
+## Root variables (no incoming causal edges):
+These are foundational/exogenous variables that influence others but are not themselves affected by any variable in the system.
+
+<Answer>anxiety, peer_pressure, genetics, born_an_even_day, allergy</Answer>

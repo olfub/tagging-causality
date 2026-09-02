@@ -1,0 +1,10 @@
+Behavioral: Smoking, Peer_Pressure
+Psychological: Anxiety, Attention_Disorder
+Biological_Factor: Genetics, Allergy, Lung_Cancer
+Physical_Symptom: Yellow_Fingers, Fatigue, Coughing
+Exogenous_Static: Genetics, Born_an_Even_Day, Attention_Disorder
+Modifiable_State: Smoking, Anxiety, Fatigue, Coughing, Yellow_Fingers
+Risk_Factor: Smoking, Peer_Pressure, Genetics, Anxiety
+Adverse_Outcome: Lung_Cancer, Car_Accident, Fatigue, Allergy
+Respiratory_Related: Smoking, Coughing, Lung_Cancer, Allergy
+External_Influence: Peer_Pressure, Car_Accident

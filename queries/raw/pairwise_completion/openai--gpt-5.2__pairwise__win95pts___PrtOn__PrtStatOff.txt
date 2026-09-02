@@ -1,0 +1,15 @@
+- **Interpret the variables in a Windows 95 troubleshooting context:**
+  - **PrtOn** = the printer is powered on.
+  - **PrtStatOff** = Windows shows the printer as “Offline” / not available (status “off” from the PC’s perspective).
+
+- **Check direction A: _PrtOn → PrtStatOff_**
+  - If a printer is powered **on**, Windows is *less* likely to show it as **offline** (all else equal).
+  - So “printer on” does **not** typically *cause* an “offline” status; it more often prevents it.
+  - This direction is therefore **unlikely**.
+
+- **Check direction B: _PrtStatOff → PrtOn_**
+  - The printer being “Offline” in Windows does not physically power the device on by itself.
+  - However, in real troubleshooting, **seeing an offline status often triggers the user/admin to turn the printer on** (or wake it), which then results in **PrtOn**.
+  - So while not a direct mechanical causation, **B matches the more likely practical cause-and-effect chain** in troubleshooting behavior.
+
+<Answer>B</Answer>

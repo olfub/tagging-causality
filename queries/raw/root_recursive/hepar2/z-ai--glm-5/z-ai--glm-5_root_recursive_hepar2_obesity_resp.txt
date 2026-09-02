@@ -1,0 +1,28 @@
+I need to identify which variables are caused by obesity based on the given causal relationships.
+
+Let me analyze the causal relationships provided:
+
+1. Sex causes: pbc, alcoholism, obesity
+   - sex → pbc
+   - sex → alcoholism
+   - sex → obesity
+
+2. Alcohol causes: steatosis, fibrosis, cirrhosis, ggtp, ast, triglycerides, cholesterol, hepatotoxic, thepatitis, chhepatitis
+   - alcohol → steatosis
+   - alcohol → fibrosis
+   - alcohol → cirrhosis
+   - alcohol → ggtp
+   - alcohol → ast
+   - alcohol → triglycerides
+   - alcohol → cholesterol
+   - alcohol → hepatotoxic
+   - alcohol → thepatitis
+   - alcohol → chhepatitis
+
+We're also told that age, sex, and alcohol are not affected by any other variable (they are root causes in this causal model).
+
+Looking at the given causal relationships, I can see that obesity is caused by sex, but there are no variables listed that obesity itself causes. In the provided causal relationships, there is no statement of the form "obesity causes X, Y, Z..."
+
+Therefore, based on the given information, there are no variables that are caused by obesity.
+
+<Answer></Answer>

@@ -1,0 +1,12 @@
+1. Interpret the variables in a Windows 95 printing/troubleshooting context:
+   - **PrntrAccptsTrtyp** = the printer/driver is able or configured to accept/handle **TrueType** fonts (e.g., download TrueType as soft fonts, or otherwise process TrueType reliably).
+   - **TTOK** = the outcome/status “**TrueType is OK**” (i.e., printing with TrueType fonts works correctly—no garbling, substitution issues, or failures).
+
+2. Consider plausible causal mechanisms:
+   - If the **printer accepts TrueType** (or the driver correctly manages TrueType handling for that device), then **TrueType printing tends to work**. That’s a direct mechanism: capability/configuration → successful outcome.
+   - The reverse (“TrueType is OK” causes the printer to accept TrueType) is less plausible: a status/result doesn’t typically change the printer’s inherent capability or driver setting. At most, “TTOK” is an observation that could lead a user to *decide* something, but it doesn’t itself change the printer’s TrueType acceptance.
+
+3. Direction most consistent with troubleshooting logic:
+   - You usually test TrueType output (“TTOK”) as a **symptom/verification** of whether the printer/driver supports or is configured for TrueType handling. That makes **PrntrAccptsTrtyp** a cause and **TTOK** an effect.
+
+<Answer>A</Answer>

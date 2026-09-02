@@ -1,0 +1,12 @@
+Oxygen: HypoxiaInO2, LowerBodyO2, RUQO2, LungFlow
+Respiratory: Grunting, ChestXray, LungParench, GruntingReport
+Cardiovascular: LVH, LVHreport, CardiacMixing, DuctFlow
+BloodGas: CO2, CO2Report, HypDistrib
+DiagnosticReport: XrayReport, CO2Report, LVHreport, GruntingReport
+ClinicalMeasurement: BirthAsphyxia, Age, Sick
+MedicalImaging: ChestXray 
+DiseaseState: Disease, Sick 
+Oxygenation: HypoxiaInO2, LowerBodyO2, RUQO2 
+BloodFlow: DuctFlow, LungFlow, CardiacMixing 
+MedicalCondition: BirthAsphyxia, LVH, LungParench, Disease 
+Report: XrayReport, CO2Report, LVHreport, GruntingReport, ChestXray

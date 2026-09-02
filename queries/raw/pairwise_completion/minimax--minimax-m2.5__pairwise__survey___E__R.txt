@@ -1,0 +1,24 @@
+**Step‑by‑step reasoning**
+
+1. **Define the variables**  
+   - *Education*: the level of schooling a person attains (e.g., high‑school, college).  
+   - *Residence*: the type or location of where a person lives (urban vs. rural, neighbourhood socioeconomic status, school district, etc.).
+
+2. **Identify possible causal directions**  
+   - **A. Education → Residence**: Having more education often leads to higher income and different preferences, which can enable people to move to certain neighbourhoods.  
+   - **B. Residence → Education**: Where one lives determines the quality of local schools, availability of educational resources, and peer groups, all of which influence how much education a person obtains.
+
+3. **Examine the evidence from demographic research**  
+   - Numerous studies on “neighbourhood effects” show that children growing up in low‑income or disadvantaged areas have lower educational attainment, even after controlling for family background.  
+   - Policy experiments (e.g., Moving to Opportunity) demonstrate that relocating families to better‑resourced neighbourhoods leads to improvements in children’s school performance.  
+   - While higher education can later influence residential choice, the strongest and most consistent causal impact in the population as a whole (especially for children) is that residence shapes educational outcomes.
+
+4. **Consider temporality**  
+   - For the majority of the life‑course, residence precedes formal education (children attend school where they live). This temporal ordering supports a causal role of residence on education.
+
+5. **Conclusion**  
+   - The causal pathway **Residence → Education** is more consistently supported by empirical evidence and theory in demography.
+
+**Final answer**
+
+<Answer>B</Answer>

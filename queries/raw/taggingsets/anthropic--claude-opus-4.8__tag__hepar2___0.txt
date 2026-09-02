@@ -1,0 +1,31 @@
+demographic: sex, age
+risk_factor: alcoholism, hepatotoxic, injections, transfusion, surgery, obesity, alcohol, gallstones
+medical_procedure: hospital, surgery, choledocholithotomy, injections, transfusion
+disease: THepatitis, ChHepatitis, PBC, Cirrhosis, Steatosis, RHepatitis, carcinoma, fibrosis, diabetes, obesity, gallstones, alcoholism
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia, anorexia, nausea, jaundice, flatulence
+sign: skin, joints, edema, ascites, hepatomegaly, spleen, spiders, jaundice, palms, edge, irregular_liver, consciousness, encephalopathy, density, bleeding
+lab_test: bilirubin, phosphatase, ama, le_cells, proteins, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, triglycerides, albumin, Hyperbilirubinemia, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+liver_function: bilirubin, albumin, inr, phosphatase, alt, ast, ggtp, Hyperbilirubinemia
+serology: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, ama, le_cells
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+metabolic: triglycerides, cholesterol, diabetes, obesity, Steatosis, fat
+enzyme: alt, ast, ggtp, phosphatase, amylase
+protein_marker: proteins, albumin
+liver_condition: Cirrhosis, fibrosis, Steatosis, hepatomegaly, irregular_liver, PBC, carcinoma
+inflammation: THepatitis, ChHepatitis, RHepatitis, ESR
+coagulation: inr, platelet, bleeding
+pain_related: upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia
+gi_symptom: anorexia, nausea, flatulence, fat
+skin_related: skin, itching, jaundice, spiders, palms
+biliary: gallstones, choledocholithotomy, phosphatage, bilirubin, jaundice
+neurological: encephalopathy, consciousness
+complication: ascites, edema, bleeding, encephalopathy, carcinoma, Cirrhosis
+imaging: density, hepatomegaly, spleen, irregular_liver, edge
+autoimmune: PBC, ama, le_cells
+modifiable: alcohol, alcoholism, obesity, hepatotoxic
+history: vh_amn, hospital, surgery, transfusion, injections
+alcohol_related: alcoholism, alcohol, Steatosis, Cirrhosis
+severity_indicator: Cirrhosis, encephalopathy, ascites, bleeding, jaundice, Hyperbilirubinemia
+organ_enlargement: hepatomegaly, spleen
+bilirubin_related: bilirubin, Hyperbilirubinemia, jaundice
+fluid_accumulation: ascites, edema

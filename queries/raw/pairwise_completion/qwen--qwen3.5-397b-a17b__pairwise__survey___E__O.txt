@@ -1,0 +1,11 @@
+Here is the step-by-step reasoning to determine the more likely cause-and-effect relationship:
+
+1.  **Temporal Precedence:** In the typical life course of an individual, formal education (high school, college, vocational training) is completed prior to entering the full-time workforce. Since causes must precede effects, education generally comes before occupation.
+2.  **Prerequisites and Credentials:** Most specific occupations require specific educational qualifications as a condition of entry. For example, one cannot become a doctor, lawyer, or engineer without first completing the requisite education. Therefore, the level and type of education constrain and determine the range of occupations available to an individual.
+3.  **Human Capital Theory:** In economics and sociology, education is viewed as an investment in human capital. This capital (skills, knowledge, credentials) increases productivity, which leads to access to higher-status occupations and higher income. The flow of causality is from the accumulation of skills (education) to the labor market outcome (occupation).
+4.  **Reverse Causality Consideration:** While it is possible for an occupation to influence *further* education (e.g., professional development or returning to school for a career change), this is secondary. A person's initial occupation is not the cause of their baseline educational attainment. Demographic models typically treat education as an independent variable that predicts occupational status.
+5.  **Domain Consensus:** In demographic and sociological research (such as status attainment models), education is consistently modeled as a primary determinant of occupational prestige and class.
+
+Based on this analysis, education is the driving factor that enables and shapes occupational outcomes.
+
+<Answer>A</Answer>

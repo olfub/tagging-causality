@@ -1,0 +1,21 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the terms**  
+   - *RHepatitis*: a form of liver inflammation (hepatitis).  
+   - *Phosphatase*: typically refers to alkaline phosphatase (ALP), a liver enzyme that is measured in blood tests.
+
+2. **Understand normal physiology**  
+   - In a healthy liver, alkaline phosphatase is present at low concentrations.  
+   - When the liver is injured or inflamed (e.g., hepatitis) or when bile flow is obstructed (cholestasis), the liver releases more ALP into the bloodstream, raising its serum level.
+
+3. **Consider the alternative direction**  
+   - Elevated alkaline phosphatase is a **marker** of liver (or bone) pathology; it is not known to initiate hepatitis. An enzyme does not cause inflammatory damage to hepatocytes.
+
+4. **Determine which causal direction is biologically plausible**  
+   - Hepatitis (inflammation of the liver) can lead to cholestasis and release of ALP → **phosphatase levels rise**.  
+   - The reverse—phosphatase causing hepatitis—has no known mechanistic support.
+
+5. **Conclusion**  
+   - The more likely cause‑and‑effect relationship is that **RHepatitis causes phosphatase** (i.e., hepatitis leads to elevated phosphatase).
+
+<Answer>A</Answer>

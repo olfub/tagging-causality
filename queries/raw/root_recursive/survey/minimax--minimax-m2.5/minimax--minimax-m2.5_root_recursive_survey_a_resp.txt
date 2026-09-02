@@ -1,0 +1,10 @@
+**Step‑by‑step reasoning**
+
+1. The problem states that variables **a** (Age) and **s** (Sex) are **not affected** by any other variable – they are exogenous.
+2. It also states that **the following causal relationships: Currently none**. That means there are **no causal links** specified between any pair of variables in the model.
+3. Since there are **no defined causal arrows** from **a** to any other variable, we cannot conclude that Age causes any of the other variables (Education, Occupation, Residence, Travel).
+4. Therefore, **no variable is caused by a** given the current information.
+
+**Final answer**
+
+<Answer></Answer>

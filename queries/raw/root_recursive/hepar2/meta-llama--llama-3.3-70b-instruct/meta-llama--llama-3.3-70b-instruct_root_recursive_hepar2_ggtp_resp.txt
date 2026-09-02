@@ -1,0 +1,9 @@
+To determine the variables that are caused by ggtp, we need to examine the given causal relationships. However, based on the provided relationships, ggtp is caused by pbc, but there are no direct causal relationships listed where ggtp causes another variable. The relationships provided are as follows:
+
+1. sex causes pbc
+2. pbc causes cirrhosis, hyperbilirubinemia, hepatomegaly, jaundice, itching, fatigue, alt, ast, ggtp
+3. cirrhosis causes ascites, encephalopathy
+
+Given these relationships, ggtp is a result of pbc but does not directly cause any other variable listed in the provided causal relationships. Therefore, the variables that are caused by ggtp are not specified in the given relationships.
+
+<Answer></Answer>

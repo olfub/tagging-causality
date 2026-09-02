@@ -1,0 +1,22 @@
+
+
+# Analyzing the Causal Relationship Between Age and Disease in Pediatric Congenital Heart Disease
+
+## Step 1: Nature of Congenital Heart Disease
+Congenital heart diseases (CHDs) are **present from birth** — they develop during fetal cardiac morphogenesis. This means the disease exists *before* the child's postnatal age has any meaningful value.
+
+## Step 2: Evaluating Option A (Age → Disease)
+- Age cannot **cause** a congenital heart defect, since the defect is already established at birth.
+- Unlike acquired diseases (e.g., coronary artery disease), age is not a risk factor that triggers CHD development.
+
+## Step 3: Evaluating Option B (Disease → Age)
+- The **type and severity** of CHD determines the **age at clinical presentation/diagnosis**:
+  - **Critical CHDs** (e.g., hypoplastic left heart syndrome, transposition of great arteries) → present in the **neonatal period**
+  - **Moderate CHDs** (e.g., Tetralogy of Fallot) → present in **infancy**
+  - **Mild CHDs** (e.g., small ASD, bicuspid aortic valve) → may not be detected until **childhood or later**
+- The disease is the driving force that determines *when* the patient enters the diagnostic pipeline.
+
+## Step 4: Conclusion
+The disease type and severity causally determine the age at which a child presents for diagnosis. Age does not cause congenital heart disease.
+
+<Answer>B</Answer>

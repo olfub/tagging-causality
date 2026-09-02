@@ -1,0 +1,11 @@
+region: Asia
+exposure: Smoking
+disease: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, Bronchitis
+infection: Tuberculosis
+cancer: Lung Cancer
+respiratory: Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer, Dyspnoea
+symptom: Dyspnoea
+diagnostic_test: X-ray
+lung_related: Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer, X-ray
+smoking_related: Smoking, Lung Cancer, Bronchitis
+risk_factor: Smoking, Asia

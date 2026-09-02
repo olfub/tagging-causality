@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the condition:** “RHepatitis” is not a standard medical term. It is most likely a typo or placeholder for **hepatitis** (inflammation of the liver).
+
+2. **Understand typical symptoms of hepatitis:**  
+   - Hepatitis, especially viral or toxic liver inflammation, often presents with systemic symptoms such as **fatigue**, malaise, and weakness.  
+   - These symptoms arise because the liver is central to metabolism, detoxification, and energy storage; when it is inflamed, the body’s energy processes are disrupted.
+
+3. **Consider the reverse direction (fatigue → hepatitis):**  
+   - Fatigue is a non‑specific symptom that can have many causes (e.g., poor sleep, anemia, infection, chronic disease).  
+   - There is no known pathophysiological mechanism by which simply feeling tired can trigger inflammation of the liver. Fatigue does not produce the viral, toxic, or autoimmune insults required to cause hepatitis.
+
+4. **Determine which causal direction is plausible:**  
+   - The evidence supports the direction **hepatitis → fatigue**, not the opposite.
+
+**Conclusion:** The more plausible cause‑and‑effect relationship is that hepatitis (RHepatitis) causes fatigue.
+
+<Answer>A</Answer>

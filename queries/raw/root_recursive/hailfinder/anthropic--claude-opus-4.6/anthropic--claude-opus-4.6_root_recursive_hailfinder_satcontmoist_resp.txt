@@ -1,0 +1,40 @@
+
+
+# Variables Caused by SatContMoist
+
+Looking at this problem, I need to trace all downstream effects from **satcontmoist** through the causal network. This is the Hailfinder Bayesian network, and I can reconstruct the causal pathways using the variable semantics and the given root nodes.
+
+## Step-by-step tracing:
+
+**Direct child:**
+- **combmoisture** ← combines satcontmoist + raocontmoist
+
+**Through moisture/cloud path:**
+- **areamodryair** ← from combmoisture
+- **cldshadeoth** ← from areamodryair (+ combclouds)
+- **cldshadeconv** ← from cldshadeoth (+ boundaries)
+
+**Through plains forecast path:**
+- **compplfcst** ← from cldshadeoth (+ other parents)
+- **capchange**, **lolevmoistad**, **inschange** ← from compplfcst
+- **scnrelplfcst** ← from compplfcst (+ scenrel3_4)
+
+**Through mountain path:**
+- **mountainfcst** ← from cldshadeconv (+ insinmt)
+
+**Through scenario integration:**
+- **capinscen** ← from capchange (+ amcininscen, latestcin)
+- **inssclinscen** ← from inschange (+ aminswliscen, lliw)
+
+**Final forecasts:**
+- **plainsfcst** ← from scnrelplfcst, capinscen, inssclinscen, curpropconv
+- **n34starfcst** ← from plainsfcst
+- **r5fcst** ← from plainsfcst
+
+**Downstream observables/outputs:**
+- **dewpoints, lowllapse, meanrh, midllapse, mvmtfeatures, rhratio, sfcwndshfdis, synforcng, tempdis, windaloft, windfieldpln** ← from plainsfcst/forecast outputs
+- **windfieldmt** ← from mountainfcst
+
+**Not descendants** (parents are only other root nodes): combvermo, combclouds, boundaries, insinmt, scenrelamcin, amcininscen, scenrelamins, aminswliscen, scenrel3_4.
+
+<Answer>combmoisture, areamodryair, cldshadeoth, cldshadeconv, compplfcst, mountainfcst, capchange, lolevmoistad, inschange, scnrelplfcst, capinscen, inssclinscen, plainsfcst, n34starfcst, r5fcst, dewpoints, lowllapse, meanrh, midllapse, mvmtfeatures, rhratio, sfcwndshfdis, synforcng, tempdis, windaloft, windfieldmt, windfieldpln</Answer>

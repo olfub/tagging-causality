@@ -1,0 +1,17 @@
+To determine the variables caused by dsapplctn, we need to analyze the given causal relationships step by step:
+
+1. **Given Causes:**
+   - appok causes appdata, datafile, prtdata, prtdataout, prtsel, dsapplctn
+   - netok causes netprint, prtcbl, prtport, ntwrkcnfg
+   - lclok causes ds_lclok
+
+2. **Analyzing dsapplctn:**
+   - dsapplctn is caused by appok.
+   - However, the question asks for variables caused by dsapplctn, not what causes dsapplctn.
+
+3. **Determining Effects of dsapplctn:**
+   - Upon reviewing the provided causal relationships, there is no direct mention of dsapplctn causing any other variable.
+
+**Conclusion:** Since there's no information given about dsapplctn directly causing any other variables, we cannot list any variables as being caused by dsapplctn based on the provided relationships.
+
+<Answer></Answer>

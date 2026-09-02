@@ -1,0 +1,16 @@
+
+
+## Step-by-Step Reasoning
+
+**Option A: Age causes RiskAversion**
+- Age is a fundamental demographic/biological variable determined by the passage of time — it is not influenced by psychological traits.
+- There is strong empirical evidence that as people age, their risk preferences change. Older individuals tend to become more risk-averse (e.g., preferring safer driving, lower-risk investments, and more comprehensive insurance coverage).
+- In insurance risk modeling, age is a standard **exogenous predictor** used to explain behavioral traits like risk aversion.
+
+**Option B: RiskAversion causes Age**
+- This would imply that a person's attitude toward risk somehow determines how old they are, which is logically incoherent — age is a biological fact, not a consequence of a psychological trait.
+- One might loosely argue that risk-averse people live longer, but that relates to *longevity/survival*, not to "causing" age itself. Even so, this is a very indirect and secondary relationship.
+
+**Conclusion:** Age is a clear upstream, exogenous variable that influences psychological and behavioral traits like risk aversion — not the reverse. In any causal graph for insurance modeling, the arrow points from Age → RiskAversion.
+
+<Answer>A</Answer>

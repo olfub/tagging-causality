@@ -1,0 +1,3 @@
+LatentCause:Burglary,Earthquake
+IntermediateEffect:Alarm
+ObservableEffect:JohnCalls,MaryCalls

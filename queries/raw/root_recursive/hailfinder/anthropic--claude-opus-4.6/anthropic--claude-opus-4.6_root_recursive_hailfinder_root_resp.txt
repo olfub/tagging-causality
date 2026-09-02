@@ -1,0 +1,25 @@
+
+
+# Identifying Root Variables (No Parents) in the Hail Forecast Causal Graph
+
+## Reasoning Process
+
+I need to identify variables that are **not caused by any other variable** in the system — these are exogenous inputs, raw observations, or externally determined conditions.
+
+**Step 1: Identify clearly derived/combined variables** (these have parents):
+- **CombVerMo** ← combination of vertical motion inputs (N0_7muVerMo, SubjVertMo, QGVertMotion)
+- **CombMoisture** ← combination of SatContMoist, RaoContMoist
+- **CombClouds** ← combination of VISCloudCov, IRCloudCover
+- **Boundaries** ← depends on MorningBound, OutflowFrMt, etc.
+- **AreaMoDryAir** ← depends on CombMoisture
+- **CldShadeConv/CldShadeOth** ← depend on CombClouds
+- Forecast variables (**PlainsFcst, MountainFcst, R5Fcst, N34StarFcst, CompPlFcst**) ← derived from intermediate variables
+- Scenario-relative variables (**ScenRelAMCIN, ScenRelAMIns, AMCINInScen, CapInScen, AMInsWliScen, InsSclInScen, ScenRel3_4, ScnRelPlFcst**) ← depend on Scenario and other variables
+- **InsChange, CapChange, InsinMt, LoLevMoistAd, WindFieldMt, WindFieldPln** ← derived
+
+**Step 2: Identify field observation variables** that are children of forecast nodes (diagnostic indicators):
+- **Dewpoints, LowLLapse, MeanRH, MidLLapse, MvmtFeatures, RHRatio, SfcWndShfDis, SynForcng, TempDis, WindAloft** — In the Hailfinder network, these are children of PlainsFcst/R5Fcst (generative model structure).
+
+**Step 3: Remaining variables are root nodes** — raw observations, model outputs, and exogenous conditions with no parents:
+
+<Answer>n0_7muvermo, subjvertmo, qgvertmotion, areameso_als, satcontmoist, raocontmoist, viscloudcov, ircloudcover, aminstabmt, wndhodograph, outflowfrmt, morningbound, date, scenario, morningcin, lifr12zdensd, amdewptcalpl, latestcin, lliw, curpropconv</Answer>

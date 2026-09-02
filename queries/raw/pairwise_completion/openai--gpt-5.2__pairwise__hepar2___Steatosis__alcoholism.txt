@@ -1,0 +1,17 @@
+Step 1: Define the entities  
+- **Steatosis**: accumulation of fat in hepatocytes (fatty liver). It’s a *pathologic liver state* caused by metabolic/toxic/inflammatory drivers.  
+- **Alcoholism (alcohol use disorder)**: chronic heavy alcohol consumption with dependence/compulsion.
+
+Step 2: Check biologic plausibility and known pathophysiology  
+- Chronic alcohol intake increases hepatic NADH, promotes triglyceride synthesis, impairs fatty acid oxidation, and alters lipid export → **hepatic fat accumulation (steatosis)**. This is a classic, well-established mechanism in **alcohol-associated liver disease**.
+
+Step 3: Evaluate the reverse direction  
+- For **steatosis causing alcoholism**: there is no established biologic mechanism or clinical evidence that fatty liver *initiates* alcohol dependence. While diagnosis of steatosis might affect behavior (some people reduce drinking; others might not), it is not considered a causal driver of developing alcoholism.
+
+Step 4: Compare strength of evidence  
+- Epidemiologic and clinical evidence strongly supports **alcohol use causing hepatic steatosis**.  
+- Evidence supporting **steatosis causing alcoholism** is essentially absent.
+
+Therefore, the more likely cause-and-effect relationship is:
+
+<Answer>B</Answer>

@@ -1,0 +1,8 @@
+environmental_exposure:Pollution
+behavioral_risk:Smoker
+root_cause:Pollution,Smoker
+disease:Cancer
+intermediate_effect:Cancer
+diagnostic_test:Xray
+symptom:Dyspnoea
+observable_outcome:Xray,Dyspnoea

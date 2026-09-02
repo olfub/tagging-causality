@@ -1,0 +1,5 @@
+
+
+Event: Burglary, Earthquake
+Sensor: Alarm
+HumanResponse: JohnCalls, MaryCalls

@@ -1,0 +1,3 @@
+The variables that appear after hypoxiaino2 in the list of birthasphyxia’s effects are the downstream consequences of hypoxia when breathing oxygen. These include lungparench, co2, chestxray, lungflow, grunting, sick, lvh, lvhreport, lowerbodyo2, ruqo2, co2report, xrayreport, and gruntingreport.
+
+<Answer>lungparench,co2,chestxray,lungflow,grunting,sick,lvh,lvhreport,lowerbodyo2,ruqo2,co2report,xrayreport,gruntingreport</Answer>

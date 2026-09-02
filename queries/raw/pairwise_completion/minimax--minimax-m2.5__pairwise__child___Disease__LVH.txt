@@ -1,0 +1,3 @@
+In the context of pediatric congenital heart disease, left ventricular hypertrophy (LVH) is typically a secondary response to an underlying structural heart defect. Congenital heart diseases, such as aortic stenosis or coarctation of the aorta, impose increased pressure or volume load on the left ventricle, leading to LVH. Conversely, LVH is not a cause of congenital heart disease but rather an effect of the disease. Therefore, the more likely cause-and-effect relationship is that the disease causes LVH.
+
+<Answer>A</Answer>

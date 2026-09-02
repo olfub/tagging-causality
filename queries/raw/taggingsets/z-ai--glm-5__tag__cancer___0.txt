@@ -1,0 +1,6 @@
+Risk Factor: Pollution, Smoker
+Environmental: Pollution
+Behavioral: Smoker
+Disease: Cancer
+Symptom: Dyspnoea
+Diagnostic Test: Xray

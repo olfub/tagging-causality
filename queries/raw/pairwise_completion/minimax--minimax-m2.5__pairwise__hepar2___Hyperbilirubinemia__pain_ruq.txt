@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **What is hyperbilirubinemia?**  
+   It is an abnormal elevation of bilirubin in the blood, usually indicating liver disease, biliary obstruction, or hemolysis.
+
+2. **What does RUQ (right upper quadrant) pain represent?**  
+   Pain in the RUQ is commonly a symptom of hepatobiliary pathology (e.g., cholecystitis, gallstones, hepatitis, hepatic congestion).
+
+3. **Typical clinical picture**  
+   - In conditions such as gallstone obstruction or cholecystitis, the **biliary obstruction** produces RUQ pain.  
+   - The same obstruction also **impairs bilirubin excretion**, leading to **hyperbilirubinemia**.  
+
+4. **Direction of causality**  
+   - Hyperbilirubinemia itself (e.g., high bilirubin levels) does **not** directly generate RUQ pain; it mainly causes jaundice and pruritus.  
+   - Conversely, the disease process that triggers RUQ pain (e.g., a blocked cystic duct or common bile duct) **can** produce hyperbilirubinemia as a downstream effect.
+
+5. **Conclusion**  
+   Between the two proposed direct relationships, the more plausible causal direction is that the underlying condition producing RUQ pain can lead to hyperbilirubinemia. Therefore, **pain_ruq → hyperbilirubinemia** is the more likely relationship.
+
+<Answer>B</Answer>

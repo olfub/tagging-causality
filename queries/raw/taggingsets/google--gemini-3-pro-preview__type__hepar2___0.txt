@@ -1,0 +1,7 @@
+Demographic: sex, age
+Risk Factor: alcoholism, obesity, alcohol, diabetes
+Disease: THepatitis, ChHepatitis, PBC, Steatosis, Cirrhosis, RHepatitis, carcinoma, regular_liver
+Medical History: vh_amn, hepatotoxic, hospital, surgery, gallstones, choledocholithotomy, injections, transfusion
+Symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, joints, pain, flatulence, anorexia, nausea, consciousness, hepatalgia, bleeding
+Physical Sign: skin, edema, spiders, jaundice, palms, edge, irregular_liver, hepatomegaly, spleen, ascites, encephalopathy
+Laboratory Test: bilirubin, phosphatase, ama, le_cells, proteins, platelet, inr, urea, density, ESR, alt, ast, amylase, ggtp, cholesterol, hbsag, hbsag_anti, albumin, hbc_anti, hcv_anti, hbeag, triglycerides, Hyperbilirubinemia, fibrosis, fat

@@ -1,0 +1,1 @@
+["lvfailure", "history", "hypovolemia", "anaphylaxis", "pulmembolus", "intubation", "kinkedtube", "disconnect", "minvolset", "ventmach", "fio2", "insuffanesth", "errlowoutput", "errcauter"]

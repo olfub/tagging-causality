@@ -1,0 +1,9 @@
+Exogenous: Pollution, Smoker
+Leaf: Xray, Dyspnoea
+Clinical: Cancer, Xray, Dyspnoea
+Environmental: Pollution
+Behavioral: Smoker
+Diagnostic: Xray
+Symptom: Dyspnoea
+Pathology: Cancer
+Respiratory: Pollution, Cancer, Dyspnoea

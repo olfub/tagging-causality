@@ -1,0 +1,10 @@
+risk_factor: Asia, Smoking
+respiratory_disease: Tuberculosis, Lung Cancer, Bronchitis
+infectious_pathway: Asia, Tuberculosis, Either Tuberculosis or Lung Cancer, X-ray
+smoking_pathway: Smoking, Lung Cancer, Bronchitis
+composite_condition: Either Tuberculosis or Lung Cancer
+diagnostic_test: X-ray
+clinical_evidence: X-ray, Dyspnoea
+symptom: Dyspnoea
+thoracic_imaging_relevant: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, X-ray
+airway_irritation_pathway: Smoking, Bronchitis, Dyspnoea

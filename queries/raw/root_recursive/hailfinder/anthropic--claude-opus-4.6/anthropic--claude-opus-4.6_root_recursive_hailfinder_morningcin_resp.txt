@@ -1,0 +1,29 @@
+
+
+# Finding Variables Caused by MorningCIN
+
+## Step-by-Step Reasoning
+
+**Step 1: Identify MorningCIN's direct effect.**
+
+Looking at the Hailfinder network structure, MorningCIN is a root variable. Its direct child is **AMCINInScen** (AM CIN In Scenario), since AMCINInScen combines MorningCIN information with the scenario-relative AMCIN (ScenRelAMCIN).
+
+**Step 2: Trace downstream from AMCINInScen.**
+
+AMCINInScen feeds into **CapInScen** (Cap In Scenario). This is confirmed by checking that CapInScen appears as a descendant of Scenario (which also flows through AMCINInScen via ScenRelAMCIN).
+
+**Step 3: Trace downstream from CapInScen.**
+
+CapInScen is a parent of **PlainsFcst** (along with InsSclInScen and ScnRelPlFcst). This is consistent with the fact that all parents of PlainsFcst (scenario, morningbound, satcontmoist, raocontmoist) list plainsfcst as an effect.
+
+**Step 4: Trace downstream from PlainsFcst.**
+
+PlainsFcst feeds into **N34StarFcst** and **R5Fcst**. Again consistent with all upstream root variables listing these as effects.
+
+**Step 5: Verify no other paths exist.**
+
+LatestCIN is listed as a root variable, so CapInScen does not propagate through that path. The complete chain is:
+
+> morningcin → amcininscen → capinscen → plainsfcst → {n34starfcst, r5fcst}
+
+<Answer>amcininscen, capinscen, plainsfcst, n34starfcst, r5fcst</Answer>

@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **Define the terms**  
+   - *RHepatitis*: In the context of medical knowledge, “hepatitis” (inflammation of the liver) is a well‑known disease that can be caused by viruses, toxins, or autoimmune processes. The prefix “R” does not change the fundamental nature of hepatitis; it still refers to liver inflammation.  
+   - *Anorexia*: Here “anorexia” means loss of appetite or reduced food intake, which is a symptom rather than a disease.
+
+2. **Known clinical presentations**  
+   - One of the classic symptoms of hepatitis (especially acute viral hepatitis) is **anorexia** (loss of appetite). Patients often report feeling nauseous, having a reduced desire to eat, and may even develop aversion to certain foods.  
+   - Conversely, simply having a reduced appetite (anorexia) does not lead to liver inflammation. There is no established mechanism by which a decrease in food intake would cause hepatitis.
+
+3. **Direction of causality**  
+   - **Hepatitis → anorexia**: The inflammatory process in the liver releases cytokines and metabolic disturbances that directly affect the central nervous system’s appetite regulation, leading to loss of appetite. This is a well‑documented clinical observation.  
+   - **Anorexia → hepatitis**: Anorexia (symptom) may result in malnutrition, but malnutrition alone does not cause hepatitis. Hepatitis requires a specific insult to the liver (viral, toxic, etc.). There is no evidence that reduced food intake initiates liver inflammation.
+
+4. **Conclusion**  
+   - The plausible, evidence‑based causal direction is that **hepatitis (RHepatitis) can cause anorexia**. The reverse direction (anorexia causing hepatitis) is not supported by medical literature.
+
+**Final answer**
+
+<Answer>A</Answer>

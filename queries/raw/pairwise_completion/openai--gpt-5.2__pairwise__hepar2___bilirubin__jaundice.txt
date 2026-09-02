@@ -1,0 +1,16 @@
+1. **Define the variables clearly**
+   - **Bilirubin**: a yellow pigment produced from heme breakdown (primarily from red blood cells). It circulates in blood and is processed/excreted by the liver into bile.
+   - **Jaundice**: the **clinical sign** of yellow discoloration of skin and sclera due to **bilirubin deposition in tissues**.
+
+2. **Mechanistic relationship**
+   - When **serum bilirubin rises** (from hemolysis, impaired conjugation, impaired excretion, biliary obstruction, etc.), bilirubin accumulates and diffuses into tissues.
+   - This tissue accumulation produces the visible yellowing we call **jaundice**.
+
+3. **Direction of causality**
+   - Elevated **bilirubin → jaundice** is the direct physiological pathway.
+   - **Jaundice → bilirubin** is not physiologically correct: jaundice is a manifestation/sign; it does not generate bilirubin. (While the underlying diseases that cause jaundice also cause hyperbilirubinemia, the sign itself is downstream.)
+
+4. **Clinical framing**
+   - Jaundice is essentially an indicator of hyperbilirubinemia (often apparent when total bilirubin is roughly >2–3 mg/dL, though thresholds vary).
+
+<Answer>A</Answer>

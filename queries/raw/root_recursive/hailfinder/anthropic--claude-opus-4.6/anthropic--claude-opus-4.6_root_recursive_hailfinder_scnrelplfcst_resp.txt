@@ -1,0 +1,26 @@
+# Variables Caused by ScnRelPlFcst
+
+Looking at this problem, I need to identify which variables are descendants (direct or indirect effects) of **scnrelplfcst** in the causal graph.
+
+## Step-by-Step Reasoning
+
+**Step 1: Identify ancestors of scnrelplfcst.**
+From the listed relationships, scnrelplfcst appears as an effect of: satcontmoist, raocontmoist, morningbound, scenario, combmoisture, and compplfcst.
+
+**Step 2: Determine candidate descendants.**
+Any variable caused by scnrelplfcst must also be caused by every ancestor of scnrelplfcst. I check which variables are effects of **all** of scnrelplfcst's ancestors:
+- satcontmoist, raocontmoist, morningbound, scenario, combmoisture, compplfcst all cause → **plainsfcst, n34starfcst, r5fcst** ✓
+
+**Step 3: Check the causal chain.**
+- **scnrelplfcst → plainsfcst**: Every ancestor of scnrelplfcst also causes plainsfcst, consistent with this link.
+- **plainsfcst → n34starfcst**: Additionally, morningcin and capchange cause plainsfcst, n34starfcst, and r5fcst (but NOT scnrelplfcst), confirming plainsfcst is an intermediate node with other parents.
+- **n34starfcst → r5fcst**: Follows the same downstream chain.
+
+**Step 4: Rule out other candidates (e.g., capinscen, inssclinscen).**
+Variables like capinscen and inssclinscen have other direct causes (morningcin, capchange, amdewptcalpl) that are NOT ancestors of scnrelplfcst, indicating these are reached through separate causal paths, not through scnrelplfcst.
+
+## Conclusion
+
+The causal chain from scnrelplfcst flows: **scnrelplfcst → plainsfcst → n34starfcst → r5fcst**
+
+<Answer>plainsfcst, n34starfcst, r5fcst</Answer>

@@ -1,0 +1,29 @@
+## Step-by-Step Analysis
+
+### Step 1: Understanding the Variables
+
+**CapChange**: This refers to changes in the atmospheric "cap" or capping inversion. A capping inversion is a layer of warm air aloft that suppresses convection. Changes in this cap are physical atmospheric processes that affect thunderstorm development potential.
+
+**CompPlFcst**: This refers to Composite Parameter Forecast values. These are calculated meteorological indices that combine multiple atmospheric variables to help forecast severe weather (including hail).
+
+### Step 2: Understanding the Causal Direction
+
+In meteorological forecasting:
+- **Physical atmospheric conditions** (like cap changes) occur naturally in the atmosphere
+- **Forecast parameters and composite indices** are derived/calculated FROM these atmospheric conditions
+
+### Step 3: Determining Cause and Effect
+
+- Atmospheric conditions (CapChange) are the **input** - they represent actual physical changes in the atmosphere
+- Forecast parameters (CompPlFcst) are the **output** - they are calculated based on the atmospheric conditions
+
+The cap doesn't change because we calculate a forecast parameter. Rather, forecast parameters change because the atmospheric cap conditions change.
+
+### Step 4: Conclusion
+
+The logical causal flow is:
+**Physical Atmospheric Changes → Forecast Parameter Calculations**
+
+Therefore: **CapChange causes CompPlFcst**
+
+<Answer>A</Answer>

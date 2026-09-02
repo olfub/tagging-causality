@@ -1,0 +1,22 @@
+PatientHistory: HISTORY
+VitalSign: HR, BP
+HeartRateSource: HRBP, HREKG, HRSAT
+HemodynamicPressure: CVP, PCWP, PAP
+CardiacOutput: CO
+CardiacStrokeVolume: STROKEVOLUME
+CardiacVolume: LVEDVOLUME
+VascularResistance: TPR
+CardiacCondition: LVFAILURE
+OxygenSaturation: SAO2, PVSAT
+InspiredOxygen: FIO2
+RespiratoryCO2: EXPCO2, ARTCO2
+VentilatorSetting: MINVOLSET, VENTMACH
+VentilatorParameter: MINVOL, VENTLUNG, VENTALV
+AirwayPressure: PRESS
+AirwayStatus: INTUBATION
+VentilatorIssue: KINKEDTUBE, DISCONNECT
+VentilatorComponent: VENTTUBE
+Medication: CATECHOL, INSUFFANESTH
+MedicalCondition: HYPOVOLEMIA, ANAPHYLAXIS, PULMEMBOLUS
+ErrorFlag: ERRLOWOUTPUT, ERRCAUTER
+RespiratoryShunt: SHUNT

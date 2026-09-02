@@ -1,0 +1,8 @@
+Demographic/Region Exposure: Asia
+Infectious Disease Condition: Tuberculosis
+Behavioral Risk Factor: Smoking
+Malignant Disease Condition: Lung Cancer
+Composite Diagnosis/Logical OR: Either Tuberculosis or Lung Cancer
+Diagnostic Imaging Result: X-ray
+Chronic Respiratory Condition: Bronchitis
+Respiratory Symptom: Dyspnoea

@@ -1,0 +1,22 @@
+
+
+# Variables Caused by `either`
+
+## Step-by-Step Analysis
+
+Looking at the causal relationships provided:
+- `tub` causes `either`, `xray`, `dysp`
+- `lung` causes `either`, `xray`, `dysp`
+
+In the standard causal structure (the "Asia" Bayesian network), `either` is a mediating variable between `tub`/`lung` and their downstream effects. The listed effects of `tub` and `lung` on `xray` and `dysp` flow **through** the `either` node:
+
+1. `tub` → `either` → `xray`
+2. `lung` → `either` → `xray`
+3. `tub` → `either` → `dysp`
+4. `lung` → `either` → `dysp`
+
+So `either` is the direct cause of:
+- **`xray`**: A positive chest X-ray is caused by having either tuberculosis or lung cancer.
+- **`dysp`**: Shortness of breath is caused by having either tuberculosis or lung cancer (as well as by `bronc`).
+
+<Answer>xray, dysp</Answer>

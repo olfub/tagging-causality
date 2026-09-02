@@ -1,0 +1,14 @@
+biological:A,S
+innate:A,S
+demographic:A,S,E,O,R
+socioeconomic:E,O
+choice:E,O,R,T
+geographic:R,T
+temporal:A
+fixed_at_birth:S
+human_capital:E,O
+lifestyle:O,R,T
+location:R,T
+activity:O,T
+progressive:A,E
+personal_characteristic:A,S,E

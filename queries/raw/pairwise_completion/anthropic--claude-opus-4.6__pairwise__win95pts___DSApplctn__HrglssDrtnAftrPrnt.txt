@@ -1,0 +1,23 @@
+
+
+# Analyzing the Causal Relationship
+
+## Step 1: Understand the Variables
+- **DSApplctn** = DOS Application (whether the software being used is a DOS-based application)
+- **HrglssDrtnAftrPrnt** = Hourglass Duration After Print (how long the hourglass/wait cursor persists after sending a print job)
+
+## Step 2: Consider the Causal Direction
+
+**A → B (DSApplctn causes HrglssDrtnAftrPrnt):**
+- DOS applications running in Windows 95 use a different printing subsystem (printing through the DOS subsystem/virtual machine).
+- This involves extra translation layers, spooling differences, and resource handling that can extend the hourglass wait time after printing.
+- The type of application is a **pre-existing property** that logically precedes and influences printing behavior.
+
+**B → A (HrglssDrtnAftrPrnt causes DSApplctn):**
+- This would mean the duration of the hourglass *causes* the application to be a DOS application, which is logically nonsensical.
+- The application type is determined before any printing even occurs.
+
+## Step 3: Conclusion
+The type of application (DOS vs. Windows-native) is a root characteristic that influences downstream printing behavior, including hourglass duration. The reverse does not make logical sense.
+
+<Answer>A</Answer>

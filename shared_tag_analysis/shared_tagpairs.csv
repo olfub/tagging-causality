@@ -1,0 +1,7 @@
+datasetA,datasetB,tagA,tagB,agree
+Alarm,Child,oxygenation,blood_gas,True
+Alarm,Child,oxygenation,measurement,True
+Alarm,Child,pulmonary,blood_gas,True
+Cancer,Lucas,respiratory,disease,False
+Child,Alarm,pulmonary,measurement,True
+Insurance,Lucas,risk_factor,accident_related,True

@@ -1,0 +1,26 @@
+## Step-by-Step Analysis
+
+**Step 1: Understanding the conditions**
+- **Cirrhosis** is a chronic liver disease where healthy liver tissue is replaced with scar tissue, impairing liver function
+- **Alcohol** (specifically chronic, excessive consumption) is a substance that can affect the liver
+
+**Step 2: Examining the biological mechanism**
+- When alcohol is consumed, it is metabolized by the liver
+- Chronic excessive alcohol consumption causes:
+  - Liver cell damage and inflammation (alcoholic hepatitis)
+  - Progressive scarring (fibrosis)
+  - Eventually irreversible scarring (cirrhosis)
+
+**Step 3: Evaluating causation direction**
+- **Alcohol → Cirrhosis**: Well-documented in medical literature. Chronic alcohol abuse is one of the leading causes of cirrhosis worldwide
+- **Cirrhosis → Alcohol**: There is no physiological mechanism by which having cirrhosis would cause someone to consume alcohol. In fact, patients with cirrhosis are medically advised to abstain from alcohol completely
+
+**Step 4: Medical consensus**
+- This causal relationship is extensively documented in medical research
+- Alcohol-related liver disease progresses from fatty liver → alcoholic hepatitis → cirrhosis
+- The temporal relationship shows alcohol consumption precedes the development of cirrhosis
+
+**Conclusion:**
+The established medical evidence clearly shows that chronic alcohol consumption is a cause of cirrhosis, not the reverse.
+
+<Answer>B</Answer>

@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the two variables**  
+   - *Alarm*: a warning device that can be triggered by ground shaking (e.g., a seismic alert).  
+   - *Earthquake*: a natural geophysical event that produces sudden ground motion.
+
+2. **Determine the typical causal direction**  
+   - Alarms are designed to **detect** earthquakes. When the ground shakes, the sensors in the alarm register the motion and then sound a warning.  
+   - There is no known physical mechanism by which sounding an alarm could *cause* the ground to shake. The alarm is a response, not a trigger, for seismic events.
+
+3. **Evaluate plausibility**  
+   - *Option A*: “Alarm causes Earthquake.” → Physically implausible; alarms do not generate the massive energy required to produce an earthquake.  
+   - *Option B*: “Earthquake causes Alarm.” → Highly plausible; the earthquake provides the stimulus that activates the alarm.
+
+4. **Conclusion**  
+   The more likely cause‑and‑effect relationship is that an earthquake triggers an alarm.
+
+<Answer>B</Answer>

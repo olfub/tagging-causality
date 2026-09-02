@@ -1,0 +1,20 @@
+demographic: Age, SocioEcon
+driver_attribute: GoodStudent, Age, SocioEcon, RiskAversion, DrivingSkill, SeniorTrain, DrivQuality, DrivHist
+driver_program: GoodStudent, SeniorTrain
+driving_behavior: RiskAversion, DrivQuality, Mileage, DrivingSkill
+driving_record: DrivHist, Accident, ThisCarDam
+vehicle_attribute: VehicleYear, MakeModel, RuggedAuto, CarValue, Cushioning
+vehicle_identity: VehicleYear, MakeModel
+vehicle_safety: Antilock, Airbag, Cushioning, RuggedAuto
+vehicle_security: AntiTheft, HomeBase
+vehicle_value: CarValue, VehicleYear, MakeModel
+usage_exposure: Mileage, HomeBase, DrivQuality
+accident_event: Accident, ThisCarDam, OtherCar
+theft_event: Theft, AntiTheft, HomeBase, CarValue
+own_vehicle_damage: ThisCarDam, ThisCarCost
+other_vehicle_damage: OtherCar, OtherCarCost
+property_damage: ThisCarDam, PropCost, OtherCar, OtherCarCost
+injury_outcome: MedCost, ILiCost, Airbag, Cushioning
+claim_cost: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+post_event_outcome: ThisCarDam, ThisCarCost, PropCost, OtherCar, OtherCarCost, MedCost, ILiCost
+financial_factor: SocioEcon, CarValue, ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost

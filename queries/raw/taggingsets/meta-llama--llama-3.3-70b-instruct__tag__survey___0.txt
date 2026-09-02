@@ -1,0 +1,9 @@
+Demographic: Age, Sex, Education, Occupation, Residence
+Socioeconomic: Education, Occupation, Residence
+Personal: Age, Sex, Education, Occupation
+Geographic: Residence, Travel
+Identifying: Age, Sex
+Static: Age, Sex, Education
+Dynamic: Occupation, Residence, Travel
+Categorical: Sex, Occupation, Education, Residence 
+Quantitative: Age

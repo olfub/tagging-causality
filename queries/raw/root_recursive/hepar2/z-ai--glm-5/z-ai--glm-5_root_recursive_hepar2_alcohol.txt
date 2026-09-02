@@ -1,0 +1,1 @@
+["steatosis", "fibrosis", "cirrhosis", "ggtp", "ast", "triglycerides", "cholesterol", "hepatotoxic", "thepatitis", "chhepatitis"]

@@ -1,0 +1,16 @@
+1. **Interpret the variables:**  
+   - **Alarm** = an alarm system goes off.  
+   - **Burglary** = someone breaks in.
+
+2. **Check plausibility of A (Alarm → Burglary):**  
+   - If an alarm goes off, it generally **deters** burglars or indicates a response is coming.  
+   - An alarm sounding is unlikely to *cause* a burglary; if anything, it would reduce the chance of one continuing.
+
+3. **Check plausibility of B (Burglary → Alarm):**  
+   - A burglary commonly **triggers** sensors (door/window motion, glass break, motion detectors), causing the alarm to sound.  
+   - This is a standard, widely observed mechanism.
+
+4. **Choose the more likely causal direction:**  
+   - **Burglary causing Alarm** matches typical real-world causal structure.
+
+<Answer>B</Answer>

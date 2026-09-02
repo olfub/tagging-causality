@@ -1,0 +1,5 @@
+bronc -- dysp
+asia -- tub
+tub -- xray
+lung -- smoke
+bronc -- smoke

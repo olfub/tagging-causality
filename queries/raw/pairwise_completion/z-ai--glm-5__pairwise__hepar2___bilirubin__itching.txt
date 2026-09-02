@@ -1,0 +1,19 @@
+Here is the step-by-step reasoning to determine the correct causal relationship:
+
+**Step 1: Define the medical terms.**
+*   **Bilirubin:** A yellowish substance produced during the normal breakdown of red blood cells. It is processed by the liver and excreted in bile.
+*   **Itching (Pruritus):** An uncomfortable sensation on the skin that causes the urge to scratch.
+
+**Step 2: Analyze the physiological mechanism of Option A (Bilirubin causes itching).**
+When there is an excess of bilirubin in the blood (hyperbilirubinemia), often due to liver disease, bile duct obstruction, or hepatitis, bile salts and bilirubin accumulate in the skin. The deposition of these substances is a well-documented cause of pruritus. In medical practice, itching is a classic symptom of jaundice (which is caused by high bilirubin levels).
+
+**Step 3: Analyze the physiological mechanism of Option B (Itching causes bilirubin).**
+There is no known biological pathway where the sensation of itching or the act of scratching leads to the production or retention of bilirubin. Bilirubin levels are determined by the rate of red blood cell breakdown and the liver's ability to excrete it, not by cutaneous sensations.
+
+**Step 4: Compare the likelihood.**
+Medical literature and clinical pathology establish a clear link where high levels of bilirubin (and associated bile salts) result in the symptom of itching. The reverse relationship is physiologically impossible.
+
+**Conclusion:**
+High levels of bilirubin lead to the accumulation of substances in the skin that cause itching. Therefore, bilirubin causes itching.
+
+<Answer>A</Answer>

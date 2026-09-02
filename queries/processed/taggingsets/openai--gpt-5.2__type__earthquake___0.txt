@@ -1,0 +1,4 @@
+CrimeEvent:Burglary
+NaturalHazardEvent:Earthquake
+DetectionSystemState:Alarm
+HumanNotificationAction:JohnCalls,MaryCalls

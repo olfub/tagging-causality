@@ -1,0 +1,15 @@
+Characteristic: Age, SocioEcon, RiskAversion, DrivingSkill, SeniorTrain, DrivHist, GoodStudent
+Demographic: Age, SocioEcon, GoodStudent
+Psychological: RiskAversion
+VehicleAttribute: VehicleYear, RuggedAuto, MakeModel, Mileage, Antilock, ThisCarCost, Airbag, AntiTheft, CarValue
+SafetyFeature: Antilock, Airbag, AntiTheft, Cushioning
+FinancialMetric: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost, CarValue
+Incident: Accident, Theft, ThisCarDam, OtherCar
+IncidentOutcome: ThisCarDam, OtherCar, MedCost, ILiCost, PropCost, OtherCarCost
+Location: HomeBase
+Behavior: DrivingSkill, DrivQuality, SeniorTrain
+HistoricalRecord: DrivHist, Mileage, VehicleYear, Age
+RiskFactor: Age, RiskAversion, DrivQuality, Alcohol, DrivingSkill, MakeModel
+CostDeterminant: ThisCarDam, OtherCar, MedCost, ILiCost, CarValue
+InsuranceFeature: GoodStudent, DrivHist, SeniorTrain, AntiTheft
+PhysicalImpact: ThisCarDam, OtherCar, Cushioning

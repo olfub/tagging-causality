@@ -1,0 +1,3 @@
+Risk Factor:asia,smoke
+Disease:tub,lung,bronc,either
+Observation:xray,dysp

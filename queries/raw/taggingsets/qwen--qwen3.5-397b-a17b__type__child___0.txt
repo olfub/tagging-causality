@@ -1,0 +1,4 @@
+Context: Age, BirthAsphyxia
+PhysiologicalState: CardiacMixing, Disease, DuctFlow, HypDistrib, HypoxiaInO2, LungFlow, LungParench, LVH, Sick
+Observation: ChestXray, CO2, Grunting, LowerBodyO2, RUQO2
+Report: CO2Report, GruntingReport, LVHreport, XrayReport

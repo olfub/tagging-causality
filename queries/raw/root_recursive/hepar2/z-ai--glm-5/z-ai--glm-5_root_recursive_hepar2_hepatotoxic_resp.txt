@@ -1,0 +1,16 @@
+I need to identify variables that are caused by hepatotoxic based on the given causal relationships.
+
+Let me analyze the causal relationships provided:
+
+1. sex causes pbc, alcoholism, obesity
+2. alcohol causes steatosis, fibrosis, cirrhosis, ggtp, ast, triglycerides, cholesterol, hepatotoxic, thepatitis, chhepatitis
+3. fibrosis causes cirrhosis
+
+Looking at these relationships:
+- In the second relationship, hepatotoxic appears as an effect (caused by alcohol), not as a cause
+- I don't see any statement where hepatotoxic is the cause of other variables
+- The given relationships only show what sex, alcohol, and fibrosis cause
+
+Therefore, based on the provided information, hepatotoxic doesn't cause any of the listed variables.
+
+<Answer></Answer>

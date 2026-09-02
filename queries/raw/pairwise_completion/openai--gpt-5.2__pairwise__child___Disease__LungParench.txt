@@ -1,0 +1,17 @@
+1. **Interpret the variables in context (pediatric congenital heart disease):**  
+   - **Disease**: the underlying congenital heart defect/pathophysiology (e.g., left-to-right shunt, obstructive lesion, ventricular dysfunction).  
+   - **LungParench**: lung parenchymal findings (e.g., pulmonary edema, vascular congestion, interstitial markings, overcirculation-related changes) seen clinically or on imaging.
+
+2. **Typical causal pathway in congenital heart disease:**  
+   Many CHDs alter pulmonary blood flow and/or pulmonary venous pressures. This leads to **secondary** lung parenchymal changes such as:
+   - Pulmonary edema from elevated left atrial/pulmonary venous pressure (e.g., obstructed TAPVR, left-sided obstruction, heart failure).  
+   - Increased pulmonary vascular markings/overcirculation from left-to-right shunts (e.g., VSD, PDA, AV canal).  
+   - Chronic changes if prolonged (remodeling, recurrent infections facilitated by congestion).
+
+3. **Reverse direction is less typical:**  
+   Primary lung parenchymal disease (e.g., pneumonia, chronic lung disease) can worsen symptoms and strain the heart (and even contribute to pulmonary hypertension), but it is **less likely** to be the root cause of “Disease” when “Disease” refers to congenital heart disease itself.
+
+4. **Most plausible direction:**  
+   The congenital cardiac **Disease** more commonly **causes** the observed **LungParench** abnormalities.
+
+<Answer>A</Answer>

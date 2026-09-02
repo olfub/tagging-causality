@@ -1,0 +1,17 @@
+**Step‑by‑step reasoning**
+
+1. **Interpret the variables**  
+   - *SocioEcon* represents the socioeconomic status of the policyholder (e.g., income, education, occupation).  
+   - *VehicleYear* denotes the model year of the vehicle insured (i.e., how new or old the car is).
+
+2. **Consider realistic relationships**  
+   - People with higher income or higher socioeconomic status can afford to purchase newer vehicles.  
+   - Conversely, simply owning a newer car does not automatically raise a person’s socioeconomic status; the car is a consequence of existing resources.
+
+3. **Causal direction**  
+   - The most plausible causal chain is that a person’s socioeconomic background influences the type (and age) of car they buy.  
+   - Therefore, *SocioEcon* → *VehicleYear* (Option A) is more realistic than the reverse.
+
+**Final answer**
+
+<Answer>A</Answer>

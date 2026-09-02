@@ -1,0 +1,28 @@
+printer_hardware: PrtOn, PrtPaper, PrtCbl, PrtPort, PrtMem, TnrSpply, CblPrtHrdwrOK, PTROFFLINE
+printer_status: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE, PrtOn
+network: NtwrkCnfg, NetOK, NetPrint, NtGrbld, NtSpd, DS_NTOK
+driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+application: AppOK, AppData, DSApplctn, AppDtGnTm
+data_flow: DataFile, PrtData, PrtDataOut, EMFOK, GDIIN, GDIOUT
+print_path: PrtPath, PrtMpTPth, PC2PRT, PrtSel, NetPrint
+spooling: PrtSpool, PrtThread, PrtQueue
+local_printing: DskLocal, LclOK, DS_LCLOK, LclGrbld
+problem_diagnosis: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+graphics: EPSGrphc, NnPSGrphc, PSGRAPHIC, GrphcsRltdDrvrSttngs
+fonts: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+output_quality: GrbldOtpt, GrbldPS, IncmpltPS, CmpltPgPrntd, LclGrbld, NtGrbld
+performance: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt, PrtTimeOut, NtSpd
+memory: PrtMem, AvlblVrtlMmry, PSERRMEM, FllCrrptdBffr, PrtStatMem
+postscript: PrtPScript, PSGRAPHIC, GrbldPS, IncmpltPS, PSERRMEM, TstpsTxt
+page_settings: PgOrnttnOK, PrntngArOK
+connection: PrtCbl, PrtPort, CblPrtHrdwrOK, PC2PRT
+file_output: PrtFile, DataFile
+boolean_ok_status: AppOK, EMFOK, NetOK, LclOK, DrvOK, TTOK, NnTTOK, CblPrtHrdwrOK, DS_NTOK, DS_LCLOK, PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+supply: TnrSpply, PrtPaper, PrtStatPaper, PrtStatToner
+garbled: GrbldOtpt, GrbldPS, LclGrbld, NtGrbld
+cause: AppOK, DataFile, DskLocal, PrtOn, PrtPaper, PrtCbl, PrtPort, TnrSpply, NtwrkCnfg, PrtMem, FntInstlltn, AvlblVrtlMmry, DrvSet, PrtPScript, PrntrAccptsTrtyp, ScrnFntNtPrntrFnt
+symptom: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, GrbldOtpt, NtSpd, HrglssDrtnAftrPrnt, REPEAT
+intermediate: EMFOK, GDIIN, GDIOUT, PrtData, PrtDataOut, PrtPath, PrtSpool, PrtThread, DrvOK, NetOK, LclOK, CblPrtHrdwrOK, TTOK, NnTTOK, PC2PRT, DS_NTOK, DS_LCLOK
+user_observable: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PrtIcon, PrtQueue, HrglssDrtnAftrPrnt, CmpltPgPrntd, REPEAT
+print_process: PrtSpool, PrtThread, PrntPrcssTm, PrtDataOut, PrtData
+data_source: DSApplctn, DS_NTOK, DS_LCLOK, AppData, DskLocal

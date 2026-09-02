@@ -1,0 +1,5 @@
+EnvironmentalExposure: Pollution
+BehavioralRiskFactor: Smoker
+DiseaseOutcome: Cancer
+DiagnosticTestResult: Xray
+Symptom: Dyspnoea

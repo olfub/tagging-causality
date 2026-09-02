@@ -1,0 +1,12 @@
+To determine which variables are caused by marycalls, we need to look at the given causal relationships and see if any variable is directly or indirectly caused by marycalls. 
+
+Given relationships:
+1. earthquake causes alarm
+2. earthquake causes johncalls
+3. earthquake causes marycalls
+
+There's no direct or indirect relationship where marycalls causes any other variable. All the given relationships show variables being caused by earthquake, but none show marycalls as a cause.
+
+Therefore, considering the given causal relationships, there are no variables that are caused by marycalls.
+
+<Answer></Answer>

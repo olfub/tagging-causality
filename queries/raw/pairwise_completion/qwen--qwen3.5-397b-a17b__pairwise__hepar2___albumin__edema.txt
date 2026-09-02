@@ -1,0 +1,28 @@
+## Step-by-Step Analysis
+
+### Understanding Albumin
+Albumin is a protein produced by the liver that circulates in blood plasma. Its key function is maintaining **oncotic (colloid osmotic) pressure** in blood vessels, which helps keep fluid within the vascular compartment.
+
+### Understanding Edema
+Edema is the accumulation of excess fluid in body tissues, causing swelling. This occurs when fluid leaks out of blood vessels into the interstitial spaces.
+
+### Analyzing the Causal Relationship
+
+**Direction A: Albumin → Edema**
+- **Low albumin levels (hypoalbuminemia)** decrease oncotic pressure in blood vessels
+- With reduced oncotic pressure, fluid is less effectively retained in the vascular space
+- Fluid leaks into surrounding tissues → **edema develops**
+- This is well-documented in conditions like:
+  - Nephrotic syndrome (protein loss in urine)
+  - Liver cirrhosis (reduced albumin production)
+  - Severe malnutrition
+
+**Direction B: Edema → Albumin**
+- Edema itself does not directly cause changes in albumin levels
+- While underlying conditions may cause both edema AND albumin changes, edema is the *result*, not the *cause*
+- There is no physiological mechanism by which tissue swelling would alter albumin production or levels
+
+### Conclusion
+The established medical understanding is that **low albumin levels can cause edema** through decreased oncotic pressure. The reverse relationship is not supported by physiology.
+
+<Answer>A</Answer>

@@ -1,0 +1,11 @@
+innate_immutable: Age, Sex
+acquired_mutable: Education, Occupation, Residence, Travel
+demographic: Age, Sex, Education, Occupation, Residence
+socioeconomic: Education, Occupation, Residence
+location_related: Residence, Travel
+professional_path: Education, Occupation
+nominal_categorical: Sex, Occupation, Residence
+ordinal_scale: Age, Education
+involves_decision: Occupation, Residence, Travel
+strictly_monotonic: Age
+binary: Sex

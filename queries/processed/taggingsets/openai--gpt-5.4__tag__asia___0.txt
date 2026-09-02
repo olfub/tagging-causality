@@ -1,0 +1,10 @@
+risk_factor:asia,smoke
+respiratory_disease:tub,lung,bronc
+infectious_pathway:asia,tub,either,xray
+smoking_pathway:smoke,lung,bronc
+composite_condition:either
+diagnostic_test:xray
+clinical_evidence:xray,dysp
+symptom:dysp
+thoracic_imaging_relevant:tub,lung,either,xray
+airway_irritation_pathway:smoke,bronc,dysp

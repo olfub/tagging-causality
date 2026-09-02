@@ -1,0 +1,35 @@
+Let me work through this step by step.
+
+## Step 1: Understanding the Terms
+- **Hepatitis**: Inflammation of the liver, commonly caused by viral infections (Hepatitis A, B, C, etc.), alcohol, toxins, or autoimmune conditions
+- **Anorexia** (in medical context): Loss of appetite (not to be confused with anorexia nervosa, the eating disorder)
+
+## Step 2: Clinical Presentation of Hepatitis
+Hepatitis has well-documented symptoms including:
+- Fatigue
+- Nausea and vomiting
+- **Loss of appetite (anorexia)**
+- Abdominal pain
+- Jaundice
+- Dark urine
+
+## Step 3: Analyzing the Causal Direction
+
+**Option A (Hepatitis → Anorexia):**
+- Liver inflammation affects metabolic processes
+- Toxin buildup occurs due to impaired liver function
+- This leads to nausea and loss of appetite
+- This is a well-established clinical relationship
+
+**Option B (Anorexia → Hepatitis):**
+- Loss of appetite alone does not cause liver inflammation
+- There is no known pathophysiological mechanism for this direction
+- This is not supported by medical evidence
+
+## Step 4: Medical Consensus
+Medical literature consistently identifies anorexia (loss of appetite) as a **symptom** of hepatitis, not a cause. The liver dysfunction from hepatitis leads to systemic effects including appetite suppression.
+
+## Conclusion
+The causal relationship flows from hepatitis to anorexia, not the reverse.
+
+<Answer>A</Answer>

@@ -1,0 +1,31 @@
+
+
+# Variables Caused by `pvsat`
+
+Looking at all the listed causal relationships, I need to find where `pvsat` appears on the **left side** (as a cause) of any relationship.
+
+## Step-by-step analysis:
+
+Let me trace through every causal relationship to check if `pvsat` causes anything:
+
+1. **lvfailure** causes lvedvolume, strokevolume
+2. **hypovolemia** causes lvedvolume, strokevolume
+3. **anaphylaxis** causes tpr
+4. **pulmembolus** causes pap, shunt
+5. **intubation** causes shunt, ventlung, ventalv, press, minvol
+6. **kinkedtube** causes ventlung, press
+7. **disconnect** causes venttube
+8. **minvolset** causes ventmach
+9. **ventmach** causes venttube, ventlung, ventalv, press, minvol, pvsat, ...
+10. **fio2** causes pvsat, sao2, ...
+11. **insuffanesth** causes catechol, hr, ...
+12. **lvedvolume** causes cvp, pcwp, strokevolume
+13. **strokevolume** causes co, bp, hrbp
+14. **tpr** causes catechol, hr, ...
+15. **ventlung** causes ventalv, expco2, minvol, pvsat, ...
+16. **ventalv** causes pvsat, artco2, sao2, ...
+17. **venttube** causes ventlung, ventalv, pvsat, ...
+
+`pvsat` appears many times as an **effect** (right side), but **never** as a **cause** (left side) of any relationship. Since `pvsat` has no outgoing causal edges, it has no direct or indirect effects.
+
+<Answer></Answer>

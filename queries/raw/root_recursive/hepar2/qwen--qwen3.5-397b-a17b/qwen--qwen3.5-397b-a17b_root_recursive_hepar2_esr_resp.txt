@@ -1,0 +1,10 @@
+Based on the provided causal relationships:
+
+1.  **sex** causes **pbc**, **ama**, **alcoholism**.
+2.  **pbc** causes **fibrosis**, **cirrhosis**, **bilirubin**, **phosphatase**, **cholesterol**, **itching**, **fatigue**, **jaundice**, **hepatomegaly**, **spleen**, **ascites**, **edema**, **spiders**, **palms**, **albumin**, **proteins**, **platelet**, **inr**, **carcinoma**, **density**, **esr**, **ggtp**, **alt**, **ast**, **hepatalgia**, **pain**, **upper_pain**, **pain_ruq**, **pressure_ruq**, **anorexia**, **nausea**, **flatulence**, **bleeding**, **encephalopathy**, **consciousness**, **urea**, **irregular_liver**, **edge**, **skin**, **joints**, **triglycerides**.
+3.  **cirrhosis** causes **ascites**, **edema**, **encephalopathy**, **bleeding**, **inr**, **platelet**, **spleen**, **jaundice**, **bilirubin**, **albumin**, **proteins**, **spiders**, **palms**, **carcinoma**, **irregular_liver**, **density**, **edge**, **hepatomegaly**, **consciousness**, **urea**, **hepatalgia**, **pain**, **upper_pain**, **pain_ruq**, **pressure_ruq**, **anorexia**, **nausea**, **flatulence**.
+
+We are looking for variables caused by **esr**.
+Scanning the relationships, **esr** appears only as an effect (on the right-hand side) of **pbc**. There are no relationships where **esr** is listed as a cause (on the left-hand side). Therefore, **esr** does not cause any other variable in this specific causal graph.
+
+<Answer>None</Answer>

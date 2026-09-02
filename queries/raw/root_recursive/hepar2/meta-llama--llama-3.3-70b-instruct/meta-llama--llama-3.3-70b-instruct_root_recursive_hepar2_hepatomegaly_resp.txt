@@ -1,0 +1,11 @@
+To determine the variables caused by hepatomegaly, we need to analyze the given causal relationships step by step. The direct causal relationships given are:
+
+1. sex causes pbc
+2. pbc causes cirrhosis, hyperbilirubinemia, hepatomegaly, jaundice, itching, fatigue, alt, ast, ggtp
+3. cirrhosis causes ascites, encephalopathy
+
+From the given information, hepatomegaly is caused by pbc. However, the question asks for variables that are caused by hepatomegaly. Looking at the provided relationships, there are no direct causal relationships where hepatomegaly is the cause. 
+
+Thus, based on the given causal relationships, hepatomegaly does not cause any other variable directly.
+
+<Answer></Answer>

@@ -1,0 +1,17 @@
+To determine which variables are caused by cirrhosis, I need to analyze the given causal relationships and see which variables have cirrhosis as a direct or indirect cause.
+
+Let me go through the causal relationships provided:
+
+1. sex causes pbc, alcoholism, obesity
+2. alcohol causes steatosis, fibrosis, cirrhosis, ggtp, ast, triglycerides, cholesterol, hepatotoxic, thepatitis, chhepatitis
+3. fibrosis causes cirrhosis
+
+From these relationships, I can see that:
+- Cirrhosis is caused by alcohol and fibrosis
+- However, there are no relationships that state what cirrhosis causes
+
+Looking at the given causal structure, cirrhosis only appears as an effect, not as a cause of any other variable. In the provided causal graph, cirrhosis is a terminal node with no outgoing edges to other variables.
+
+Therefore, based on the given causal relationships, there are no variables that are caused by cirrhosis.
+
+<Answer></Answer>

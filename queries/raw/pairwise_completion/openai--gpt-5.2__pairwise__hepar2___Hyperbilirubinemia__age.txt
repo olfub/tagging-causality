@@ -1,0 +1,20 @@
+### Step-by-step causal reasoning
+
+1. **Check directionality / plausibility**
+   - **Age → hyperbilirubinemia** is biologically plausible: as people age, there are predictable changes in physiology and disease risk that can affect bilirubin levels.
+   - **Hyperbilirubinemia → age** is not plausible: bilirubin levels cannot cause time to pass or make someone older.
+
+2. **Mechanistic support for Age → Hyperbilirubinemia**
+   - **Higher prevalence of underlying causes with age**: older adults more commonly develop conditions that raise bilirubin, such as:
+     - Biliary obstruction (e.g., gallstones, malignancy)
+     - Liver disease (e.g., cirrhosis, medication-induced injury)
+     - Hemolysis from various causes
+   - **Changes in organ reserve and drug exposure**: aging is associated with altered hepatic blood flow, increased comorbidity burden, and more medication use, all of which can contribute to liver dysfunction or cholestasis and thus elevated bilirubin.
+
+3. **Confounding/association vs causation**
+   - Even if hyperbilirubinemia is observed more often at certain ages (e.g., neonatal jaundice, older adult cholestasis), the causal direction is still that **age-related biology and age-related exposures influence bilirubin**, not the reverse.
+
+### Conclusion
+The more likely causal relationship is **age causes hyperbilirubinemia**.
+
+<Answer>B</Answer>

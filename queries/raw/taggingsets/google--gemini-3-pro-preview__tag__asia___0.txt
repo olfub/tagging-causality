@@ -1,0 +1,15 @@
+Lifestyle Factor: Smoking, Asia
+Medical Condition: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea
+Diagnostic Test: X-ray
+Symptom: Dyspnoea
+Risk Factor: Smoking, Asia
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Effect of Disease: X-ray, Dyspnoea, Either Tuberculosis or Lung Cancer
+Composite Variable: Either Tuberculosis or Lung Cancer
+Pulmonary Disease: Tuberculosis, Lung Cancer, Bronchitis
+Observable Result: X-ray, Dyspnoea
+Location-Based Risk: Asia
+Behavioral Risk: Smoking
+Chronic Condition: Lung Cancer, Bronchitis
+Infectious Disease: Tuberculosis
+Imaging Result: X-ray

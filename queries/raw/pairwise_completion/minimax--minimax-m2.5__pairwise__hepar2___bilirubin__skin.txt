@@ -1,0 +1,17 @@
+**Step‑by‑step reasoning**
+
+1. **What is bilirubin?**  
+   - Bilirubin is a yellow pigment produced when red blood cells are broken down. The liver normally processes bilirubin and excretes it in bile.
+
+2. **What does bilirubin do to the skin?**  
+   - When bilirubin builds up in the blood (e.g., due to liver disease, hemolysis, or biliary obstruction), it deposits in the skin and mucous membranes, giving them a yellow‑tinged appearance—this is known as jaundice.
+
+3. **Can the skin produce bilirubin?**  
+   - The skin does not synthesize bilirubin. It is a byproduct of heme catabolism, primarily generated in the spleen and liver.
+
+4. **Which direction of causality is medically plausible?**  
+   - Elevated bilirubin **causes** a visible change (yellowing) in the skin. The reverse (skin causing bilirubin production) is not supported by physiology.
+
+Therefore, the more likely cause‑and‑effect relationship is **bilirubin → skin**.
+
+<Answer>A</Answer>

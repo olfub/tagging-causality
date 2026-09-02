@@ -1,0 +1,25 @@
+printer_hardware: PrtOn, PrtPaper, PrtCbl, PrtPort, PrtMem, TnrSpply, PTROFFLINE, CblPrtHrdwrOK, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+printer_driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+print_spooling: PrtSpool, PrtThread, PrtQueue, PrtIcon
+network: NtwrkCnfg, NetPrint, NetOK, NtSpd, DS_NTOK, NtGrbld
+local_printing: DskLocal, LclOK, DS_LCLOK, LclGrbld
+application: AppOK, AppData, DSApplctn, DataFile, AppDtGnTm
+graphics_rendering: GDIIN, GDIOUT, EMFOK, EPSGrphc, NnPSGrphc, PSGRAPHIC, GrphcsRltdDrvrSttngs
+postscript: PrtPScript, GrbldPS, IncmpltPS, PSERRMEM, PSGRAPHIC, EPSGrphc, TstpsTxt
+font: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+print_output: PrtDataOut, PrtData, PrtFile, CmpltPgPrntd, PgOrnttnOK, PrntngArOK
+problem_symptom: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, GrbldOtpt, LclGrbld, NtGrbld, GrbldPS, IncmpltPS
+garbled_output: GrbldOtpt, LclGrbld, NtGrbld, GrbldPS
+status_indicator: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE
+connection: PrtCbl, PrtPort, PC2PRT, CblPrtHrdwrOK, NtwrkCnfg
+memory: PrtMem, AvlblVrtlMmry, PSERRMEM, PrtStatMem, FllCrrptdBffr
+data_flow: AppData, DataFile, PrtData, PrtDataOut, GDIIN, GDIOUT, EMFOK
+print_path: PrtPath, PrtMpTPth, PrtSel, NetPrint, DskLocal
+performance: DeskPrntSpd, PrntPrcssTm, AppDtGnTm, HrglssDrtnAftrPrnt, PrtTimeOut, NtSpd
+configuration: DrvSet, NtwrkCnfg, PgOrnttnOK, PrntngArOK, PrtSel, GrphcsRltdDrvrSttngs
+ok_state: AppOK, EMFOK, DrvOK, NetOK, LclOK, DS_NTOK, DS_LCLOK, CblPrtHrdwrOK, TTOK, PgOrnttnOK, PrntngArOK
+supply: TnrSpply, PrtPaper, PrtStatPaper, PrtStatToner
+root_cause: PrtOn, PrtPaper, PrtCbl, TnrSpply, FntInstlltn, DrvSet, NtwrkCnfg, AvlblVrtlMmry, PrtMem
+observable: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, HrglssDrtnAftrPrnt, GrbldOtpt, DeskPrntSpd, CmpltPgPrntd, REPEAT
+intermediate: EMFOK, DrvOK, NetOK, LclOK, PrtData, PrtDataOut, GDIIN, GDIOUT, PC2PRT, TTOK, NnTTOK
+repetition: REPEAT, FllCrrptdBffr, PrtTimeOut

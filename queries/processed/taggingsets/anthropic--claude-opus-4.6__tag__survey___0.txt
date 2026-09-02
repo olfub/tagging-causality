@@ -1,0 +1,17 @@
+innate:A,S
+predetermined:A,S
+personal_attribute:A,S,E
+socioeconomic:E,O,R
+human_capital:E,O
+acquired:E,O
+geographic:R,T
+lifestyle:R,T
+choice_dependent:E,O,R,T
+time_dependent:A,E,O
+behavioral:T
+mobility:T
+professional:O
+continuous:A
+binary:S
+location:R
+upstream_cause:A,S

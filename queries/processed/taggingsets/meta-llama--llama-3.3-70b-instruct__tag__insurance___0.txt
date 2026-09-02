@@ -1,0 +1,8 @@
+Vehicle:VehicleYear,ThisCarDam,RuggedAuto,MakeModel,Mileage,Antilock,ThisCarCost,CarValue,AntiTheft,OtherCarCost,OtherCar
+Cost:ThisCarCost,CarValue,PropCost,OtherCarCost,MedCost,ILiCost
+Driver:GoodStudent,Age,DrivingSkill,SeniorTrain,DrivHist,DrivQuality
+Safety:Antilock,Airbag,Cushioning,AntiTheft
+Theft:Theft,AntiTheft
+Damage:ThisCarDam,Accident
+Economic:SocioEcon,RiskAversion,HomeBase
+Risk:RiskAversion,Accident,Theft

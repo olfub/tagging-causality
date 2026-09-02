@@ -1,0 +1,12 @@
+To solve this problem, we need to examine the causal relationships provided and identify which variables are caused by "netprint". 
+
+Given the causal relationships:
+- appok causes appdata, datafile, prtdata, prtdataout, prtsel, dsapplctn
+- netok causes netprint, prtcbl, prtport, ntwrkcnfg
+- lclok causes ds_lclok
+
+We are specifically interested in the effects of "netprint". However, upon reviewing the provided relationships, there is no direct or indirect causal relationship specified where "netprint" causes another variable. The causes of other variables are specified, but "netprint" is itself an effect of "netok" and does not have any listed effects.
+
+Therefore, based on the information provided, there are no variables that are directly caused by "netprint".
+
+<Answer></Answer>

@@ -1,0 +1,15 @@
+demographic:A,S,E,O,R
+biological:A,S
+innate:A,S
+socioeconomic:E,O,R
+acquired:E,O
+human_capital:E,O
+geographic:R,T
+behavioral:T
+choice:E,O,R,T
+personal_attribute:A,S
+life_stage_dependent:E,O,R,T
+fixed_at_birth:S
+temporally_evolving:A
+mobility:T,R
+activity:T,O

@@ -1,0 +1,6 @@
+Alarm -- MaryCalls
+Alarm -- JohnCalls
+Alarm -- Earthquake
+JohnCalls -- MaryCalls
+Alarm -- Burglary
+Burglary -- Earthquake

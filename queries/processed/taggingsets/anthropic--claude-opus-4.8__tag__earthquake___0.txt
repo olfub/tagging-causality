@@ -1,0 +1,14 @@
+Environmental event:Earthquake
+Criminal activity:Burglary
+Root cause:Burglary,Earthquake
+Device:Alarm
+Detection system:Alarm
+Human response:JohnCalls,MaryCalls
+Communication action:JohnCalls,MaryCalls
+Triggered by alarm:JohnCalls,MaryCalls
+Natural phenomenon:Earthquake
+Security event:Burglary,Alarm
+Observable outcome:Alarm,JohnCalls,MaryCalls
+Intermediate signal:Alarm
+Person-specific:JohnCalls,MaryCalls
+External cause:Burglary,Earthquake

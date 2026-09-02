@@ -1,0 +1,15 @@
+demographic:Age,Sex
+biological_sex:Sex
+chronological_age:Age
+human_capital:Education
+labor_market_role:Occupation
+socioeconomic_status:Education,Occupation
+spatial_context:Residence
+mobility_behavior:Travel
+environmental_exposure:Residence,Travel
+daily_activity:Occupation,Travel
+modifiable_over_time:Education,Occupation,Residence,Travel
+structural_position:Education,Occupation,Residence
+life_course_stage:Age,Education,Occupation
+administrative_category:Sex,Education,Occupation,Residence
+personal_attribute:Age,Sex,Education,Occupation,Residence,Travel

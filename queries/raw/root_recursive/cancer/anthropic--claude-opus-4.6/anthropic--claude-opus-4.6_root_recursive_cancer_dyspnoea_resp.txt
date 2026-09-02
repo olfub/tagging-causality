@@ -1,0 +1,19 @@
+
+
+Looking at this step by step:
+
+**Given causal relationships:**
+- `smoker` → `cancer`, `xray`, `dyspnoea`
+- `cancer` → `xray`, `dyspnoea`
+
+**Root nodes (no parents):** `pollution`, `smoker`
+
+**Now, what does `dyspnoea` cause?**
+
+`dyspnoea` appears only as an **effect** in the given causal relationships:
+- It is caused by `smoker`
+- It is caused by `cancer`
+
+There is **no causal relationship** listed where `dyspnoea` is a cause of any other variable.
+
+<Answer></Answer>

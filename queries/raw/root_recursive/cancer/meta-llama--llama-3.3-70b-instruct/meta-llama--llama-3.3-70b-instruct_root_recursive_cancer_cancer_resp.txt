@@ -1,0 +1,10 @@
+To solve this problem, we need to analyze the given causal relationships:
+
+1. Pollution causes cancer and dyspnoea.
+2. Smoker causes cancer and dyspnoea.
+
+We are asked to find the variables that are caused by cancer. However, from the given information, there are no direct causal relationships where cancer is the cause. Cancer is only mentioned as an effect of pollution and smoker.
+
+Therefore, based on the provided relationships, there are no variables that are directly caused by cancer.
+
+<Answer></Answer>

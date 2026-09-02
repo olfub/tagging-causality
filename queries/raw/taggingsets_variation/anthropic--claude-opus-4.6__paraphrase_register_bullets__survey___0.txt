@@ -1,0 +1,15 @@
+biological: Age, Sex
+innate: Age, Sex
+fixed-at-birth: Sex
+time-varying: Age, Education, Occupation, Residence, Travel
+demographic: Age, Sex, Education, Occupation, Residence
+socioeconomic: Education, Occupation, Residence
+human-capital: Education, Occupation
+choice-based: Education, Occupation, Residence, Travel
+location-related: Residence, Travel
+behavioral: Travel
+upstream-cause: Age, Sex
+skill-related: Education, Occupation
+continuous-temporal: Age
+geographic: Residence, Travel
+outcome-like: Travel

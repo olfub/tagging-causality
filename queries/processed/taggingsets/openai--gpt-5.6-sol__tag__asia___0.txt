@@ -1,0 +1,12 @@
+Background risk factor:asia,smoke
+Geographic exposure:asia
+Behavioral exposure:smoke
+Respiratory disease:tub,lung,bronc
+Infectious disease:tub
+Malignancy:lung
+Airway inflammation:bronc
+Composite disease indicator:either
+Diagnostic finding:xray
+Clinical symptom:dysp
+Downstream manifestation:xray,dysp
+Smoking-associated condition:lung,bronc

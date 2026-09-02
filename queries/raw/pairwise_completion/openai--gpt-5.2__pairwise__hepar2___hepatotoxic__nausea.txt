@@ -1,0 +1,14 @@
+1. **Interpret the terms**
+   - **Hepatotoxic** refers to a substance or process that causes **liver injury** (hepatotoxicity).
+   - **Nausea** is a **symptom** (a subjective sensation) that can result from many physiologic disturbances, including liver dysfunction.
+
+2. **Plausible biological direction**
+   - Liver injury/hepatotoxicity can lead to accumulation of toxins/metabolic byproducts, cholestasis, inflammation, and systemic effects that commonly produce **GI symptoms** such as **nausea**, anorexia, and vomiting.
+
+3. **Reverse direction check**
+   - Nausea itself is not a mechanistic cause of liver injury. While behaviors associated with nausea (e.g., reduced intake) can affect metabolism, **nausea is not a typical causal antecedent of hepatotoxicity**.
+
+4. **Clinical pattern**
+   - In drug-induced liver injury and other hepatic insults, **nausea is a common early accompanying symptom**, supporting hepatotoxicity → nausea.
+
+<Answer>A</Answer>

@@ -1,0 +1,14 @@
+root_cause: Burglary, Earthquake
+exogenous_event: Burglary, Earthquake
+criminal_event: Burglary
+natural_disaster: Earthquake
+alert_signal: Alarm
+detection_mechanism: Alarm
+human_response: JohnCalls, MaryCalls
+reporting_action: JohnCalls, MaryCalls
+security_domain: Burglary, Alarm
+individual_agent: JohnCalls, MaryCalls
+triggered_event: Alarm, JohnCalls, MaryCalls
+independent_event: Burglary, Earthquake
+environmental_hazard: Earthquake
+consequence: Alarm, JohnCalls, MaryCalls

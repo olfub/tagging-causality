@@ -1,0 +1,18 @@
+We first clarify the meaning of the two variables:
+
+* **Airbag** – a safety device installed in a vehicle to protect occupants in a crash.
+* **RuggedAuto** – a vehicle designed for tough, off‑road, or harsh conditions (e.g., a rugged SUV or truck).
+
+Now consider plausible causal directions:
+
+1. **If RuggedAuto causes Airbag:**  
+   A vehicle built to be rugged is often equipped with additional safety features, including airbags, to compensate for higher crash risks associated with off‑road driving. This direction aligns with typical automotive design: the type of vehicle (its intended use and risk profile) determines which safety technologies are included.
+
+2. **If Airbag causes RuggedAuto:**  
+   The presence of an airbag would not logically make a vehicle rugged; an airbag is a safety feature that can be fitted to many vehicle types, not a factor that determines the vehicle’s overall ruggedness.
+
+Given that the design and intended use of a vehicle (ruggedness) motivate the inclusion of safety devices such as airbags, the more plausible cause‑and‑effect relationship is:
+
+**RuggedAuto → Airbag** (i.e., RuggedAuto causes Airbag).
+
+<Answer>B</Answer>

@@ -1,0 +1,17 @@
+
+
+Looking at the causal relationships provided, I need to find where **age** appears as a **cause** (on the left side of "causes").
+
+**Step-by-step analysis:**
+
+1. **birthasphyxia** causes → disease
+2. **disease** causes → ductflow, cardiacmixing, lungparench, lungflow, sick, age, lvh
+3. **ductflow** causes → hypdistrib, lowerbodyo2, ruqo2
+4. **cardiacmixing** causes → hypdistrib, hypoxiaino2
+5. **lungparench** causes → hypoxiaino2, co2, chestxray, grunting
+6. **lungflow** causes → chestxray, xrayreport
+7. **sick** causes → age, grunting, gruntingreport
+
+**Age** appears only as an **effect** (caused by disease and sick). It does **not** appear on the left-hand side of any causal relationship — meaning it causes no other variables in this model.
+
+<Answer></Answer>

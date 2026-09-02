@@ -1,0 +1,20 @@
+# Variables Caused by `asia`
+
+## Step-by-step reasoning:
+
+1. **`asia`** represents whether the patient has recently visited Asia. I need to determine which variables it directly causes based on medical/domain knowledge.
+
+2. **`tub` (tuberculosis):** Visiting Asia (a region with higher TB prevalence) is a known risk factor for contracting tuberculosis. **Asia → tub** is a valid causal link.
+
+3. **`lung` (lung cancer):** Lung cancer is primarily associated with smoking, not with visiting Asia. No direct causal link.
+
+4. **`smoke`:** Stated to be a root variable, not caused by anything. No causal link.
+
+5. **`bronc` (bronchitis):** Bronchitis is associated with smoking, not with visiting Asia. No direct causal link.
+
+6. **`either`, `xray`, `dysp`:** These are downstream consequences of diseases (tuberculosis, lung cancer, bronchitis), not directly caused by visiting Asia itself.
+
+## Conclusion:
+The only variable directly caused by `asia` is `tub`, since traveling to Asia increases the risk of contracting tuberculosis.
+
+<Answer>tub</Answer>

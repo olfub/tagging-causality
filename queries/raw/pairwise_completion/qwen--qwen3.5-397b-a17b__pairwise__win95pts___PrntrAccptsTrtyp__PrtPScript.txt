@@ -1,0 +1,25 @@
+Let me work through this step by step from a Windows 95 printer troubleshooting perspective.
+
+## Step 1: Understanding the Variables
+
+- **PrntrAccptsTrtyp**: Whether the printer accepts TrueType fonts
+- **PrtPScript**: Whether the printer is a PostScript printer
+
+## Step 2: Analyzing the Technical Relationship
+
+In Windows 95 printing architecture:
+
+1. **PostScript is a printer type/capability** - This is a fundamental characteristic of the printer hardware and driver
+2. **TrueType font acceptance is a feature** - This depends on the printer's capabilities and how it processes fonts
+
+## Step 3: Determining Causal Direction
+
+- A printer's **type** (PostScript or not) is determined by its hardware and driver design
+- This type **determines** what font technologies the printer can handle
+- PostScript printers have specific font handling mechanisms that determine whether they can accept TrueType fonts directly or need them converted
+
+## Step 4: Logical Conclusion
+
+The printer being PostScript (PrtPScript) is the **cause** that determines whether it accepts TrueType fonts (PrntrAccptsTrtyp). The reverse doesn't make technical sense - a printer's font acceptance capability doesn't determine what type of printer it is.
+
+<Answer>B</Answer>

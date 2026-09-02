@@ -1,0 +1,17 @@
+geographic_region:asia
+disease:tub,lung,bronc
+respiratory_condition:tub,lung,bronc,dysp
+risk_factor:asia,smoke
+behavior:smoke
+symptom:dysp
+diagnostic_result:xray
+binary_variable:asia,tub,smoke,lung,either,xray,bronc,dysp
+derived_variable:either
+lung_related:tub,lung,bronc,dysp,xray
+observable:smoke,xray,dysp,asia
+latent_condition:either
+cause_of_breathlessness:either,bronc
+detectable_by_xray:either
+infection:tub
+cancer:lung
+travel_related:asia

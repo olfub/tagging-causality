@@ -1,0 +1,22 @@
+
+
+# Analyzing the Causal Relationship: MeanRH vs. Scenario
+
+## Step-by-step Reasoning
+
+**Step 1: Define the variables**
+- **MeanRH**: Mean Relative Humidity — a specific, measurable atmospheric variable.
+- **Scenario**: In hail forecasting, this typically refers to a broader weather/synoptic scenario or large-scale atmospheric pattern classification.
+
+**Step 2: Consider the causal direction**
+- A **Scenario** represents a large-scale atmospheric setup (e.g., synoptic pattern, frontal type, or climate scenario). These broad patterns govern the overall atmospheric environment.
+- **MeanRH** is a local/regional atmospheric property that results from the prevailing large-scale conditions.
+
+**Step 3: Apply causal logic**
+- Large-scale weather scenarios *set the stage* for specific atmospheric variables like humidity. For example, a tropical maritime scenario will lead to high MeanRH, while a dry continental scenario will lead to low MeanRH.
+- MeanRH alone doesn't define or cause the scenario — it is one of many variables that are *consequences* of the broader atmospheric pattern.
+
+**Step 4: Conclusion**
+The broader atmospheric scenario is the upstream causal driver that determines the observed mean relative humidity, not the other way around.
+
+<Answer>B</Answer>

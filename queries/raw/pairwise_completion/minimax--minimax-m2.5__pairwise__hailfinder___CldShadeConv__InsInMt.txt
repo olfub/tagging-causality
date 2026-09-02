@@ -1,0 +1,3 @@
+Based on typical meteorological processes, insolation (InsInMt) is a key driver of atmospheric instability and convection. Higher solar heating increases the likelihood of convective cloud formation, which leads to cloud shade (CldShadeConv). While cloud shade can feedback to reduce insolation, the primary causal direction in forecasting hail is from insolation to convection.
+
+<Answer>B</Answer>

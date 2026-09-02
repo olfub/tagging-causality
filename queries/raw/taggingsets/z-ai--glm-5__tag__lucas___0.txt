@@ -1,0 +1,12 @@
+Biological: Genetics, Born_an_Even_Day, Allergy, Lung_Cancer
+Psychological: Anxiety, Attention_Disorder
+Behavioral: Smoking
+Social: Peer_Pressure
+Physical_Symptom: Yellow_Fingers, Coughing, Fatigue
+External_Event: Car_Accident
+Medical_Condition: Lung_Cancer, Allergy, Attention_Disorder
+Inherent: Genetics, Born_an_Even_Day
+Risk_Factor: Smoking, Genetics, Anxiety, Peer_Pressure
+Consequence: Yellow_Fingers, Coughing, Lung_Cancer, Car_Accident, Fatigue
+Modifiable: Smoking, Anxiety, Fatigue
+Demographic: Born_an_Even_Day

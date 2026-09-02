@@ -1,0 +1,16 @@
+1. **Interpret the variables**
+   - **Airbag**: a safety feature/option installed in a vehicle.
+   - **RuggedAuto**: likely a vehicle type/model/brand/segment indicator (e.g., “rugged” SUV/truck category).
+
+2. **Check plausible causal mechanisms**
+   - Vehicle design/category (RuggedAuto) influences what safety equipment is included (e.g., airbags as standard/optional).
+   - An airbag being present does not plausibly *cause* the vehicle to become a “RuggedAuto” category; it’s not a mechanism that changes the model/segment identity.
+
+3. **Consider typical data-generating process in auto insurance**
+   - Manufacturers/trim levels determine features → model/segment variables are upstream of equipment variables.
+   - So “RuggedAuto” is more like an upstream cause, and “Airbag” is downstream.
+
+4. **Conclusion**
+   - **RuggedAuto causes Airbag** is more likely.
+
+<Answer>B</Answer>

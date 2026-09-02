@@ -1,0 +1,3 @@
+Based on medical knowledge, elevated bilirubin levels can lead to itching (pruritus), often seen in conditions like obstructive jaundice or liver diseases, where bile acids and bilirubin accumulate in the skin. In contrast, itching does not cause changes in bilirubin levels; it is a symptom rather than a causative agent. Thus, the more plausible causal relationship is that bilirubin causes itching.
+
+<Answer>A</Answer>

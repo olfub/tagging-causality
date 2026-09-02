@@ -1,0 +1,11 @@
+To determine the variables that are unaffected by any other variables in the system (also known as exogenous or root variables), we analyze the causal relationships among the provided factors:
+
+1.  **<pollution> (Pollution):** Pollution is an environmental factor. It is not caused by an individual's choice to smoke, the presence of cancer, medical test results (X-ray), or symptoms (Dyspnoea). It exists independently of the other variables in this context.
+2.  **<smoker> (Smoker):** Whether a person is a smoker is generally considered a pre-existing condition or personal choice in this causal structure. It is not caused by pollution, cancer, X-rays, or dyspnoea.
+3.  **<cancer> (Cancer):** Lung cancer is a disease that develops as a result of causes. In this context, it is causally influenced by Pollution and Smoking. Therefore, it is affected by other variables.
+4.  **<xray> (Xray):** The X-ray result is a diagnostic test. The outcome of the test depends on the state of the patient, specifically whether they have Cancer. Therefore, it is affected by Cancer.
+5.  **<dyspnoea> (Dyspnoea):** Dyspnoea (shortness of breath) is a symptom. Symptoms are caused by the underlying disease (Cancer). Therefore, it is affected by Cancer.
+
+Based on this analysis, the variables that act as root causes and are unaffected by other variables in the graph are Pollution and Smoker.
+
+<Answer>pollution, smoker</Answer>

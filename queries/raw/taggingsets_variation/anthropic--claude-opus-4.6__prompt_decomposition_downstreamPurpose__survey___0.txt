@@ -1,0 +1,14 @@
+demographic: Age, Sex, Education, Occupation, Residence
+personal_attribute: Age, Sex
+socioeconomic: Education, Occupation
+geographic: Residence, Travel
+time_invariant: Sex
+changes_with_age: Education, Occupation, Residence
+behavioral: Travel
+categorical: Sex, Occupation, Residence
+continuous: Age
+ordinal: Education
+location_related: Residence, Travel
+human_capital: Education, Occupation
+lifestyle: Travel, Residence
+biological: Age, Sex

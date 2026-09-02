@@ -1,0 +1,15 @@
+disease:tub,lung,bronc
+symptom:dysp
+diagnostic_test:xray
+behavior:smoke
+geographic:asia
+respiratory:tub,lung,bronc,dysp
+risk_factor:asia,smoke
+derived_variable:either
+lung_condition:tub,lung
+observable:xray,dysp
+cause:asia,smoke
+effect:tub,lung,bronc,xray,dysp
+disjunction:either
+chronic:bronc
+infectious:tub

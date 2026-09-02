@@ -1,0 +1,11 @@
+
+
+## Step-by-Step Reasoning
+
+1. **Identify the given causal relationships:** The problem states that the causal relationships are "Currently none." This means there are no directed causal edges in the graph.
+
+2. **Check what burglary causes:** Since no causal relationships exist in the current model, burglary has no outgoing causal edges to any other variable.
+
+3. **Conclusion:** With no causal relationships defined, no variables are caused by burglary.
+
+<Answer></Answer>

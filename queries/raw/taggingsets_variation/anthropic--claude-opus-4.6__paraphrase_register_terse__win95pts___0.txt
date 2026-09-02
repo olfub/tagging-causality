@@ -1,0 +1,33 @@
+application_layer: AppOK, DataFile, AppData, DSApplctn
+printer_hardware: PrtOn, PrtPaper, PrtMem, PrtCbl, PrtPort, TnrSpply
+print_driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+network_component: NetPrint, NtwrkCnfg, NetOK, NtSpd
+print_spooling: PrtSpool, PrtThread, PrtQueue
+graphics_pipeline: GDIIN, GDIOUT, EMFOK, PrtDataOut, PrtData
+status_indicator: PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, PTROFFLINE
+problem_diagnosis: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+connectivity_path: PrtPath, PC2PRT, CblPrtHrdwrOK, LclOK, PrtMpTPth
+font_related: TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, ScrnFntNtPrntrFnt
+graphics_type: EPSGrphc, NnPSGrphc, PSGRAPHIC
+garbled_output: LclGrbld, NtGrbld, GrbldOtpt, GrbldPS
+postscript_related: PrtPScript, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS
+page_layout: PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+timing_performance: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt
+memory_resource: PrtMem, AvlblVrtlMmry, PSERRMEM, FllCrrptdBffr
+local_path: DskLocal, LclOK, DS_LCLOK, LclGrbld
+network_path: NetPrint, NetOK, DS_NTOK, NtGrbld, NtwrkCnfg
+root_cause: PrtOn, PrtPaper, PrtCbl, TnrSpply, NtwrkCnfg, PrtMem, DrvSet, FntInstlltn, AvlblVrtlMmry, DskLocal, PrtPort, AppOK, DataFile, NtSpd
+observable_symptom: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, GrbldOtpt, HrglssDrtnAftrPrnt, CmpltPgPrntd, DeskPrntSpd
+intermediate_state: EMFOK, GDIIN, GDIOUT, PrtDataOut, PrtData, PrtThread, PC2PRT, CblPrtHrdwrOK, TTOK, NnTTOK, DrvOK, LclOK, NetOK
+boolean_ok_status: AppOK, EMFOK, DrvOK, NetOK, LclOK, DS_NTOK, DS_LCLOK, CblPrtHrdwrOK, PgOrnttnOK, PrntngArOK, TTOK, NnTTOK
+printer_selection: PrtSel, PrtIcon, PrtMpTPth
+timeout_buffer: PrtTimeOut, FllCrrptdBffr, REPEAT
+user_configuration: DrvSet, PrtSel, GrphcsRltdDrvrSttngs, PrtPScript
+physical_supply: PrtPaper, TnrSpply
+data_generation: AppData, AppDtGnTm, DataFile
+print_process_stage: AppData, GDIIN, EMFOK, GDIOUT, PrtDataOut, PrtData, PrtSpool, PrtThread
+file_output: PrtFile, PrtDataOut
+print_queue_management: PrtQueue, PrtSpool, PrtThread, PrtTimeOut
+device_online_status: PrtOn, PTROFFLINE, PrtStatOff
+ds_subsystem: DSApplctn, DS_NTOK, DS_LCLOK
+output_completeness: CmpltPgPrntd, IncmpltPS, FllCrrptdBffr

@@ -1,0 +1,19 @@
+
+
+# Variables Caused by CombMoisture
+
+## Step-by-Step Reasoning
+
+**Step 1: Identify the parents of CombMoisture.**
+From the given relationships, `combmoisture` is caused by `satcontmoist` and `raocontmoist`.
+
+**Step 2: Recognize the structure of the causal relationships.**
+The problem lists which variables are *root nodes* (not affected by any variable) and then describes causal relationships **from those root nodes to all their descendants** (not just direct children). Notice that other intermediate nodes like `combvermo`, `combclouds`, and `insinmt` also aren't listed as causes — confirming that causal chains from root nodes are being described, not just direct edges.
+
+**Step 3: Determine the role of CombMoisture.**
+Since `satcontmoist` and `raocontmoist` both connect to their downstream descendants **only through** `combmoisture` (as their sole direct child in the network), every descendant of `satcontmoist`/`raocontmoist` — other than `combmoisture` itself — must also be a descendant of `combmoisture`.
+
+**Step 4: Identify descendants of CombMoisture.**
+These are all variables listed as caused by `satcontmoist` (or equivalently `raocontmoist`), minus `combmoisture` itself:
+
+<Answer>areamodryair, cldshadeoth, cldshadeconv, compplfcst, mountainfcst, capchange, lolevmoistad, inschange, scnrelplfcst, capinscen, inssclinscen, plainsfcst, n34starfcst, r5fcst, dewpoints, lowllapse, meanrh, midllapse, mvmtfeatures, rhratio, sfcwndshfdis, synforcng, tempdis, windaloft, windfieldmt, windfieldpln</Answer>

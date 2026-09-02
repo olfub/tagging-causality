@@ -1,0 +1,24 @@
+
+
+Looking at this problem, I need to determine which variables are caused by **lung** based on the standard ASIA Bayesian network structure and the causal relationships provided.
+
+## Step-by-Step Reasoning
+
+**Given causal relationships:**
+- `asia` → `tub`
+- `smoke` → `lung`, `bronc`
+- `tub` → `either`, `xray`, `dysp`
+
+**What does `lung` cause?**
+
+In the ASIA network structure:
+1. **`lung` directly causes `either`** — the variable `either` represents whether the patient has *either* tuberculosis *or* lung cancer. So both `tub` and `lung` feed into `either`.
+2. **`either` causes `xray`** — a positive chest X-ray is driven by having either condition.
+3. **`either` causes `dysp`** — dyspnoea can result from either condition.
+
+So tracing the causal chain from `lung`:
+- `lung` → `either` (direct cause)
+- `lung` → `xray` (indirect, via `either`)
+- `lung` → `dysp` (indirect, via `either`)
+
+<Answer>either, xray, dysp</Answer>

@@ -1,0 +1,20 @@
+
+
+# Identifying Root Variables (Unaffected by Others)
+
+Let me reason through each variable step by step:
+
+1. **Pollution**: This is an environmental/external factor. None of the other variables (Smoker, Cancer, Xray, Dyspnoea) would *cause* pollution levels. → **Root variable**
+
+2. **Smoker**: This is a behavioral/lifestyle choice. It is not caused by pollution, cancer, x-ray results, or dyspnoea. → **Root variable**
+
+3. **Cancer**: Lung cancer can be *caused* by both pollution exposure and smoking. → **Affected by other variables**
+
+4. **Xray**: An x-ray result (e.g., abnormal finding) is influenced by the presence of cancer. → **Affected by other variables**
+
+5. **Dyspnoea**: Difficulty in breathing can be *caused* by lung cancer. → **Affected by other variables**
+
+## Conclusion
+**Pollution** and **Smoker** are the exogenous variables — they are not caused by any other variable in this set. They serve as the root nodes of the causal graph.
+
+<Answer>pollution, smoker</Answer>

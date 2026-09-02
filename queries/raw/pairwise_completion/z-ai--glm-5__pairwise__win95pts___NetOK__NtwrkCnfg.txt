@@ -1,0 +1,23 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Define the terms in the context of Windows 95 troubleshooting.**
+*   **NetOK**: This likely refers to a status indicator, event, or test result confirming that the network connectivity is functioning correctly ("Network OK").
+*   **NtwrkCnfg**: This is an abbreviation for "Network Configuration." In Windows 95, this refers to the setup within the Control Panel (Network Neighborhood properties) where drivers, protocols (like TCP/IP), and adapters are installed and settings are defined.
+
+**Step 2: Analyze the logical order of operations.**
+In a computer system, configuration settings dictate how the system operates.
+*   You must first install the adapter drivers and configure protocols (NtwrkCnfg) before the system can attempt to connect to a network.
+*   If the configuration is incorrect (e.g., wrong IP address, missing protocol), the network connection will fail.
+*   If the configuration is correct, the network connection has the potential to succeed.
+
+**Step 3: Determine the causal direction.**
+*   **Option A (NetOK causes NtwrkCnfg):** This implies that because the network is working, the configuration exists or is set up. While a working network implies a correct configuration, the status of "working" does not physically create the configuration settings. The success is the result, not the cause of the setup.
+*   **Option B (NtwrkCnfg causes NetOK):** This implies that the act of configuring the network settings leads to the network functioning correctly. This aligns with standard troubleshooting logic: the configuration is a prerequisite condition for the network status to be "OK." Proper configuration causes the network to work.
+
+**Step 4: Verify with Windows 95 troubleshooting logic.**
+A Windows 95 expert knows that if a printer (networked or otherwise) is not working, the first step is often to check the Network Configuration to ensure the client can talk to the server. The configuration is the foundational cause of the connectivity status.
+
+**Conclusion:**
+The Network Configuration (NtwrkCnfg) is the setup action/state that enables the Network OK (NetOK) status. Therefore, NtwrkCnfg is the cause, and NetOK is the effect.
+
+<Answer>B</Answer>

@@ -1,0 +1,14 @@
+Patient Background:HISTORY
+Pathological Condition:HYPOVOLEMIA,LVFAILURE,ANAPHYLAXIS,PULMEMBOLUS,INSUFFANESTH
+Clinical Intervention:INTUBATION
+Cardiac Volume:LVEDVOLUME,STROKEVOLUME,CO
+Hemodynamic Pressure:CVP,PCWP,PAP,BP
+Heart Rate Sensor Reading:HRBP,HREKG,HRSAT
+Physiological Response:HR,CATECHOL
+Sensor Error:ERRLOWOUTPUT,ERRCAUTER
+Equipment Malfunction:KINKEDTUBE,DISCONNECT
+Ventilation Setting:MINVOLSET,VENTMACH,FIO2
+Ventilation Measurement:VENTTUBE,VENTLUNG,VENTALV,MINVOL,PRESS
+Blood Oxygenation:PVSAT,SAO2
+CO2 Level:EXPCO2,ARTCO2
+Vascular Parameter:TPR,SHUNT

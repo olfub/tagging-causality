@@ -1,0 +1,30 @@
+cause: Burglary, Earthquake
+effect: Alarm, JohnCalls, MaryCalls
+root_cause: Burglary, Earthquake
+observable_event: JohnCalls, MaryCalls
+physical_event: Burglary, Earthquake
+human_action: JohnCalls, MaryCalls, Burglary
+crime: Burglary
+natural_disaster: Earthquake
+sensor: Alarm
+communication: JohnCalls, MaryCalls
+triggers_alarm: Burglary, Earthquake
+triggered_by_alarm: JohnCalls, MaryCalls
+binary_state: Burglary, Earthquake, Alarm, JohnCalls, MaryCalls
+rare_event: Burglary, Earthquake
+intermediate_variable: Alarm
+terminal_variable: JohnCalls, MaryCalls
+exogenous: Burglary, Earthquake
+endogenous: Alarm, JohnCalls, MaryCalls
+home_security: Burglary, Alarm
+phone_response: JohnCalls, MaryCalls
+environmental: Earthquake
+mechanical_device: Alarm
+person: JohnCalls, MaryCalls
+threat: Burglary, Earthquake
+notification: Alarm, JohnCalls, MaryCalls
+independent_cause: Burglary, Earthquake
+property_related: Burglary, Alarm
+seismic: Earthquake
+neighbor_response: JohnCalls, MaryCalls
+warning_system: Alarm

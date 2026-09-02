@@ -1,0 +1,8 @@
+RiskFactor:Pollution,Smoker
+EnvironmentalExposure:Pollution
+LifestyleFactor:Smoker
+DiseaseState:Cancer
+Symptom:Dyspnoea
+MedicalTest:Xray
+ClinicalDomain:Cancer,Xray,Dyspnoea
+EffectVariable:Xray,Dyspnoea

@@ -1,0 +1,11 @@
+To determine the variables that are caused by itching, we must analyze the given causal relationships. According to the information provided:
+
+1. **sex** causes **pbc**.
+2. **pbc** causes **cirrhosis**, **hyperbilirubinemia**, **hepatomegaly**, **jaundice**, **itching**, **fatigue**, **alt**, **ast**, **ggtp**.
+3. **cirrhosis** causes **ascites**, **encephalopathy**.
+
+Itching is caused by **pbc**. However, the task is to find variables caused by **itching**. From the given relationships, there is no direct or indirect causation from **itching** to any other variable. Itching is a symptom or effect in this context, not a cause.
+
+Therefore, the answer reflects that there are no variables directly or indirectly caused by itching as per the provided causal relationships.
+
+<Answer></Answer>

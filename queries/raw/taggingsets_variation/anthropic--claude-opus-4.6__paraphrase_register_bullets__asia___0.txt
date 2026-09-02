@@ -1,0 +1,20 @@
+geographic_factor: Asia
+disease: Tuberculosis, Lung Cancer, Bronchitis
+respiratory_condition: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea
+behavioral_risk: Smoking
+diagnostic_test: X-ray
+symptom: Dyspnoea
+logical_aggregate: Either Tuberculosis or Lung Cancer
+cause: Asia, Smoking
+effect_of_smoking: Lung Cancer, Bronchitis
+infectious_disease: Tuberculosis
+malignancy: Lung Cancer
+lung_pathology: Tuberculosis, Lung Cancer, Bronchitis
+observable: X-ray, Dyspnoea, Smoking, Asia
+latent_medical: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, Bronchitis
+risk_factor: Asia, Smoking
+intermediate_node: Either Tuberculosis or Lung Cancer
+travel_related: Asia
+chronic_airway: Bronchitis
+imaging_finding: X-ray
+clinical_outcome: Dyspnoea, X-ray

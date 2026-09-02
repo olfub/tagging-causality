@@ -1,0 +1,17 @@
+To determine which variables are caused by dysp, let's analyze the given causal relationships step by step:
+
+1. **smoke causes lung, bronc**: This indicates that smoking is a cause of both lung cancer and bronchitis. However, it does not directly or indirectly suggest that dyspnoea (dysp) causes any of these conditions.
+
+2. **asia causes tub, either**: This shows that recently visiting Asia is a cause of tuberculosis (tub) and having either tuberculosis or lung cancer (either). Again, this does not imply that dysp causes any conditions.
+
+3. **lung causes either**: Lung cancer causes the condition of having either tuberculosis or lung cancer. This relationship does not imply that dysp causes any conditions.
+
+4. **tub causes either**: Similar to lung cancer, tuberculosis causes the condition of having either tuberculosis or lung cancer. No implication that dysp causes any conditions.
+
+5. **either causes dysp, xray**: Having either tuberculosis or lung cancer causes dyspnoea (shortness of breath) and a positive chest xray. This relationship shows that dysp is an effect, not a cause, of "either" condition.
+
+Given these relationships, dyspnoea (dysp) does not cause any of the variables listed. It is an effect of "either" (having tuberculosis or lung cancer), which is itself caused by other factors including lung cancer, tuberculosis, smoking, and visiting Asia. 
+
+Since there are no variables that are caused by dysp according to the provided causal relationships, the list of variables caused by dysp is empty.
+
+<Answer></Answer>

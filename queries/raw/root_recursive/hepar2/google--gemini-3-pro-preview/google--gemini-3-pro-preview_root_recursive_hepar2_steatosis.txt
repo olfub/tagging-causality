@@ -1,0 +1,1 @@
+["triglycerides", "pain_ruq", "hepatomegaly", "esr", "alt", "ast", "ggtp", "cholesterol"]

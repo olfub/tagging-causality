@@ -1,0 +1,26 @@
+**Step‑by‑step reasoning**
+
+1. **What is PBC?**  
+   Primary Biliary Cholangitis (PBC) is an autoimmune liver disease that targets the intra‑hepatic bile ducts, leading to chronic cholestasis and potential cirrhosis.
+
+2. **Common extra‑hepatic manifestations**  
+   - PBC is frequently associated with other autoimmune conditions (e.g., Sjögren’s syndrome, systemic sclerosis, thyroid disease).  
+   - Musculoskeletal symptoms such as arthralgia, myalgia, and occasionally arthritis are reported in a substantial proportion of patients.  
+   - These joint‑related findings are considered **extra‑hepatic manifestations** of the underlying autoimmune process in PBC.
+
+3. **Mechanistic plausibility**  
+   - The autoimmune drive in PBC (auto‑reactive T‑cells, auto‑antibodies, inflammatory cytokines) can affect joints, leading to pain or inflammation.  
+   - No known pathophysiological pathway exists by which joint disease (e.g., osteoarthritis, rheumatoid arthritis) would initiate the autoimmune attack on bile‑duct mitochondria that defines PBC.
+
+4. **Epidemiological evidence**  
+   - Studies show higher prevalence of joint symptoms among PBC patients than in the general population.  
+   - Conversely, there is no evidence that having a joint disorder increases the risk of developing PBC beyond what can be explained by shared autoimmunity (i.e., co‑occurrence, not causation).
+
+5. **Conclusion**  
+   - The direction “PBC → joint involvement” is supported by both clinical observations and plausible biological mechanisms.  
+   - The opposite direction (“joints → PBC”) lacks any credible mechanism or evidence.
+
+**Therefore, the more likely cause‑and‑effect relationship is:**  
+**A. PBC causes joints.**
+
+<Answer>A</Answer>

@@ -1,0 +1,16 @@
+Behavior:Smoking,Peer_Pressure
+Symptom:Yellow_Fingers,Fatigue,Coughing
+Psychological:Anxiety,Attention_Disorder,Peer_Pressure
+Social:Peer_Pressure
+Innate:Genetics,Born_an_Even_Day
+Disease:Lung_Cancer,Allergy
+Neurological:Attention_Disorder,Anxiety
+Irrelevant:Born_an_Even_Day
+Outcome:Car_Accident,Lung_Cancer
+Physical_Sign:Yellow_Fingers,Coughing,Fatigue
+Respiratory:Coughing,Lung_Cancer,Allergy
+Risk_Factor:Smoking,Genetics,Peer_Pressure,Anxiety
+Event:Car_Accident
+Chronic:Lung_Cancer,Allergy,Attention_Disorder
+Immune:Allergy
+Mental_State:Anxiety,Attention_Disorder

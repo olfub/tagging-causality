@@ -1,0 +1,9 @@
+1. In pediatric congenital heart disease, the “Disease” (e.g., a structural defect such as a shunt lesion, outflow obstruction, or abnormal connections) is the upstream abnormality.
+2. Those structural/hemodynamic abnormalities *determine* pulmonary blood flow (LungFlow):  
+   - Left-to-right shunts → increased LungFlow (pulmonary overcirculation)  
+   - Right-sided obstruction / reduced pulmonary blood supply lesions → decreased LungFlow  
+3. While chronically abnormal LungFlow can contribute to secondary complications (e.g., pulmonary vascular remodeling/pulmonary hypertension), that is typically a downstream consequence rather than the primary causal origin of the congenital heart disease being diagnosed.
+
+Therefore, the more likely causal direction is that Disease causes LungFlow.
+
+<Answer>A</Answer>

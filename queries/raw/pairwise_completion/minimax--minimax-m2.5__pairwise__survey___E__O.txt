@@ -1,0 +1,13 @@
+**Step‑by‑step reasoning**
+
+1. **Define the variables** – “Education” refers to the amount of schooling, degrees, or training a person obtains. “Occupation” refers to the type of job or professional role a person holds.
+
+2. **Consider temporal order** – In most life‑course trajectories, individuals finish their education (or at least complete a major stage of it) *before* they enter the labor market and secure a steady occupation. This ordering provides a natural direction for causality.
+
+3. **Theoretical basis** – Human‑capital theory posits that education equips people with skills, credentials, and knowledge that then shape the jobs they can obtain and the career paths they can follow. Hence, education is treated as the causal driver of occupational outcomes.
+
+4. **Empirical evidence** – Numerous sociological and economic studies find that education is a strong predictor of occupation (e.g., higher levels of education are associated with professional, managerial, or technical jobs). While occupational experiences can later motivate further education (e.g., on‑the‑job training, postgraduate studies), this reverse effect is generally secondary to the primary causal flow from education to occupation.
+
+5. **Conclusion** – The more plausible cause‑and‑effect relationship is that **education causes occupation** (Option A).
+
+<Answer>A</Answer>

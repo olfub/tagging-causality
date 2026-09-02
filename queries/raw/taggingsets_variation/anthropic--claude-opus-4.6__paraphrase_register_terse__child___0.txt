@@ -1,0 +1,22 @@
+root_cause: BirthAsphyxia
+latent_diagnosis: Disease
+background_attribute: Age
+pathophysiological_mechanism: DuctFlow, CardiacMixing, LungParench, LungFlow
+cardiac_structure: LVH, CardiacMixing, DuctFlow
+pulmonary_state: LungParench, LungFlow
+oxygenation_pattern: HypDistrib, HypoxiaInO2
+blood_gas: CO2
+oxygen_measurement: LowerBodyO2, RUQO2
+clinical_sign: Grunting
+imaging_result: ChestXray
+clinical_report: LVHreport, CO2Report, XrayReport, GruntingReport
+directly_observed: Grunting, ChestXray, CO2, LowerBodyO2, RUQO2, LVH
+report_of_observation: LVHreport, CO2Report, XrayReport, GruntingReport
+caused_by_disease: DuctFlow, CardiacMixing, LungParench, LungFlow, Sick, HypDistrib, HypoxiaInO2
+downstream_of_physiology: CO2, LowerBodyO2, RUQO2, ChestXray, Grunting, HypDistrib, HypoxiaInO2
+summary_status: Sick
+perinatal_event: BirthAsphyxia
+body_region_specific: LowerBodyO2, RUQO2, HypDistrib
+precedes_report: CO2, ChestXray, Grunting, LVH
+human_interpreted: LVHreport, CO2Report, XrayReport, GruntingReport, Sick
+structural_cardiac: LVH, DuctFlow

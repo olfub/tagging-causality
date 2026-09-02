@@ -1,0 +1,22 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the components**  
+   - **NetPrint** – in Windows 95 a command‑line utility (and underlying network‑print provider) that handles sending print jobs to a network printer.  
+   - **PrtThread** – the worker thread (part of the print spooler) that actually processes a spooled job, talks to the print driver, and, for network jobs, invokes the network print provider.
+
+2. **Typical printing flow in Windows 95**  
+   - An application issues a print command.  
+   - The spooler (spoolsv.exe) creates a **print thread (PrtThread)** to handle that job.  
+   - When the job is destined for a network printer, the thread calls the **network print provider (NetPrint)** to transmit the data.
+
+3. **Cause‑effect relationship**  
+   - The **creation and execution of PrtThread** is the primary action that *drives* the use of NetPrint.  
+   - NetPrint itself does not spawn a thread; it is invoked **by** the print thread when a network printer is needed.
+
+4. **Which direction is more plausible?**  
+   - It is far more likely that **PrtThread causes NetPrint** (the thread triggers the network provider).  
+   - The opposite (NetPrint causing PrtThread) would imply NetPrint initiates the thread, which does not match the Windows 95 spooler design.
+
+**Conclusion:** The more likely causal relationship is that the print thread triggers the network printing component.
+
+<Answer>B</Answer>

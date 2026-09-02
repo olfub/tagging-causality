@@ -1,0 +1,4 @@
+ExternalEvent: Burglary, Earthquake
+HumanAction: JohnCalls, MaryCalls
+UpstreamVariable: Burglary, Earthquake, Alarm
+DownstreamVariable: Alarm, JohnCalls, MaryCalls

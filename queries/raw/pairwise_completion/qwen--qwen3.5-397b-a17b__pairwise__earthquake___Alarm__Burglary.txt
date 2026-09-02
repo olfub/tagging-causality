@@ -1,0 +1,31 @@
+## Step-by-Step Reasoning
+
+Let me analyze this causal relationship carefully:
+
+**Step 1: Understand what each event represents**
+- **Burglary**: An unauthorized entry into a property with intent to commit theft or other crime
+- **Alarm**: A security device that sounds/alerts when triggered by sensors
+
+**Step 2: Analyze Option A (Alarm causes Burglary)**
+- This would mean the alarm sounding somehow causes someone to commit a burglary
+- This doesn't make logical sense - alarms are deterrents, not instigators
+- An alarm going off doesn't make a burglar decide to break in
+
+**Step 3: Analyze Option B (Burglary causes Alarm)**
+- This means when a burglary occurs, it triggers the alarm system
+- This aligns with how security systems are designed to work
+- Burglars breaking in → sensors detect intrusion → alarm sounds
+- This is the intended function of burglar alarms
+
+**Step 4: Consider real-world mechanics**
+- Motion sensors, door/window contacts, and glass break detectors are designed to detect unauthorized entry
+- When these sensors detect a break-in (burglary), they activate the alarm
+- The causal chain flows from the criminal act to the detection system
+
+**Step 5: Reference to causal reasoning literature**
+- This is actually a classic example from Bayesian network textbooks (Pearl's causal diagrams)
+- The standard model shows: Burglary → Alarm (not the reverse)
+
+**Conclusion**: The burglary is the cause that triggers the alarm effect, not vice versa.
+
+<Answer>B</Answer>

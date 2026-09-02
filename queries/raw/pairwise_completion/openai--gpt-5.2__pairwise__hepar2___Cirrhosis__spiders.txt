@@ -1,0 +1,6 @@
+1. Interpret the terms: In a medical context, “spiders” most plausibly refers to **spider angiomas** (spider nevi), a vascular skin finding, not the arthropod.
+2. Known clinical association: **Cirrhosis/chronic liver disease** is a well-established cause of spider angiomas, largely via altered sex hormone metabolism (e.g., increased circulating estrogens) and vascular changes seen in liver failure.
+3. Direction of causality: Spider angiomas are **a sign** that can result from underlying liver disease; they do not damage the liver or produce fibrosis.
+4. Plausibility check: There is no credible biological mechanism by which spider angiomas (or actual spiders) would cause cirrhosis, whereas cirrhosis commonly produces the finding.
+
+<Answer>A</Answer>

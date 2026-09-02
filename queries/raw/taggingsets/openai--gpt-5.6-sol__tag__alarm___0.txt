@@ -1,0 +1,34 @@
+patient history: HISTORY
+clinical disorder: HYPOVOLEMIA, LVFAILURE, INSUFFANESTH, ANAPHYLAXIS, PULMEMBOLUS, SHUNT
+cardiovascular: CVP, PCWP, HYPOVOLEMIA, LVEDVOLUME, LVFAILURE, STROKEVOLUME, TPR, PAP, CATECHOL, HR, CO, BP
+respiratory: EXPCO2, KINKEDTUBE, MINVOL, FIO2, PVSAT, SAO2, PAP, PULMEMBOLUS, SHUNT, INTUBATION, PRESS, DISCONNECT, MINVOLSET, VENTMACH, VENTTUBE, VENTLUNG, VENTALV, ARTCO2
+hemodynamic pressure: CVP, PCWP, PAP, BP
+ventilator pressure: PRESS
+cardiac preload: CVP, PCWP, LVEDVOLUME
+cardiac pump function: LVFAILURE, STROKEVOLUME, CO
+blood volume status: HYPOVOLEMIA, LVEDVOLUME
+vascular resistance: TPR
+heart rate: HRBP, HREKG, HRSAT, HR
+heart rate measurement: HRBP, HREKG, HRSAT
+true physiologic rate: HR
+cardiac output: STROKEVOLUME, HR, CO
+measurement artifact: ERRLOWOUTPUT, ERRCAUTER
+monitoring variable: CVP, PCWP, HRBP, HREKG, HRSAT, EXPCO2, MINVOL, PVSAT, SAO2, PAP, PRESS, ARTCO2, BP
+anesthesia-related: INSUFFANESTH, ANAPHYLAXIS, CATECHOL
+autonomic response: CATECHOL, HR, TPR
+oxygenation: FIO2, PVSAT, SAO2, SHUNT
+carbon dioxide: EXPCO2, ARTCO2
+blood gas: PVSAT, SAO2, ARTCO2
+pulmonary circulation: PAP, PULMEMBOLUS, PVSAT, SHUNT
+ventilation: EXPCO2, MINVOL, MINVOLSET, VENTMACH, VENTTUBE, VENTLUNG, VENTALV, ARTCO2
+ventilator setting: FIO2, MINVOLSET
+airway equipment: KINKEDTUBE, INTUBATION, DISCONNECT, VENTTUBE
+ventilator system: KINKEDTUBE, PRESS, DISCONNECT, MINVOLSET, VENTMACH, VENTTUBE
+ventilation pathway: VENTMACH, VENTTUBE, VENTLUNG, VENTALV
+lung ventilation: VENTLUNG, VENTALV
+minute ventilation: MINVOL, MINVOLSET
+airway fault: KINKEDTUBE, DISCONNECT
+intubation status: INTUBATION
+embolism: PULMEMBOLUS
+intravascular volume depletion: HYPOVOLEMIA
+allergic reaction: ANAPHYLAXIS

@@ -1,0 +1,7 @@
+BackgroundFactor: Age, BirthAsphyxia, Disease
+PhysiologicalState: LVH, DuctFlow, CardiacMixing, LungParench, LungFlow, HypDistrib, HypoxiaInO2, Sick
+ObservedMeasurement: LowerBodyO2, RUQO2, CO2, Grunting, ChestXray
+ClinicalReport: LVHreport, CO2Report, XrayReport, GruntingReport
+CardiacSystem: LVH, DuctFlow, CardiacMixing, LVHreport
+PulmonarySystem: LungParench, LungFlow, CO2, Grunting, ChestXray, CO2Report, XrayReport, GruntingReport
+OxygenationDomain: HypDistrib, HypoxiaInO2, LowerBodyO2, RUQO2

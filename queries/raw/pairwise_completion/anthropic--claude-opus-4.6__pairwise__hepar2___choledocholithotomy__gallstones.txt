@@ -1,0 +1,18 @@
+
+
+## Step-by-step reasoning:
+
+1. **Choledocholithotomy** is a surgical procedure that involves making an incision into the common bile duct to remove stones (calculi) from it.
+
+2. **Gallstones** are hardened deposits of digestive fluid (bile) that can form in the gallbladder and sometimes migrate into the common bile duct.
+
+3. The relationship between these two:
+   - Gallstones form first as a pathological condition.
+   - When gallstones migrate into or obstruct the common bile duct, they cause symptoms (pain, jaundice, infection).
+   - This condition then necessitates a **choledocholithotomy** to surgically remove the stones.
+
+4. Therefore, gallstones are the **cause** (the disease/condition), and choledocholithotomy is the **effect** (the treatment/response to the disease).
+
+5. It would not make sense for the surgical removal of stones to *cause* gallstones — rather, it is performed to *treat* them.
+
+<Answer>B</Answer>

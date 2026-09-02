@@ -1,0 +1,25 @@
+demographic: sex, age
+risk_factor: alcoholism, alcohol, hepatotoxic, obesity, diabetes, gallstones, injections, transfusion, fat
+disease: THepatitis, ChHepatitis, RHepatitis, PBC, Steatosis, Cirrhosis, fibrosis, gallstones, carcinoma, Hyperbilirubinemia, ascites, encephalopathy, diabetes, obesity
+liver_disease: THepatitis, ChHepatitis, RHepatitis, PBC, Steatosis, Cirrhosis, fibrosis, gallstones, carcinoma, Hyperbilirubinemia
+hepatitis: THepatitis, ChHepatitis, RHepatitis
+autoimmune_liver_disease: PBC
+cancer: carcinoma
+metabolic: diabetes, obesity, triglycerides, cholesterol
+lipid_panel: triglycerides, cholesterol
+liver_enzyme: alt, ast, ggtp, phosphatase
+liver_function_test: bilirubin, alt, ast, ggtp, phosphatase, albumin
+pancreatic_test: amylase
+coagulation_test: inr
+renal_function_test: urea
+inflammatory_marker: ESR
+viral_marker: vh_amn, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+autoimmune_marker: ama, le_cells
+imaging: density, edge, irregular_liver, spleen
+sign: skin, spiders, palms, jaundice, hepatomegaly, consciousness
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, joints, pain, edema, bleeding, flatulence, anorexia, nausea, hepatalgia
+complication: ascites, encephalopathy
+treatment: hospital, surgery, injections, transfusion
+procedure: choledocholithotomy
+nutrition: fat
+lab_test: bilirubin, phosphatase, alt, ast, amylase, ggtp, cholesterol, triglycerides, ESR, inr, urea, albumin, proteins, platelet

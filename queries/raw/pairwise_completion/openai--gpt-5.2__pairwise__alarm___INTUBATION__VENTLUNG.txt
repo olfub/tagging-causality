@@ -1,0 +1,19 @@
+1. **Define the concepts**
+   - **INTUBATION**: placing an endotracheal tube to secure the airway.
+   - **VENTLUNG**: the patient’s lungs are being mechanically ventilated (i.e., on a ventilator).
+
+2. **Typical ICU sequence**
+   - In most ICU workflows, **intubation is performed first** to establish a secure airway interface.
+   - **Mechanical ventilation is then delivered through the endotracheal tube**.
+
+3. **Mechanistic dependence**
+   - **VENTLUNG (invasive mechanical ventilation)** generally *requires* an endotracheal tube (or tracheostomy) as the conduit.
+   - Thus, **intubation is a direct enabling step** that makes VENTLUNG possible.
+
+4. **Edge cases (don’t dominate the usual relationship)**
+   - Ventilation can occur without intubation (e.g., NIV/BiPAP), but that’s typically not what “VENTLUNG” denotes in many ICU data contexts.
+   - Intubation can occur briefly without sustained ventilation, but in ICU practice it commonly leads to ventilation.
+
+**More likely cause → effect:** **INTUBATION → VENTLUNG**.
+
+<Answer>A</Answer>

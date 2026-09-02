@@ -1,0 +1,4 @@
+CO2 -- CO2Report
+Age -- Sick
+CO2 -- LungParench
+LVH -- LVHreport

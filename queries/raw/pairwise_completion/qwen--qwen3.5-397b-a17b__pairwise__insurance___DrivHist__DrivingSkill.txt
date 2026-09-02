@@ -1,0 +1,38 @@
+Let me work through this step by step.
+
+## Step 1: Understand the Variables
+
+- **DrivHist (Driving History)**: This is a recorded history of past driving outcomes - accidents, violations, claims, tickets, etc. It's an observable record of what has already happened.
+
+- **DrivingSkill**: This refers to the driver's actual ability, competence, and capability to operate a vehicle safely. It's an underlying attribute of the driver.
+
+## Step 2: Analyze the Causal Direction
+
+**Option A: DrivHist → DrivingSkill**
+- This would mean your past driving record *creates* or *determines* your driving ability
+- This doesn't make logical sense - a record of past events cannot cause an underlying ability
+- Your history is an outcome, not a cause of capability
+
+**Option B: DrivingSkill → DrivHist**
+- This would mean your driving ability *influences* your driving history
+- This makes logical sense - a more skilled driver is less likely to have accidents or violations
+- Your underlying skill manifests in your driving behavior over time, which gets recorded as your history
+
+## Step 3: Consider Temporal Order
+
+- Driving skill exists before and during the act of driving
+- Driving history accumulates over time as a *result* of driving behavior
+- Skill precedes and influences the outcomes that become the history
+
+## Step 4: Insurance Modeling Context
+
+In car insurance risk modeling:
+- Insurers use driving history as a **proxy** for risk because they cannot directly measure driving skill
+- The underlying assumption is that skill (plus related factors like caution, attention, judgment) leads to the observed history
+- History is an observable outcome variable; skill is a latent variable that influences that outcome
+
+## Conclusion
+
+Driving skill is the underlying cause that produces the driving history record over time. A skilled driver tends to accumulate a better driving history, while a less skilled driver tends to accumulate more incidents.
+
+<Answer>B</Answer>

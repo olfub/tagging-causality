@@ -1,0 +1,16 @@
+demographic:A,S,E,O,R
+innate:A,S
+acquired:E,O
+socioeconomic:E,O,R
+biological:S
+time_dependent:A
+human_capital:E,O
+geographic:R,T
+behavioral:T
+choice:E,O,R,T
+life_stage:A,E,O
+location:R
+activity:T
+stable_trait:A,S
+influences_income:A,E,O
+categorical:S,O,R

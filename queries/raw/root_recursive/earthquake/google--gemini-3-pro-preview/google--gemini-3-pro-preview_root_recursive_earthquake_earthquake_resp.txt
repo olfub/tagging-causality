@@ -1,0 +1,14 @@
+To determine the variables caused by `<earthquake>`, we need to look at the causal relationships provided.
+
+1.  **Analyze the inputs:**
+    *   We have a set of variables: `<burglary>`, `<earthquake>`, `<alarm>`, `<johncalls>`, `<marycalls>`.
+    *   We are given the condition that the current causal relationships are: "Currently none."
+
+2.  **Evaluate Causal Links:**
+    *   Since the list of causal relationships is empty ("Currently none"), there are no links connecting `<earthquake>` to any other variable.
+    *   Consequently, `<earthquake>` does not cause any other variable in this specific instance provided.
+
+**Conclusion:**
+Based on the provided information which states there are currently no causal relationships, the variable `<earthquake>` causes no other variables.
+
+<Answer></Answer>

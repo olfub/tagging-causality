@@ -1,0 +1,13 @@
+behavior:Smoking
+risk_factor:Smoking,Anxiety,Genetics
+consequence:Yellow_Fingers
+physical_sign:Yellow_Fingers,Fatigue
+psychological:Anxiety,Peer_Pressure
+external_event:Peer_Pressure,Car_Accident
+innate:Genetics,Born_an_Even_Day
+cognitive:Attention_Disorder
+disease:Attention_Disorder,Allergy,Lung_Cancer
+unrelated:Born_an_Even_Day,Car_Accident
+symptom:Fatigue,Coughing
+immune_response:Allergy
+respiratory:Coughing,Lung_Cancer

@@ -1,0 +1,36 @@
+## Step-by-Step Analysis
+
+### Step 1: Define the Terms
+
+**Hepatalgia**: Pain in the liver (hepat- = liver, -algia = pain)
+
+**Hepatomegaly**: Enlargement of the liver (hepat- = liver, -megaly = enlargement)
+
+### Step 2: Analyze the Causal Direction
+
+**Option A: Hepatalgia → Hepatomegaly**
+- This suggests liver pain causes liver enlargement
+- Pain is typically a **symptom**, not a cause of structural changes
+- Pain sensations themselves do not cause organs to physically enlarge
+- This direction is medically implausible
+
+**Option B: Hepatomegaly → Hepatalgia**
+- This suggests liver enlargement causes liver pain
+- The liver is covered by **Glisson's capsule**, which contains pain-sensitive nerve fibers
+- When the liver enlarges, it stretches this capsule
+- Capsular stretching activates nociceptors (pain receptors)
+- This results in pain perception (hepatalgia)
+- This is a **well-established medical mechanism**
+
+### Step 3: Clinical Evidence
+
+In medical practice:
+- Conditions causing hepatomegaly (hepatitis, fatty liver, congestion, tumors, etc.) often present with liver pain
+- The pain is a **consequence** of the enlargement, not the cause
+- Pain does not independently cause organ enlargement
+
+### Step 4: Conclusion
+
+The physiologically and clinically accurate relationship is that liver enlargement (hepatomegaly) causes liver pain (hepatalgia) through capsular stretching, not vice versa.
+
+<Answer>B</Answer>

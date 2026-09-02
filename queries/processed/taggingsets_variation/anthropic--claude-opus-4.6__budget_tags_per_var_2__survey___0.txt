@@ -1,0 +1,8 @@
+innate:A,S
+acquired:E,O,R
+socioeconomic:E,O
+location:R,T
+personal_attribute:A,S
+choice-dependent:O,R,T
+activity:T,O
+demographic:A,S,E,R

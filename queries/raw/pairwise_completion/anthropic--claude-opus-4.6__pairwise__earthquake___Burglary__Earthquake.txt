@@ -1,0 +1,18 @@
+
+
+## Step-by-Step Reasoning
+
+**Option A: Burglary causes Earthquake**
+- A burglary is a human-scale criminal act (breaking into a building to steal).
+- Earthquakes are massive geological events caused by tectonic plate movements, volcanic activity, or other large-scale geological processes.
+- There is no plausible physical mechanism by which a burglary could trigger an earthquake.
+
+**Option B: Earthquake causes Burglary**
+- Earthquakes cause widespread destruction, power outages, and displacement of residents.
+- Damaged or abandoned properties with broken security systems become vulnerable targets.
+- Reduced law enforcement presence (redirected to rescue operations) creates opportunity.
+- Post-earthquake looting and burglary is a well-documented phenomenon throughout history.
+
+**Conclusion:** There is a clear and well-established causal pathway from earthquakes to increased burglary, while the reverse has no plausible mechanism.
+
+<Answer>B</Answer>

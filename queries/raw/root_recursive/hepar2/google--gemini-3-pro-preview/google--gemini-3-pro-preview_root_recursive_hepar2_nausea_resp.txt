@@ -1,0 +1,22 @@
+To determine which variables are caused by `nausea`, let us analyze the provided causal text step by step, looking for causal relationships where `nausea` is the *cause* (i.e., on the left side of the "causes" statement).
+
+1.  **Review the "causes" statements:**
+    *   `alcoholism` causes steatosis, thepatitis, cirrhosis, alcohol
+    *   `hepatotoxic` causes thepatitis
+    *   `gallstones` causes chhepatitis, cirrhosis, hyperbilirubinemia, amylase, upper_pain
+    *   `injections` causes vh_amn
+    *   `sex` causes pbc, esr
+    *   `obesity` causes steatosis
+    *   `steatosis` causes triglycerides, pain_ruq, hepatomegaly, esr, alt, ast, ggtp, cholesterol
+    *   `cirrhosis` causes ascites, spiders, spleen, platelet, inr, albumin, edge, irregular_liver, palms, carcinoma, encephalopathy, proteins, bilirubin, phosphatase, fatigue, anorexia, **nausea**, alt, ast, ggtp, cholesterol, esr
+    *   `pbc` causes ama, le_cells, joints, pain, cirrhosis, bilirubin, phosphatase, cholesterol, carcinoma
+
+2.  **Analyze `nausea`:**
+    *   We see that `cirrhosis` causes `nausea`. This makes `nausea` an *effect* (or a child node) of `cirrhosis`.
+    *   We need to find statements such as "`nausea` causes [variable]".
+    *   Scanning the entire list of provided relationships, there is no statement where `nausea` is listed as a cause for any other variable.
+
+3.  **Conclusion:**
+    *   Since there are no outgoing causal edges from `nausea` in the provided text, it does not cause any other variables in this specific causal model.
+
+<Answer></Answer>

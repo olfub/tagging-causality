@@ -1,0 +1,1 @@
+<Answer>sex,age,alcoholism,obesity,hepatotoxic,vh_amn,ama,le_cells,hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag,pbc,fat</Answer>

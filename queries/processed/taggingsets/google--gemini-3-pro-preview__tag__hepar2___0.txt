@@ -1,0 +1,12 @@
+Demographic:sex,age
+Risk Factor:alcoholism,alcohol,obesity,diabetes
+History:surgery,transfusion,injections
+Hepatitis Marker:hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag
+Procedure:choledocholithotomy
+Symptom:fatigue,itching,upper_pain,pain_ruq,pressure_ruq,pain,flatulence,anorexia,nausea,joints,hepatalgia
+Physical Sign:jaundice,spiders,palms,edema,ascites,hepatomegaly,spleen,irregular_liver,edge,skin,consciousness
+Disease:THepatitis,ChHepatitis,RHepatitis,PBC,carcinoma,Cirrhosis,Steatosis,gallstones,Hyperbilirubinemia
+Lab Test:bilirubin,albumin,phosphatase,proteins,platelet,inr,urea,amylase,ggtp,cholesterol,alt,ast,ESR,ama,le_cells,triglycerides,density
+Pathology:fibrosis,fat,vh_amn,vh_amn,hepatotoxic
+Complication:encephalopathy,bleeding
+Observation:hospital

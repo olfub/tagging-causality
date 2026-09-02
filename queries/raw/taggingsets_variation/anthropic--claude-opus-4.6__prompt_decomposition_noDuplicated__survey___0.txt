@@ -1,0 +1,15 @@
+demographic: Age, Sex, Education, Occupation, Residence
+biological: Age, Sex
+innate: Age, Sex
+socioeconomic: Education, Occupation, Residence
+acquired: Education, Occupation
+human_capital: Education, Occupation
+geographic: Residence, Travel
+behavioral: Travel
+choice: Education, Occupation, Residence, Travel
+personal_attribute: Age, Sex
+life_stage_dependent: Education, Occupation, Residence, Travel
+fixed_at_birth: Sex
+temporally_evolving: Age
+mobility: Travel, Residence
+activity: Travel, Occupation

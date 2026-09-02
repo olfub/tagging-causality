@@ -1,0 +1,21 @@
+Let’s unpack the terms and the clinical direction of causality.
+
+1. **What is a choledocholithotomy?**  
+   A *choledocholithotomy* is a **surgical procedure** performed to **remove stones from the common bile duct** (i.e., treat choledocholithiasis).
+
+2. **What are gallstones?**  
+   *Gallstones* are **solid concretions** formed in the gallbladder (or sometimes within bile ducts). They can migrate into the common bile duct and cause obstruction, pain, jaundice, cholangitis, or pancreatitis.
+
+3. **Which comes first biologically/clinically?**  
+   - **Gallstones (or bile duct stones)** occur first and create a medical problem (obstruction/infection risk).  
+   - The **choledocholithotomy** is then performed **because** stones are present and need removal.
+
+4. **Check each proposed relationship:**
+   - **A. “choledocholithotomy causes gallstones.”**  
+     Unlikely as a general causal claim. The procedure is *treatment* for stones, not a typical cause of stone formation.
+   - **B. “gallstones causes choledocholithotomy.”**  
+     This matches clinical practice: gallstones (especially those in the bile duct) are a common reason to perform choledocholithotomy.
+
+Therefore, the more likely cause-and-effect relationship is **B**.
+
+<Answer>B</Answer>

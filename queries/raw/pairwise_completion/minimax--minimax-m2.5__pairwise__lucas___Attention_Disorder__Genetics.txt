@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **What is an “attention disorder”?**  
+   - It refers to neurodevelopmental conditions such as Attention‑Deficit/Hyperactivity Disorder (ADHD) that affect focus, impulsivity, and activity level.
+
+2. **What is the role of genetics?**  
+   - Genetics involves the inherited DNA sequences that influence traits and disorders. Many studies show that ADHD has a strong heritable component (twin studies report heritability of ~70‑80 %).
+
+3. **Direction of causation**  
+   - **Genetics → Attention disorder**: Genetic variants (e.g., dopamine‑related genes) can predispose an individual to develop an attention disorder. This direction is supported by abundant empirical evidence (family, twin, and molecular genetic studies).  
+   - **Attention disorder → Genetics**: A disorder is a behavioral/clinical phenotype; it does not alter the DNA sequence that a person passes to offspring. Therefore, the disorder cannot cause changes in the underlying genetics that are inherited.
+
+4. **Conclusion**  
+   - The plausible causal pathway is that genetic factors contribute to the risk of developing an attention disorder, not the reverse.
+
+**Therefore, the more likely cause‑and‑effect relationship is:**
+
+<Answer>B</Answer>

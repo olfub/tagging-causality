@@ -1,0 +1,15 @@
+demographic:A,S
+biological_sex:S
+chronological_age:A
+human_capital:E
+labor_market_role:O
+socioeconomic_status:E,O
+spatial_context:R
+mobility_behavior:T
+environmental_exposure:R,T
+daily_activity:O,T
+modifiable_over_time:E,O,R,T
+structural_position:E,O,R
+life_course_stage:A,E,O
+administrative_category:S,E,O,R
+personal_attribute:A,S,E,O,R,T

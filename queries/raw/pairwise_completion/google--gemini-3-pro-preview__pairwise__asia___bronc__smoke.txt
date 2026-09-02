@@ -1,0 +1,17 @@
+To determine the correct cause-and-effect relationship, let's analyze the medical and biological evidence regarding both options.
+
+**Step 1: Analyze Option A (Bronchitis causes Smoking)**
+*   Bronchitis is an inflammation of the lining of the bronchial tubes, which carry air to and from your lungs. Symptoms typically include coughing up thickened mucus, wheezing, and chest discomfort.
+*   While a person with bronchitis might use various remedies to self-soothe, there is no biological mechanism suggesting that inflammation of the bronchial tubes compels a person to start smoking cigarettes or increases the physiological urge to smoke. In fact, smoking usually exacerbates the symptoms (coughing, irritation), making it physically difficult and painful to smoke during an active flare-up.
+*   Therefore, bronchitis is not a recognized cause of smoking behavior.
+
+**Step 2: Analyze Option B (Smoking causes Bronchitis)**
+*   Cigarette smoke contains thousands of chemicals, many of which are irritants and toxins (such as tar, ammonia, and formaldehyde).
+*   When inhaled, this smoke damages the cilia (tiny hair-like structures) that line the bronchial tubes and help clear out mucus and debris.
+*   The continuous irritation causes the bronchial glands to enlarge and produce excess mucus. Because the cilia are damaged, they cannot clear this mucus, leading to the characteristic "smoker's cough" and inflammation known as chronic bronchitis.
+*   Chronic bronchitis is a type of Chronic Obstructive Pulmonary Disease (COPD), and smoking is universally recognized as the primary risk factor and cause for the vast majority of chronic bronchitis cases.
+
+**Step 3: Conclusion**
+*   The medical consensus is clear: Inhaling smoke damages lung tissue and leads to inflammation (bronchitis). The reverse (inflammation causing the habit of smoking) is not logically or medically sound.
+
+<Answer>B</Answer>

@@ -1,0 +1,18 @@
+1. **Define the entities**
+   - **PBC (Primary biliary cholangitis)** is a chronic autoimmune cholestatic liver disease characterized by immune-mediated destruction of intrahepatic bile ducts.
+   - **“Joints”** here most plausibly refers to joint symptoms such as **arthralgia** or **inflammatory arthritis**.
+
+2. **Check biological plausibility and known clinical patterns**
+   - Autoimmune systemic diseases often have **extra-organ manifestations**. PBC is well known to associate with systemic autoimmune features and overlap syndromes.
+   - **Musculoskeletal symptoms** (notably **arthralgias**, sometimes inflammatory arthritis) are recognized in patients with PBC, either as:
+     - part of the broader autoimmune phenotype of PBC, and/or
+     - due to **associated autoimmune diseases** (e.g., Sjögren’s syndrome, rheumatoid arthritis, systemic sclerosis) that co-occur more frequently in PBC patients.
+
+3. **Assess directionality**
+   - **PBC → joint symptoms**: Clinically observed and mechanistically plausible (systemic autoimmunity/inflammation; autoimmune overlap).
+   - **Joint disease → PBC**: Typical joint pathology does not plausibly *cause* immune destruction of bile ducts. While joint symptoms may coexist with PBC due to shared autoimmune predisposition, that is **common cause/confounding**, not “joints cause PBC.”
+
+4. **Conclusion**
+   - The more likely cause-and-effect relationship is that **PBC contributes to joint symptoms**, not the reverse.
+
+<Answer>A</Answer>

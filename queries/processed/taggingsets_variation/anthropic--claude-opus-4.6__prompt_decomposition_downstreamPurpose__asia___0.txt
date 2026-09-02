@@ -1,0 +1,14 @@
+disease:tub,lung,bronc
+symptom:dysp
+diagnostic:xray
+risk factor:asia,smoke
+respiratory:tub,lung,bronc,dysp
+geographic:asia
+behavioral:smoke
+derived:either
+observation:xray,dysp
+lung condition:tub,lung,bronc
+imaging:xray
+infectious:tub
+cancer:lung
+cause of dyspnoea:either,bronc

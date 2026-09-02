@@ -1,0 +1,19 @@
+
+
+# Analyzing the Cause-and-Effect Relationship
+
+## Step 1: Interpret the Variables
+- **AMInstabMt**: This refers to **morning (AM) instability over mountains** — an early atmospheric measurement of instability in mountainous terrain.
+- **InsInMt**: This refers to **instability in the mountains** — a measure of the actual or resulting instability present in mountainous areas.
+
+## Step 2: Consider Temporal and Physical Reasoning
+- Morning atmospheric conditions (temperature profiles, moisture, lapse rates) measured over mountains serve as **precursors** that set up the atmospheric environment.
+- The instability that develops in the mountains later is a **consequence** of those earlier (morning) conditions.
+- Temporally, AM (morning) measurements come first and influence later instability development.
+
+## Step 3: Determine Causal Direction
+- Morning instability (AMInstabMt) is an **upstream/antecedent** condition.
+- Instability in the mountains (InsInMt) is a **downstream/resultant** condition that develops partly because of those morning instability characteristics.
+- Therefore, **AMInstabMt causes InsInMt** is the physically and temporally consistent direction.
+
+<Answer>A</Answer>

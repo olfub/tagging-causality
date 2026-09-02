@@ -1,0 +1,15 @@
+**Step‑by‑step reasoning**
+
+1. **Identify root variables** – Burglary and Earthquake are given as variables that are not affected by any other variable; they are the exogenous (root) nodes in the causal graph.
+
+2. **Recall the standard causal structure for this set of variables** – In the classic “Alarm” Bayesian network the relationships are:  
+   - Burglary → Alarm  
+   - Earthquake → Alarm  
+   - Alarm → JohnCalls  
+   - Alarm → MaryCalls  
+
+3. **Determine which variables are caused by Burglary** – The only direct effect of Burglary is the Alarm variable. JohnCalls and MaryCalls are caused *indirectly* through the Alarm, not directly by Burglary.
+
+Therefore, the variable(s) that are (directly) caused by Burglary is **Alarm**.
+
+<Answer>alarm</Answer>

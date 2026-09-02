@@ -1,0 +1,16 @@
+
+
+## Step-by-Step Reasoning
+
+**Option A: Residence causes Travel**
+- Where a person lives (urban, suburban, rural) directly shapes their travel patterns — commute distance, mode of transportation, frequency of travel, and destinations.
+- For example, living in a rural area typically requires longer travel distances and car dependency, while urban residents may rely on public transit and have shorter commutes.
+- This aligns with the well-established **land use–transportation** relationship in urban planning and transportation research, where residential location is a primary determinant of travel behavior.
+
+**Option B: Travel causes Residence**
+- While people sometimes consider commute or travel convenience when choosing where to live, this is more of a secondary feedback effect rather than a primary causal driver.
+- Travel patterns alone don't typically *cause* someone's place of residence; many other factors (income, family, housing availability) dominate that decision.
+
+**Conclusion:** The dominant and more direct causal direction is from Residence to Travel. Where you live largely determines how, how far, and how often you travel.
+
+<Answer>A</Answer>

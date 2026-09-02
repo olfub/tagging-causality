@@ -1,0 +1,17 @@
+biological_trait: Age, Sex
+demographic_attribute: Age, Sex, Education, Occupation, Residence
+innate_characteristic: Age, Sex
+acquired_characteristic: Education, Occupation, Residence
+socioeconomic_indicator: Education, Occupation
+choice_driven: Education, Occupation, Residence, Travel
+location_related: Residence, Travel
+activity: Travel
+changes_over_lifespan: Education, Occupation, Residence, Travel
+time_dependent: Age
+binary_variable: Sex
+human_capital: Education, Occupation
+causes_socioeconomic_status: Age, Sex, Education
+influenced_by_socioeconomic_status: Occupation, Residence, Travel
+upstream_determinant: Age, Sex
+midstream_determinant: Education, Occupation, Residence
+downstream_outcome: Travel

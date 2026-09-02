@@ -1,0 +1,32 @@
+Looking at this hail forecasting system, I need to identify variables that are exogenous - meaning they are not caused by other variables within this system. These would be the root nodes of the causal graph.
+
+Let me analyze the variable categories:
+
+**Clearly Exogenous Variables:**
+1. **Date** - Time is independent and not caused by weather conditions
+2. **Scenario** - This represents forecast scenario configurations, which are model inputs
+
+**Basic Atmospheric Measurements (Initial Conditions):**
+These are fundamental observations that serve as inputs rather than being derived from other variables in this system:
+3. **Dewpoints** - Basic moisture measurement
+4. **MeanRH** - Mean relative humidity observation
+5. **LowLLapse** - Low level lapse rate measurement
+6. **MidLLapse** - Mid level lapse rate measurement
+7. **WindAloft** - Upper level wind observation
+8. **TempDis** - Temperature distribution observation
+
+**Synoptic/Large-Scale Features:**
+These represent pre-existing atmospheric conditions that drive local weather:
+9. **SynForcng** - Synoptic forcing (large-scale atmospheric forcing)
+10. **MvmtFeatures** - Movement features of weather systems
+11. **Boundaries** - Pre-existing weather boundaries
+
+**Derived Variables (NOT roots):**
+- Variables with "Comb" prefix are combinations of other variables
+- Variables with "Fcst" suffix are forecasts derived from inputs
+- Variables with "Change" represent differences between states
+- Variables with "ScenRel" relate scenarios to conditions
+
+The root variables are those that serve as independent inputs to the forecasting system.
+
+<Answer>date, scenario, dewpoints, meanrh, lowllapse, midllapse, windaloft, tempdis, synforcng, mvmtfeatures, boundaries</Answer>

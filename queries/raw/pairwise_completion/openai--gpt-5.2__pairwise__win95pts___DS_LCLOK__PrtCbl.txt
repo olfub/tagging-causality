@@ -1,0 +1,12 @@
+1. **Interpret the terms in a Windows 95 printer-troubleshooting context**  
+   - **PrtCbl** most naturally reads as “**printer cable**” (or a printer-cable-related condition: disconnected, wrong type, bad connection, damaged cable, etc.).  
+   - **DS_LCLOK** looks like a **device/driver status flag or error code** (e.g., a low-level communications/timing/handshaking status).
+
+2. **Check physical vs. logical direction of causality**  
+   - A **printer cable problem** can easily **cause** all kinds of downstream communications/handshaking/status errors, because the PC and printer can’t reliably exchange signals.  
+   - A **status flag/error code** like DS_LCLOK generally cannot **physically cause** a printer cable to become bad/disconnected.
+
+3. **Most likely cause → effect**  
+   - **Cable/connection issues (PrtCbl)** are a common *root cause* that leads to *symptoms* expressed as device status codes (like DS_LCLOK).
+
+<Answer>B</Answer>

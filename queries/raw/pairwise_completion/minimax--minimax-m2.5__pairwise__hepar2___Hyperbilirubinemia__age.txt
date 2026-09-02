@@ -1,0 +1,21 @@
+**Step‑by‑step reasoning**
+
+1. **Define the terms**  
+   - *Hyperbilirubinemia*: an excess of bilirubin in the blood, reflecting increased production, impaired metabolism, or obstruction of bile flow.  
+   - *Age*: the chronological time since birth.
+
+2. **Examine causality A → B (Hyperbilirubinemia → Age)**  
+   - There is no known physiological mechanism by which elevated bilirubin could make a person older. Bilirubin does not influence the passage of time or the biological processes that determine chronological age.  
+   - Therefore this direction is implausible.
+
+3. **Examine causality B → A (Age → Hyperbilirubinemia)**  
+   - With advancing age, liver mass and metabolic capacity decline, bile flow can become slower, and the prevalence of liver diseases (e.g., hepatitis, cirrhosis, gallstones) increases.  
+   - These age‑related changes predispose older individuals to higher bilirubin levels or to conditions that cause hyperbilirubinemia.  
+   - Numerous epidemiological studies show that serum bilirubin tends to rise with age (though often staying within the normal range) and that older adults are more likely to develop pathological hyperbilirubinemia.
+
+4. **Conclusion**  
+   - The only plausible causal direction is that older age contributes to the development of hyperbilirubinemia, not the reverse.
+
+**Final answer**
+
+<Answer>B</Answer>

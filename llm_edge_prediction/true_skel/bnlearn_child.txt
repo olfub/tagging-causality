@@ -1,0 +1,13 @@
+Disease -- LungFlow
+ChestXray -- XrayReport
+CO2 -- LungParench
+Disease -- DuctFlow
+Disease -- LungParench
+HypoxiaInO2 -- RUQO2
+Disease -- LVH
+LVH -- LVHreport
+CO2 -- CO2Report
+BirthAsphyxia -- Disease
+Grunting -- GruntingReport
+Disease -- Sick
+CardiacMixing -- Disease

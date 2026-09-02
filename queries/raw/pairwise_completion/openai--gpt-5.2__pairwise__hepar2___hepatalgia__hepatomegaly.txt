@@ -1,0 +1,17 @@
+1. **Define the terms**
+   - **Hepatalgia** = pain in the liver region (right upper quadrant pain attributable to the liver).
+   - **Hepatomegaly** = enlargement of the liver.
+
+2. **Mechanistic plausibility**
+   - The liver parenchyma itself is relatively insensitive to pain; pain typically arises when the **Glisson capsule** (the liver’s fibrous capsule) is **stretched**, or when there is inflammation involving the capsule or adjacent peritoneum.
+   - **Hepatomegaly** (from congestion, inflammation, infiltration, tumors, fatty liver, etc.) can **distend/stretch the capsule**, making **hepatalgia** more likely.
+
+3. **Direction of causality**
+   - **Hepatalgia → hepatomegaly** is not a typical causal pathway: pain is a symptom and does not generally produce organ enlargement.
+   - **Hepatomegaly → hepatalgia** fits common clinical physiology: enlargement (or capsular involvement) can cause pain.
+
+4. **Clinical pattern**
+   - Many causes of hepatomegaly are painful (e.g., acute hepatitis, congestive hepatopathy) specifically because of capsular stretch.
+   - Some hepatomegaly is painless (e.g., mild fatty liver), but when liver pain occurs, enlargement/capsular distension is a frequent underlying reason—still supporting this direction more than the reverse.
+
+<Answer>B</Answer>

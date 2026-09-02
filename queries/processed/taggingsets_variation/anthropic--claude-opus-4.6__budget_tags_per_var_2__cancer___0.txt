@@ -1,0 +1,8 @@
+cause:Pollution,Smoker
+environmental:Pollution
+lifestyle:Smoker
+disease:Cancer
+medical_evidence:Cancer,Xray
+imaging:Xray
+symptom:Dyspnoea
+respiratory:Dyspnoea

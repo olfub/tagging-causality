@@ -1,0 +1,16 @@
+Demographic: GoodStudent, Age, SocioEcon
+Behavior: RiskAversion, DrivQuality, DrivingSkill, DrivHist, Mileage
+Vehicle: VehicleYear, MakeModel, CarValue, RuggedAuto, Antilock, Airbag, Cushioning, AntiTheft
+Cost: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+Incident: Accident, Theft, ThisCarDam
+Training: SeniorTrain
+Location: HomeBase
+Ownership: OtherCar
+Safety: Antilock, Airbag, Cushioning, RuggedAuto, AntiTheft
+Damage: ThisCarDam, Accident
+Person: Age, GoodStudent, SocioEcon, RiskAversion, DrivingSkill, SeniorTrain, DrivHist, DrivQuality
+Financial: SocioEcon, CarValue, ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+Usage: Mileage, VehicleYear
+Risk: RiskAversion, DrivQuality, DrivingSkill, DrivHist
+Outcome: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost, ThisCarDam
+Identifier: MakeModel

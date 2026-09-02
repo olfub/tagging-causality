@@ -1,0 +1,18 @@
+
+
+demographic: sex, age
+substance_use: alcoholism, alcohol
+metabolic_risk: obesity, diabetes, fat
+medical_exposure: hepatotoxic, hospital, injections, transfusion, surgery, choledocholithotomy
+medical_history: vh_amn
+hepatitis_type: THepatitis, ChHepatitis, RHepatitis
+liver_pathology: PBC, Cirrhosis, Steatosis, fibrosis, carcinoma
+biliary_condition: gallstones, Hyperbilirubinemia
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, joints, pain, flatulence, anorexia, nausea, hepatalgia
+clinical_sign: skin, edema, spiders, jaundice, palms, bleeding, encephalopathy, consciousness
+abdominal_finding: spleen, hepatomegaly, ascites, edge, irregular_liver, density
+liver_enzyme: alt, ast, ggtp, phosphatase
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+immune_marker: ama, le_cells
+blood_chemistry: bilirubin, triglycerides, cholesterol, urea, albumin, proteins, amylase
+hematological_marker: platelet, inr, ESR

@@ -1,0 +1,19 @@
+
+
+Looking at this step by step:
+
+**Given causal relationships:**
+- `smoker` → `cancer`, `xray`, `dyspnoea`
+- `cancer` → `xray`, `dyspnoea`
+
+**Step 1:** Identify all edges where `xray` is the **cause** (source).
+
+Reviewing every causal relationship:
+- `smoker` causes `cancer`, `xray`, `dyspnoea` → xray is an *effect* here, not a cause.
+- `cancer` causes `xray`, `dyspnoea` → xray is an *effect* here, not a cause.
+
+**Step 2:** `xray` does not appear as a cause of any variable. It is a terminal node (leaf) in the causal graph.
+
+No variables are caused by `xray`.
+
+<Answer></Answer>

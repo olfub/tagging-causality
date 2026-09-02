@@ -1,0 +1,15 @@
+Demographic:Age
+PerinatalEvent:BirthAsphyxia
+Diagnosis:Disease
+ClinicalStatus:Sick
+PerfusionDistributionState:HypDistrib
+OxygenationState:HypoxiaInO2
+BloodGasMeasurement:CO2
+OxygenSaturationMeasurement:LowerBodyO2,RUQO2
+ImagingProcedure:ChestXray
+RespiratorySymptom:Grunting
+CardiacStructuralFinding:LVH
+CardiacHemodynamics:DuctFlow,CardiacMixing
+PulmonaryParenchymalState:LungParench
+PulmonaryBloodFlowState:LungFlow
+ClinicalReport:LVHreport,CO2Report,XrayReport,GruntingReport

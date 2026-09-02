@@ -1,0 +1,10 @@
+To construct a causal graph, we start by identifying the variables that are unaffected by any other variables. These variables are the roots or the starting points of our causal graph. 
+
+1. **Pollution (<pollution>)**: This is an environmental factor that can cause various health issues, including lung cancer. It's not directly caused by the other factors listed.
+2. **Smoker (<smoker>)**: Being a smoker is a personal habit that is not directly caused by the other factors listed here (though it could be influenced by factors not listed, such as socioeconomic status or stress). In the context of these variables, it is a root cause.
+
+**Cancer (<cancer>)**, **Xray (<xray>)**, and **Dyspnoea (<dyspnoea>)** are all outcomes or consequences of other factors rather than initial causes. Cancer can be caused by pollution and smoking, Xray is a diagnostic tool used after symptoms appear (which could be due to cancer), and Dyspnoea (difficulty breathing) is a symptom that can result from having cancer.
+
+Therefore, the variables that are unaffected by any other variables in the list, serving as the starting points for our causal graph, are **<pollution>** and **<smoker>**.
+
+<Answer>pollution,smoker</Answer>

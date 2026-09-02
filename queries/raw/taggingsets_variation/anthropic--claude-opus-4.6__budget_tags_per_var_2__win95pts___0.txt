@@ -1,0 +1,43 @@
+application: AppOK, AppData, DSApplctn, AppDtGnTm
+status: AppOK, PrtOn, EMFOK, DrvOK, NetOK, LclOK, CblPrtHrdwrOK, TTOK, PrtQueue
+data: DataFile, AppData, PrtDataOut, PrtData, Problem1
+input: DataFile, GDIIN, EPSGrphc
+local: DskLocal, LclOK, DS_LCLOK, DeskPrntSpd, LclGrbld
+storage: DskLocal
+spooler: PrtSpool, PrtThread, PrtQueue
+printing: PrtSpool, NetPrint, PrtPath, PrtFile, PrtIcon
+printer-hardware: PrtOn, PrtPaper, PrtCbl, PrtMem, TnrSpply, PrntrAccptsTrtyp, PrtPScript, PTROFFLINE
+paper: PrtPaper, PrtStatPaper
+network: NetPrint, NtwrkCnfg, NetOK, DS_NTOK, NtGrbld, NtSpd
+driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+software: PrtDriver
+graphics: EMFOK, GDIIN, GDIOUT, GrphcsRltdDrvrSttngs, NnPSGrphc, PSGRAPHIC, Problem4
+configuration: DrvSet, PrtSel, NtwrkCnfg, PrtPort, PrtIcon
+output: GDIOUT, PrtDataOut, CmpltPgPrntd, GrbldOtpt, PrtFile
+path: PrtSel, PrtPath, PrtMpTPth, PC2PRT
+cable: PrtCbl, CblPrtHrdwrOK
+connection: PrtPort, PC2PRT, Problem2
+process: PrtThread, PrtData, PrntPrcssTm
+data-source: DSApplctn, DS_NTOK, DS_LCLOK
+mapping: PrtMpTPth
+memory: PrtMem, FllCrrptdBffr, AvlblVrtlMmry, PSERRMEM, PrtStatMem
+timing: PrtTimeOut, AppDtGnTm, PrntPrcssTm, HrglssDrtnAftrPrnt
+error: PrtTimeOut, FllCrrptdBffr, IncmpltPS, REPEAT
+toner: TnrSpply, PrtStatToner
+problem: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+speed: DeskPrntSpd, NtSpd, Problem3
+page-setup: PgOrnttnOK, PrntngArOK, CmpltPgPrntd
+orientation: PgOrnttnOK
+area: PrntngArOK
+font: ScrnFntNtPrntrFnt, TrTypFnts, FntInstlltn, NnTTOK, Problem5
+mismatch: ScrnFntNtPrntrFnt
+postscript: EPSGrphc, PrtPScript, PSGRAPHIC, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS, Problem6
+non-postscript: NnPSGrphc
+truetype: TrTypFnts, TTOK, PrntrAccptsTrtyp
+installation: FntInstlltn
+non-truetype: NnTTOK
+garbled: LclGrbld, NtGrbld, GrbldOtpt, GrbldPS
+symptom: HrglssDrtnAftrPrnt, REPEAT, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+system: AvlblVrtlMmry
+diagnostic: TstpsTxt
+offline: PTROFFLINE, PrtStatOff

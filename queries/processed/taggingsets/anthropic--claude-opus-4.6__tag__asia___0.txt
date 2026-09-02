@@ -1,0 +1,20 @@
+exogenous:asia,smoke
+exposure:asia,smoke
+geographic:asia
+behavioral:smoke
+disease:tub,lung,bronc
+infectious:tub
+cancer:lung
+chronic:bronc
+respiratory:tub,lung,bronc,dysp
+lung-related:tub,lung,either
+smoking-related:lung,bronc
+derived:either
+intermediate:either
+clinical observation:xray,dysp
+diagnostic:xray
+imaging:xray
+symptom:dysp
+breathing:dysp,bronc
+medical outcome:tub,lung,bronc,xray,dysp
+downstream effect:either,xray,dysp,bronc

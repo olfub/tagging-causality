@@ -1,0 +1,21 @@
+# Variables Caused by `tub`
+
+## Step-by-step reasoning
+
+Looking at the classic **Asia** Bayesian network structure:
+
+1. **Root nodes:** `asia`, `smoke` (given: not affected by any other variable)
+2. **Direct effects of `asia`:** `tub`
+3. **Direct effects of `smoke`:** `lung`, `bronc`
+4. **`tub` and `lung`** jointly determine → `either` (whether the patient has either tuberculosis or lung cancer)
+5. **`either`** causes → `xray` and `dysp`
+6. **`bronc`** also causes → `dysp`
+
+## Tracing causal effects of `tub`:
+
+- **Direct effect:** `tub` → `either`
+- **Indirect effects:** `tub` → `either` → `xray`; `tub` → `either` → `dysp`
+
+So the variables caused by `tub` are:
+
+<Answer>either, xray, dysp</Answer>

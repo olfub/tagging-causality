@@ -1,0 +1,10 @@
+Event:Burglary,Earthquake,Alarm,JohnCalls,MaryCalls
+RootCause:Burglary,Earthquake
+Symptom:JohnCalls,MaryCalls
+Sensor:Alarm,JohnCalls,MaryCalls
+NaturalPhenomenon:Earthquake
+HumanAction:Burglary,JohnCalls,MaryCalls
+DirectObservation:JohnCalls,MaryCalls
+DeviceState:Alarm
+Crime:Burglary
+Communication:JohnCalls,MaryCalls

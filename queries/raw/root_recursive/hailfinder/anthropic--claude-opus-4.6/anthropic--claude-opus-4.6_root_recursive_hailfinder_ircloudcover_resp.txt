@@ -1,0 +1,15 @@
+# Variables Caused by IRCloudCover
+
+Looking at the information given:
+
+1. **IRCloudCover is a root variable** — it is listed among the variables "not affected by any other variable."
+
+2. **Examining the stated causal relationships:**
+   - `satcontmoist` causes a list of variables.
+   - `raocontmoist` causes the same list of variables.
+
+3. **No causal relationship originating from `ircloudcover` is stated.** IRCloudCover does not appear as a cause in any of the given causal relationships.
+
+Since the only causal relationships provided involve `satcontmoist` and `raocontmoist` as causes, and `ircloudcover` is never listed as a cause of any variable, there are **no variables** caused by `ircloudcover` based on the given causal structure.
+
+<Answer></Answer>

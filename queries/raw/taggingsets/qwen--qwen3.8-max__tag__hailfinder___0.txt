@@ -1,0 +1,20 @@
+vertical_motion: N0_7muVerMo, SubjVertMo, QGVertMotion, CombVerMo
+moisture_field: SatContMoist, RaoContMoist, CombMoisture, AreaMoDryAir, LoLevMoistAd, AMDewptCalPl, Dewpoints
+cloud_cover: VISCloudCov, IRCloudCover, CombClouds, CldShadeOth, CldShadeConv
+instability_index: AMInstabMt, InsInMt, InsChange, InsSclInScen, AMInsWliScen, LLIW
+wind_field: WndHodograph, WindAloft, WindFieldMt, WindFieldPln, SfcWndShfDis
+forecast_product: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst
+cin_cap: MorningCIN, AMCINInScen, CapInScen, LatestCIN, CapChange
+scenario_relation: Scenario, ScenRelAMCIN, ScenRelAMIns, ScenRel3_4, ScnRelPlFcst
+boundary_convergence: OutflowFrMt, MorningBound, Boundaries, MvmtFeatures
+lapse_rate: LowLLapse, MidLLapse
+temporal_identifier: Date
+synoptic_forcing: SynForcng, TempDis
+convection_indicator: CurPropConv, CldShadeConv
+mountain_region: AMInstabMt, InsInMt, WindFieldMt, OutflowFrMt, MountainFcst
+plains_region: WindFieldPln, AMDewptCalPl, PlainsFcst, CompPlFcst
+combined_composite: CombVerMo, CombMoisture, CombClouds
+satellite_derived: SatContMoist, VISCloudCov, IRCloudCover
+radiosonde_derived: RaoContMoist, LIfr12ZDENSd
+relative_humidity: MeanRH, RHRatio
+mesoscale_area: AreaMeso_ALS, AreaMoDryAir

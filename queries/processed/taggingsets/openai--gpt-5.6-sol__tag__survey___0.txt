@@ -1,0 +1,9 @@
+Demographic:A,S
+Chronological:A
+Sex classification:S
+Socioeconomic:E,O
+Educational attainment:E
+Employment status:O
+Geographic:R,T
+Residential context:R
+Mobility behavior:T

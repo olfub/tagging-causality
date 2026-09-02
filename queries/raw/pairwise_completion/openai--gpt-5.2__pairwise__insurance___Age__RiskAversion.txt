@@ -1,0 +1,17 @@
+1. **Clarify what each variable represents**
+   - **Age** is a time-indexed attribute that (in normal settings) only moves forward and is not influenced by individual psychological traits in any immediate causal sense.
+   - **RiskAversion** is a behavioral/psychological trait that can vary across people and can also change over the life course.
+
+2. **Check temporal direction and feasibility**
+   - For **RiskAversion → Age** to be true, a person’s risk preference would need to causally determine how old they are. That’s not plausible: risk aversion can’t make someone “be” 45 instead of 25.
+   - For **Age → RiskAversion**, it is plausible that life stage, experience, responsibilities, and changing incentives over time affect risk preferences.
+
+3. **Consider common modeling knowledge in insurance**
+   - In auto insurance, age is often treated as an exogenous rating factor, while risk-related behaviors/preferences are downstream of demographic and life-stage factors (and/or share common causes with them).
+   - Even if you believe both are influenced by other factors (income, family status, experience), the direct arrow **Age → RiskAversion** is still far more defensible than the reverse.
+
+4. **Confounding vs. causation check**
+   - It’s possible that **neither** is a direct cause of the other and both are affected by latent variables (e.g., maturity, experience, socioeconomic status).
+   - But if forced to choose a direction between the two, the only direction that makes causal sense is **Age → RiskAversion**.
+
+<Answer>A</Answer>

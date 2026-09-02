@@ -1,0 +1,11 @@
+1. Interpret the terms in a physically consistent way for hail/convective forecasting:  
+   - **InsInMt** most plausibly refers to **insolation (surface heating) in mountainous terrain** and the related boundary-layer destabilization/upslope circulations.  
+   - **CldShadeConv** most plausibly refers to **cloud-shade–driven convergence/convective initiation** (i.e., differential heating between shaded and sunlit areas producing mesoscale boundaries that can help trigger convection).
+
+2. Check which direction matches standard convective causality:  
+   - Strong **insolation over terrain** enhances temperature contrasts, promotes upslope flow, and increases the likelihood that **cloud-shade boundaries** produce meaningful low-level convergence that can initiate or focus convection.  
+   - Conversely, while convection/clouds can *reduce* insolation via shading, it would not *create* insolation/instability “in the mountains” in the first place.
+
+3. Therefore, the more likely causal direction is: **InsInMt → CldShadeConv**.
+
+<Answer>B</Answer>

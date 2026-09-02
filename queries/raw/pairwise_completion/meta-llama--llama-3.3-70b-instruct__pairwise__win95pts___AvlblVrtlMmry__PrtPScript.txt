@@ -1,0 +1,17 @@
+To determine the cause-and-effect relationship between AvlblVrtlMmry (Available Virtual Memory) and PrtPScript (a PostScript printer script), we need to understand what each term refers to and how they interact within the context of Windows 95 and printer operation.
+
+1. **Understanding AvlblVrtlMmry**: AvlblVrtlMmry refers to the amount of virtual memory available on a computer. Virtual memory is a combination of physical RAM and hard drive space that the operating system uses to run programs when the physical RAM is full. 
+
+2. **Understanding PrtPScript**: PrtPScript refers to a PostScript script used for printing. PostScript is a page description language used by printers to render images and text on paper accurately. When you print a document, your computer converts it into PostScript (if the printer understands PostScript) and sends this script to the printer, which then interprets it and prints the document accordingly.
+
+Given the definitions:
+
+- **AvlblVrtlMmry (Available Virtual Memory)** is a system resource that can be affected by the demands of running programs and printing processes, among other things. If a printing process, like one involving a complex PostScript script, requires more memory than is physically available, it could consume more virtual memory.
+
+- **PrtPScript (PostScript for printing)**, on the other hand, is a process or set of instructions (script) sent to the printer. Running or processing this script could potentially consume system resources, including available virtual memory, especially if the script is complex, large, or requires significant processing power to interpret and execute.
+
+Considering the above explanations, when you print a document using a PostScript script (PrtPScript), it can consume system resources, including available virtual memory (AvlblVrtlMmry). Therefore, the execution or processing of PrtPScript could affect the amount of AvlblVrtlMmry, making option B (PrtPScript causes AvlblVrtlMmry) a plausible cause-and-effect relationship. However, the amount of available virtual memory (AvlblVrtlMmry) is not directly what causes a PostScript script to be processed or executed; rather, it is a resource that might be affected by the execution of such a script.
+
+Therefore, the logical relationship where the execution of a PostScript script for printing (PrtPScript) could affect the available virtual memory (AvlblVrtlMmry) suggests that the correct answer is B, as it implies a scenario where the printing process impacts system resources.
+
+<Answer>B</Answer>

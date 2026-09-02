@@ -1,0 +1,22 @@
+person: Age, SocioEcon, RiskAversion, DrivingSkill
+demographics: GoodStudent, Age, SocioEcon, HomeBase
+behavior: GoodStudent, RiskAversion, DrivQuality, DrivHist
+training: GoodStudent, DrivingSkill, SeniorTrain
+vehicle: VehicleYear, RuggedAuto, MakeModel, Antilock, CarValue, AntiTheft, Airbag
+safety: RuggedAuto, Antilock, AntiTheft, Cushioning, Airbag
+damage: ThisCarDam, RuggedAuto, ThisCarCost, Cushioning
+outcome: ThisCarDam, Accident, Theft, OtherCar
+accident: ThisCarDam, Accident, DrivQuality, Antilock, OtherCarCost
+driving: Accident, DrivQuality, Mileage, DrivingSkill, SeniorTrain, DrivHist
+risk: Age, RiskAversion, Mileage, SeniorTrain, Theft, DrivHist
+vehicle_choice: VehicleYear, MakeModel, CarValue
+property: VehicleYear, ThisCarCost
+temporal: VehicleYear
+manufacturing: MakeModel
+financial: SocioEcon, CarValue, PropCost, MedCost, ILiCost
+cost: ThisCarCost, PropCost, OtherCarCost, MedCost, ILiCost
+exposure: Mileage, HomeBase
+theft: Theft, HomeBase, AntiTheft
+liability: OtherCarCost, OtherCar, ILiCost
+injury: MedCost, Cushioning, Airbag
+aggregate: PropCost

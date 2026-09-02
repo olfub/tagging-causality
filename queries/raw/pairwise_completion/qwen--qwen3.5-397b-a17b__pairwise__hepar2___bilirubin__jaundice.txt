@@ -1,0 +1,23 @@
+## Step-by-Step Analysis
+
+**Step 1: Understanding Bilirubin**
+Bilirubin is a yellow-orange pigment produced when red blood cells break down in the body. It's normally processed by the liver and excreted through bile.
+
+**Step 2: Understanding Jaundice**
+Jaundice is a clinical sign characterized by yellow discoloration of the skin, whites of the eyes (sclera), and mucous membranes. It's a visible symptom, not a substance itself.
+
+**Step 3: Establishing the Causal Direction**
+- When bilirubin levels in the blood become elevated (hyperbilirubinemia), the excess bilirubin deposits in tissues
+- This tissue deposition creates the yellow coloration that we observe and call "jaundice"
+- Jaundice is the **effect/symptom** that results from high bilirubin levels
+- Bilirubin is the **cause** that produces this visible sign
+
+**Step 4: Medical Evidence**
+- Doctors measure bilirubin levels to diagnose and monitor jaundice
+- Treatments focus on reducing bilirubin levels to resolve jaundice
+- This confirms the directional relationship flows from bilirubin to jaundice
+
+**Step 5: Conclusion**
+Elevated bilirubin is the underlying cause, and jaundice is the clinical manifestation. The reverse (jaundice causing bilirubin) doesn't make biological sense since jaundice is a symptom, not a substance that can produce bilirubin.
+
+<Answer>A</Answer>

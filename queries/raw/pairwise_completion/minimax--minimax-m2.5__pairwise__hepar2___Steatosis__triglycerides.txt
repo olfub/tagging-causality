@@ -1,0 +1,3 @@
+Based on medical knowledge, triglycerides are a type of fat that, when elevated in the blood, can accumulate in the liver and lead to steatosis (fatty liver). Steatosis itself is the accumulation of fat (often as triglycerides) in liver cells, but it is typically a consequence of elevated triglycerides rather than a cause. Therefore, the more likely causal direction is that triglycerides cause steatosis.
+
+<Answer>B</Answer>

@@ -1,0 +1,6 @@
+Geographic factor: Asia
+Behavioral risk factor: Smoking
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Latent combined condition: Either Tuberculosis or Lung Cancer
+Diagnostic test: X-ray
+Symptom: Dyspnoea

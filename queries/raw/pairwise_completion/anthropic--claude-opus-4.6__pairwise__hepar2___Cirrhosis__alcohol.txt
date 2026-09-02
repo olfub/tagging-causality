@@ -1,0 +1,11 @@
+
+
+**Step-by-step reasoning:**
+
+1. **Cirrhosis** is a chronic liver disease characterized by scarring (fibrosis) of the liver tissue.
+2. **Alcohol** (specifically chronic excessive alcohol consumption) is a well-established risk factor for liver damage.
+3. Prolonged heavy alcohol use leads to alcoholic liver disease, which can progress through stages: fatty liver → alcoholic hepatitis → cirrhosis.
+4. Option A suggests cirrhosis causes alcohol, which doesn't make medical sense — a liver disease doesn't produce or cause alcohol consumption.
+5. Option B suggests alcohol causes cirrhosis, which aligns with well-established medical knowledge.
+
+<Answer>B</Answer>

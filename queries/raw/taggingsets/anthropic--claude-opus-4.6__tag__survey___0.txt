@@ -1,0 +1,19 @@
+
+
+innate: Age, Sex
+predetermined: Age, Sex
+personal_attribute: Age, Sex, Education
+socioeconomic: Education, Occupation, Residence
+human_capital: Education, Occupation
+acquired: Education, Occupation
+geographic: Residence, Travel
+lifestyle: Residence, Travel
+choice_dependent: Education, Occupation, Residence, Travel
+time_dependent: Age, Education, Occupation
+behavioral: Travel
+mobility: Travel
+professional: Occupation
+continuous: Age
+binary: Sex
+location: Residence
+upstream_cause: Age, Sex

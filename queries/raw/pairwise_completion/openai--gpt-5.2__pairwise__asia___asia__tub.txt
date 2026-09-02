@@ -1,0 +1,15 @@
+1. **Check what each term represents**
+   - **Asia** is a geographic region (a place).
+   - **Tuberculosis (TB)** is an infectious disease caused by *Mycobacterium tuberculosis*.
+
+2. **Assess whether the proposed cause can plausibly produce the effect**
+   - A place like **Asia** cannot biologically “cause” TB in the direct mechanistic sense; the *pathogen* causes TB.  
+   - However, **being in (or living in) Asia** can be associated with **higher exposure risk** due to factors like TB prevalence, crowding, healthcare access, and socioeconomic conditions. So **Asia can be a proxy for risk context**, making the direction “Asia → TB” at least *plausible in an epidemiologic/associational sense*.
+
+3. **Evaluate the reverse direction**
+   - **TB cannot cause Asia**. A disease cannot cause the existence of a continent/region.
+
+4. **Choose the more likely causal direction**
+   - Between the two, **A** is far more plausible than **B**.
+
+<Answer>A</Answer>

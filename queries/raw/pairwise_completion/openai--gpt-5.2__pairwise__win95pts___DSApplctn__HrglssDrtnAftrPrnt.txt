@@ -1,0 +1,12 @@
+1) Interpret the two items as a *cause* and an *observed symptom* in Windows 95 printing:
+- **HrglssDrtnAftrPrnt** reads like “*hourglass duration after print*” — i.e., the system shows the hourglass cursor (busy) for a noticeable time after a print job is initiated/completed. That’s a symptom of something tying up the UI thread, print spooler interaction, driver calls, or an application waiting on printer/driver responses.
+- **DSApplctn** reads like the name of a specific application or background component/process (“DS Application”).
+
+2) In typical Windows 95 troubleshooting, *applications/components* more often **cause** UI symptoms than UI symptoms cause an application to appear:
+- An app can trigger printing, call into printer drivers, or interact with the spooler in a way that leaves the system “busy” (hourglass) longer than normal.
+- The reverse (the hourglass duration after printing *causing* an application/component to start existing) is much less plausible as a direct causal mechanism. The hourglass is an indicator of busy state, not a driver for launching a specific application.
+
+3) Therefore, the more likely causal direction is:
+- **DSApplctn → HrglssDrtnAftrPrnt**
+
+<Answer>A</Answer>

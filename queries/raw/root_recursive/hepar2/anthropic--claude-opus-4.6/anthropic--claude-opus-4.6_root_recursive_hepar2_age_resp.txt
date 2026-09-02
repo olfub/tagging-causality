@@ -1,0 +1,19 @@
+
+
+# Variables Caused by Age
+
+Looking at this medical Bayesian network (which appears to be the HEPAR2 network for liver disease), I need to identify what conditions age directly causes.
+
+## Step-by-step reasoning:
+
+1. **Age is a root node** – it is not affected by any other variable.
+
+2. **Medical knowledge about age as a risk factor:**
+   - **Gallstones**: Age is a well-known risk factor (prevalence increases with age). Note: sex also causes gallstones, so gallstones has multiple parents.
+   - **PBC (Primary Biliary Cirrhosis)**: Age is a risk factor for PBC. Note: sex also causes PBC.
+   - **Diabetes**: Age is a major risk factor for diabetes (especially type 2).
+   - **Obesity**: Age influences obesity risk (metabolic changes over time).
+
+3. **Consistency check**: In the HEPAR2 network structure, age serves as a parent node to these variables, and both age and sex can jointly influence some of the same variables (like gallstones and PBC).
+
+<Answer>gallstones, pbc, diabetes, obesity</Answer>

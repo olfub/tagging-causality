@@ -1,0 +1,14 @@
+To determine the variables caused by anaphylaxis, let's analyze the given causal relationships step by step:
+
+1. **Anaphylaxis** is mentioned as being caused by **history**, but we are looking for what **anaphylaxis** causes, not what causes it.
+
+2. The relationships given directly involving anaphylaxis as a cause are not explicitly stated with other variables. However, we can infer potential effects of anaphylaxis based on general medical knowledge and the variables provided:
+   - **Anaphylaxis** is a severe, life-threatening allergic reaction that can cause a significant drop in blood pressure, leading to inadequate blood flow to vital organs. It can also cause respiratory issues due to swelling of the airways.
+   - **bp (blood pressure)**: Anaphylaxis can cause a severe drop in blood pressure.
+   - **hr (heart rate)**: Anaphylaxis often results in an increased heart rate as the body tries to compensate for the low blood pressure.
+   - **co (cardiac output)**: The cardiac output might decrease due to the decreased blood pressure and potential cardiac effects of anaphylaxis.
+   - **ventlung (lung ventilation)**, **minvol (minute volume)**, and **fio2 (fraction of inspired oxygen)** could potentially be affected due to respiratory issues, but these are not directly stated as effects in the provided relationships.
+
+Given the explicit causal relationships and considering the direct effects of anaphylaxis, the most directly related variables that we can infer anaphylaxis might affect based on general knowledge are **bp**, **hr**, and potentially **co** due to the severe systemic effects of anaphylaxis.
+
+<Answer>bp, hr, co</Answer>

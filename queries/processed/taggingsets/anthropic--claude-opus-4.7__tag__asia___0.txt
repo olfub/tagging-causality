@@ -1,0 +1,15 @@
+Risk Factor:asia,smoke
+Behavior:smoke
+Location:asia
+Disease:tub,lung,bronc
+Lung Disease:tub,lung,bronc
+Symptom:dysp
+Diagnostic Test:xray
+Composite Condition:either
+Observable:xray,dysp
+Latent Cause:asia,smoke
+Respiratory:bronc,dysp,lung,tub
+Cancer:lung
+Infectious:tub
+Chronic Condition:bronc
+Intermediate:either

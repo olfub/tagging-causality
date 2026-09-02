@@ -1,0 +1,24 @@
+
+
+## Step-by-Step Reasoning
+
+**Step 1: Understand the terms**
+- **Cancer** (in this context, lung cancer) is a disease involving uncontrolled cell growth in the lungs.
+- **Dyspnoea** is the medical term for difficulty breathing/shortness of breath — it is a **symptom**.
+
+**Step 2: Evaluate Option A (Cancer → Dyspnoea)**
+Lung cancer is a well-established cause of dyspnoea through multiple mechanisms:
+- Tumor obstructing airways
+- Pleural effusions compressing lung tissue
+- Lymphangitic spread reducing gas exchange
+- Loss of functional lung parenchyma
+
+This is a classic and universally recognized clinical relationship.
+
+**Step 3: Evaluate Option B (Dyspnoea → Cancer)**
+Dyspnoea is a symptom, not a pathological process. It does not trigger malignant transformation. While dyspnoea may co-occur with conditions (e.g., COPD) that share risk factors with cancer (e.g., smoking), the breathlessness itself does not cause cancer. Correlation through shared risk factors ≠ causation.
+
+**Step 4: Conclusion**
+The direction of causation is clearly from cancer to dyspnoea. Cancer is the disease; dyspnoea is one of its downstream effects (symptoms).
+
+<Answer>A</Answer>

@@ -1,0 +1,21 @@
+
+
+# Variables Caused by `raocontmoist`
+
+## Step-by-Step Reasoning
+
+**Step 1: Identify the role of `raocontmoist`.**
+`raocontmoist` is listed as a root variable (not affected by any other variable), meaning it's an exogenous cause in the network.
+
+**Step 2: Examine the network structure.**
+Both `satcontmoist` and `raocontmoist` are root moisture-related variables. In the HAILFINDER network (the basis of this problem), both `satcontmoist` and `raocontmoist` feed into `combmoisture` as their **only** direct child. That is:
+- `satcontmoist` → `combmoisture`
+- `raocontmoist` → `combmoisture`
+
+**Step 3: Trace the downstream effects.**
+Since both `satcontmoist` and `raocontmoist` enter the causal graph **exclusively** through `combmoisture`, they share the **exact same set of descendants**. Every variable reachable from `satcontmoist` passes through `combmoisture`, and `raocontmoist` also flows through `combmoisture`.
+
+**Step 4: Conclusion.**
+The descendants of `raocontmoist` are identical to the descendants of `satcontmoist` — all 27 listed variables.
+
+<Answer>combmoisture, areamodryair, cldshadeoth, cldshadeconv, compplfcst, mountainfcst, capchange, lolevmoistad, inschange, scnrelplfcst, capinscen, inssclinscen, plainsfcst, n34starfcst, r5fcst, dewpoints, lowllapse, meanrh, midllapse, mvmtfeatures, rhratio, sfcwndshfdis, synforcng, tempdis, windaloft, windfieldmt, windfieldpln</Answer>

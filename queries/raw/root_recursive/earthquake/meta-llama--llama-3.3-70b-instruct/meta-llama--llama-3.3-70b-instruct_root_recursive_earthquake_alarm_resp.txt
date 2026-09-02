@@ -1,0 +1,17 @@
+To determine the variables that are caused by alarm, we need to consider the given causal relationships. The relationships provided are:
+
+1. Earthquake causes alarm.
+2. Earthquake causes johncalls.
+3. Earthquake causes marycalls.
+
+There is no direct relationship stated where alarm causes any of the other variables. Therefore, based on the information given, alarm does not directly cause any of the other variables (johncalls, marycalls, burglary, earthquake).
+
+However, since the task is to identify variables caused by alarm and there's no direct causal link from alarm to any other variable provided in the description, we must conclude based on the given relationships. 
+
+Given the direct causal relationships:
+- Earthquake directly causes alarm, johncalls, and marycalls. 
+- There's no direct or indirect information suggesting alarm causes any of the listed outcomes (johncalls, marycalls, burglary).
+
+Therefore, based on the provided causal relationships, the answer would reflect that none of the variables are directly caused by alarm according to the given information.
+
+<Answer></Answer>

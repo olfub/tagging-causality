@@ -1,0 +1,35 @@
+vertical_motion: N0_7muVerMo, SubjVertMo, QGVertMotion, CombVerMo
+moisture: SatContMoist, RaoContMoist, CombMoisture, AreaMoDryAir, LoLevMoistAd, Dewpoints, MeanRH, RHRatio, AMDewptCalPl
+cloud: VISCloudCov, IRCloudCover, CombClouds, CldShadeOth, CldShadeConv
+instability: AMInstabMt, InsInMt, InsChange, InsSclInScen, AMInsWliScen, LIfr12ZDENSd, ScenRelAMIns, LowLLapse, MidLLapse
+cap: MorningCIN, AMCINInScen, CapChange, CapInScen, ScenRelAMCIN, LatestCIN
+wind: WndHodograph, OutflowFrMt, WindAloft, WindFieldMt, WindFieldPln, SfcWndShfDis, LLIW
+temperature: TempDis, LowLLapse, MidLLapse
+observation: N0_7muVerMo, SubjVertMo, AreaMeso_ALS, SatContMoist, RaoContMoist, AreaMoDryAir, VISCloudCov, IRCloudCover, CldShadeOth, AMInstabMt, WndHodograph, MorningBound, CldShadeConv, MorningCIN, LIfr12ZDENSd, AMDewptCalPl, LatestCIN, LLIW, Dewpoints, LowLLapse, MeanRH, MidLLapse, MvmtFeatures, SfcWndShfDis, TempDis, WindAloft, WindFieldMt, WindFieldPln
+derived: CombVerMo, CombMoisture, CombClouds, InsInMt, CapChange, InsChange, ScenRelAMCIN, CapInScen, ScenRelAMIns, AMInsWliScen, InsSclInScen, ScenRel3_4, RHRatio, CompPlFcst, MountainFcst, PlainsFcst, ScnRelPlFcst, CurPropConv
+forecast: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst, ScnRelPlFcst
+scenario: Scenario, ScenRelAMCIN, AMCINInScen, CapInScen, ScenRelAMIns, AMInsWliScen, InsSclInScen, ScenRel3_4, Date, ScnRelPlFcst
+mountain: AreaMeso_ALS, AreaMoDryAir, AMInstabMt, InsInMt, MountainFcst, OutflowFrMt, WindFieldMt
+plains: CompPlFcst, PlainsFcst, AMDewptCalPl, WindFieldPln, ScnRelPlFcst
+surface: VISCloudCov, Dewpoints, SfcWndShfDis, MorningBound, TempDis
+upper_air: N0_7muVerMo, QGVertMotion, IRCloudCover, RaoContMoist, WndHodograph, LIfr12ZDENSd, MeanRH, MidLLapse, WindAloft, SynForcng, RHRatio
+low_level: MorningCIN, LatestCIN, LLIW, Dewpoints, LowLLapse, LoLevMoistAd, RHRatio
+synoptic: SubjVertMo, QGVertMotion, SynForcng, MvmtFeatures
+boundary: MorningBound, Boundaries, OutflowFrMt, SfcWndShfDis
+convection: OutflowFrMt, CldShadeConv, CurPropConv, N34StarFcst, R5Fcst
+shear: WndHodograph, LLIW, WindAloft
+morning: AMInstabMt, MorningBound, MorningCIN, AMCINInScen, ScenRelAMCIN, ScenRelAMIns, LIfr12ZDENSd, AMDewptCalPl
+dynamic: QGVertMotion, CapChange, InsChange, LoLevMoistAd, Boundaries, MvmtFeatures, SynForcng
+change: CapChange, InsChange, LoLevMoistAd
+combined: CombVerMo, CombMoisture, CombClouds
+assessment: SubjVertMo, CombVerMo, CombMoisture, CombClouds, InsInMt, CurPropConv, ScenRel3_4
+output: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst, CurPropConv
+input: N0_7muVerMo, SatContMoist, RaoContMoist, Date, Scenario, SynForcng, MeanRH
+satellite: SatContMoist, VISCloudCov, IRCloudCover
+shading: CldShadeOth, CldShadeConv
+mesoscale: AreaMeso_ALS, CldShadeOth, Boundaries, MvmtFeatures
+spatial: AreaMeso_ALS, AreaMoDryAir, TempDis, WindFieldMt, WindFieldPln
+classification: Scenario, AMCINInScen, CapInScen, AMInsWliScen, InsSclInScen, ScenRel3_4
+severity: N34StarFcst, R5Fcst
+temporal: Date, LatestCIN
+context: Date, Scenario

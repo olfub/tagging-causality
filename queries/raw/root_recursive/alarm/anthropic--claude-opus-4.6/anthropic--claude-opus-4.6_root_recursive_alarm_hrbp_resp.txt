@@ -1,0 +1,34 @@
+
+
+Looking at the causal relationships, I need to find any relationship where **hrbp** appears on the **left side** (as a cause).
+
+Let me trace through every causal statement:
+
+- `lvfailure causes ...` → not hrbp
+- `hypovolemia causes ...` → not hrbp
+- `anaphylaxis causes ...` → not hrbp
+- `pulmembolus causes ...` → not hrbp
+- `intubation causes ...` → not hrbp
+- `kinkedtube causes ...` → not hrbp
+- `disconnect causes ...` → not hrbp
+- `minvolset causes ...` → not hrbp
+- `ventmach causes ...` → not hrbp
+- `fio2 causes ...` → not hrbp
+- `insuffanesth causes ...` → not hrbp
+- `errlowoutput causes ...` → not hrbp
+- `errcauter causes ...` → not hrbp
+- `lvedvolume causes ...` → not hrbp
+- `strokevolume causes ...` → not hrbp
+- `tpr causes ...` → not hrbp
+- `ventlung causes ...` → not hrbp
+- `ventalv causes ...` → not hrbp
+- `venttube causes ...` → not hrbp
+- `artco2 causes ...` → not hrbp
+- `catechol causes ...` → not hrbp
+- `hr causes ...` → not hrbp
+- `co causes ...` → not hrbp
+- `bp causes ...` → not hrbp
+
+**hrbp** never appears as a cause of any other variable. It is a terminal node (leaf/sink) in the causal graph — many variables cause it, but it causes nothing.
+
+<Answer></Answer>

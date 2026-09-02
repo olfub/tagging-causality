@@ -1,0 +1,18 @@
+Looking at the causal relationships provided, I need to identify which variables are caused by "inssclinscen".
+
+Let me analyze the given causal relationships:
+
+1. **scenario causes** scenrelamcin, scenrelamins, scenrel3_4, amcininscen, capinscen, aminswliscen, **inssclinscen**, scnrelplfcst
+   - Here, inssclinscen is an **effect** of scenario, not a cause
+
+2. **midllapse causes** aminstabmt, cldshadeoth, cldshadeconv
+   - inssclinscen is not involved in this relationship
+
+3. **aminswliscen causes** plainsfcst, compplfcst, n34starfcst, r5fcst
+   - inssclinscen is not involved in this relationship
+
+Reviewing all the causal relationships provided, **inssclinscen only appears as an effect** (caused by scenario), but never appears as a cause of any other variable.
+
+Therefore, based on the given causal relationships, there are no variables that are caused by inssclinscen.
+
+<Answer>none</Answer>

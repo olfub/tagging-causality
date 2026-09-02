@@ -1,0 +1,11 @@
+Behavior/Habit:Smoking
+Physical_Sign:Yellow_Fingers
+Psychological_State:Anxiety
+Social_Influence:Peer_Pressure
+Genetic_Factor:Genetics
+Neurodevelopmental_Disorder:Attention_Disorder
+Random_Biographical_Attribute:Born_an_Even_Day
+Injury_Event:Car_Accident
+Physiological_Symptom:Fatigue,Coughing
+Immune_Condition:Allergy
+Malignant_Disease:Lung_Cancer

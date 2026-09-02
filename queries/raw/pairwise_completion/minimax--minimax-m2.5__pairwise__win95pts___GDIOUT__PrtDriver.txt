@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **What is GDIOUT?**  
+   In Windows 95 printing, “GDIOUT” represents the GDI (Graphics Device Interface) output – the series of GDI function calls that an application makes to generate a printed page.
+
+2. **What is PrtDriver?**  
+   “PrtDriver” is the printer driver – the component that translates the GDI calls into the specific command language (e.g., PCL, PostScript) that the printer understands.
+
+3. **Typical printing flow in Windows 95**  
+   - An application issues GDI calls (e.g., `TextOut`, `BitBlt`).  
+   - The GDI subsystem receives those calls and passes them to the appropriate printer driver.  
+   - The driver then creates the print job and sends it to the spooler/printer.
+
+4. **Cause‑effect direction**  
+   The GDI output (the calls from the application) *triggers* the printer driver; the driver does not spontaneously generate GDI calls. Hence the driver is *caused* by the GDI output, not the other way around.
+
+5. **Conclusion**  
+   The more plausible cause‑and‑effect relationship is **GDIOUT → PrtDriver**, i.e., option **A**.
+
+<Answer>A</Answer>

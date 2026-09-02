@@ -1,0 +1,10 @@
+demographic: Age, Sex
+socioeconomic: Education, Occupation
+geographic: Residence, Travel
+long_term_status: Education, Occupation, Residence
+age_measure: Age
+sex_indicator: Sex
+schooling: Education
+employment_role: Occupation
+residential_location: Residence
+mobility_behavior: Travel

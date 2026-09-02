@@ -1,0 +1,23 @@
+# Step-by-Step Analysis
+
+To identify variables unaffected by any other variables (root/exogenous variables), I need to consider which demographic characteristics are determined independently of the others in this system.
+
+## Analysis of Each Variable:
+
+1. **Age (a)**: Age is determined by birth date and the passage of time. It is not causally influenced by sex, education, occupation, residence, or travel. Age is a fundamental characteristic that affects other variables but is not affected by them.
+
+2. **Sex (s)**: Sex is biologically determined at birth. It is not caused by age, education, occupation, residence, or travel. Like age, it's a fundamental demographic characteristic that influences other variables.
+
+3. **Education (e)**: Education level can be influenced by age (time available for schooling), sex (gender-based access disparities), and other factors. This is NOT a root variable.
+
+4. **Occupation (o)**: Occupation is influenced by age (career stage), sex, education (qualifications), and residence (job availability). This is NOT a root variable.
+
+5. **Residence (r)**: Where someone lives can be influenced by age, sex, education, occupation (job location), etc. This is NOT a root variable.
+
+6. **Travel (t)**: Travel behavior is influenced by age, sex, education, occupation, and residence. This is NOT a root variable.
+
+## Conclusion:
+
+The variables that are unaffected by any other variables in this causal system are **Age** and **Sex**, as they are fundamental demographic characteristics determined independently of the other variables.
+
+<Answer>a, s</Answer>

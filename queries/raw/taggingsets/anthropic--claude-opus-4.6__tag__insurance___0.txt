@@ -1,0 +1,29 @@
+
+
+demographic: Age, SocioEcon, GoodStudent
+personality_trait: RiskAversion
+driver_ability: DrivingSkill, DrivQuality, SeniorTrain, GoodStudent
+driving_record: DrivHist, Mileage
+vehicle_property: VehicleYear, RuggedAuto, MakeModel, CarValue, Antilock, Airbag, Cushioning, AntiTheft
+safety_feature: Antilock, Airbag, Cushioning
+theft_protection: AntiTheft, HomeBase
+location: HomeBase
+loss_event: Accident, Theft
+damage_outcome: ThisCarDam, OtherCar
+cost_outcome: ThisCarCost, OtherCarCost, MedCost, PropCost, ILiCost
+exogenous: Age, SocioEcon, MakeModel
+monetary_value: CarValue, ThisCarCost, OtherCarCost, MedCost, PropCost, ILiCost
+person_related: Age, SocioEcon, RiskAversion, GoodStudent, DrivingSkill, DrivQuality, SeniorTrain, DrivHist, MedCost
+vehicle_related: VehicleYear, RuggedAuto, MakeModel, CarValue, Antilock, Airbag, Cushioning, AntiTheft, ThisCarDam, ThisCarCost
+physical_protection: RuggedAuto, Cushioning, Airbag
+accident_related: Accident, DrivQuality, DrivingSkill, ThisCarDam, OtherCar, MedCost
+theft_related: Theft, AntiTheft, HomeBase, CarValue
+risk_factor: DrivQuality, Mileage, HomeBase, DrivHist, DrivingSkill
+education_training: SeniorTrain, GoodStudent
+age_dependent: SeniorTrain, GoodStudent, DrivingSkill, RiskAversion
+socioeconomic_dependent: HomeBase, AntiTheft, CarValue, MakeModel, RiskAversion, GoodStudent
+property_damage: ThisCarDam, OtherCar, PropCost, ThisCarCost, OtherCarCost
+injury_related: MedCost, Cushioning, Airbag, Accident
+liability: ILiCost, OtherCar, OtherCarCost, Accident
+downstream_consequence: ThisCarDam, ThisCarCost, OtherCarCost, MedCost, PropCost, ILiCost, DrivHist, OtherCar
+severity_modifier: Cushioning, RuggedAuto, Airbag, DrivQuality, Mileage

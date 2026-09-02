@@ -1,0 +1,16 @@
+Looking at this problem, I need to trace the causal effects originating from **epsgrphc** (EPS Graphics).
+
+## Step-by-step reasoning:
+
+1. **epsgrphc is a root node** – it is explicitly listed as not affected by any other variable.
+
+2. **Direct effects of epsgrphc:** In this printer troubleshooting network, `epsgrphc` (whether the graphic is EPS) combines with `prtpscript` (whether the printer is PostScript) to determine `psgraphic` (PSGRAPHIC – whether a PS graphic path is relevant).
+
+3. **Indirect effects:** `psgraphic` in turn is a cause of `problem4` (Problem4 – graphics printing problems).
+
+So the causal chain is:
+> **epsgrphc → psgraphic → problem4**
+
+Both `psgraphic` and `problem4` are caused (directly or indirectly) by `epsgrphc`.
+
+<Answer>psgraphic, problem4</Answer>

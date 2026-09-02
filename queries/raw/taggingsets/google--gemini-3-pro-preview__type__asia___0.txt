@@ -1,0 +1,5 @@
+Risk Factor: Asia, Smoking
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Symptom: Dyspnoea
+Test Result: X-ray
+Logical Combination: Either Tuberculosis or Lung Cancer

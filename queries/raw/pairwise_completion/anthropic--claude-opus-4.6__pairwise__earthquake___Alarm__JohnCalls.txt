@@ -1,0 +1,23 @@
+
+
+## Step-by-Step Reasoning
+
+This question relates to the classic **Bayesian network** known as the "Burglary-Alarm" network (from Judea Pearl's work), which models earthquake/burglary scenarios.
+
+**Step 1: Understand the variables.**
+- **Alarm**: A home alarm system that can be triggered by events like burglaries or earthquakes.
+- **JohnCalls**: John calling to report that he heard the alarm.
+
+**Step 2: Think about the real-world causal mechanism.**
+- An alarm goes off due to some triggering event (earthquake, burglary, etc.).
+- John *hears* or *notices* the alarm and then decides to call.
+- John's call is a **response** to the alarm, not the other way around.
+
+**Step 3: Determine the direction of causality.**
+- The Alarm is the **cause** — it provides the stimulus.
+- JohnCalls is the **effect** — it is the reaction/response to the alarm.
+- John calling does not make the alarm go off; rather, the alarm going off prompts John to call.
+
+**Conclusion:** The alarm activating is what causes John to call, making **A** the correct causal direction.
+
+<Answer>A</Answer>

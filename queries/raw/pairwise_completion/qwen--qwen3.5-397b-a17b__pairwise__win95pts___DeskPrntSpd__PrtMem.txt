@@ -1,0 +1,7 @@
+In Windows 95, printer performance was heavily dependent on system resources, particularly memory. **PrtMem** (Printer Memory) refers to the memory allocated to the print spooler or the printer's hardware memory, which directly impacts how efficiently print jobs are processed. **DeskPrntSpd** (Desktop Printer Speed) is a resulting metric of how quickly the printer can execute tasks, influenced by available resources. 
+
+1. **Memory as a Constraint**: Printer speed is limited by hardware capabilities and allocated memory. More memory (PrtMem) allows larger/spooler-heavy jobs to process faster, improving DeskPrntSpd.  
+2. **Causality Direction**: Adjusting memory allocation (PrtMem) directly affects speed (DeskPrntSpd), whereas speed settings do not retroactively increase physical or allocated memory.  
+3. **Windows 95 Context**: GDI printers relied on system memory; insufficient PrtMem would bottleneck DeskPrntSpd, confirming PrtMem as the causal factor.  
+
+<Answer>B</Answer>

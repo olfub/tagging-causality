@@ -1,0 +1,16 @@
+1. **Interpret the variables clinically**
+   - **nausea**: a non-specific symptom that commonly results from visceral irritation, inflammation, obstruction, biliary disease, hepatitis, gastritis, etc.
+   - **pressure_ruq**: a localized sensation in the **right upper quadrant**, suggesting a focal hepatobiliary or adjacent process (e.g., gallbladder/biliary colic or cholecystitis, liver capsule distension, hepatic congestion, duodenal pathology).
+
+2. **Check plausibility of A (nausea → RUQ pressure)**
+   - Nausea by itself does not typically generate a **localized RUQ pressure** sensation.
+   - While severe vomiting/retching can cause generalized abdominal soreness or epigastric discomfort, a specific RUQ “pressure” is less directly explained by nausea alone.
+
+3. **Check plausibility of B (RUQ pressure → nausea)**
+   - RUQ discomfort/pressure from hepatobiliary or upper abdominal visceral pathology commonly triggers **nausea** via visceral afferent signaling and associated autonomic responses.
+   - Classic examples: biliary colic often presents with RUQ pain/pressure plus nausea; hepatic inflammation or congestion can also produce both.
+
+4. **Direction that best matches common pathophysiology**
+   - A focal RUQ process is a more likely upstream driver, with nausea as a downstream associated symptom.
+
+<Answer>B</Answer>

@@ -1,0 +1,8 @@
+Demographic/Region Exposure:asia
+Infectious Disease Condition:tub
+Behavioral Risk Factor:smoke
+Malignant Disease Condition:lung
+Composite Diagnosis/Logical OR:either
+Diagnostic Imaging Result:xray
+Chronic Respiratory Condition:bronc
+Respiratory Symptom:dysp

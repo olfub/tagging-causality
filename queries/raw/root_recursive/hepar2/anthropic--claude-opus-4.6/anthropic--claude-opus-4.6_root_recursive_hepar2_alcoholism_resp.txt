@@ -1,0 +1,21 @@
+
+
+Looking at this problem, I need to identify which variables are directly caused by **alcoholism** based on medical knowledge and the structure of this liver disease diagnostic network (which appears to be the HEPAR II network).
+
+## Step-by-step reasoning:
+
+1. **Alcoholism** is a root-level risk factor (caused only by `sex` as stated).
+
+2. I need to identify its direct downstream effects among the listed variables. Considering the known medical consequences of chronic alcohol use on the liver:
+
+   - **hepatotoxic**: Alcohol is a well-known hepatotoxin — chronic alcohol use leads to a hepatotoxic state. ✅
+   - **steatosis**: Alcoholism is a primary cause of fatty liver (alcoholic steatosis). ✅
+   - **fibrosis**: Chronic alcohol-induced liver damage leads to fibrosis (scarring of liver tissue). ✅
+
+3. Other variables like `cirrhosis` are more likely downstream of `fibrosis` (fibrosis → cirrhosis), and variables like `vh_amn` (viral hepatitis history) are not caused by alcoholism.
+
+4. Variables like `alcohol` (likely an observable sign/test result of alcohol intake) might seem related, but in the causal structure, it is the disease state *alcoholism* that causes the pathological outcomes, not the other way around. However, in the HEPAR II network, `alcohol` (detectable alcohol) is also a direct consequence of alcoholism.
+
+Considering the full causal structure:
+
+<Answer>hepatotoxic, fibrosis, steatosis</Answer>

@@ -1,0 +1,15 @@
+oxygen_saturation:HypoxiaInO2,LowerBodyO2,RUQO2
+oxygenation_distribution:HypDistrib
+blood_gas:CO2,CO2Report
+imaging:ChestXray,XrayReport,LVH,LVHreport
+clinical_report:CO2Report,XrayReport,LVHreport,GruntingReport
+raw_measurement:CO2,HypoxiaInO2,LowerBodyO2,RUQO2,ChestXray,Grunting,LVH
+clinical_sign:Grunting,Sick,BirthAsphyxia
+cardiac:LVH,LVHreport,DuctFlow,CardiacMixing
+pulmonary:LungParench,LungFlow,Grunting,GruntingReport
+physiological_mechanism:CardiacMixing,LungParench,LungFlow,DuctFlow
+underlying_condition:Disease,BirthAsphyxia,Age
+body_region_measurement:LowerBodyO2,RUQO2
+systemic_indicator:Sick,HypDistrib
+temporal_factor:Age,BirthAsphyxia
+binary_condition:BirthAsphyxia,Sick,Disease

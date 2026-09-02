@@ -1,0 +1,27 @@
+Looking at this problem, I need to trace what **capchange** causes by examining the causal structure.
+
+## Step-by-step reasoning:
+
+**Step 1: Identify what causes capchange.**
+
+From the given relationships, capchange is caused by:
+- `satcontmoist`, `raocontmoist` (through `combmoisture`)
+- `morningbound`
+- `combmoisture`
+- `compplfcst`
+
+**Step 2: Identify capchange's downstream effects.**
+
+Although capchange is not explicitly listed as "capchange causes ..." in the given relationships, I can infer its role as an intermediary. Looking at the structure of the network (consistent with the Hailfinder Bayesian Network):
+
+- **capchange → capinscen**: CapInScen has CapChange as one of its parents. Every ancestor of capchange (morningbound, combmoisture, compplfcst, etc.) also lists capinscen as an effect, consistent with capchange mediating this path.
+
+**Step 3: Trace further descendants through capinscen.**
+
+- **capinscen → plainsfcst**: PlainsFcst is downstream of CapInScen.
+- **plainsfcst → n34starfcst**: N34StarFcst is downstream of PlainsFcst.
+- **n34starfcst → r5fcst**: R5Fcst is downstream of N34StarFcst.
+
+## Final answer:
+
+<Answer>capinscen, plainsfcst, n34starfcst, r5fcst</Answer>

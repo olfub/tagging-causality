@@ -1,0 +1,14 @@
+1) **Clarify what each statement means**
+- **A. “Tuberculosis causes X-ray”** is shorthand for: *Tuberculosis causes abnormalities that are seen on an X-ray (radiographic changes).*
+- **B. “X-ray causes Tuberculosis”** would mean: *Getting an X-ray causes someone to develop tuberculosis.*
+
+2) **Check biological plausibility**
+- Tuberculosis is an infectious disease caused by *Mycobacterium tuberculosis*. It can lead to lung inflammation, cavitation, consolidations, nodules, pleural effusions, and fibrotic changes—many of which **appear on chest X-ray**.
+- An X-ray is an imaging test using ionizing radiation at diagnostic doses. It **does not introduce TB bacteria** and does not cause TB infection. (While radiation can very slightly increase long-term cancer risk, it does not cause TB.)
+
+3) **Direction of causality in clinical practice**
+- Clinicians use X-rays to **detect** or **evaluate** disease effects; the test is an observation tool, not a cause of the infection.
+
+Therefore, **A is far more likely**.
+
+<Answer>A</Answer>

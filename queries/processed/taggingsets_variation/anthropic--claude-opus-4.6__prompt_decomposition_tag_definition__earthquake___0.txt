@@ -1,0 +1,17 @@
+cause:Burglary,Earthquake
+effect:Alarm,JohnCalls,MaryCalls
+event:Burglary,Earthquake
+signal:Alarm
+human_response:JohnCalls,MaryCalls
+root_cause:Burglary,Earthquake
+intermediate:Alarm
+observable_by_homeowner:Alarm,JohnCalls,MaryCalls
+environmental:Earthquake
+criminal_activity:Burglary
+communication:JohnCalls,MaryCalls
+sensor_based:Alarm
+directly_triggers_alarm:Burglary,Earthquake
+triggered_by_alarm:JohnCalls,MaryCalls
+binary_outcome:Burglary,Earthquake,Alarm,JohnCalls,MaryCalls
+exogenous:Burglary,Earthquake
+endogenous:Alarm,JohnCalls,MaryCalls

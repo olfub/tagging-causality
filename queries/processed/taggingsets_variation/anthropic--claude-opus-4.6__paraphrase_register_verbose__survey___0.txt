@@ -1,0 +1,15 @@
+biological:A,S
+fixed-at-birth:S
+time-accumulating:A
+acquired:E,O,R
+human-capital:E,O
+geographic:R,T
+behavioral:T
+choice-based:E,O,R,T
+categorical:S,E,O,R
+continuous:A
+socioeconomic:E,O,R
+mobility-related:R,T
+skill-related:E,O
+demographic:A,S
+activity:T

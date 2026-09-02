@@ -1,0 +1,10 @@
+**Step‑by‑step reasoning**
+
+1. **Gallstones** are solid particles that form in the gallbladder, usually because of an imbalance in bile composition.  
+2. When gallstones block the bile ducts, they can trigger **biliary colic**, which is felt as pain in the **upper abdomen** (often right‑upper quadrant or epigastric region).  
+3. This pain is a **symptom** that results from the presence of gallstones, not the other way around.  
+4. There is no plausible physiological mechanism by which experiencing upper abdominal pain could lead to the formation of gallstones.  
+
+Therefore, the causal direction “gallstones → upper_pain” (option A) is medically plausible, whereas “upper_pain → gallstones” (option B) is not.
+
+<Answer>A</Answer>

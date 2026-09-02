@@ -1,0 +1,5 @@
+The relationship between an accident and the associated insurance loss cost (ILiCost) is clearly directional: a collision occurs first, and then the insurer incurs costs (claims, repairs, medical payments, etc.). The cost is a consequence of the accident, not a factor that can cause the accident itself. Therefore, the more plausible causal direction is:
+
+**A. Accident causes ILiCost.**
+
+<Answer>A</Answer>

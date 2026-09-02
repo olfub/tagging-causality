@@ -1,0 +1,17 @@
+Looking at this problem, I need to determine which variables are directly caused by **goodstudent**.
+
+**Step 1: Identify goodstudent's role in the network.**
+
+From the given information:
+- `age` causes `goodstudent`
+- `socioecon` causes `goodstudent`
+
+So `goodstudent` is a downstream effect of both `age` and `socioecon`.
+
+**Step 2: Determine what goodstudent causes.**
+
+This is based on the well-known Insurance Bayesian network structure. `goodstudent` (being a good student driver) logically feeds into the overall assessment of driving quality. In this network, `goodstudent` is a direct cause of **`drivquality`** (driving quality), as being a good student driver directly contributes to one's overall driving quality assessment.
+
+No other variables in the network are directly caused by `goodstudent`.
+
+<Answer>drivquality</Answer>

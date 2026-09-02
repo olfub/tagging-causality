@@ -1,0 +1,76 @@
+ & \textbf{Cancer} & & \nonumber \\
+\text{``respiratory''} &~\rightarrow~ \text{``disease''} && (66\% ~/~ 3~~) \nonumber \\
+ & \textbf{Earthquake} & & \nonumber \\
+\text{``security\_related''} &~\rightarrow~ \text{``notification''} && (100\% ~/~ 3~~) \nonumber \\
+ & \textbf{Survey} & & \nonumber \\
+\text{``personal\_attribute''} &~\rightarrow~ \text{``choice\_dependent''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``personal\_attribute''} &~\rightarrow~ \text{``socioeconomic''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``socioeconomic''} &~\rightarrow~ \text{``geographic''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``personal\_attribute''} &~\rightarrow~ \text{``human\_capital''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``time\_dependent''} &~\rightarrow~ \text{``choice\_dependent''} && (80\% ~/~ 5~~) \nonumber \\
+\text{``choice\_dependent''} &~\rightarrow~ \text{``geographic''} && (75\% ~/~ 4~~) \nonumber \\
+\text{``human\_capital''} &~\rightarrow~ \text{``choice\_dependent''} && (75\% ~/~ 4~~) \nonumber \\
+ & \textbf{Asia} & & \nonumber \\
+\text{``lung-related''} &~\rightarrow~ \text{``downstream effect''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``downstream effect''} &~\rightarrow~ \text{``clinical observation''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``disease''} &~\rightarrow~ \text{``downstream effect''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``exogenous''} &~\rightarrow~ \text{``disease''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``exogenous''} &~\rightarrow~ \text{``medical outcome''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``exogenous''} &~\rightarrow~ \text{``respiratory''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``downstream effect''} &~\rightarrow~ \text{``breathing''} && (66\% ~/~ 3~~) \nonumber \\
+ & \textbf{Lucas} & & \nonumber \\
+\text{``respiratory''} &~\rightarrow~ \text{``symptom''} && (100\% ~/~ 5~~) \nonumber \\
+\text{``heritable''} &~\rightarrow~ \text{``downstream\_effect''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``risk\_factor''} &~\rightarrow~ \text{``accident\_related''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``disease''} &~\rightarrow~ \text{``downstream\_effect''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``disease''} &~\rightarrow~ \text{``symptom''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``heritable''} &~\rightarrow~ \text{``symptom''} && (100\% ~/~ 3~~) \nonumber \\
+\text{``respiratory''} &~\rightarrow~ \text{``downstream\_effect''} && (85\% ~/~ 7~~) \nonumber \\
+ & \textbf{Child} & & \nonumber \\
+\text{``disease\_mechanism''} &~\rightarrow~ \text{``pathophysiology''} && (100\% ~/~ 8~~) \nonumber \\
+\text{``pathophysiology''} &~\rightarrow~ \text{``measurement''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``pathophysiology''} &~\rightarrow~ \text{``oxygenation''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``pathophysiology''} &~\rightarrow~ \text{``blood\_gas''} && (100\% ~/~ 6~~) \nonumber \\
+\text{``disease\_mechanism''} &~\rightarrow~ \text{``pulmonary''} && (100\% ~/~ 6~~) \nonumber \\
+\text{``etiology''} &~\rightarrow~ \text{``disease\_mechanism''} && (100\% ~/~ 5~~) \nonumber \\
+\text{``disease\_mechanism''} &~\rightarrow~ \text{``hemodynamic''} && (100\% ~/~ 5~~) \nonumber \\
+ & \textbf{Insurance} & & \nonumber \\
+\text{``demographic''} &~\rightarrow~ \text{``socioeconomic\_dependent''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``exogenous''} &~\rightarrow~ \text{``vehicle\_property''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``exogenous''} &~\rightarrow~ \text{``vehicle\_related''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``accident\_related''} &~\rightarrow~ \text{``downstream\_consequence''} && (100\% ~/~ 6~~) \nonumber \\
+\text{``demographic''} &~\rightarrow~ \text{``age\_dependent''} && (100\% ~/~ 6~~) \nonumber \\
+\text{``age\_dependent''} &~\rightarrow~ \text{``risk\_factor''} && (100\% ~/~ 6~~) \nonumber \\
+\text{``socioeconomic\_dependent''} &~\rightarrow~ \text{``theft\_related''} && (100\% ~/~ 6~~) \nonumber \\
+ & \textbf{Alarm} & & \nonumber \\
+\text{``equipment''} &~\rightarrow~ \text{``airway''} && (100\% ~/~ 8~~) \nonumber \\
+\text{``root\_cause''} &~\rightarrow~ \text{``latent\_physiology''} && (100\% ~/~ 8~~) \nonumber \\
+\text{``cardiac''} &~\rightarrow~ \text{``observed\_indicator''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``equipment''} &~\rightarrow~ \text{``measurement''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``equipment''} &~\rightarrow~ \text{``observed\_indicator''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``pathological\_condition''} &~\rightarrow~ \text{``latent\_physiology''} && (100\% ~/~ 7~~) \nonumber \\
+\text{``airway''} &~\rightarrow~ \text{``latent\_physiology''} && (100\% ~/~ 6~~) \nonumber \\
+ & \textbf{Hailfinder} & & \nonumber \\
+\text{``context''} &~\rightarrow~ \text{``observed\_input''} && (100\% ~/~ 10~~) \nonumber \\
+\text{``observed\_input''} &~\rightarrow~ \text{``derived\_intermediate''} && (100\% ~/~ 8~~) \nonumber \\
+\text{``observed\_input''} &~\rightarrow~ \text{``combined\_aggregate''} && (100\% ~/~ 6~~) \nonumber \\
+\text{``context''} &~\rightarrow~ \text{``scenario\_related''} && (100\% ~/~ 5~~) \nonumber \\
+\text{``derived\_intermediate''} &~\rightarrow~ \text{``scenario\_related''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``scenario\_related''} &~\rightarrow~ \text{``forecast\_output''} && (100\% ~/~ 4~~) \nonumber \\
+\text{``observed\_input''} &~\rightarrow~ \text{``cloud''} && (100\% ~/~ 3~~) \nonumber \\
+ & \textbf{Hepar2} & & \nonumber \\
+\text{``liver\_disease''} &~\rightarrow~ \text{``laboratory\_value''} && (100\% ~/~ 48~~) \nonumber \\
+\text{``chronic\_condition''} &~\rightarrow~ \text{``laboratory\_value''} && (100\% ~/~ 28~~) \nonumber \\
+\text{``hepatitis''} &~\rightarrow~ \text{``laboratory\_value''} && (100\% ~/~ 27~~) \nonumber \\
+\text{``liver\_disease''} &~\rightarrow~ \text{``liver\_enzyme''} && (100\% ~/~ 19~~) \nonumber \\
+\text{``biliary\_system''} &~\rightarrow~ \text{``laboratory\_value''} && (100\% ~/~ 13~~) \nonumber \\
+\text{``liver\_disease''} &~\rightarrow~ \text{``cholestatic\_marker''} && (100\% ~/~ 12~~) \nonumber \\
+\text{``hepatitis''} &~\rightarrow~ \text{``liver\_enzyme''} && (100\% ~/~ 12~~) \nonumber \\
+ & \textbf{Win95Pts} & & \nonumber \\
+\text{``root\_cause''} &~\rightarrow~ \text{``intermediate\_state''} && (100\% ~/~ 17~~) \nonumber \\
+\text{``physical\_hardware''} &~\rightarrow~ \text{``intermediate\_state''} && (100\% ~/~ 12~~) \nonumber \\
+\text{``root\_cause''} &~\rightarrow~ \text{``functional\_status''} && (100\% ~/~ 11~~) \nonumber \\
+\text{``root\_cause''} &~\rightarrow~ \text{``data\_flow''} && (100\% ~/~ 8~~) \nonumber \\
+\text{``physical\_hardware''} &~\rightarrow~ \text{``functional\_status''} && (100\% ~/~ 8~~) \nonumber \\
+\text{``software''} &~\rightarrow~ \text{``intermediate\_state''} && (100\% ~/~ 8~~) \nonumber \\
+\text{``physical\_hardware''} &~\rightarrow~ \text{``local\_printing''} && (100\% ~/~ 8~~) \nonumber \\

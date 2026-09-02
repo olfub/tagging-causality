@@ -1,0 +1,8 @@
+risk_factor:Smoking,Genetics,Peer_Pressure
+symptom:Yellow_Fingers,Anxiety,Fatigue,Coughing
+disease:Allergy,Lung_Cancer
+mental_health:Anxiety,Attention_Disorder
+environmental:Smoking,Peer_Pressure,Car_Accident
+genetic:Genetics,Attention_Disorder
+random:Born_an_Even_Day
+accident:Car_Accident

@@ -1,0 +1,14 @@
+To determine the variables caused by `cblprthrdwrok`, I need to analyze the given causal relationships and check if `cblprthrdwrok` appears as a cause in any of them.
+
+Looking at the provided causal relationships:
+- `prtpaper` causes `prtstatpaper`
+- `netprint` causes `prtpath`
+- `prtdriver` causes `drvset`, `drvok`, `emfok`, `prtthread`
+- `prtcbl` causes `cblprthrdwrok`
+- `dsapplctn` causes `ds_ntok`, `ds_lclok`
+
+I can see that `cblprthrdwrok` appears only as an effect (it's caused by `prtcbl`), but it doesn't appear as a cause for any other variable in the given relationships.
+
+Therefore, based on the provided information, there are no variables that are caused by `cblprthrdwrok`.
+
+<Answer></Answer>

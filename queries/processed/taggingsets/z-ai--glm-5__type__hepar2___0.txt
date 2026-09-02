@@ -1,0 +1,10 @@
+Demographic:age,sex
+Exposure:alcohol,injections,transfusion,fat,hepatotoxic
+Comorbidity:alcoholism,diabetes,obesity
+History:vh_amn
+Procedure:hospital,surgery,choledocholithotomy
+Disease:THepatitis,ChHepatitis,RHepatitis,PBC,fibrosis,Steatosis,Cirrhosis,Hyperbilirubinemia,gallstones,carcinoma,encephalopathy
+Symptom:fatigue,itching,upper_pain,pain_ruq,pressure_ruq,pain,flatulence,anorexia,nausea,hepatalgia,joints
+Clinical_Sign:skin,spiders,palms,jaundice,edema,ascites,hepatomegaly,spleen,edge,irregular_liver,bleeding,consciousness
+Lab_Result:bilirubin,phosphatase,proteins,platelet,inr,urea,density,ESR,alt,ast,amylase,ggtp,cholesterol,triglycerides,albumin
+Serology:ama,le_cells,hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag

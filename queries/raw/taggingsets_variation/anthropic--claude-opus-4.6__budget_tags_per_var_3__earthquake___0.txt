@@ -1,0 +1,10 @@
+cause: Burglary, Earthquake
+trigger: Burglary, Earthquake, Alarm
+event: Burglary, Earthquake
+sensor: Alarm
+notification: JohnCalls, MaryCalls
+human_response: JohnCalls, MaryCalls
+crime: Burglary
+natural_phenomenon: Earthquake
+observable: Alarm, JohnCalls, MaryCalls
+intermediate: Alarm

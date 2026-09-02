@@ -1,0 +1,15 @@
+1. **Interpret the variables**
+   - **PrntrAccptsTrtyp** = a property/capability of the printer (or its effective support via the driver) regarding **accepting/handling TrueType fonts**.
+   - **PrtPScript** = whether you are **printing using PostScript** (typically by choosing a PostScript printer/driver or output mode).
+
+2. **Check which direction makes sense physically/technically**
+   - A printer’s ability to accept/handle TrueType fonts is essentially a **capability** (hardware/firmware/driver-supported behavior). That capability exists **before** you decide whether to print PostScript.
+   - Printing PostScript (**PrtPScript**) is more like an **output choice/mode**. Choosing PostScript does not normally change the printer’s underlying font acceptance capability; it just changes how the job is described/sent.
+
+3. **Which variable would more plausibly influence the other in Windows 95 troubleshooting?**
+   - If the printer **does or does not accept TrueType**, that can influence whether you **choose PostScript** (or how fonts are sent: download as soft fonts, convert to outlines/bitmaps, etc.).
+   - But printing PostScript doesn’t “cause” the printer to suddenly accept TrueType in any fundamental way.
+
+**Therefore, A is more likely than B.**
+
+<Answer>A</Answer>

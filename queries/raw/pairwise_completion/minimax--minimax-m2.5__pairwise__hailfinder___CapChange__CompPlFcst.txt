@@ -1,0 +1,3 @@
+The most plausible cause-and-effect relationship is that changes in atmospheric conditions (CapChange) lead to adjustments in the forecast (CompPlFcst), as forecasts are based on observed or modeled conditions rather than the reverse.
+
+<Answer>A</Answer>

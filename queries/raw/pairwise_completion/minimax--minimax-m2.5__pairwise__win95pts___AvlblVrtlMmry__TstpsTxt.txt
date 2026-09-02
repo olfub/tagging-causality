@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the terms**  
+   - **AvlblVrtlMmry** – “Available Virtual Memory.” In Windows 95 this is the amount of virtual memory that the system can still allocate.  
+   - **TstpsTxt** – Likely stands for “Test Print Text” (the result of a printer test page). It represents whether a test page can be printed successfully or not.
+
+2. **How printing works in Windows 95**  
+   - The print spooler stores the print job in virtual memory before sending it to the printer.  
+   - If the system has insufficient virtual memory, the spooler cannot buffer the job, leading to a failure when trying to print a test page (or any page).
+
+3. **Evaluate the two possible causal directions**  
+   - *Option A*: Low available virtual memory → test‑page failure. This matches the known behavior: when memory is scarce, the print spooler cannot allocate enough space, causing the test print to fail.  
+   - *Option B*: Test‑page attempt → reduction in available virtual memory. While printing does temporarily use memory, the memory is released after the job completes, so a test page does not cause a persistent drop in available virtual memory.
+
+4. **Conclusion**  
+   The more plausible cause‑and‑effect relationship is that limited virtual memory leads to problems printing a test page.
+
+<Answer>A</Answer>

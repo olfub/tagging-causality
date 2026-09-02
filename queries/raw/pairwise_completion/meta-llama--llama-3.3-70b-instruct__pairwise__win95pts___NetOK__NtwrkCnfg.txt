@@ -1,0 +1,16 @@
+To determine the cause-and-effect relationship between NetOK and NtwrkCnfg in the context of Windows 95, let's break down what each of these components does.
+
+1. **NetOK**: NetOK is not a standard Windows 95 component or utility directly related to networking configuration in the typical troubleshooting lexicon. However, it might be confused with or resemble "Net Watcher" or other network diagnostic tools or could be a typo or misunderstanding of a different command or utility.
+
+2. **NtwrkCnfg**: This seems to be a reference to the "Network Configuration" in Windows 95. The Network Configuration utility in Windows 95 is used to configure network settings, including protocols, adapters, and services.
+
+Given the context of Windows 95 and the likely roles of these elements:
+
+- **NtwrkCnfg (Network Configuration)** is a utility or process that configures and sets up the network. 
+- **NetOK**, if considered as a tool or process related to network diagnosis or confirmation, would logically follow the configuration process. In a typical scenario, you would first configure your network (using something like NtwrkCnfg) and then check or verify its status (potentially using a tool that could be misconstrued as "NetOK").
+
+Therefore, the logical sequence is that you configure your network first (NtwrkCnfg) and then check if it's working or "OK" (NetOK). This suggests that the configuration (cause) leads to the verification or status check (effect).
+
+So, the cause-and-effect relationship where **NtwrkCnfg causes NetOK** seems more plausible because you would first configure your network and then verify its status.
+
+<Answer>B</Answer>

@@ -1,0 +1,16 @@
+1. **Clarify the variables**
+   - **Steatosis** = fatty change in the liver (a pathologic state that can injure hepatocytes).
+   - **AST** (aspartate aminotransferase) = an intracellular enzyme measured in blood; when elevated, it typically reflects **cell injury/necrosis** (e.g., hepatocyte damage, muscle injury). It functions primarily as a **biomarker**, not a driver of liver fat accumulation.
+
+2. **Check biological plausibility**
+   - In hepatic steatosis (e.g., NAFLD/NASH), hepatocytes can become stressed/injured, leading to **leakage of AST (and ALT)** into the bloodstream → **higher AST**.
+   - An increased AST level in blood does not mechanistically induce triglyceride accumulation in hepatocytes; it is not known to be a causal agent of steatosis.
+
+3. **Common clinical direction of association**
+   - Clinically, **steatosis often precedes and explains mild-to-moderate transaminase elevations**, including AST.
+   - Elevated AST is usually interpreted as a **consequence/indicator** of underlying liver pathology (among other causes), not the cause of that pathology.
+
+4. **Conclusion**
+   - The more likely causal direction is **steatosis → elevated AST**.
+
+<Answer>A</Answer>

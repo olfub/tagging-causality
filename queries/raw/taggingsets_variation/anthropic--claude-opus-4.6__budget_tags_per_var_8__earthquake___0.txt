@@ -1,0 +1,24 @@
+crime: Burglary
+cause: Burglary, Earthquake
+physical_event: Burglary, Earthquake
+rare_event: Burglary, Earthquake
+threat: Burglary, Earthquake
+trigger: Burglary, Earthquake
+security: Burglary, Alarm
+household: Burglary, Alarm
+natural_phenomenon: Earthquake
+environmental: Earthquake
+unpredictable: Earthquake
+sensor: Alarm
+detection: Alarm
+automated: Alarm
+intermediate: Alarm
+observable: Alarm, JohnCalls, MaryCalls
+event: Burglary, Earthquake, Alarm
+human_response: JohnCalls, MaryCalls
+notification: JohnCalls, MaryCalls
+communication: JohnCalls, MaryCalls
+phone_call: JohnCalls, MaryCalls
+person: JohnCalls, MaryCalls
+downstream: JohnCalls, MaryCalls
+neighbor: JohnCalls, MaryCalls

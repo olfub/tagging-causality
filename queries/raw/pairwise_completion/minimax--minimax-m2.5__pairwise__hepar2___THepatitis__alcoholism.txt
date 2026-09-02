@@ -1,0 +1,21 @@
+**Step‑by‑step reasoning**
+
+1. **Define the terms**  
+   - *Alcoholism* (alcohol use disorder): chronic, excessive consumption of alcohol.  
+   - *Hepatitis* (THepatitis is likely a typo for hepatitis): inflammation of the liver, which can be caused by viruses, toxins (including alcohol), autoimmune disease, etc.
+
+2. **Evidence from medical literature**  
+   - **Alcohol → hepatitis:** Heavy, prolonged alcohol intake is a well‑established cause of *alcoholic hepatitis*, fatty liver, and cirrhosis. The pathophysiological pathway is direct toxicity of ethanol metabolites to liver cells, leading to inflammation.  
+   - **Hepatitis → alcoholism:** Chronic viral hepatitis (B, C) can lead to liver damage, but there is no credible mechanism by which the infection itself causes a person to develop alcohol dependence. Some patients may use alcohol as a coping mechanism, but this is a behavioral response, not a direct causal link.
+
+3. **Epidemiology**  
+   - Studies consistently show higher rates of hepatitis (especially alcoholic hepatitis) among individuals with alcoholism.  
+   - Conversely, large population studies do not demonstrate that having hepatitis increases the risk of developing alcoholism beyond baseline behavioral risk factors.
+
+4. **Clinical relevance**  
+   - Treating alcoholism prevents alcoholic hepatitis and halts progression of liver disease.  
+   - Treating hepatitis does not cure alcoholism; instead, continued alcohol use worsens hepatitis outcomes.
+
+**Conclusion:** The causal direction supported by medical evidence is that *alcoholism leads to hepatitis*, not the reverse.
+
+<Answer>B</Answer>

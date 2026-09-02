@@ -1,0 +1,19 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the nature of each event**  
+   - *Burglary*: a criminal act committed by humans, involving theft or unlawful entry.  
+   - *Earthquake*: a natural geophysical phenomenon caused by the sudden release of energy in the Earth’s crust, resulting in seismic waves.
+
+2. **Examine possible causal links**  
+   - *Can burglary cause an earthquake?*  
+     - Human activities such as underground nuclear tests or large‑scale groundwater extraction can, in very rare cases, trigger small seismic events, but ordinary burglary (a property crime) has no physical mechanism capable of generating the massive energy release required for an earthquake.  
+   - *Can an earthquake cause burglary?*  
+     - After a major earthquake, infrastructure is damaged, power may be out, emergency services are stretched, and people may flee or be displaced. This creates opportunities and motives for theft (looting, burglaries). Historical records show increases in crime, including burglary, following large earthquakes.
+
+3. **Compare likelihood**  
+   - The physical pathway from burglary → earthquake does not exist, making that direction essentially impossible.  
+   - The pathway from earthquake → burglary is plausible and has empirical support (e.g., post‑disaster crime spikes).
+
+**Conclusion:** The more likely cause‑and‑effect relationship is that an earthquake can lead to burglaries.
+
+<Answer>B</Answer>

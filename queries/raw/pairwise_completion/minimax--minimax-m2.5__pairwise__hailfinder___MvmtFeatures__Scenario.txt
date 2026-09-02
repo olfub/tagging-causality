@@ -1,0 +1,17 @@
+**Step‑by‑step reasoning**
+
+1. **What are “MvmtFeatures” and “Scenario”?**  
+   - *MvmtFeatures* (movement features) refer to observable storm‑motion variables such as speed, direction, propagation, shear, and divergence derived from radar or satellite data.  
+   - *Scenario* (in a hail‑forecast context) is the predicted outcome or classification – e.g., “high‑risk hail scenario”, “supercell scenario”, “severe‑hail potential”, etc.
+
+2. **Temporal precedence** – In a forecasting workflow the movement features are measured at the present time (or recent past) and are then used to infer what the future scenario will be. The scenario is a *future* condition that follows from the current state of the storm.
+
+3. **Purpose of the forecast** – Forecasters treat movement features as *predictors* (independent variables) and the scenario as the *predicted* (dependent) variable. The causal direction that makes sense for a predictive model is: **movement features → scenario**.
+
+4. **Physical plausibility** – The storm’s motion (speed, path, shear) is driven by atmospheric dynamics. Different dynamics produce different storm types (e.g., supercells vs. squall lines) which in turn give rise to different hail scenarios. Thus the observed motion characteristics *cause* the resulting hail scenario, rather than the label “scenario” causing the storm to move in a particular way.
+
+5. **Alternative direction (Scenario → MvmtFeatures) would be odd** – Treating the scenario (a categorical label) as the cause of physically measured movement features lacks a mechanistic basis and would not be useful for prediction.
+
+**Conclusion:** The more plausible causal relationship is that **movement features (MvmtFeatures) cause the forecast scenario (Scenario)**.
+
+<Answer>A</Answer>

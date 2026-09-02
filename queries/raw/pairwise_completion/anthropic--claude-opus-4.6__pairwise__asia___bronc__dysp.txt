@@ -1,0 +1,18 @@
+
+
+## Step-by-Step Reasoning
+
+**Step 1: Define the terms**
+- **Bronchitis**: An inflammatory condition of the bronchial tubes (airways), caused by infection, irritants, or chronic exposure (e.g., smoking). It leads to swelling, excess mucus production, and airway narrowing.
+- **Dyspnoea**: The clinical term for difficulty breathing or shortness of breath. It is a *symptom*, not a disease.
+
+**Step 2: Evaluate Option A (Bronchitis → Dyspnoea)**
+Bronchitis causes airway inflammation, mucosal swelling, and mucus hypersecretion. These pathological changes narrow the airways and impair gas exchange, directly resulting in the sensation of breathlessness (dyspnoea). Dyspnoea is a well-established and cardinal **symptom** of bronchitis.
+
+**Step 3: Evaluate Option B (Dyspnoea → Bronchitis)**
+Dyspnoea is a symptom — a subjective sensation of breathing difficulty. It does not cause infection or airway inflammation. While dyspnoea can be associated with conditions that *predispose* to bronchitis (e.g., COPD), the breathlessness itself does not cause bronchitis. Bronchitis is caused by viral/bacterial infections or chronic irritant exposure, not by the symptom of shortness of breath.
+
+**Step 4: Conclusion**
+The relationship is clearly that bronchitis (the disease) produces dyspnoea (the symptom), not the reverse.
+
+<Answer>A</Answer>

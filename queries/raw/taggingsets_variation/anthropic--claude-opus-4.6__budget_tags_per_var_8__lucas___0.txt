@@ -1,0 +1,34 @@
+health_related: Smoking, Yellow_Fingers, Anxiety, Attention_Disorder, Fatigue, Allergy, Coughing, Lung_Cancer, Car_Accident
+behavioral: Smoking, Peer_Pressure
+respiratory: Smoking, Coughing, Lung_Cancer
+risk_factor: Smoking, Anxiety, Genetics
+observable: Smoking, Yellow_Fingers, Coughing
+cause: Smoking, Peer_Pressure, Genetics, Allergy
+modifiable: Smoking, Anxiety, Peer_Pressure
+habitual: Smoking
+symptom: Yellow_Fingers, Anxiety, Fatigue, Coughing
+body_response: Yellow_Fingers, Fatigue, Allergy, Coughing
+effect: Yellow_Fingers, Fatigue, Coughing, Lung_Cancer, Car_Accident
+gradual_onset: Yellow_Fingers, Fatigue, Lung_Cancer
+involuntary: Yellow_Fingers, Born_an_Even_Day, Car_Accident, Coughing
+superficial: Yellow_Fingers, Born_an_Even_Day
+mental: Anxiety, Attention_Disorder
+psychological: Anxiety, Peer_Pressure, Attention_Disorder
+internal_state: Anxiety, Fatigue, Attention_Disorder
+stress_related: Anxiety, Fatigue, Peer_Pressure
+external: Peer_Pressure, Car_Accident
+non_health: Peer_Pressure, Born_an_Even_Day
+social: Peer_Pressure
+hereditary: Genetics, Attention_Disorder, Allergy
+innate: Genetics, Born_an_Even_Day, Allergy
+biological: Genetics, Allergy, Lung_Cancer
+predetermined: Genetics, Born_an_Even_Day
+chronic: Genetics, Attention_Disorder, Fatigue, Allergy, Lung_Cancer
+intrinsic: Genetics
+personal_info: Attention_Disorder, Born_an_Even_Day
+medical_condition: Attention_Disorder, Allergy, Lung_Cancer
+random: Born_an_Even_Day, Car_Accident
+demographic: Born_an_Even_Day
+life_threatening: Car_Accident, Lung_Cancer
+sudden_onset: Car_Accident, Coughing
+traumatic: Car_Accident

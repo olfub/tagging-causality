@@ -1,0 +1,14 @@
+To determine the variables that are caused by pulmembolus, we must analyze the given causal relationships. The direct causal relationships provided are as follows:
+
+1. history causes lvfailure, hypovolemia, anaphylaxis, pulmembolus
+2. lvfailure causes lvedvolume, strokevolume, co, cvp, pcwp, bp, pap, hr, hrekg, hrbp, errlowoutput
+3. hypovolemia causes co, bp, hr, strokevolume
+4. anaphylaxis causes bp, hr, co
+
+However, there are no direct causal relationships given for pulmembolus. Since pulmembolus is not listed as causing any other variables directly in the provided relationships, but knowing that pulmembolus (a sudden blockage in the pulmonary arteries) would logically affect certain cardiovascular and respiratory parameters, we must infer based on typical medical understanding rather than the explicit causal relationships provided.
+
+Typically, a pulmembolus would lead to increased pressure in the pulmonary artery (pap), decreased cardiac output (co) due to the blockage preventing efficient blood flow through the lungs, decreased oxygen saturation (sao2, indirectly through decreased effective gas exchange), and potentially increased heart rate (hr) as the body tries to compensate for decreased oxygenation and cardiac output. It could also affect blood pressure (bp) and might indirectly affect other variables like cvp (central venous pressure) and pcwp (pulmonary capillary wedge pressure) due to the strain on the heart and changes in blood flow dynamics.
+
+However, given the specific instructions and the causal relationships provided, we are only to select variables directly caused by pulmembolus based on the given information. Since there are no direct causal relationships provided for pulmembolus to any other variable, we are limited by the information given.
+
+<Answer>pap, co, hr, bp, sao2, cvp, pcwp</Answer>

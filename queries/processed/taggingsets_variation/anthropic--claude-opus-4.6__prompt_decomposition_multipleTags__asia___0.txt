@@ -1,0 +1,17 @@
+disease:tub,lung,bronc
+risk factor:asia,smoke
+symptom:dysp
+diagnostic test:xray
+intermediate variable:either
+respiratory:tub,lung,bronc,dysp,xray
+behavior:smoke
+geographical:asia
+infection:tub
+malignancy:lung
+airway condition:bronc,dysp
+cause:asia,smoke
+effect of exposure:tub,lung,bronc
+clinical observation:xray,dysp
+lung pathology:tub,lung,either
+derived:either,xray,dysp
+directly caused by smoking:lung,bronc

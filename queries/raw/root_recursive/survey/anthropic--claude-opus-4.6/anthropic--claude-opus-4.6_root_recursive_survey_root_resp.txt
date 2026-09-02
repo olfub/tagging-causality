@@ -1,0 +1,22 @@
+
+
+# Identifying Root Variables (Unaffected by Others)
+
+I need to determine which variables are **not caused** by any other variable in this set. Let me reason through each:
+
+## Step-by-step Analysis
+
+| Variable | Could it be caused by other variables in the set? | Reasoning |
+|---|---|---|
+| **Age (a)** | **No** | Age is a biological/temporal trait determined by birth. No other variable here (sex, education, occupation, residence, travel) causes one's age. |
+| **Sex (s)** | **No** | Sex is a biological characteristic determined at birth. It is not caused by any other variable in this set. |
+| **Education (e)** | **Yes** | Influenced by age (accumulation over time), sex (historical access differences), and possibly residence (urban/rural access). |
+| **Occupation (o)** | **Yes** | Influenced by education, age, sex, and residence. |
+| **Residence (r)** | **Yes** | Can be influenced by occupation, education, and age (e.g., migration for work/school). |
+| **Travel (t)** | **Yes** | Influenced by age, sex, occupation, residence, and education (a downstream variable). |
+
+## Conclusion
+
+**Age (a)** and **Sex (s)** are the only variables that are **exogenous** — they are not affected by any other variables in this set. They serve as root nodes in the causal graph, driving downstream effects on education, occupation, residence, and travel.
+
+<Answer>a, s</Answer>

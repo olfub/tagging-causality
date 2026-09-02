@@ -1,0 +1,19 @@
+demographic: age, sex
+lifestyle: alcoholism, alcohol
+procedure: hospital, surgery, choledocholithotomy, injections, transfusion
+lab_test: bilirubin, phosphatase, proteins, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, triglycerides, albumin, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, ama, le_cells
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+autoimmune_marker: ama, le_cells
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, flatulence, anorexia, nausea, pain, consciousness, hepatalgia, bleeding
+physical_sign: edema, ascites, hepatomegaly, spleen, spiders, jaundice, palms, irregular_liver, edge, skin, encephalopathy
+diagnosis: THepatitis, hepatotoxic, ChHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, vh_amn, carcinoma, gallstones
+liver_disease: THepatitis, hepatotoxic, ChHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, RHepatitis, vh_amn, carcinoma, hepatomegaly, hepatalgia
+viral_etiology: vh_amn, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+metabolic: diabetes, obesity, Steatosis, triglycerides, cholesterol, fat
+pain: upper_pain, pain_ruq, pressure_ruq, hepatalgia, pain
+hepatic_injury: alt, ast, hepatotoxic
+cholestasis: phosphatase, ggtp, bilirubin, jaundice, itching, Hyperbilirubinemia, PBC
+synthetic_function: albumin, inr, proteins
+portal_hypertension: spleen, ascites, encephalopathy, platelet
+imaging: density, fat, irregular_liver, edge
+coagulation: inr, platelet, bleeding

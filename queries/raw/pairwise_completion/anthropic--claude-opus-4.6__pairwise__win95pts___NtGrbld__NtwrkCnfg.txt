@@ -1,0 +1,19 @@
+
+
+# Analyzing the Causal Relationship: NtGrbld vs. NtwrkCnfg
+
+## Step 1: Identify the Variables
+In the classic Windows 95 printer troubleshooting domain:
+- **NtGrbld** = "Network Garbled" — refers to garbled data transmitted over the network to the printer.
+- **NtwrkCnfg** = "Network Configuration" — refers to the state/correctness of the network configuration settings.
+
+## Step 2: Determine the Causal Direction
+- **Network Configuration** is a root-level setting — it describes whether the network is properly set up (drivers, protocols, addressing, etc.).
+- **Network Garbled** is a *symptom* or downstream effect — data becomes garbled during transmission.
+
+A misconfigured network (NtwrkCnfg) can lead to garbled data over the network (NtGrbld), not the other way around. Garbled output doesn't cause the configuration to change; rather, a bad configuration causes the output to be garbled.
+
+## Step 3: Confirm with the Known Bayesian Network
+In the well-known **Win95pts** Bayesian network (Printer Troubleshooting), **NtwrkCnfg** is a parent node of **NtGrbld**, meaning network configuration problems are a cause of garbled network output.
+
+<Answer>B</Answer>

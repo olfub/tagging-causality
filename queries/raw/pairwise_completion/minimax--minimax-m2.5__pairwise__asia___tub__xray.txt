@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **Understand the terms**  
+   - *Tuberculosis (TB)* is a bacterial infection caused by *Mycobacterium tuberculosis* that primarily affects the lungs.  
+   - *X‑ray* (specifically chest X‑ray) is an imaging technique used to view the inside of the chest.
+
+2. **Identify the possible causal directions**  
+   - **A. TB → X‑ray** – Does having TB lead to an X‑ray being taken or to an abnormal X‑ray appearance?  
+   - **B. X‑ray → TB** – Does undergoing an X‑ray cause a person to develop TB? This would mean the X‑ray itself initiates the infection.
+
+3. **Evaluate each direction**  
+   - **Direction A:** Clinicians often order a chest X‑ray when they suspect TB because the disease can produce characteristic radiographic findings (e.g., infiltrates, cavities, lymphadenopathy). In that sense, TB *causes* the X‑ray to show these abnormalities. The phrase “Tuberculosis causes X‑ray” is a shorthand way of saying “TB produces findings that are visible on an X‑ray.”  
+   - **Direction B:** An X‑ray is a low‑dose form of electromagnetic radiation used for imaging; it does not introduce *Mycobacterium tuberculosis* into the body and therefore cannot cause TB. There is no plausible mechanism by which a diagnostic X‑ray could initiate a TB infection.
+
+4. **Select the more plausible relationship**  
+   - The only plausible causal pathway is that TB leads to abnormal X‑ray findings, not the reverse. Thus, statement **A** is the logical cause‑and‑effect relationship.
+
+**Conclusion:** The more likely cause‑and‑effect relationship is “Tuberculosis causes X‑ray.”
+
+<Answer>A</Answer>

@@ -1,0 +1,4 @@
+Disease: Tuberculosis, Lung Cancer, Bronchitis, Either Tuberculosis or Lung Cancer, Dyspnoea
+Location: Asia
+Behavior: Smoking
+DiagnosticTool: X-ray

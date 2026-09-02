@@ -1,0 +1,7 @@
+Cirrhosis is a chronic liver disease that leads to structural remodeling of the liver (fibrosis, nodularity, architectural distortion). Those anatomic changes can manifest clinically or on imaging as an abnormal liver **edge** (e.g., firm, nodular, irregular edge, altered contour).
+
+In contrast, an “edge” finding by itself is not a plausible upstream cause of cirrhosis; it’s better interpreted as a consequence/sign of underlying liver pathology rather than an etiologic factor.
+
+Therefore, the more likely direction is:
+
+<Answer>A</Answer>

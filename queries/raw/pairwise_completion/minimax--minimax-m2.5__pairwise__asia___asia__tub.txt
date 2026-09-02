@@ -1,0 +1,18 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the entities**  
+   - *Asia*: a geographic continent.  
+   - *Tuberculosis (TB)*: an infectious disease caused by the bacterium *Mycobacterium tuberculosis*.
+
+2. **Consider possible causal directions**  
+   - *Asia → TB*: Could the characteristics of the Asian continent (e.g., high population density, socioeconomic factors, climate) influence the spread of TB? This is a plausible **association** (higher TB burden in some Asian countries), though it is not a direct causal mechanism.  
+   - *TB → Asia*: Could the disease itself cause the existence of a continent? A disease cannot create a landmass, a political entity, or a geographic region. This direction is logically impossible.
+
+3. **Compare plausibility**  
+   - The first direction (Asia influences TB occurrence) has some logical basis, even if it is really a correlation rather than a true cause‑effect relationship.  
+   - The second direction (TB causes Asia) has no logical or scientific basis.
+
+4. **Conclusion**  
+   - The more likely (though still not truly causal) relationship is that geographic and socioeconomic factors in Asia are associated with higher TB prevalence. Therefore, “Asia causes Tuberculosis” (Option A) is the more plausible of the two statements.
+
+<Answer>A</Answer>

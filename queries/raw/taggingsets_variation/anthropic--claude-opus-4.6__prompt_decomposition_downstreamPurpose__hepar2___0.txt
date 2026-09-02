@@ -1,0 +1,28 @@
+liver_disease: vh_amn, THepatitis, ChHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, RHepatitis, carcinoma
+hepatitis: THepatitis, ChHepatitis, RHepatitis, vh_amn
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, flatulence, anorexia, nausea, jaundice, bleeding
+clinical_sign: hepatomegaly, hepatalgia, spiders, palms, edema, ascites, spleen, irregular_liver, edge
+lab_test: bilirubin, phosphatase, alt, ast, amylase, ggtp, cholesterol, triglycerides, albumin, proteins, platelet, inr, urea, ESR
+liver_enzyme: alt, ast, ggtp, phosphatase
+viral_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+risk_factor: alcoholism, hepatotoxic, surgery, injections, transfusion, obesity, diabetes, alcohol, gallstones
+demographic: sex, age, hospital
+metabolic: diabetes, obesity, triglycerides, cholesterol, fat, Steatosis
+biliary: gallstones, choledocholithotomy, Hyperbilirubinemia, bilirubin, phosphatase, PBC
+coagulation: platelet, inr, bleeding
+skin_finding: skin, jaundice, spiders, palms, itching
+abdominal: upper_pain, pain_ruq, pressure_ruq, flatulence, hepatomegaly, hepatalgia, ascites, spleen
+autoimmune: ama, le_cells, PBC, joints
+procedure: surgery, choledocholithotomy, injections, transfusion
+complication: Cirrhosis, Hyperbilirubinemia, encephalopathy, ascites, bleeding, carcinoma
+exposure: alcohol, alcoholism, hepatotoxic, injections, transfusion, sex
+gastrointestinal: anorexia, nausea, flatulence
+liver_physical_exam: hepatomegaly, hepatalgia, edge, irregular_liver, density
+neurological: encephalopathy, consciousness
+portal_hypertension: ascites, spleen, edema, spiders, encephalopathy, bleeding
+pain_related: upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia
+lipid: triglycerides, cholesterol, fat
+blood_protein: albumin, proteins
+chronic_condition: alcoholism, diabetes, obesity, ChHepatitis, PBC, fibrosis, Cirrhosis
+liver_function: bilirubin, albumin, proteins, inr
+imaging_finding: density, edge, irregular_liver, hepatomegaly, spleen

@@ -1,0 +1,13 @@
+Demographic: Age, Sex, Education, Occupation, Residence
+Innate: Age, Sex
+Immutable: Age, Sex
+Socioeconomic: Education, Occupation
+Individual: Age, Sex, Education, Occupation, Travel
+Behavioral: Travel, Occupation
+Temporal: Age, Education, Occupation
+Geographic: Residence, Travel
+Acquired: Education, Occupation, Residence, Travel
+Outcome: Travel
+Mobility: Travel, Residence
+Personal-attribute: Age, Sex, Education, Occupation
+Life-stage-dependent: Education, Occupation, Residence

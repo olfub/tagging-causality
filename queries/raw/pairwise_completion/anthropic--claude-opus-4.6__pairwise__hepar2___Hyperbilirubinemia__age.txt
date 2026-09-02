@@ -1,0 +1,18 @@
+
+
+## Step-by-Step Reasoning
+
+**Option A: Hyperbilirubinemia causes age**
+- This implies that elevated bilirubin levels determine or produce a person's age.
+- Age is a fundamental biological/temporal variable that progresses independently of any disease state.
+- A laboratory finding like high bilirubin cannot cause someone to be a certain age. This is not logically or biologically plausible.
+
+**Option B: Age causes Hyperbilirubinemia**
+- Age is a well-known risk factor for hyperbilirubinemia.
+- **Neonates** are highly susceptible to physiological jaundice due to immature hepatic conjugation pathways and increased red blood cell turnover — their young age directly contributes to this condition.
+- **Elderly patients** may develop hyperbilirubinemia due to age-related decline in liver function, increased comorbidities, and polypharmacy.
+- In causal reasoning, age is a fundamental upstream variable that influences disease risk, not the reverse.
+
+**Conclusion:** Age is a demographic and biological factor that can causally influence the development of hyperbilirubinemia, while hyperbilirubinemia cannot cause age.
+
+<Answer>B</Answer>

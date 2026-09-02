@@ -1,0 +1,33 @@
+demographic: sex, age
+alcohol_use: alcohol, alcoholism
+hepatotoxic_exposure: hepatotoxic
+hepatitis_history: vh_amn
+healthcare_contact: hospital, surgery
+bloodborne_exposure: injections, transfusion
+biliary_stone_intervention: gallstones, choledocholithotomy
+hepatitis_diagnosis: THepatitis, RHepatitis, ChHepatitis
+viral_hepatitis_serology: hbsag, hbeag, hbc_anti, hcv_anti, hbsag_anti
+autoimmune_serology: ama, le_cells
+hepatocellular_injury_enzymes: alt, ast
+cholestasis_enzymes: phosphatase, ggtp
+bilirubin_measure: bilirubin, Hyperbilirubinemia
+lipid_measure: cholesterol, triglycerides
+protein_synthesis_labs: albumin, proteins
+renal_function_lab: urea
+inflammation_lab: ESR
+coagulation_bleeding: inr, platelet, bleeding
+metabolic_comorbidity: diabetes, obesity
+fat_related: fat, Steatosis
+fibrosis_cirrhosis: fibrosis, Cirrhosis
+cholestatic_liver_disease: PBC
+liver_malignancy: carcinoma
+gi_symptoms: anorexia, nausea, flatulence
+systemic_symptom: fatigue
+pruritus: itching
+abdominal_ruq_pain: upper_pain, pain_ruq, pressure_ruq, hepatalgia
+musculoskeletal_pain: joints, pain
+fluid_retention_portal_htn: ascites, edema, spleen
+mental_status_encephalopathy: encephalopathy, consciousness
+hepatic_exam_findings: hepatomegaly, edge, irregular_liver, density
+cutaneous_stigmata: skin, spiders, palms
+jaundice_sign: jaundice

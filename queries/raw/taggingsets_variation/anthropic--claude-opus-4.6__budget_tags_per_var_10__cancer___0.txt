@@ -1,0 +1,25 @@
+environmental_factor: Pollution
+behavioral_factor: Smoker
+disease: Cancer
+diagnostic_tool: Xray
+symptom: Dyspnoea
+health_related: Cancer, Xray, Dyspnoea, Smoker
+cause_of_disease: Pollution, Smoker
+observable: Xray, Dyspnoea, Pollution, Smoker
+medical_outcome: Cancer, Dyspnoea
+binary_variable: Pollution, Smoker, Cancer, Xray, Dyspnoea
+risk_factor: Pollution, Smoker
+clinical_finding: Xray, Dyspnoea
+respiratory_related: Smoker, Cancer, Dyspnoea, Pollution
+directly_measurable: Pollution, Smoker, Xray
+patient_characteristic: Smoker
+external_exposure: Pollution
+imaging: Xray
+consequence: Cancer, Xray, Dyspnoea
+root_cause: Pollution, Smoker
+physiological_state: Cancer, Dyspnoea
+lung_related: Cancer, Dyspnoea, Xray, Smoker, Pollution
+downstream_effect: Dyspnoea
+influenced_by_disease: Xray, Dyspnoea
+not_directly_modifiable: Cancer, Dyspnoea, Xray
+lifestyle: Smoker

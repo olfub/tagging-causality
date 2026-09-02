@@ -1,0 +1,15 @@
+cause: BirthAsphyxia, Disease, Age, LVH, DuctFlow, CardiacMixing, LungParench, LungFlow, Sick
+effect: HypDistrib, HypoxiaInO2, CO2, ChestXray, Grunting, LowerBodyO2, RUQO2, LVH
+report: LVHreport, CO2Report, XrayReport, GruntingReport, ChestXray
+symptom: HypDistrib, HypoxiaInO2, Grunting, Sick, CO2
+measurement: CO2, LowerBodyO2, RUQO2, HypoxiaInO2
+imaging: ChestXray, XrayReport, LVHreport
+respiratory: HypoxiaInO2, CO2, Grunting, LungParench, LungFlow, ChestXray, CO2Report, GruntingReport
+cardiac: LVH, DuctFlow, CardiacMixing, LungFlow, LVHreport
+oxygenation: HypDistrib, HypoxiaInO2, LowerBodyO2, RUQO2
+diagnosis: Disease
+demographic: Age
+perinatal: BirthAsphyxia
+severity: Sick, Disease
+observed: LVHreport, CO2Report, XrayReport, GruntingReport, LowerBodyO2, RUQO2, Age, HypDistrib
+latent: Disease, LVH, DuctFlow, CardiacMixing, LungParench, LungFlow, BirthAsphyxia

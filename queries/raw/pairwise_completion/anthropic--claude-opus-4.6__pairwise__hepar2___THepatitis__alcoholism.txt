@@ -1,0 +1,19 @@
+
+
+# Evaluating the Cause-and-Effect Relationship
+
+## Step-by-step reasoning:
+
+**Option A: Hepatitis causes alcoholism**
+- There is no well-established medical mechanism by which liver inflammation (hepatitis) would lead to alcohol dependence.
+- While chronic illness can sometimes contribute to substance use, hepatitis is not a recognized causal factor for alcoholism.
+
+**Option B: Alcoholism causes hepatitis**
+- This is a **well-established medical fact**. Chronic excessive alcohol consumption is a direct cause of **alcoholic hepatitis**, a condition involving inflammation of the liver.
+- The progression is well-documented: heavy alcohol use → fatty liver → **alcoholic hepatitis** → potentially cirrhosis.
+- Alcoholism is one of the leading causes of liver disease worldwide.
+
+## Conclusion
+The causal direction is clear: excessive alcohol consumption damages liver cells, triggering inflammation (hepatitis), not the other way around.
+
+<Answer>B</Answer>

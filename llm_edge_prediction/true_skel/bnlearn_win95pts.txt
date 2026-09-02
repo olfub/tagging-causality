@@ -1,0 +1,10 @@
+PrtOn -- PrtStatOff
+AppDtGnTm -- PrtSpool
+PrntPrcssTm -- PrtSpool
+AvlblVrtlMmry -- PrtPScript
+AppDtGnTm -- HrglssDrtnAftrPrnt
+PrtDataOut -- PrtFile
+Problem1 -- PrtData
+PrtStatToner -- TnrSpply
+PrtPaper -- PrtStatPaper
+PrtMem -- PrtStatMem

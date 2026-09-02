@@ -1,0 +1,1 @@
+["appok", "datafile", "dsklocal", "prton", "prtpaper", "netprint", "prtdriver", "drvset", "prtsel", "ntwrkcnfg", "prtcbl", "prtport", "prtmem", "tnrspply", "ptroffline", "grphcsrltddrvrsttngs", "epsgrphc", "nnpsgrphc", "prtpscript", "trtypfnts", "fntinstlltn", "prntraccptstrtyp", "avlblvrtlmmry", "dsapplctn", "prtmptpth", "prtpath"]

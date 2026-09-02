@@ -1,0 +1,9 @@
+Age -- GoodStudent
+Age -- SeniorTrain
+Airbag -- RuggedAuto
+AntiTheft -- RiskAversion
+Age -- RiskAversion
+DrivingSkill -- SeniorTrain
+Age -- DrivingSkill
+RiskAversion -- SeniorTrain
+DrivHist -- DrivingSkill

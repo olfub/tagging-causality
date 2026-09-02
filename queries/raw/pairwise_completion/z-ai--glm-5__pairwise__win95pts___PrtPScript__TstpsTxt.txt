@@ -1,0 +1,19 @@
+To determine the correct cause-and-effect relationship, let's analyze the variables in the context of Windows 95 printer troubleshooting.
+
+**Step 1: Identify the Variables**
+*   **`TstpsTxt`**: This refers to the file `TSTPS.TXT`. In Windows 95 troubleshooting, this is a specific sample PostScript file included with the Windows Resource Kit or used by technicians. It is a tool used to test if a PostScript printer can interpret commands correctly.
+*   **`PrtPScript`**: This refers to the action or event of "Printing PostScript." This represents the actual process or attempt to send PostScript data to a printer.
+
+**Step 2: Analyze the Causal Mechanism**
+In a troubleshooting scenario, a technician or user utilizes tools to perform actions.
+*   The user selects or sends the file `TstpsTxt` (the cause/tool) to the printer.
+*   This action initiates the `PrtPScript` process (the effect/event).
+
+**Step 3: Evaluate the Reverse Relationship**
+Does the act of printing PostScript (`PrtPScript`) cause the existence or selection of the test file (`TstpsTxt`)?
+No. `TSTPS.TXT` is a pre-existing diagnostic file. The general action of printing PostScript does not generate this specific test file; rather, the file is used to facilitate the printing test.
+
+**Conclusion**
+The presence and use of the test file (`TstpsTxt`) causes the event of printing PostScript (`PrtPScript`) to occur as a diagnostic step.
+
+<Answer>B</Answer>

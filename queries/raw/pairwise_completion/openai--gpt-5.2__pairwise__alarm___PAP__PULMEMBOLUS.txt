@@ -1,0 +1,23 @@
+Let’s define the terms and then check the physiological direction of causality.
+
+### 1) What is PAP?
+**PAP = pulmonary artery pressure** (pressure in the pulmonary arterial circulation). It’s a hemodynamic *measurement/outcome* reflecting pulmonary vascular resistance, flow, and left-sided filling pressures (depending on context).
+
+### 2) What is a pulmonary embolus (PULMEMBOLUS)?
+A **pulmonary embolus** is an obstruction (usually a thrombus) in the pulmonary arterial tree, which **acutely reduces the effective cross-sectional area** of the pulmonary vasculature.
+
+### 3) What happens to pressures when you obstruct the pulmonary arterial bed?
+An acute obstruction leads to:
+- **↑ pulmonary vascular resistance (PVR)** distal/proximal to obstruction
+- Right ventricle must generate higher pressure to maintain flow
+- Result: **↑ PAP** (often abrupt), potentially with RV strain/dilation and reduced cardiac output
+
+So the typical causal chain is:
+**Pulmonary embolus → increased PVR → increased PAP (and RV strain).**
+
+### 4) Could high PAP cause a pulmonary embolus?
+Chronically elevated PAP (pulmonary hypertension) can predispose to in situ thrombosis in some pulmonary hypertension subtypes, but in ICU monitoring context and general clinical causality, **PAP is not the usual primary cause of an acute pulmonary embolus** (which most commonly originates from venous thromboembolism—DVT → embolization).
+
+Thus, **B** is the more likely and clinically standard cause-effect direction.
+
+<Answer>B</Answer>

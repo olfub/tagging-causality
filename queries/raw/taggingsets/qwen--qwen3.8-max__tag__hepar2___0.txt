@@ -1,0 +1,29 @@
+demographic: sex, age
+disease_diagnosis: THepatitis, ChHepatitis, RHepatitis, PBC, Cirrhosis, Steatosis, carcinoma, fibrosis, Hyperbilirubinemia
+etiology_risk_factor: alcoholism, alcohol, hepatotoxic, vh_amn, gallstones, diabetes, obesity
+medical_procedure_history: hospital, surgery, choledocholithotomy, injections, transfusion
+subjective_symptom: fatigue, itching, upper_pain, pain, pain_ruq, pressure_ruq, flatulence, anorexia, nausea, hepatalgia
+objective_sign: jaundice, bleeding, edema, encephalopathy, consciousness, ascites, spiders, palms
+liver_enzyme: alt, ast, ggtp, phosphatase, amylase
+liver_synthetic_function: albumin, proteins, inr, platelet
+metabolic_lipid_marker: cholesterol, triglycerides
+hematological_inflammatory: ESR, le_cells, platelet
+viral_serology: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+autoimmune_marker: ama, le_cells, PBC
+physical_exam_liver_structure: hepatomegaly, density, edge, irregular_liver, spleen
+pain_localization: upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia
+gi_symptom: flatulence, anorexia, nausea
+coagulation_related: inr, platelet, bleeding
+biliary_cholestatic: gallstones, choledocholithotomy, Hyperbilirubinemia, phosphatase, ggtp, bilirubin, itching, jaundice
+alcohol_related: alcoholism, alcohol
+neurological_complication: encephalopathy, consciousness
+structural_liver_change: fibrosis, Cirrhosis, Steatosis, carcinoma, irregular_liver, edge, density
+fluid_retention: edema, ascites
+hepatocellular_damage_marker: alt, ast, bilirubin
+viral_hepatitis_type: THepatitis, ChHepatitis, RHepatitis, vh_amn
+chronic_underlying_condition: diabetes, obesity, PBC, Cirrhosis, fibrosis
+exposure_route: injections, transfusion, surgery, hospital
+skin_manifestation: skin, spiders, palms, jaundice, itching
+renal_function: urea
+bilirubin_related: bilirubin, Hyperbilirubinemia, jaundice
+liver_palpation_finding: hepatomegaly, hepatalgia, edge, density

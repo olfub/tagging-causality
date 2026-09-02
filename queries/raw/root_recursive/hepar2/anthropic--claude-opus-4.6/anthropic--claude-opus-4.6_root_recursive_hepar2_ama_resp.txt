@@ -1,0 +1,18 @@
+Looking at the causal relationships provided, I need to find where `ama` appears as a **cause** (on the left-hand side of "causes").
+
+Let me trace through all the given relationships:
+
+1. **sex** causes alcoholism, pbc, gallstones
+2. **age** causes gallstones, pbc, diabetes, obesity
+3. **alcoholism** causes hepatotoxic, fibrosis, steatosis
+4. **pbc** causes fibrosis, hyperbilirubinemia, fatigue, itching, phosphatase, **ama**, le_cells, joints, skin
+5. **gallstones** causes choledocholithotomy, upper_pain
+6. **diabetes** causes steatosis
+7. **obesity** causes steatosis
+8. **hepatotoxic** causes thepatitis
+
+`ama` appears only as an **effect** of `pbc` (relationship 4). It never appears on the left-hand side of any "causes" statement.
+
+Therefore, **no variables** are caused by `ama` in this causal model.
+
+<Answer></Answer>

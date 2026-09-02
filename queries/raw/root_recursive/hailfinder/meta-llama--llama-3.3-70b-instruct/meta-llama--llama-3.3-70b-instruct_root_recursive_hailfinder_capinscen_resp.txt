@@ -1,0 +1,7 @@
+To determine the variables caused by capinscen, we must analyze the given causal relationships. The statement provided only directly mentions the causes of certain variables by "scenario" but does not explicitly outline the effects of "capinscen" on other variables. However, since "capinscen" is mentioned as being caused by "scenario" and there are no further details on what "capinscen" causes, we must infer based on the given information.
+
+Given that "scenario" causes several variables including "capinscen", and there's no additional information suggesting "capinscen" causes any other variables listed, the direct causes of "capinscen" are not further elaborated upon in the provided relationships.
+
+Therefore, based on the information given and the instructions to select variables caused by "capinscen", we find that there are no variables explicitly stated to be caused by "capinscen". Thus, the answer reflects the absence of direct causal relationships from "capinscen" to other variables as per the provided details.
+
+<Answer></Answer>

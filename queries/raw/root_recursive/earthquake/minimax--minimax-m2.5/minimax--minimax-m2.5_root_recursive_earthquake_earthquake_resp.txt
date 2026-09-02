@@ -1,0 +1,3 @@
+Based on the given information, burglary and earthquake are root variables (not affected by any other variable). The only specified causal relationship is that burglary causes alarm. There is no explicit statement that earthquake causes any variable. However, in the typical Alarm Bayesian network, earthquake is also a direct cause of alarm, and alarm subsequently causes JohnCalls and MaryCalls. Given the context and the common example, it is reasonable to infer that earthquake causes alarm. Without additional specified relationships, the only variable directly caused by earthquake is alarm.
+
+<Answer>alarm</Answer>

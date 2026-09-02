@@ -1,0 +1,6 @@
+external_event: Burglary, Earthquake
+criminal_activity: Burglary
+natural_disaster: Earthquake
+electronic_sensor: Alarm
+human_communication: JohnCalls, MaryCalls
+security_domain: Burglary, Alarm

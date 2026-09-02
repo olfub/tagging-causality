@@ -1,0 +1,11 @@
+
+
+## Step-by-Step Reasoning
+
+1. We are told that **a** (Age) and **s** (Sex) are not affected by any other variable — they are root/exogenous variables.
+
+2. We are then told the causal relationships are: **Currently none.**
+
+3. Since there are **no causal relationships** defined, variable **a** does not cause any other variable.
+
+<Answer></Answer>

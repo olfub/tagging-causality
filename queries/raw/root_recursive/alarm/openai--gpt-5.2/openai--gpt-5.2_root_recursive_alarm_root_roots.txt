@@ -1,0 +1,1 @@
+["history", "errcauter", "insuffanesth", "ventmach", "intubation", "hypovolemia", "anaphylaxis", "shunt", "pulmembolus"]

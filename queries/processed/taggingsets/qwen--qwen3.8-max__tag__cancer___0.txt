@@ -1,0 +1,9 @@
+risk_factor:Pollution,Smoker
+disease_state:Cancer
+diagnostic_test:Xray
+symptom:Dyspnoea
+environmental_exposure:Pollution
+behavioral_factor:Smoker
+patient_intrinsic:Smoker,Cancer,Dyspnoea
+downstream_effect:Xray,Dyspnoea
+medical_condition:Cancer,Dyspnoea

@@ -1,0 +1,54 @@
+demographic: sex, age
+lifestyle_risk_factor: alcoholism, alcohol, obesity
+toxic_exposure: hepatotoxic, alcohol, alcoholism
+parenteral_exposure: hospital, surgery, injections, transfusion
+infection_route: hospital, surgery, injections, transfusion, sex
+vaccination_related: vh_amn
+viral_hepatitis: THepatitis, ChHepatitis, RHepatitis
+acute_liver_disease: THepatitis, RHepatitis
+chronic_liver_disease: ChHepatitis, PBC, fibrosis, Cirrhosis
+autoimmune_condition: PBC, ama, le_cells, joints
+biliary_disease: gallstones, choledocholithotomy, PBC
+surgical_procedure: surgery, choledocholithotomy
+metabolic_condition: diabetes, obesity, Steatosis
+lipid_related: triglycerides, cholesterol, fat
+liver_pathology: fibrosis, Cirrhosis, Steatosis, carcinoma
+structural_liver_change: fibrosis, Cirrhosis, irregular_liver, density, edge
+bilirubin_related: bilirubin, Hyperbilirubinemia, jaundice
+liver_enzyme: alt, ast, ggtp
+liver_function_test: alt, ast, ggtp, phosphatase, bilirubin, albumin
+cholestatic_marker: phosphatase, ggtp, itching, Hyperbilirubinemia, PBC
+hepatocellular_marker: alt, ast, carcinoma
+digestive_enzyme: amylase
+protein_synthesis: albumin, proteins, inr
+coagulation: platelet, inr, bleeding
+inflammatory_marker: ESR, le_cells
+viral_antigen: hbsag, hbeag
+viral_antibody: hbsag_anti, hbc_anti, hcv_anti
+hepatitis_b_marker: hbsag, hbsag_anti, hbc_anti, hbeag
+hepatitis_c_marker: hcv_anti
+autoimmune_marker: ama, le_cells
+serological_test: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, ama, le_cells
+laboratory_value: bilirubin, phosphatase, proteins, albumin, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, triglycerides
+portal_hypertension_sign: ascites, spleen, edema, spiders, bleeding, encephalopathy
+advanced_liver_complication: Cirrhosis, ascites, encephalopathy, bleeding, carcinoma
+skin_sign: skin, jaundice, spiders, palms, itching
+abdominal_symptom: upper_pain, pain_ruq, pressure_ruq, flatulence, nausea
+pain_related: upper_pain, pain_ruq, pressure_ruq, pain, hepatalgia, joints
+gastrointestinal_symptom: nausea, anorexia, flatulence
+constitutional_symptom: fatigue, anorexia
+neurological_sign: encephalopathy, consciousness
+fluid_retention: ascites, edema
+liver_physical_exam: hepatomegaly, hepatalgia, density, edge, irregular_liver
+organ_enlargement: hepatomegaly, spleen
+clinical_sign: jaundice, spiders, palms, hepatomegaly, spleen, ascites, edema, skin
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, nausea, anorexia, flatulence, bleeding
+patient_reported: fatigue, itching, pain, nausea, anorexia, flatulence, joints
+disease_outcome: fibrosis, Cirrhosis, carcinoma, Hyperbilirubinemia, Steatosis
+obesity_related: obesity, fat, Steatosis, diabetes, triglycerides
+alcohol_related: alcoholism, alcohol, Cirrhosis
+gallstone_related: gallstones, choledocholithotomy, upper_pain, pain_ruq
+blood_product: transfusion
+renal_marker: urea
+musculoskeletal: joints, pain
+modifiable_factor: alcoholism, obesity, alcohol, fat, diabetes

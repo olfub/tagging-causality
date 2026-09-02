@@ -1,0 +1,5 @@
+source: Burglary, Earthquake
+leaf: JohnCalls, MaryCalls
+intermediate: Alarm
+parent: Burglary, Earthquake, Alarm
+child: Alarm, JohnCalls, MaryCalls

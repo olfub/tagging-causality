@@ -1,0 +1,20 @@
+
+
+# Variables Caused by Socioeconomic Status
+
+Looking at this step by step, I need to identify which variables **socioeconomic status** directly causes, considering the domain (auto insurance) and the structure of the well-known Insurance Bayesian network.
+
+## Reasoning
+
+**socioeconomic status** logically influences:
+
+1. **goodstudent** – SES affects educational engagement and resources (also caused by age, as stated).
+2. **riskaversion** – SES shapes attitudes toward risk (also caused by age, as stated).
+3. **vehicleyear** – SES determines what year/quality of vehicle one can afford.
+4. **makemodel** – SES influences whether someone owns a sports car.
+5. **homebase** – SES directly determines the type of neighbourhood one lives in.
+6. **antitheft** – SES affects whether one invests in anti-theft devices.
+
+These are all variables where socioeconomic status is a direct causal factor — they relate to lifestyle choices, purchasing power, and risk attitudes shaped by one's economic standing.
+
+<Answer>goodstudent, riskaversion, vehicleyear, makemodel, homebase, antitheft</Answer>

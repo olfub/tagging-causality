@@ -1,0 +1,11 @@
+travel: Asia
+lifestyle: Smoking
+risk_factor: Asia, Smoking
+disease: Tuberculosis, Lung Cancer, Bronchitis
+symptom: Dyspnoea
+diagnostic_test: X-ray
+composite: Either Tuberculosis or Lung Cancer
+respiratory: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, Bronchitis, Dyspnoea
+infectious: Tuberculosis
+chronic: Lung Cancer, Bronchitis
+clinical_finding: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer, X-ray, Bronchitis, Dyspnoea

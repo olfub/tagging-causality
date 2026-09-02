@@ -1,0 +1,15 @@
+1. **Define the variables**
+   - **LVH** = *Left Ventricular Hypertrophy*, a physiologic/anatomic finding (the heart muscle is thickened).
+   - **LVHreport** = a *report* (e.g., echo/ECG interpretation or clinician note) that documents or states LVH.
+
+2. **Consider the real-world causal direction**
+   - The **heart’s structure/function** exists first (LVH may or may not be present).
+   - A **test/clinician interpretation** then observes and documents that finding, producing an **LVH report**.
+
+3. **Check plausibility of the reverse direction**
+   - A “report” cannot biologically cause myocardial hypertrophy. At most, it might influence downstream **management**, but it does not directly create LVH.
+
+4. **Conclusion**
+   - LVH is the underlying state that leads to the report describing it.
+
+<Answer>A</Answer>

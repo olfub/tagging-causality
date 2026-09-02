@@ -1,0 +1,9 @@
+ClinicalReport:LVHreport,CO2Report,XrayReport,GruntingReport
+OxygenMeasurement:LowerBodyO2,RUQO2,HypoxiaInO2,CO2
+CardiovascularState:DuctFlow,CardiacMixing,HypDistrib
+PulmonaryState:LungParench,LungFlow
+ClinicalSign:Grunting,LVH,ChestXray
+Diagnosis:Disease
+BirthEvent:BirthAsphyxia
+Demographic:Age
+ClinicalStatus:Sick

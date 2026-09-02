@@ -1,0 +1,13 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+1.  **Analyze the nature of Tuberculosis:** Tuberculosis (TB) is an infectious disease caused by the bacterium *Mycobacterium tuberculosis*. It primarily affects the lungs but can affect other parts of the body. It is a medical condition or illness.
+
+2.  **Analyze the nature of an X-ray:** An X-ray is a form of electromagnetic radiation. In a medical context, it refers to an imaging technique used to see the internal structures of the body, such as the lungs.
+
+3.  **Evaluate Option B (X-ray causes Tuberculosis):** This implies that the imaging procedure or the radiation itself creates the bacterial infection. This is medically incorrect. While excessive radiation exposure can cause other health issues (like cancer or radiation burns), it does not create or transmit the bacteria responsible for Tuberculosis.
+
+4.  **Evaluate Option A (Tuberculosis causes X-ray):** This implies a sequence of events where the presence of the disease leads to the performance of the procedure. When a patient has Tuberculosis, doctors order a chest X-ray to diagnose the extent of the disease, confirm the diagnosis, or monitor treatment progress. Therefore, the disease is the reason (cause) for the test (effect/action) to occur.
+
+5.  **Conclusion:** The presence of Tuberculosis necessitates a chest X-ray for diagnosis and management. Therefore, the disease leads to the procedure.
+
+<Answer>A</Answer>

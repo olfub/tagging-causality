@@ -1,0 +1,28 @@
+Looking at the causal relationships provided, I need to find where **incmpltps** appears as a **cause** (on the left-hand side of "causes").
+
+**Step-by-step analysis:**
+
+1. **incmpltps** is an effect of `avlblvrtlmmry` (avlblvrtlmmry causes pserrmem, grbldps, **incmpltps**, tstpstxt).
+
+2. Now I search through every listed causal relationship to see if **incmpltps** ever appears as a cause:
+   - dsklocal causes ... ✗
+   - drvset causes ... ✗
+   - prtcbl causes ... ✗
+   - prtport causes ... ✗
+   - prtmem causes ... ✗
+   - tnrspply causes ... ✗
+   - ptroffline causes ... ✗
+   - epsgrphc causes ... ✗
+   - nnpsgrphc causes ... ✗
+   - trtypfnts causes ... ✗
+   - fntinstlltn causes ... ✗
+   - avlblvrtlmmry causes ... ✗
+   - dsapplctn causes ... ✗
+   - pc2prt causes ... ✗
+   - lclgrbld causes ... ✗
+
+3. **incmpltps** never appears as a cause in any listed causal relationship. It is a terminal (leaf) node in the causal graph.
+
+There are **no variables** caused by incmpltps.
+
+<Answer></Answer>

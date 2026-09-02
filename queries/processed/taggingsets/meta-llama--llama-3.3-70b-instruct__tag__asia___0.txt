@@ -1,0 +1,10 @@
+Disease:tub,lung,bronc
+Location:asia
+Healthcare:xray
+Cause:smoke
+Symptom:dysp
+Respiratory:tub,lung,bronc,dysp
+Diagnostic:xray
+Cancer:lung
+Infection:tub,bronc
+Condition:either,tub,lung,bronc,dysp

@@ -1,0 +1,32 @@
+## Step-by-Step Reasoning
+
+### Step 1: Define the Terms
+- **Birth Asphyxia**: A condition where a baby doesn't receive adequate oxygen before, during, or immediately after birth (occurs at/perinatal period)
+- **Congenital Heart Disease**: Heart defects that develop during fetal development and are present at birth (exists before birth)
+
+### Step 2: Analyze the Temporal Relationship
+- Congenital heart disease develops **during pregnancy** (typically in the first 8 weeks of gestation)
+- Birth asphyxia occurs **during labor, delivery, or immediately after birth**
+- The congenital condition necessarily **precedes** the birth event
+
+### Step 3: Evaluate Causal Direction
+
+**Option A (Birth Asphyxia → Disease):**
+- Cannot be correct because the disease already exists before birth asphyxia occurs
+- A congenital condition by definition cannot be caused by an event that happens at birth
+
+**Option B (Disease → Birth Asphyxia):**
+- Medically plausible: Congenital heart defects can compromise oxygen delivery
+- Babies with significant heart defects have difficulty tolerating the transition from fetal to newborn circulation
+- This predisposes them to oxygen deprivation during the birth process
+- The pre-existing condition can contribute to asphyxia risk
+
+### Step 4: Clinical Evidence
+- Infants with congenital heart disease are at higher risk for perinatal complications
+- The compromised cardiovascular system may not handle labor stress well
+- This can lead to or worsen birth asphyxia
+
+### Conclusion
+The temporal sequence and medical understanding clearly indicate that the congenital heart disease (present before birth) can contribute to birth asphyxia (occurring at birth), not the reverse.
+
+<Answer>B</Answer>

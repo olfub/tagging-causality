@@ -1,0 +1,19 @@
+disease: vh_amn, THepatitis, gallstones, ChHepatitis, PBC, fibrosis, diabetes, Steatosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, alcoholism, carcinoma
+risk_factor: hepatotoxic, hospital, surgery, sex, age, obesity, fat, alcohol
+exposure: hepatotoxic, hospital, injections, transfusion
+procedure: surgery, choledocholithotomy, injections, transfusion
+liver: vh_amn, THepatitis, ChHepatitis, fibrosis, Cirrhosis, Hyperbilirubinemia, RHepatitis, bilirubin, phosphatase, hepatomegaly, hepatalgia, density, alt, ast, ggtp, jaundice, edge, irregular_liver
+abdominal: gallstones, choledocholithotomy, upper_pain, pain_ruq, pressure_ruq, flatulence, ascites, amylase, nausea, spleen
+demographic: sex, age
+autoimmune: PBC, ama, le_cells, joints
+metabolic: diabetes, obesity, Steatosis, triglycerides, fat, cholesterol
+lab_test: triglycerides, bilirubin, phosphatase, ama, le_cells, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, hbsag, hbsag_anti, albumin, hbc_anti, hcv_anti, hbeag, proteins
+symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, joints, pain, bleeding, flatulence, hepatalgia, anorexia, nausea, consciousness
+skin: itching, skin, spiders, palms
+physical_sign: skin, edema, hepatomegaly, density, spleen, spiders, jaundice, edge, irregular_liver, palms
+systemic: fatigue, pain, encephalopathy, ESR, anorexia
+blood: proteins, urea, albumin
+coagulation: platelet, inr, bleeding
+complication: edema, encephalopathy, ascites, consciousness, carcinoma
+viral: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+substance: alcoholism, alcohol

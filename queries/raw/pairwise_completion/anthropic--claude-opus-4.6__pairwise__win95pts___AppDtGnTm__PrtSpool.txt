@@ -1,0 +1,24 @@
+
+
+# Analyzing the Causal Relationship: AppDtGnTm vs. PrtSpool
+
+## Step-by-step reasoning:
+
+**Step 1: Interpret the variables**
+- **AppDtGnTm** = Application Data Generation Time — the observed time it takes for an application to generate/process print data (i.e., how long from clicking "Print" until the application returns control to the user).
+- **PrtSpool** = Print Spooler setting — whether print spooling is enabled/disabled and its configuration.
+
+**Step 2: Understand the mechanism**
+- The **Print Spooler** is a system-level configuration/setting that determines how print data is handled:
+  - **Spooling ON**: The application sends data to a spool file on disk quickly, then returns control to the user — the *observed* application data generation time is **short**.
+  - **Spooling OFF** (direct printing): The application must wait for the printer to process each page — the *observed* application data generation time is **long**.
+
+**Step 3: Determine causal direction**
+- The spooler setting is a **configuration choice** (a root cause/upstream factor).
+- The application data generation time is an **observed outcome** influenced by whether spooling is active.
+- Therefore, the spooler setting causally influences the observed data generation time, not the other way around.
+
+## Conclusion:
+**PrtSpool** (the spooler configuration) causally affects **AppDtGnTm** (the observed application data generation time).
+
+<Answer>B</Answer>

@@ -1,0 +1,9 @@
+To construct a causal graph, we start by identifying variables that are not affected by any other variables, which are essentially the root causes or exogenous variables in our model. Looking at the given factors:
+
+- `<smoke>` and `<asia>` are factors that typically would not be directly caused by the other health-related factors listed. A patient's history of smoking or recent travel to Asia is not directly caused by having dyspnea, tuberculosis, lung cancer, bronchitis, or a positive chest x-ray. These are more about a patient's lifestyle or travel history.
+
+- The other factors (`<dysp>`, `<tub>`, `<lung>`, `<bronc>`, `<either>`, and `<xray>`) could potentially be influenced by these initial factors or by each other. For instance, smoking can lead to bronchitis or lung cancer, and recent travel to Asia might increase the risk of tuberculosis due to its higher prevalence in some Asian countries.
+
+Therefore, the variables that are unaffected by any other variables in the context provided are `<smoke>` and `<asia>`.
+
+<Answer>smoke, asia</Answer>

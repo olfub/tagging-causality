@@ -1,0 +1,21 @@
+
+
+# Variables Caused by Intubation
+
+Looking at the ALARM network structure, I need to identify which variables have **intubation** as a direct parent/cause.
+
+## Step-by-step reasoning:
+
+1. **ventlung** (lung ventilation): Intubation status (normal, esophageal, one-sided) directly affects how well the lungs are ventilated. Other parents include kinkedtube, venttube, and disconnect.
+
+2. **ventalv** (alveolar ventilation): Intubation type directly determines whether gas exchange at the alveolar level can occur (e.g., esophageal intubation prevents alveolar ventilation). Also depends on ventlung.
+
+3. **shunt**: Improper intubation (e.g., esophageal or one-sided) increases pulmonary shunting. Already noted that pulmembolus also causes shunt — intubation is an additional parent.
+
+4. **press** (breathing pressure): The intubation status affects the pressure readings in the breathing circuit. Also depends on kinkedtube and venttube.
+
+5. **minvol** (minute volume): Intubation status affects the measured minute volume (e.g., esophageal intubation would alter readings). Also depends on ventlung.
+
+These all make medical sense: the quality/type of intubation fundamentally affects ventilation mechanics, gas exchange, shunting, airway pressures, and measured breathing volumes.
+
+<Answer>shunt, ventlung, ventalv, press, minvol</Answer>

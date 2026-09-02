@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **Define the variables**  
+   - *Residence* = the location where a person lives (e.g., urban, suburban, rural).  
+   - *Travel* = the amount, distance, mode, or purpose of travel (e.g., commuting, leisure trips).
+
+2. **Consider the natural direction of influence**  
+   - Where a person lives determines the accessibility of jobs, schools, services, and transportation options. These spatial constraints directly shape how often, how far, and by what means a person travels.  
+   - This is a well‑established relationship in transportation and demographic research: residential location is a primary determinant of travel behavior.
+
+3. **Examine the reverse possibility**  
+   - It is possible that a person’s travel experiences (e.g., frequent business travel) could influence the decision to relocate (e.g., moving closer to an airport). However, this reverse causality is less common and generally weaker than the forward effect.
+
+4. **Weigh the evidence**  
+   - Numerous studies consistently show a strong correlation between residence and travel patterns, supporting a causal link from residence to travel.  
+   - The reverse causality (travel → residence) is supported by far fewer empirical findings and usually occurs in specific sub‑populations (e.g., frequent business travelers).
+
+**Conclusion:** The more plausible cause‑and‑effect relationship is that *residence causes travel*.
+
+<Answer>A</Answer>

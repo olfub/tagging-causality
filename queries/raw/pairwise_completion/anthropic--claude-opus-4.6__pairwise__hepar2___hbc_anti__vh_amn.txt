@@ -1,0 +1,21 @@
+
+
+## Step-by-step analysis:
+
+**Identifying the medical terms:**
+- **hbc_anti** = Hepatitis B core antibody (anti-HBc), a serological marker produced by the immune system in response to hepatitis B virus infection.
+- **vh_amn** = Viral hepatitis – anamnestic (i.e., patient history/anamnesis of viral hepatitis), representing the clinical history or occurrence of viral hepatitis.
+
+**Reasoning about causality:**
+
+1. When a person is **infected with hepatitis B** (which constitutes the viral hepatitis event/history, vh_amn), the immune system responds by producing antibodies, including **anti-HBc (hbc_anti)**.
+
+2. The antibody (hbc_anti) is a *consequence* of the viral hepatitis infection — it is a laboratory marker that appears **because** of the disease process.
+
+3. The reverse — that the presence of an antibody *causes* viral hepatitis history — does not make biological sense. Antibodies are immune *responses*, not causes of infection.
+
+4. In medical Bayesian networks (e.g., HEPAR2), the disease state (viral hepatitis) is modeled as a parent node that causes downstream observable findings like serological markers.
+
+**Conclusion:** The viral hepatitis (vh_amn) is the underlying condition that leads to the production of hepatitis B core antibody (hbc_anti), not the other way around.
+
+<Answer>B</Answer>

@@ -1,0 +1,22 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the components**  
+   - *PrtSpool* = Windows 95 printer spooler (the service that queues and dispatches print jobs).  
+   - *PrntPrcssTm* = Print‑processor time (the CPU/time spent converting a queued job into printer‑ready data).
+
+2. **Understand the printing workflow in Windows 95**  
+   - A user’s print request is first handed to the **spooler** (`spoolsv.exe`).  
+   - The spooler then passes the job to a **print processor** (e.g., `winprint.dll`) to render/convert the job.  
+   - The print processor performs the actual work, consuming CPU time – this is what *PrntPrcssTm* measures.
+
+3. **Determine the direction of causality**  
+   - The spooler is the *initiator*; it decides when a job is sent to the print processor.  
+   - The print processor’s work (and thus its elapsed time) **occurs because** the spooler has handed a job to it.  
+   - In other words, the presence of spooler activity **causes** the print‑processor to run, not the other way around.
+
+4. **Conclusion**  
+   - The most plausible cause‑and‑effect relationship is **“PrtSpool causes PrntPrcssTm.”**
+
+Therefore, the correct choice is:
+
+<Answer>B</Answer>

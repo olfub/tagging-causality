@@ -1,0 +1,19 @@
+symptom: Yellow_Fingers, Fatigue, Coughing
+disease: Lung_Cancer, Allergy
+mental_health: Anxiety, Attention_Disorder
+behavioral: Smoking, Peer_Pressure
+biological: Genetics, Allergy, Fatigue
+respiratory: Coughing, Lung_Cancer, Allergy
+smoking_related: Smoking, Yellow_Fingers, Coughing, Lung_Cancer
+social_influence: Peer_Pressure, Smoking
+physical_sign: Yellow_Fingers, Coughing, Fatigue
+genetic_component: Genetics, Allergy, Attention_Disorder, Anxiety, Lung_Cancer
+health_outcome: Lung_Cancer, Car_Accident, Fatigue
+psychological: Anxiety, Attention_Disorder, Peer_Pressure
+unrelated_to_disease: Born_an_Even_Day, Car_Accident
+random_event: Born_an_Even_Day
+accident: Car_Accident
+habit: Smoking
+innate: Genetics, Born_an_Even_Day
+modifiable_risk_factor: Smoking, Anxiety, Peer_Pressure
+chronic: Lung_Cancer, Allergy, Attention_Disorder

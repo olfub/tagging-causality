@@ -1,0 +1,67 @@
+demographic: Age, Sex, Education, Occupation, Residence
+biological: Age, Sex
+innate: Sex
+temporal: Age
+continuous_change: Age
+socioeconomic: Education, Occupation
+acquired: Education, Occupation
+human_capital: Education, Occupation
+choice_dependent: Education, Occupation, Residence, Travel
+geographic: Residence, Travel
+location_related: Residence, Travel
+mobility: Travel
+stable_attribute: Age, Sex, Education, Residence
+transient: Travel
+root_cause: Age, Sex
+determined_at_birth: Age, Sex
+influenced_by_others: Education, Occupation, Residence, Travel
+ordinal: Age, Education
+categorical: Sex, Occupation, Residence
+activity: Travel
+achievement: Education, Occupation
+lifestyle: Residence, Travel
+economic_factor: Education, Occupation, Residence
+time_invariant: Sex
+monotonic: Age
+credential: Education
+labor: Occupation
+dwelling: Residence
+exogenous: Age, Sex
+endogenous: Education, Occupation, Residence, Travel
+resource_dependent: Education, Travel, Residence
+income_related: Occupation, Education, Residence
+personal_attribute: Age, Sex, Education
+behavioral: Travel, Residence, OccupationEndtmldemographic: Age, Sex, Education, Occupation, Residence
+biological: Age, Sex
+innate: Sex
+temporal: Age
+continuous_change: Age
+socioeconomic: Education, Occupation
+acquired: Education, Occupation
+human_capital: Education, Occupation
+choice_dependent: Education, Occupation, Residence, Travel
+geographic: Residence, Travel
+location_related: Residence, Travel
+mobility: Travel
+stable_attribute: Age, Sex, Education, Residence
+transient: Travel
+root_cause: Age, Sex
+determined_at_birth: Age, Sex
+influenced_by_others: Education, Occupation, Residence, Travel
+ordinal: Age, Education
+categorical: Sex, Occupation, Residence
+activity: Travel
+achievement: Education, Occupation
+lifestyle: Residence, Travel
+economic_factor: Education, Occupation, Residence
+time_invariant: Sex
+monotonic: Age
+credential: Education
+labor: Occupation
+dwelling: Residence
+exogenous: Age, Sex
+endogenous: Education, Occupation, Residence, Travel
+resource_dependent: Education, Travel, Residence
+income_related: Occupation, Education, Residence
+personal_attribute: Age, Sex, Education
+behavioral: Travel, Residence, Occupation

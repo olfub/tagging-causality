@@ -1,0 +1,10 @@
+PhysiologicalState: BirthAsphyxia, HypDistrib, HypoxiaInO2, CO2, LowerBodyO2, RUQO2, LVH, DuctFlow, CardiacMixing, LungParench, LungFlow
+ClinicalReport: LVHreport, CO2Report, XrayReport, GruntingReport
+ClinicalObservation: ChestXray, Grunting
+Cardiac: LVH, LVHreport, DuctFlow, CardiacMixing
+Respiratory: HypoxiaInO2, ChestXray, Grunting, XrayReport, GruntingReport, LungParench, LungFlow
+Oxygenation: HypoxiaInO2, LowerBodyO2, RUQO2
+BloodGas: CO2, CO2Report
+Demographic: Age
+HealthStatus: Disease, Sick
+PerinatalHistory: BirthAsphyxia

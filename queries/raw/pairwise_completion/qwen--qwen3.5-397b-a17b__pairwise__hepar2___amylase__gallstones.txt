@@ -1,0 +1,38 @@
+Let me work through this step by step.
+
+## Step 1: Understanding Amylase
+Amylase is a digestive enzyme produced primarily by:
+- The pancreas
+- Salivary glands
+
+It helps break down carbohydrates. Elevated amylase levels in blood are typically a **marker** of pancreatic issues, not a causative agent itself.
+
+## Step 2: Understanding Gallstones
+Gallstones are hardened deposits that form in the gallbladder from:
+- Cholesterol
+- Bilirubin
+- Other bile components
+
+They can block bile ducts and pancreatic ducts.
+
+## Step 3: Analyzing Direction A (Amylase → Gallstones)
+- Amylase is an enzyme that aids digestion
+- There is **no known biological mechanism** by which amylase would cause stone formation
+- Amylase doesn't accumulate or crystallize to form stones
+- This relationship is **not supported** by medical evidence
+
+## Step 4: Analyzing Direction B (Gallstones → Amylase)
+- Gallstones can block the common bile duct or pancreatic duct
+- This obstruction can lead to **acute pancreatitis**
+- Pancreatitis causes pancreatic cells to release amylase into the bloodstream
+- This results in **elevated serum amylase levels**
+- Gallstone pancreatitis is one of the **most common causes** of acute pancreatitis
+- This relationship is **well-documented** in medical literature
+
+## Step 5: Conclusion
+The medically established causal pathway is:
+**Gallstones → Duct Obstruction → Pancreatitis → Elevated Amylase Levels**
+
+While the question simplifies this (gallstones don't "cause amylase" itself, but rather elevated amylase levels), Option B represents the correct causal direction.
+
+<Answer>B</Answer>

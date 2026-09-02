@@ -1,0 +1,26 @@
+Let me work through this step by step.
+
+## Step 1: Understanding the Variables
+
+- **Age**: A measure of how long a person has lived (time since birth)
+- **Education**: The level of schooling or academic qualifications a person has attained
+
+## Step 2: Analyzing Direction A (Age → Education)
+
+- As people age, they have more time to complete educational milestones
+- Certain education levels require minimum ages (e.g., ~18 for high school, ~22 for bachelor's degree)
+- Time is a necessary prerequisite for accumulating education
+- This follows a logical temporal sequence
+
+## Step 3: Analyzing Direction B (Education → Age)
+
+- Education cannot change how long someone has been alive
+- A person's biological age increases regardless of their education level
+- Getting more education doesn't make you older or younger in a causal sense
+- This violates basic principles of causality (effect cannot precede cause)
+
+## Step 4: Conclusion
+
+Age is a temporal variable that necessarily comes before educational attainment. You must live long enough (accumulate age) to complete education. Education cannot causally affect how old you are - your age increases with time regardless of your education level.
+
+<Answer>A</Answer>

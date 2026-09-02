@@ -1,0 +1,13 @@
+**Step‑by‑step reasoning**
+
+1. **Identify what “edge” likely refers to** – In the context of liver disease, “edge” most commonly refers to the *liver edge* that can be felt on physical examination (palpable, often firm or hard in cirrhosis).
+
+2. **Direction “Cirrhosis → edge”** – Cirrhosis produces fibrosis and nodular hardening of the liver, which makes the liver edge palpable and feels firm or “hard.” This is a well‑known clinical sign.
+
+3. **Direction “edge → Cirrhosis”** – A palpable liver edge is a sign or manifestation of liver disease, not a disease‑causing factor. It does not lead to the development of cirrhosis.
+
+4. **Conclusion** – The plausible cause‑and‑effect relationship is that cirrhosis causes the observable liver edge, not the reverse.
+
+**Final answer**
+
+<Answer>A</Answer>

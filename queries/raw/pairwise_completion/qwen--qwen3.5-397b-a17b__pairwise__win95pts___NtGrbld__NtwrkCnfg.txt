@@ -1,0 +1,41 @@
+# Step-by-Step Causal Analysis
+
+## Step 1: Understanding the Variables
+
+In the context of Windows 95 printer troubleshooting:
+- **NtwrkCnfg** = Network Configuration (settings for network connectivity)
+- **NtGrbld** = Not Grabbed (printer capture/spooling status on network)
+
+## Step 2: Logical Dependency Analysis
+
+For network printing to function in Windows 95:
+
+1. **Network Configuration must be established FIRST**
+   - Network protocols need to be installed
+   - Network shares need to be configured
+   - Connection paths must be defined
+
+2. **Printer Grabbing happens AFTER configuration**
+   - The printer can only be "grabbed" or captured once network paths exist
+   - Spooling settings depend on network being properly configured
+
+## Step 3: Causal Direction Reasoning
+
+| Direction | Logical Validity |
+|-----------|-----------------|
+| NtGrbld → NtwrkCnfg | ❌ Printer status cannot determine network settings |
+| NtwrkCnfg → NtGrbld | ✅ Network settings determine if printer can be grabbed |
+
+## Step 4: Technical Verification
+
+In Windows 95 architecture:
+- Network configuration is a **prerequisite condition**
+- Printer capture/grabbing is a **dependent outcome**
+- Changing network config affects printer availability
+- Printer status does not affect network configuration
+
+## Conclusion
+
+The network configuration must be properly set up before a printer can be successfully grabbed/captured on the network. Therefore, NtwrkCnfg is the cause and NtGrbld is the effect.
+
+<Answer>B</Answer>

@@ -1,0 +1,18 @@
+1. **Interpret the entities**
+   - **RHepatitis**: a form of hepatitis (inflammation/infection of the liver).
+   - **Fatigue**: a common nonspecific symptom seen in many systemic illnesses.
+
+2. **Check biological plausibility**
+   - Hepatitis commonly leads to **systemic symptoms** (e.g., malaise, fatigue, anorexia) due to inflammatory cytokines, altered metabolism, and impaired liver function.
+   - Fatigue is a **symptom**, not a plausible primary cause of hepatic inflammation/infection.
+
+3. **Assess typical clinical directionality**
+   - In clinical practice, patients with hepatitis often **present with fatigue** among early symptoms.
+   - While fatigue can prompt evaluation that *detects* hepatitis, that is **diagnostic association**, not causation.
+
+4. **Consider alternative causal pathways**
+   - There isn’t a credible mechanism by which fatigue itself would cause hepatitis. At most, fatigue could correlate with behaviors or conditions that increase hepatitis risk, but that would be **confounding**, not direct causation.
+
+Therefore, the more likely cause-and-effect relationship is:
+
+<Answer>A</Answer>

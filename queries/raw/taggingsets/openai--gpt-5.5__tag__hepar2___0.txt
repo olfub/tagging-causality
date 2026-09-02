@@ -1,0 +1,53 @@
+demographic: sex, age
+sex_attribute: sex
+age_attribute: age
+exposure_history: alcoholism, vh_amn, hepatotoxic, hospital, surgery, injections, transfusion, alcohol
+healthcare_exposure: hospital, surgery, injections, transfusion
+invasive_procedure: surgery, choledocholithotomy, injections, transfusion
+bloodborne_exposure: injections, transfusion
+biliary_history: gallstones, choledocholithotomy
+alcohol_related: alcoholism, alcohol
+toxic_exposure: alcoholism, hepatotoxic, THepatitis, alcohol
+metabolic_risk: diabetes, obesity, Steatosis, triglycerides, cholesterol
+obesity_related: obesity, Steatosis, triglycerides
+diabetes_related: diabetes, Steatosis
+clinical_diagnosis: alcoholism, gallstones, THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, diabetes, obesity, Steatosis, Cirrhosis, Hyperbilirubinemia, carcinoma
+liver_diagnosis: THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, Hyperbilirubinemia, carcinoma
+hepatitis_diagnosis: THepatitis, ChHepatitis, RHepatitis
+chronic_liver_disease: ChHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, carcinoma
+structural_liver_damage: fibrosis, Steatosis, Cirrhosis, carcinoma, irregular_liver, density, edge
+cholestatic_disease: PBC, gallstones, choledocholithotomy, Hyperbilirubinemia, itching, jaundice, bilirubin, phosphatase, ggtp, ama
+portal_hypertension: Cirrhosis, ascites, spleen, edema, platelet, bleeding, encephalopathy, spiders, palms
+hepatic_decompensation: Cirrhosis, ascites, encephalopathy, bleeding, jaundice, edema, albumin, inr
+malignancy: carcinoma
+symptom: fatigue, itching, upper_pain, fat, pain_ruq, pressure_ruq, joints, pain, flatulence, hepatalgia, anorexia, nausea, consciousness
+pain_symptom: upper_pain, pain_ruq, pressure_ruq, joints, pain, hepatalgia
+abdominal_symptom: upper_pain, fat, pain_ruq, pressure_ruq, flatulence, anorexia, nausea
+constitutional_symptom: fatigue, anorexia, nausea
+fatty_food_intolerance: fat
+skin_symptom_or_sign: itching, skin, spiders, jaundice, palms
+physical_exam: skin, joints, edema, ascites, hepatomegaly, spleen, consciousness, spiders, jaundice, edge, irregular_liver, palms, density
+liver_physical_exam: hepatomegaly, hepatalgia, density, edge, irregular_liver
+fluid_retention: edema, ascites
+neurologic_status: encephalopathy, consciousness
+coagulation_bleeding: platelet, inr, bleeding
+laboratory_test: triglycerides, bilirubin, phosphatase, ama, le_cells, proteins, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, hbsag, hbsag_anti, albumin, hbc_anti, hcv_anti, hbeag
+blood_chemistry: bilirubin, triglycerides, phosphatase, proteins, urea, ESR, alt, ast, amylase, ggtp, cholesterol, albumin
+liver_enzyme: phosphatase, alt, ast, ggtp
+hepatocellular_enzyme: alt, ast
+cholestatic_enzyme: phosphatase, ggtp
+pancreatic_enzyme: amylase
+lipid_marker: triglycerides, cholesterol
+protein_synthesis: proteins, albumin, inr
+renal_marker: urea
+inflammation_marker: ESR, le_cells
+serologic_marker: ama, le_cells, hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+viral_hepatitis_marker: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+hepatitis_b_marker: hbsag, hbsag_anti, hbc_anti, hbeag
+hepatitis_c_marker: hcv_anti
+autoimmune_marker: ama, le_cells
+bilirubin_pathway: Hyperbilirubinemia, bilirubin, jaundice, itching
+biliary_obstruction: gallstones, choledocholithotomy, Hyperbilirubinemia, bilirubin, jaundice, phosphatase, ggtp
+immune_biliary: PBC, ama
+antibody_marker: hbsag_anti, hbc_anti, hcv_anti, ama
+antigen_marker: hbsag, hbeag

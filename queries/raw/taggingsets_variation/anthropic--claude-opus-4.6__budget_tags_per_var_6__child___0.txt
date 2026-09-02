@@ -1,0 +1,51 @@
+perinatal: BirthAsphyxia
+risk_factor: BirthAsphyxia, Age
+cause: BirthAsphyxia, Disease
+patient_history: BirthAsphyxia
+binary: BirthAsphyxia
+neonatal: BirthAsphyxia, Grunting, Disease, GruntingReport, Age, Sick
+oxygen: HypDistrib, HypoxiaInO2, LowerBodyO2, RUQO2
+pathophysiology: HypDistrib, HypoxiaInO2, DuctFlow, CardiacMixing, LungParench, LungFlow
+blood_flow: HypDistrib, DuctFlow, CardiacMixing, LungFlow
+intermediate: HypDistrib, DuctFlow
+latent: HypDistrib, HypoxiaInO2, Disease, LVH, DuctFlow, CardiacMixing, LungParench, LungFlow
+circulatory: HypDistrib, LungFlow
+respiratory: HypoxiaInO2, CO2, Grunting, CO2Report, GruntingReport
+clinical_sign: HypoxiaInO2, Grunting, Sick
+test_response: HypoxiaInO2
+blood_gas: CO2, CO2Report
+measurement: CO2, ChestXray, LowerBodyO2, RUQO2
+continuous_value: CO2, LowerBodyO2, RUQO2
+observable: CO2, ChestXray, Grunting, LowerBodyO2, RUQO2, Sick
+physiological: CO2
+imaging: ChestXray, XrayReport
+diagnostic_test: ChestXray
+lung: ChestXray, XrayReport, LungParench, LungFlow
+thoracic: ChestXray
+symptom: Grunting, GruntingReport
+audible: Grunting
+report: LVHreport, CO2Report, XrayReport, GruntingReport
+cardiac: LVHreport, LVH, DuctFlow, CardiacMixing
+heart_related: LVHreport, LVH
+interpreted: LVHreport, CO2Report, XrayReport
+clinical_finding: LVHreport, GruntingReport
+categorical: LVHreport, CO2Report, XrayReport, GruntingReport, Disease, Age
+peripheral: LowerBodyO2
+test_result: LowerBodyO2, RUQO2
+abdominal: RUQO2
+lab_interpretation: CO2Report
+radiological: XrayReport
+diagnosis: Disease
+condition: Disease, LVH
+demographic: Age
+patient_characteristic: Age, Sick
+temporal: Age
+anatomical: LVH, LungParench
+hypertrophy: LVH
+congenital: DuctFlow, CardiacMixing
+shunt: CardiacMixing
+tissue: LungParench
+structural: LungParench
+vascular: LungFlow
+outcome: Sick
+overall_status: Sick

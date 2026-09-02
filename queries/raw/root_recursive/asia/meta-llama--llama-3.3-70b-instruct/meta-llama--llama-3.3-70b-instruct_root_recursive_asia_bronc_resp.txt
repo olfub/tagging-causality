@@ -1,0 +1,13 @@
+To solve this, let's analyze the given causal relationships step by step:
+
+1. **smoke causes lung, bronc**: This means that smoking can lead to lung cancer and bronchitis. However, it doesn't directly imply that bronchitis causes any other condition listed.
+
+2. **asia causes tub, either**: This indicates that recently visiting Asia can lead to tuberculosis and, by extension, having either tuberculosis or lung cancer (since tuberculosis is part of "either"). However, this does not directly relate to bronchitis causing other conditions.
+
+3. **lung causes either**: This shows that having lung cancer contributes to the condition of having either tuberculosis or lung cancer. Again, this does not directly involve bronchitis as a cause.
+
+Given the relationships, we're tasked with finding variables caused by **bronc** (bronchitis). There's no direct or indirect relationship provided where bronchitis is stated to cause any other condition among the given variables.
+
+Therefore, based on the information provided, there are no variables that are caused by bronchitis (**bronc**).
+
+<Answer></Answer>

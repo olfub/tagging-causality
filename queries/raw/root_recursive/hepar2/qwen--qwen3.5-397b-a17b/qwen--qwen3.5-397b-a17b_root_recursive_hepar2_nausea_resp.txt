@@ -1,0 +1,17 @@
+Based on the provided causal relationships, we need to identify variables that appear on the right side of a causal statement where `nausea` is on the left side (i.e., `nausea` causes `X`).
+
+1.  **Analyze the causal statements:**
+    *   `sex` causes `pbc`, `ama`, `alcoholism`.
+    *   `pbc` causes `fibrosis`, `cirrhosis`, ..., `anorexia`, `nausea`, `flatulence`, ...
+    *   `cirrhosis` causes `ascites`, ..., `anorexia`, `nausea`, `flatulence`.
+
+2.  **Locate `nausea` as a cause:**
+    *   In the statement starting with `sex`, `nausea` is not mentioned.
+    *   In the statement starting with `pbc`, `nausea` is listed as an effect (caused by `pbc`), not a cause.
+    *   In the statement starting with `cirrhosis`, `nausea` is listed as an effect (caused by `cirrhosis`), not a cause.
+
+3.  **Conclusion:**
+    *   There are no statements in the provided text where `nausea` is the cause of any other variable.
+    *   Therefore, there are no variables caused by `nausea` according to the given causal graph.
+
+<Answer></Answer>

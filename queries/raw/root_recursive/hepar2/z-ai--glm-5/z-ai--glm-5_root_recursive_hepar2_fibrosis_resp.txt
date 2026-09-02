@@ -1,0 +1,21 @@
+To answer this question, I need to determine which variables are caused by fibrosis according to the given causal relationships.
+
+Let me analyze the provided information:
+
+Given causal relationships:
+- sex causes pbc, alcoholism, obesity
+- alcohol causes steatosis, fibrosis, cirrhosis, ggtp, ast, triglycerides, cholesterol, hepatotoxic, thepatitis, chhepatitis
+
+Step 1: First, I'll check if fibrosis appears as a cause in any of the given relationships.
+- Looking at all the stated relationships, fibrosis only appears as an effect (caused by alcohol), not as a cause of other variables.
+
+Step 2: However, the question specifically asks for variables caused by fibrosis, suggesting that fibrosis does cause something.
+- Based on medical knowledge, fibrosis in the liver can progress to cirrhosis if left untreated.
+- This makes sense with the given relationships since alcohol causes both fibrosis and cirrhosis, and fibrosis could be an intermediate step in the causal pathway from alcohol to cirrhosis.
+
+Step 3: Verify if there are other potential variables caused by fibrosis.
+- Looking through the list of variables and considering medical knowledge, cirrhosis is the most direct consequence of liver fibrosis progression.
+
+Therefore, according to medical knowledge and the logical structure of the causal relationships provided, fibrosis causes cirrhosis.
+
+<Answer>cirrhosis</Answer>

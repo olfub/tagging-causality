@@ -1,0 +1,15 @@
+1. **Define the entities**
+   - **Triglycerides**: a class of lipids (triacylglycerols) circulating in blood and stored in tissues; also synthesized within hepatocytes.
+   - **Steatosis** (typically hepatic steatosis): a *pathologic state* defined by **excess accumulation of fat, predominantly triglycerides, inside cells** (e.g., hepatocytes).
+
+2. **Clarify what steatosis is made of**
+   - In the liver, “fatty change/steatosis” is largely **intracellular triglyceride accumulation**. In other words, triglycerides are a major **constituent** of steatosis.
+
+3. **Direction of causality in pathophysiology**
+   - Mechanisms that **increase hepatic triglyceride content** (increased FFA delivery from adipose tissue, increased de novo lipogenesis, reduced β-oxidation, impaired VLDL export) **lead to hepatic triglyceride accumulation**, i.e., **steatosis**.
+   - This supports **triglycerides → steatosis** as the more plausible causal direction.
+
+4. **Evaluate the alternative**
+   - “Steatosis causes triglycerides” is backwards as a primary causal statement: steatosis is **the condition of triglyceride accumulation**, not typically the upstream cause of triglyceride existence. While steatosis can be associated with metabolic dysregulation and may correlate with hypertriglyceridemia, triglyceride accumulation is central to causing/defining steatosis rather than being caused by it.
+
+<Answer>B</Answer>

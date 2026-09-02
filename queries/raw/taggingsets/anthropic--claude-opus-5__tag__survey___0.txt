@@ -1,0 +1,18 @@
+Demographic: Age, Sex
+Biological: Age, Sex
+Innate: Age, Sex
+Immutable: Sex
+Temporal-early: Age, Sex
+Socioeconomic: Education, Occupation
+Achieved-status: Education, Occupation
+Life-outcome: Education, Occupation, Residence, Travel
+Behavioral-choice: Travel
+Geographic: Residence
+Employment-related: Occupation
+Educational-attainment: Education
+Ordinal: Age, Education
+Categorical: Sex, Occupation, Residence, Travel
+Downstream-outcome: Occupation, Residence, Travel
+Mediator: Education, Occupation, Residence
+Terminal-outcome: Travel
+Time-varying: Age, Education, Occupation, Residence, Travel

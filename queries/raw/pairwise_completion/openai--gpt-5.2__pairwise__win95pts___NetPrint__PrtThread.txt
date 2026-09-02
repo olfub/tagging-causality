@@ -1,0 +1,16 @@
+1. **Interpret the names in a Windows 95 printing context**
+   - **NetPrint** most plausibly refers to a *network printing component/service/module* (i.e., something responsible for handling printing over the network—connecting to a shared printer, sending jobs, managing network print ports, etc.).
+   - **PrtThread** reads like an internal *printer thread*—a worker thread used by the print subsystem/spooler to process print jobs (rendering/spooling/sending data to a port).
+
+2. **Typical cause → effect in printing systems**
+   - A *higher-level printing component* (like a network printing module) typically **creates/uses worker threads** to do actual background work.
+   - A worker thread (like **PrtThread**) is usually an *implementation detail*—it runs because some component initiated printing activity that needs asynchronous processing.
+
+3. **Which direction matches that pattern?**
+   - If **NetPrint** initiates network printing tasks, it would reasonably **spawn or trigger** a **PrtThread** to handle the job processing.
+   - It’s less likely that a generic printer worker thread (**PrtThread**) would *cause* a network printing module (**NetPrint**) to appear; threads are usually created by modules, not the other way around.
+
+4. **Conclusion**
+   - The more likely cause-and-effect relationship is: **NetPrint causes PrtThread**.
+
+<Answer>A</Answer>

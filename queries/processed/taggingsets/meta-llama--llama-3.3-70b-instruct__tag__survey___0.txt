@@ -1,0 +1,9 @@
+Demographic:A,S,E,O,R
+Socioeconomic:E,O,R
+Personal:A,S,E,O
+Geographic:R,T
+Identifying:A,S
+Static:A,S,E
+Dynamic:O,R,T
+Categorical:S,O,E,R
+Quantitative:A

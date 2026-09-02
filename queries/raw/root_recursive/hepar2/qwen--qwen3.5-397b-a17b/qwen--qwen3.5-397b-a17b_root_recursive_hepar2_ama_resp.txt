@@ -1,0 +1,15 @@
+Based on the provided causal relationships, we need to identify which variables are caused by `ama`.
+
+1.  **Analyze the causal relationships provided:**
+    *   Relationship 1: `sex` causes `pbc`, `ama`, `alcoholism`.
+    *   Relationship 2: `pbc` causes `fibrosis`, `cirrhosis`, `bilirubin`, `phosphatase`, `cholesterol`, `itching`, `fatigue`, `jaundice`, `hepatomegaly`, `spleen`, `ascites`, `edema`, `spiders`, `palms`, `albumin`, `proteins`, `platelet`, `inr`, `carcinoma`, `density`, `esr`, `ggtp`, `alt`, `ast`, `hepatalgia`, `pain`, `upper_pain`, `pain_ruq`, `pressure_ruq`, `anorexia`, `nausea`, `flatulence`, `bleeding`, `encephalopathy`, `consciousness`, `urea`, `irregular_liver`, `edge`, `skin`, `joints`, `triglycerides`.
+
+2.  **Determine the role of `ama`:**
+    *   In Relationship 1, `ama` is listed as an effect (caused by `sex`).
+    *   In Relationship 2, `ama` is not mentioned as a cause or an effect.
+    *   There are no other relationships provided where `ama` acts as a cause.
+
+3.  **Conclusion:**
+    *   According to the explicit text provided, `ama` does not cause any other variables. It is a leaf node in this specific causal graph (receiving an arrow from `sex` but sending no arrows to other variables).
+
+<Answer>None</Answer>

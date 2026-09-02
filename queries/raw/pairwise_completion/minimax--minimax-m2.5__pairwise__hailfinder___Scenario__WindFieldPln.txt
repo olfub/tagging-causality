@@ -1,0 +1,10 @@
+**Step‑by‑step reasoning**
+
+1. In hail forecasting, the **Scenario** (e.g., type of storm, environmental conditions such as CAPE, shear, moisture) is the starting point – it describes the expected atmospheric situation.  
+2. Based on thatScenario, a forecaster decides how to **plan** the wind‑field observations or modeling (the **WindFieldPln**). For instance, a supercell scenario with strong shear will lead to a plan that emphasizes deployment of Doppler radars or wind profilers in the shear zone.  
+3. The reverse direction (WindFieldPln → Scenario) would imply that the choice of wind‑field resources determines the weather scenario, which is not how forecasting works; the scenario is driven by observed or predicted atmospheric conditions, not by the resources planned to measure them.  
+4. Therefore, the more plausible causal direction is **Scenario → WindFieldPln**.
+
+**Conclusion:** The cause‑and‑effect relationship “Scenario causes WindFieldPln” is more likely.
+
+<Answer>A</Answer>

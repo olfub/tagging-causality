@@ -1,0 +1,68 @@
+application: AppOK, DataFile, AppData, DSApplctn, AppDtGnTm, EPSGrphc, NnPSGrphc
+software: AppOK, AppData, PrtSpool, PrtDriver, PrtThread, EMFOK, GDIIN, DrvSet, DrvOK, GDIOUT, PrtSel, PrtPort, DSApplctn, ScrnFntNtPrntrFnt, GrphcsRltdDrvrSttngs, TrTypFnts, FntInstlltn, AvlblVrtlMmry, PrtFile, PrtIcon, PrtQueue, AppDtGnTm
+status: AppOK, PrtOn, EMFOK, DrvSet, DrvOK, PTROFFLINE, NetOK, CblPrtHrdwrOK, LclOK, DS_NTOK, DS_LCLOK, PgOrnttnOK, PrntngArOK, TTOK, NnTTOK, PrtIcon, PrtQueue, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+functional_check: AppOK, EMFOK, DrvSet, DrvOK, NetOK, CblPrtHrdwrOK, LclOK, DS_NTOK, DS_LCLOK, PgOrnttnOK, PrntngArOK, TTOK, NnTTOK, PSGRAPHIC
+data_flow: AppOK, DataFile, AppData, PrtSpool, PrtThread, EMFOK, GDIIN, GDIOUT, PrtDataOut, PrtData, PC2PRT, FllCrrptdBffr, DSApplctn, PrtFile, DS_NTOK, DS_LCLOK
+upstream: AppOK, DataFile, DskLocal, PrtOn, PrtPaper, NtwrkCnfg, PrtCbl, PrtMem, TnrSpply, DSApplctn, AppDtGnTm, PgOrnttnOK, PrntngArOK, GrphcsRltdDrvrSttngs, EPSGrphc, NnPSGrphc, PrtPScript, TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, PrtSel, DrvSet, AvlblVrtlMmry
+root_cause: AppOK, DataFile, DskLocal, PrtOn, PrtPaper, NtwrkCnfg, PrtCbl, PrtMem, TnrSpply, EPSGrphc, NnPSGrphc, PrtPScript, FntInstlltn, PrntrAccptsTrtyp, AvlblVrtlMmry
+observable: AppOK, DataFile, DskLocal, PrtOn, PrtPaper, TnrSpply, NtwrkCnfg, PTROFFLINE, PrtTimeOut, Problem1, AppDtGnTm, PrntPrcssTm, DeskPrntSpd, PgOrnttnOK, PrntngArOK, ScrnFntNtPrntrFnt, CmpltPgPrntd, TrTypFnts, Problem5, LclGrbld, NtGrbld, GrbldOtpt, HrglssDrtnAftrPrnt, REPEAT, AvlblVrtlMmry, TstpsTxt, GrbldPS, IncmpltPS, PrtIcon, Problem6, Problem3, PrtQueue, NtSpd, Problem2, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff, Problem4
+file: DataFile, EPSGrphc, NnPSGrphc, PrtFile
+input: DataFile, AppData, GDIIN, EPSGrphc, NnPSGrphc
+source: DataFile
+local: DskLocal, LclOK, DS_LCLOK, LclGrbld
+physical: DskLocal, PrtOn, PrtPaper, PrtCbl, TnrSpply, CblPrtHrdwrOK, PrtMem
+storage: DskLocal
+hardware: DskLocal, PrtCbl
+system_level: DskLocal, PrtSpool, PrtThread, EMFOK, GDIIN, GDIOUT, PrtSel, NetPrint, PrtDriver, PrtPort, PrtPath, NetOK, PC2PRT, DS_NTOK, DS_LCLOK, PrtMpTPth, DSApplctn, PrntPrcssTm, GrphcsRltdDrvrSttngs, TrTypFnts, FntInstlltn, TTOK, NnTTOK, AvlblVrtlMmry, PrtFile, PrtIcon, PrtQueue, LclOK
+spooling: PrtSpool, PrtThread, PrtIcon, PrtQueue
+process: PrtSpool, PrtThread, AppData, GDIIN, GDIOUT, PrtDataOut, PrtData, AppDtGnTm, PrntPrcssTm, HrglssDrtnAftrPrnt
+queue: PrtSpool, PrtQueue
+print_process: PrtSpool, PrtThread, NetPrint, PrtDriver, PrtPort, PrtPath, PrtDataOut, PrtData, PC2PRT, PrtMpTPth, PrtSel, Problem1, PrntPrcssTm, REPEAT, PrtFile, PrtIcon, PrtQueue
+printer_hardware: PrtOn, PrtPaper, PrtCbl, PrtMem, TnrSpply, PTROFFLINE, CblPrtHrdwrOK, PrtPScript, PrntrAccptsTrtyp, PrtTimeOut, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+power: PrtOn, PrtStatOff
+supply: PrtPaper, TnrSpply, PrtMem, PrtStatPaper, PrtStatToner, AvlblVrtlMmry
+device_level: PrtOn, PrtPaper, TnrSpply, PrtCbl, PrtMem, PTROFFLINE, CblPrtHrdwrOK, PrtPScript, PrntrAccptsTrtyp, PrtTimeOut, PrtDataOut, PrtData, PrtDriver, PrtPort, PC2PRT, FllCrrptdBffr, PSERRMEM, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+consumable: PrtPaper, TnrSpply, PrtStatPaper, PrtStatToner
+network: NetPrint, NtwrkCnfg, NetOK, PrtPath, DS_NTOK, NtGrbld, NtSpd
+connection: NetPrint, NtwrkCnfg, NetOK, PrtCbl, PrtPort, CblPrtHrdwrOK, LclOK, PC2PRT, PrtPath, NtSpd
+configuration: NetPrint, PrtDriver, PrtPath, NtwrkCnfg, PrtSel, PrtPort, DSApplctn, PrtMpTPth, PgOrnttnOK, PrntngArOK, GrphcsRltdDrvrSttngs, PrtPScript, TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, PrtFile
+path_routing: NetPrint, PrtPath, PrtSel, DSApplctn, PrtMpTPth, DS_NTOK, DS_LCLOK, PC2PRT, LclOK
+routing: NetPrint, PrtPath, NetOK, PrtMpTPth
+intermediate: NetPrint, PrtSpool, PrtThread, EMFOK, GDIIN, GDIOUT, PrtDriver, PrtSel, PrtPath, PrtDataOut, PrtData, PrtPort, NetOK, CblPrtHrdwrOK, LclOK, DS_NTOK, DS_LCLOK, PC2PRT, PrtMpTPth, DrvOK, PSGRAPHIC, TTOK, NnTTOK, PrtFile, PrtQueue, PrntPrcssTm, AppData
+driver: PrtDriver, DrvSet, DrvOK, GrphcsRltdDrvrSttngs
+installed: PrtDriver, FntInstlltn, PrtIcon
+concurrent: PrtThread
+format: EMFOK, GDIIN, GDIOUT, EPSGrphc, NnPSGrphc, PSGRAPHIC
+graphics: EMFOK, GDIIN, GDIOUT, EPSGrphc, NnPSGrphc, PSGRAPHIC, GrphcsRltdDrvrSttngs, Problem4
+setting: DrvSet, PrtSel, NtwrkCnfg, PrtPort, DSApplctn, PgOrnttnOK, PrntngArOK, GrphcsRltdDrvrSttngs, TrTypFnts, FntInstlltn
+diagnostic: DrvOK, PTROFFLINE, CblPrtHrdwrOK, LclOK, DS_NTOK, DS_LCLOK, PrtMpTPth, PrtTimeOut, FllCrrptdBffr, Problem1, ScrnFntNtPrntrFnt, CmpltPgPrntd, Problem4, TTOK, NnTTOK, Problem5, LclGrbld, NtGrbld, GrbldOtpt, REPEAT, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS, Problem6, Problem3, Problem2, PSGRAPHIC
+output: AppData, GDIOUT, PrtDataOut, PrtData, DeskPrntSpd, CmpltPgPrntd, PSGRAPHIC, LclGrbld, NtGrbld, GrbldOtpt, REPEAT, PSERRMEM, TstpsTxt, IncmpltPS
+transfer: PrtDataOut, PrtData, PC2PRT
+downstream: PrtDataOut, PTROFFLINE, PrtTimeOut, FllCrrptdBffr, PrtData, Problem1, DeskPrntSpd, ScrnFntNtPrntrFnt, CmpltPgPrntd, Problem4, Problem5, LclGrbld, NtGrbld, GrbldOtpt, HrglssDrtnAftrPrnt, REPEAT, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS, Problem6, Problem3, NtSpd, Problem2, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+infrastructure: NtwrkCnfg, PrtCbl
+error: PTROFFLINE, PrtTimeOut, FllCrrptdBffr, REPEAT, PSERRMEM, GrbldPS, IncmpltPS, PrtStatOff
+reporting: PTROFFLINE, PrtStatPaper, PrtStatToner, PrtStatMem, PrtStatOff
+memory: PrtMem, FllCrrptdBffr, AvlblVrtlMmry, PSERRMEM, PrtStatMem
+resource: PrtMem, AvlblVrtlMmry, PrtStatMem
+symptom: PrtTimeOut, Problem1, DeskPrntSpd, ScrnFntNtPrntrFnt, CmpltPgPrntd, Problem4, Problem5, LclGrbld, NtGrbld, GrbldOtpt, HrglssDrtnAftrPrnt, REPEAT, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS, Problem6, Problem3, NtSpd, Problem2
+performance: PrtTimeOut, AppDtGnTm, PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt, NtSpd, Problem2
+garbled: FllCrrptdBffr, LclGrbld, NtGrbld, GrbldOtpt, GrbldPS
+print_quality: FllCrrptdBffr, PgOrnttnOK, PrntngArOK, ScrnFntNtPrntrFnt, CmpltPgPrntd, GrphcsRltdDrvrSttngs, PSGRAPHIC, Problem4, TTOK, NnTTOK, Problem5, LclGrbld, NtGrbld, GrbldOtpt, TstpsTxt, GrbldPS, IncmpltPS, Problem6, Problem3
+problem_category: Problem1, Problem2, Problem3, Problem4, Problem5, Problem6
+user_facing: Problem1, DeskPrntSpd, CmpltPgPrntd, Problem4, Problem5, GrbldOtpt, HrglssDrtnAftrPrnt, REPEAT, Problem6, Problem3, Problem2, PrtIcon
+aggregate: Problem1
+timing: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt, NtSpd, Problem2
+measurement: AppDtGnTm, PrntPrcssTm, DeskPrntSpd, HrglssDrtnAftrPrnt, NtSpd
+page_layout: PgOrnttnOK, PrntngArOK, CmpltPgPrntd, Problem3
+font: ScrnFntNtPrntrFnt, TrTypFnts, FntInstlltn, PrntrAccptsTrtyp, TTOK, NnTTOK, Problem5
+mismatch: ScrnFntNtPrntrFnt
+postscript: EPSGrphc, PrtPScript, PSGRAPHIC, PSERRMEM, TstpsTxt, GrbldPS, IncmpltPS, Problem6
+capability: PrtPScript, PrntrAccptsTrtyp
+language: PrtPScript
+truetype: TrTypFnts, PrntrAccptsTrtyp, TTOK
+non_truetype: NnTTOK
+non_postscript: NnPSGrphc
+test: TstpsTxt
+method: PrtFile
+mapping: PrtMpTPth
+generated: AppData

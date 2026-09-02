@@ -1,0 +1,4 @@
+Exposure:Smoker,Pollution
+Disease:Cancer
+Symptom:Dyspnoea
+Diagnostic test:Xray

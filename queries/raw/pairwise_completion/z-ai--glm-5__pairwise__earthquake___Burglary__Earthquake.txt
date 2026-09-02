@@ -1,0 +1,18 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Analyze the physical mechanism of an earthquake.**
+Earthquakes are geological events caused by the movement of tectonic plates or volcanic activity deep within the Earth. They release massive amounts of seismic energy. This process is driven by forces on a planetary scale.
+
+**Step 2: Analyze the potential for Option A (Burglary causes Earthquake).**
+A burglary is a human-scale event involving theft or unlawful entry. The physical actions involved in a burglary (breaking a window, picking a lock, walking) are infinitesimally small compared to the geological forces required to move tectonic plates. There is no scientific mechanism by which a burglary could trigger a seismic event. Therefore, this relationship is effectively impossible.
+
+**Step 3: Analyze the potential for Option B (Earthquake causes Burglary).**
+Earthquakes often result in significant damage to infrastructure, power outages, and the evacuation of residents. These conditions create opportunities for criminal activity. When homes are damaged (doors broken, walls collapsed) or neighborhoods are evacuated for safety, looters may exploit the lack of security and occupancy to commit burglary. This is a documented secondary effect of natural disasters.
+
+**Step 4: Compare the likelihood.**
+Option A is physically impossible. Option B describes a plausible sociological consequence where the disaster creates the environment for the crime to occur.
+
+**Conclusion:**
+Option B is the only relationship with a logical causal link.
+
+<Answer>B</Answer>

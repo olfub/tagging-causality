@@ -1,0 +1,18 @@
+
+
+## Step-by-Step Reasoning
+
+1. **What is bilirubin?** Bilirubin is a yellow pigment produced during the normal breakdown of red blood cells (specifically from the degradation of hemoglobin's heme component).
+
+2. **What is jaundice?** Jaundice is the clinical sign of yellowish discoloration of the skin, mucous membranes, and the whites of the eyes (sclera).
+
+3. **What causes jaundice?** Jaundice occurs when there is an **excess accumulation of bilirubin** in the blood (hyperbilirubinemia). When bilirubin levels rise above a certain threshold (~2-3 mg/dL), the pigment deposits in tissues, producing the characteristic yellow color.
+
+4. **Could jaundice cause bilirubin?** No. Bilirubin is a biochemical substance produced by normal metabolic processes (hemolysis, liver metabolism). Jaundice is merely the **visible symptom** of elevated bilirubin — it is the effect, not the cause.
+
+5. **Causal direction:** The causal chain is:
+   - Elevated bilirubin → deposits in skin/tissues → yellow discoloration (jaundice)
+
+This clearly establishes that **bilirubin (specifically elevated levels) causes jaundice**, not the reverse.
+
+<Answer>A</Answer>

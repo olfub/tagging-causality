@@ -1,0 +1,18 @@
+
+
+## Step-by-Step Reasoning
+
+1. **Consider option A: Alarm causes Burglary.**
+   - This would mean that an alarm going off leads to a burglary occurring. This doesn't make logical sense — alarms are designed to *deter* or *alert* people about burglaries, not cause them.
+
+2. **Consider option B: Burglary causes Alarm.**
+   - This means that when a burglary occurs, it triggers the alarm system. This is the standard causal relationship — a break-in activates sensors, which then set off the alarm.
+
+3. **Context from the classic Bayesian network (Earthquake/Burglary/Alarm model):**
+   - In this well-known model, both **Burglary** and **Earthquake** are parent (cause) nodes of the **Alarm** node. The alarm is an *effect* triggered by either a burglary or an earthquake.
+
+## Conclusion
+
+A burglary is an event that triggers (causes) an alarm, not the other way around.
+
+<Answer>B</Answer>

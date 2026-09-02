@@ -1,0 +1,20 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the variables**  
+   - **DeskPrntSpd** – represents the *print speed* (how fast pages are produced).  
+   - **PrtMem** – represents the *printer’s available memory* (the buffer in the printer hardware).
+
+2. **Understand the printing workflow in Windows 95**  
+   - The Windows 95 print spooler loads the print job into memory and then sends the data to the printer.  
+   - The printer can only process and print data as fast as its internal memory (PrtMem) can accept it.  
+
+3. **Analyze the likely causal direction**  
+   - If the printer’s memory (PrtMem) is **limited**, the printer must pause to receive more data, leading to a **slower print speed** (DeskPrntSpd).  
+   - Conversely, a higher print speed does not *cause* more memory to appear in the printer; the printer’s memory is a fixed hardware attribute.  
+
+4. **Conclusion**  
+   - The most plausible cause‑and‑effect relationship is that **insufficient printer memory (PrtMem) reduces the printing speed (DeskPrntSpd)**.  
+
+Therefore, the more likely relationship is **B. PrtMem causes DeskPrntSpd**.
+
+<Answer>B</Answer>

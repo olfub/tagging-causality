@@ -1,0 +1,4 @@
+Demographic:A,S
+Socioeconomic:E,O
+Geographic:R
+Mobility:T

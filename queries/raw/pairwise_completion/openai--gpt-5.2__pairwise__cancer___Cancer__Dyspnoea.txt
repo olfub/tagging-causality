@@ -1,0 +1,16 @@
+1. **Define the variables**
+   - **Cancer (lung cancer)**: malignant growth in lung tissue, can obstruct airways, invade lung parenchyma, cause pleural effusions, lymphangitic spread, anemia, thromboembolism, etc.
+   - **Dyspnoea**: symptom (shortness of breath) resulting from impaired ventilation, gas exchange, airway obstruction, pleural disease, cardiovascular causes, anemia, anxiety, etc.
+
+2. **Check biological plausibility**
+   - Lung cancer can **directly cause dyspnoea** via airway obstruction, atelectasis, pleural effusion, pneumonitis, lymphangitic carcinomatosis, or indirectly via PE or anemia.
+   - Dyspnoea itself is a **symptom**, not a mechanism known to initiate malignant transformation; it does not biologically “cause” cancer.
+
+3. **Directionality and clinical course**
+   - In practice, dyspnoea often appears **after** cancer develops (or as it progresses/complicates), fitting a cancer → dyspnoea pathway.
+   - Dyspnoea may lead to **detection** of cancer (diagnostic association), but that is not causation.
+
+4. **Conclusion**
+   - The more likely causal relationship is **Cancer causes Dyspnoea**.
+
+<Answer>A</Answer>

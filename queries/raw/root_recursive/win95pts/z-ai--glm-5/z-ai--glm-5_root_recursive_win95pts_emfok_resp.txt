@@ -1,0 +1,13 @@
+Looking at the causal relationships provided:
+
+1. `prtpaper` causes `prtstatpaper`
+2. `netprint` causes `prtpath`
+3. `prtdriver` causes `drvset`, `drvok`, `emfok`, `prtthread`
+4. `prtcbl` causes `cblprthrdwrok`
+5. `dsapplctn` causes `ds_ntok`, `ds_lclok`
+
+I need to identify variables that are caused by `emfok`. From the given causal relationships, I can see that `emfok` is caused by `prtdriver`, but there is no relationship where `emfok` is the cause of any other variable.
+
+After reviewing all the given causal relationships, I don't find any variable that is caused by `emfok`.
+
+<Answer></Answer>

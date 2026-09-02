@@ -1,0 +1,4 @@
+Measurement:HypDistrib,HypoxiaInO2,CO2,ChestXray,Grunting,LowerBodyO2,RUQO2,LVH,DuctFlow,CardiacMixing,LungParench,LungFlow
+Report:LVHreport,CO2Report,XrayReport,GruntingReport
+Pathology:BirthAsphyxia,Disease,Sick
+Demographic:Age

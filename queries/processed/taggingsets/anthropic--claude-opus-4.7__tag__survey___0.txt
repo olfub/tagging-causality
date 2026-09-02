@@ -1,0 +1,10 @@
+demographic:A,S,E
+immutable:A,S
+socioeconomic:E,O,R
+behavioral:T,O
+personal-attribute:A,S,E,O
+geographic:R,T
+life-stage:A,E,O
+biological:A,S
+choice:E,O,R,T
+outcome:T

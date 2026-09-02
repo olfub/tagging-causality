@@ -1,0 +1,21 @@
+To determine the correct cause-and-effect relationship, let's analyze the biological mechanisms of Hepatitis B virus (HBV) markers.
+
+**Step 1: Define the terms.**
+*   **HBsAg (Hepatitis B surface Antigen):** This is a protein on the surface of the Hepatitis B virus. Its presence in the blood indicates that the person is currently infected with the virus (either acute or chronic). It is the first marker to appear after infection.
+*   **HBc_anti (or Anti-HBc / Hepatitis B core Antibody):** This is an antibody produced by the body's immune system in response to the Hepatitis B core antigen (HBcAg). The core antigen is part of the inner structure of the virus.
+
+**Step 2: explicit the temporal sequence of infection and immune response.**
+1.  **Infection:** A person is infected with the Hepatitis B virus.
+2.  **Viral Replication:** The virus begins to replicate, producing viral proteins, including HBsAg and HBcAg.
+3.  **Antigen Presence:** HBsAg appears in the blood. This effectively signals the presence of the pathogen.
+4.  **Immune Response:** The host's immune system detects the viral components (antigens). Specifically, the immune system recognizes the core antigen (part of the virus associated with HBsAg presence) as foreign.
+5.  **Antibody Production:** In response to detecting the virus, the immune system synthesizes antibodies, including HBc_anti (Anti-HBc), to fight or mark the infection.
+
+**Step 3: Analyze the causal link.**
+*   Does the antibody (HBc_anti) cause the antigen (HBsAg)? No. The antibody is a reaction to the virus. You cannot spontaneously generate the virus just because you have the antibody.
+*   Does the antigen (HBsAg) cause the antibody (HBc_anti)? In a causal chain, yes. The presence of the virus (indicated by HBsAg) interacts with the immune system, *triggering* the production of Anti-HBc. Without the initial presence of viral antigens (of which HBsAg is the hallmark surface marker), the specific antibodies would not be produced.
+
+**Conclusion:**
+The presence of the viral antigen (HBsAg, representing the infection) stimulates the immune system to produce the antibody (HBc_anti). Therefore, the antigen is the antecedent cause of the antibody response.
+
+<Answer>B</Answer>

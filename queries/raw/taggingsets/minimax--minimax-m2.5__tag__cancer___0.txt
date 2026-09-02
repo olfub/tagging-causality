@@ -1,0 +1,13 @@
+Exposure: Pollution, Smoker
+Disease: Cancer
+Symptom: Dyspnoea
+Diagnostic: Xray
+Environmental: Pollution
+Behavioral: Smoker
+Pathology: Cancer
+MedicalTest: Xray
+RiskFactor: Pollution, Smoker
+ClinicalOutcome: Cancer, Dyspnoea
+Observable: Xray, Dyspnoea
+Cause: Pollution, Smoker
+Effect: Cancer, Xray, Dyspnoea

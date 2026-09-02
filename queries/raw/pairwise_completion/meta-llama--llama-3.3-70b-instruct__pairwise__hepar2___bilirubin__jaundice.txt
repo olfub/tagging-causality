@@ -1,0 +1,14 @@
+To determine the likely cause-and-effect relationship between bilirubin and jaundice, let's analyze the two options step by step:
+
+1. **Understanding Jaundice and Bilirubin**:
+   - **Jaundice** is a medical condition characterized by yellowing of the skin and eyes. It is a symptom rather than a disease itself.
+   - **Bilirubin** is a yellow compound that occurs in the normal catabolic pathway that breaks down heme in red blood cells. High levels of bilirubin can lead to jaundice.
+
+2. **Analyzing the Relationship**:
+   - **Option A: Bilirubin causes jaundice.** This suggests that an increase in bilirubin levels leads to the development of jaundice. This is consistent with the medical understanding that elevated bilirubin levels, due to various reasons like liver dysfunction or excessive breakdown of red blood cells, can cause the characteristic yellow discoloration of jaundice.
+   - **Option B: Jaundice causes bilirubin.** This implies that jaundice itself leads to increased levels of bilirubin. However, jaundice is more of a symptom that results from high bilirubin levels rather than a cause of increased bilirubin.
+
+3. **Conclusion**:
+   - Based on the understanding that bilirubin is a substance that, when elevated, causes the symptoms of jaundice, it logically follows that bilirubin is the cause, and jaundice is the effect. Therefore, the relationship where bilirubin causes jaundice is more likely and medically accurate.
+
+<Answer>A</Answer>

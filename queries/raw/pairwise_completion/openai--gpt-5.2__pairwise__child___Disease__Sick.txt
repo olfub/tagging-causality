@@ -1,0 +1,7 @@
+1. In pediatric congenital heart disease, the underlying structural/physiologic abnormality (the **disease**) exists first—often from birth—and drives downstream effects (impaired circulation, hypoxemia, heart failure physiology, poor perfusion).
+
+2. The clinical state of being **sick** (symptoms/signs like cyanosis, tachypnea, failure to thrive, poor feeding, diaphoresis, lethargy) is typically the *manifestation* of that underlying disease process.
+
+3. While severe illness can occasionally contribute to secondary complications or worsen an existing condition, “sick” by itself is generally not the primary cause of a congenital heart disease; it is more commonly the result.
+
+<Answer>A</Answer>

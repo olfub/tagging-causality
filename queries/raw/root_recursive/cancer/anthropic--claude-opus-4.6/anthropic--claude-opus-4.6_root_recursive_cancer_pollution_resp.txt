@@ -1,0 +1,11 @@
+
+
+## Step-by-step Reasoning
+
+1. **Identify root nodes:** The problem states that `pollution` and `smoker` are not affected by any other variable — they are root/exogenous variables.
+
+2. **Identify causal relationships:** The problem explicitly states the causal relationships are "Currently none."
+
+3. **Determine what pollution causes:** Since there are **no causal relationships** defined in this graph, `pollution` does not cause any other variable.
+
+<Answer></Answer>

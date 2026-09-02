@@ -1,0 +1,10 @@
+demographic:A,S
+socioeconomic:E,O
+geographic:R,T
+long_term_status:E,O,R
+age_measure:A
+sex_indicator:S
+schooling:E
+employment_role:O
+residential_location:R
+mobility_behavior:T

@@ -1,0 +1,12 @@
+
+
+**Step-by-step reasoning:**
+
+1. An earthquake is a natural geological event caused by tectonic plate movements.
+2. An alarm (such as a seismic alarm or emergency alert) is a human-made device/system designed to respond to detected events.
+3. Earthquakes trigger seismic sensors, which in turn activate alarms to warn people.
+4. An alarm cannot cause tectonic activity or an earthquake.
+
+**Conclusion:** Earthquakes cause alarms to go off, not the other way around.
+
+<Answer>B</Answer>

@@ -1,0 +1,17 @@
+Looking at the given causal relationships, I need to identify variables that are caused by lvedvolume.
+
+From the information provided, these are the causal relationships:
+- hypovolemia causes lvedvolume, cvp, pcwp, strokevolume, co, bp
+- lvfailure causes lvedvolume, strokevolume, co, bp, pcwp
+- pulmembolus causes pap
+- ventmach causes minvol, press
+
+I can see that:
+1. lvedvolume is caused by hypovolemia
+2. lvedvolume is caused by lvfailure
+
+However, I don't see any relationship where lvedvolume is listed as a cause of another variable. The given information only shows lvedvolume as an effect of other variables, not as a cause itself.
+
+Therefore, there are no variables that are caused by lvedvolume according to the provided causal relationships.
+
+<Answer></Answer>

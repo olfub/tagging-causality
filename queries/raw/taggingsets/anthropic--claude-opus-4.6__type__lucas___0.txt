@@ -1,0 +1,10 @@
+
+
+Habit: Smoking
+Symptom: Yellow_Fingers, Fatigue, Coughing
+Psychological_Condition: Anxiety, Attention_Disorder
+Social_Influence: Peer_Pressure
+Genetic_Factor: Genetics
+Arbitrary_Attribute: Born_an_Even_Day
+Adverse_Event: Car_Accident
+Disease: Lung_Cancer, Allergy

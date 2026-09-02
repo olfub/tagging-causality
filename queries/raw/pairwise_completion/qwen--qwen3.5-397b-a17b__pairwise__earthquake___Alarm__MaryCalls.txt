@@ -1,0 +1,28 @@
+## Step-by-Step Reasoning
+
+Let me analyze this causal relationship carefully, drawing on the classic Bayesian network example this appears to reference.
+
+**Step 1: Understand the variables**
+- **Alarm**: An automated alarm system that detects events (earthquakes, burglaries, etc.)
+- **MaryCalls**: Mary making a phone call (typically to check on the situation)
+
+**Step 2: Consider temporal ordering**
+- For Mary to call about an alarm situation, the alarm must first be triggered
+- The sequence is: Event occurs → Alarm activates → Mary is notified → Mary calls
+- Mary's call happens *after* the alarm, not before
+
+**Step 3: Consider the mechanism**
+- Alarm systems are designed to detect physical events and alert people
+- People respond to alarms by taking action (such as making phone calls)
+- Phone calls from Mary do not trigger alarm systems to activate
+
+**Step 4: Consider the standard causal model**
+- In the classic Alarm Bayesian network (from AI/probability literature), the causal structure is:
+  - Earthquake/Burglary → Alarm → MaryCalls/JohnCalls
+- This reflects the real-world logic that alarms cause people to call, not vice versa
+
+**Step 5: Evaluate both options**
+- **A. Alarm causes MaryCalls**: Makes logical sense - alarm goes off, Mary calls to check
+- **B. MaryCalls causes Alarm**: Does not make logical sense - Mary's phone call doesn't trigger the alarm system
+
+<Answer>A</Answer>

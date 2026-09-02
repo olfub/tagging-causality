@@ -1,0 +1,23 @@
+Environmental Exposure: Asia
+Behavioral Risk Factor: Smoking
+Modifiable Lifestyle: Smoking
+Travel History: Asia
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Infectious Disease: Tuberculosis
+Chronic Disease: Lung Cancer, Bronchitis
+Malignancy: Lung Cancer
+Respiratory Condition: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea
+Pulmonary Pathology: Tuberculosis, Lung Cancer, Bronchitis
+Symptom: Dyspnoea
+Diagnostic Test Result: X-ray
+Observable Indicator: X-ray, Dyspnoea
+Logical Aggregate: Either Tuberculosis or Lung Cancer
+Latent Intermediate: Either Tuberculosis or Lung Cancer
+Risk Factor: Asia, Smoking
+Consequence of Disease: X-ray, Dyspnoea, Either Tuberculosis or Lung Cancer
+Root Cause: Asia, Smoking
+Clinical Outcome: X-ray, Dyspnoea
+Smoking Related: Lung Cancer, Bronchitis
+Detected by Imaging: Tuberculosis, Lung Cancer, Either Tuberculosis or Lung Cancer
+Patient Reported: Dyspnoea
+Precedes Diagnosis: Asia, Smoking, Tuberculosis, Lung Cancer, Bronchitis

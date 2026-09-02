@@ -1,0 +1,3 @@
+In the context of pediatric congenital heart disease, the disease is typically present from birth (congenital), meaning age does not cause the disease. Instead, the severity and type of the heart defect often determine the age at which symptoms appear or diagnosis occurs. Therefore, the disease (Sick) influences the age of presentation, making "Sick causes Age" the more likely causal relationship.
+
+<Answer>B</Answer>

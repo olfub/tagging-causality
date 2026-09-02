@@ -1,0 +1,13 @@
+
+
+## Step-by-Step Reasoning
+
+1. **Gallstones** are solid deposits (often cholesterol or bilirubin-based) that form in the gallbladder due to metabolic or biochemical factors (e.g., cholesterol supersaturation of bile, impaired gallbladder motility).
+
+2. **Upper abdominal pain** (biliary colic) is a classic *symptom* of gallstones. When a gallstone obstructs the cystic duct or common bile duct, it causes characteristic right upper quadrant or epigastric pain.
+
+3. **Direction of causality**: Gallstones are the underlying pathological condition, and upper abdominal pain is the resulting clinical manifestation. Pain does not cause stone formation — rather, the presence of stones (and their movement/obstruction) triggers the pain.
+
+4. **Medically established relationship**: In clinical medicine, gallstones → upper abdominal pain is a well-documented cause-and-effect pathway. There is no known mechanism by which upper abdominal pain would lead to the formation of gallstones.
+
+<Answer>A</Answer>

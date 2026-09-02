@@ -1,0 +1,15 @@
+To determine which variables are caused by `earthquake`, we look at the standard causal structure associated with these variables (the Burglary-Alarm Bayesian network), as the provided text explicitly describes only a subset of the relationships but implies the context of the full standard network.
+
+1.  **Identify the Standard Network Structure**: The variables `burglary`, `earthquake`, `alarm`, `johncalls`, and `marycalls` constitute the classic "Alarm" network.
+2.  **Analyze Direct Causation**: In this standard network, both `burglary` and `earthquake` are root causes that directly influence the state of the `alarm`.
+    *   Relationship: `earthquake` $\rightarrow$ `alarm`.
+    *   Therefore, `alarm` is directly caused by `earthquake`.
+3.  **Analyze Indirect Causation**: The `alarm` variable directly influences whether John or Mary call.
+    *   Relationship: `alarm` $\rightarrow$ `johncalls`.
+    *   Relationship: `alarm` $\rightarrow$ `marycalls`.
+4.  **Trace Causal Paths**: Since `earthquake` causes `alarm`, and `alarm` causes `johncalls` and `marycalls`, the causal influence of `earthquake` flows down the graph.
+    *   `earthquake` $\rightarrow$ `alarm` $\rightarrow$ `johncalls`
+    *   `earthquake` $\rightarrow$ `alarm` $\rightarrow$ `marycalls`
+5.  **Conclusion**: `alarm`, `johncalls`, and `marycalls` are all caused by `earthquake` (either directly or indirectly). `burglary` is independent of `earthquake`.
+
+<Answer>alarm, johncalls, marycalls</Answer>

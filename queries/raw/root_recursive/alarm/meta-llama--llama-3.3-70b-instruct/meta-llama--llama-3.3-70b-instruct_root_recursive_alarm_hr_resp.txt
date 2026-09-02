@@ -1,0 +1,5 @@
+To find the variables that are caused by hr, we need to look for causal relationships where hr is the cause. However, based on the provided information, hr (heart rate) is not listed as a cause for any other variables. It is listed as an effect of several conditions: lvfailure, hypovolemia, anaphylaxis, and pulmembolus. 
+
+Since hr does not cause any other variable according to the given relationships, the list of variables caused by hr is empty.
+
+<Answer></Answer>

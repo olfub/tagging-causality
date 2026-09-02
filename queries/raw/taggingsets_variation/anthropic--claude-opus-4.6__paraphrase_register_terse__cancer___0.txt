@@ -1,0 +1,15 @@
+risk_factor: Pollution, Smoker
+environmental_exposure: Pollution
+behavioral_choice: Smoker
+disease: Cancer
+caused_by_external_factors: Cancer
+diagnostic_indicator: Xray, Dyspnoea
+medical_imaging: Xray
+symptom: Dyspnoea
+observable_consequence: Xray, Dyspnoea
+root_cause: Pollution, Smoker
+health_outcome: Cancer, Dyspnoea
+directly_measured: Pollution, Smoker, Xray, Dyspnoea
+latent_process: Cancer
+upstream_of_disease: Pollution, Smoker
+downstream_of_disease: Xray, Dyspnoea

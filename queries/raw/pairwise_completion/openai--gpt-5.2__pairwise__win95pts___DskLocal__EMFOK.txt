@@ -1,0 +1,15 @@
+1. **Interpret the terms in a Windows 95 printing context**
+   - **EMFOK** most plausibly refers to whether **Enhanced Metafile (EMF) spooling/printing is OK/enabled/working**.
+   - **DskLocal** most plausibly refers to something about **using a local disk location** (e.g., local spooling to disk, local temp/spool path being available/selected).
+
+2. **Think about dependency direction**
+   - EMF spooling (or an “EMF is OK” status) generally **depends on** the system being able to write spool data somewhere appropriate—typically **to a local disk spool directory**.
+   - If the local disk spooling path isn’t available/usable (permissions, path missing, disk full/corrupt, wrong setting), EMF spooling would commonly fail or be disabled, making **EMFOK false/not set**.
+
+3. **Check plausibility of reverse causation**
+   - It’s hard to justify that “EMFOK” (a format/status about print spooling) would *cause* the system to become “DskLocal” (a storage/location condition). The storage/location choice/availability is more foundational.
+
+4. **Conclusion**
+   - It’s more likely that **DskLocal influences whether EMF spooling is OK**, not the other way around.
+
+<Answer>A</Answer>

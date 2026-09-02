@@ -1,0 +1,10 @@
+PrtOn -- PrtStatOff
+AvlblVrtlMmry -- PSERRMEM
+AppDtGnTm -- PrtSpool
+PrtPScript -- TstpsTxt
+AppDtGnTm -- HrglssDrtnAftrPrnt
+PSERRMEM -- TstpsTxt
+AvlblVrtlMmry -- TstpsTxt
+PrtStatToner -- TnrSpply
+PrtPaper -- PrtStatPaper
+PrtMem -- PrtStatMem

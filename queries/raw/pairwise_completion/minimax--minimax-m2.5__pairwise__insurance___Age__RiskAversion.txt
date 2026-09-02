@@ -1,0 +1,21 @@
+**Step‑by‑step reasoning**
+
+1. **Define the variables**  
+   - *Age*: the number of years since a person’s birth. It increases monotonically with time and is not influenced by psychological traits.  
+   - *RiskAversion*: a stable, but not immutable, tendency to avoid risky outcomes. It can be measured by surveys or behavioral tasks.
+
+2. **Consider temporal order**  
+   - Age is determined by the passage of time; a person cannot become younger or older because of a mental attitude.  
+   - Risk aversion can change over the life‑course (e.g., people often become more risk‑averse as they get older).
+
+3. **Examine plausible causal mechanisms**  
+   - **Age → RiskAversion**: With aging, people accumulate experience, may face declining health, and often acquire more assets to protect. These factors can make them more risk‑averse. Empirical studies regularly find a positive association between age and risk aversion.  
+   - **RiskAversion → Age**: Risk aversion could, in theory, affect health‑related behaviors (e.g., avoiding dangerous sports), which might modestly influence longevity. However, the effect is indirect and far weaker than the direct effect of time on age. Moreover, “age” as a chronological variable cannot be caused by a psychological trait.
+
+4. **Evaluate plausibility**  
+   - The direction **Age → RiskAversion** is consistent with well‑documented empirical patterns and has a clear, plausible mechanism.  
+   - The reverse direction **RiskAversion → Age** lacks a direct causal pathway and is highly implausible.
+
+**Conclusion:** The more likely causal relationship is **Age causes RiskAversion**.
+
+<Answer>A</Answer>

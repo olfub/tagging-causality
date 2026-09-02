@@ -1,0 +1,13 @@
+**Step‑by‑step reasoning**
+
+1. **Understanding the condition** – Congenital heart disease (CHD) is a structural heart defect present at birth. It arises during embryonic development due to genetic, environmental, or maternal factors, not because of the child’s age after birth.
+
+2. **Evaluating “Age causes Disease”** – In many pediatric and adult contexts, increasing age can be a risk factor for the development of certain diseases (e.g., atherosclerosis, hypertension). Even though age is **not** a direct cause of congenital heart disease, the phrase “age causes disease” reflects the general epidemiological principle that older age is associated with higher disease risk.
+
+3. **Evaluating “Disease causes Age”** – This would imply that having a disease makes a person older (i.e., accelerates aging). While chronic illness can lead to complications that mimic aspects of aging (e.g., growth failure, organ dysfunction), the disease does not actually cause the passage of time or increase chronological age.
+
+4. **Comparing plausibility** – Between the two options, the relationship “Age → Disease” (age is a risk factor for disease) is far more plausible in medicine than “Disease → Age” (disease causing chronological aging). Although neither is a perfect description for congenital heart disease, the former aligns with standard causal reasoning in health and disease.
+
+**Conclusion:** The more likely cause‑and‑effect relationship is **Age causes Disease**.
+
+<Answer>A</Answer>

@@ -1,0 +1,1 @@
+["yellow_fingers", "lung_cancer", "coughing", "fatigue", "car_accident"]

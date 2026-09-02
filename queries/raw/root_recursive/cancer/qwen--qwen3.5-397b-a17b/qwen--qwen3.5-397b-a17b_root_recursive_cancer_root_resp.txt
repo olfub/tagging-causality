@@ -1,0 +1,38 @@
+# Step-by-Step Analysis of Causal Relationships
+
+Let me analyze each variable to determine which ones are root causes (unaffected by other variables in this system):
+
+## 1. Pollution
+- **Nature**: Environmental factor
+- **Causal role**: Can contribute to lung cancer risk
+- **Affected by other variables?**: No - pollution levels are not caused by smoking behavior, cancer status, x-rays, or dyspnoea in this system
+- **Conclusion**: Root variable (exogenous)
+
+## 2. Smoker
+- **Nature**: Behavioral/lifestyle choice
+- **Causal role**: Major risk factor for lung cancer
+- **Affected by other variables?**: No - smoking status is not caused by pollution, cancer, x-rays, or dyspnoea in this model
+- **Conclusion**: Root variable (exogenous)
+
+## 3. Cancer
+- **Nature**: Disease outcome
+- **Causal role**: Caused by risk factors, leads to symptoms and tests
+- **Affected by other variables?**: Yes - caused by pollution and smoking
+- **Conclusion**: Not a root variable
+
+## 4. Xray
+- **Nature**: Diagnostic test
+- **Causal role**: Used to detect lung problems
+- **Affected by other variables?**: Yes - typically ordered when cancer is suspected
+- **Conclusion**: Not a root variable
+
+## 5. Dyspnoea
+- **Nature**: Symptom (shortness of breath)
+- **Causal role**: Result of lung conditions
+- **Affected by other variables?**: Yes - caused by cancer and other lung conditions
+- **Conclusion**: Not a root variable
+
+## Summary
+The variables that are **unaffected by any other variables** in this causal system are the exogenous/root variables: **pollution** and **smoker**. These are the starting points of the causal chain.
+
+<Answer>pollution, smoker</Answer>

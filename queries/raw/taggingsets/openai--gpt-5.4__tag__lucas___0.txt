@@ -1,0 +1,18 @@
+Tobacco_Related: Smoking, Yellow_Fingers, Coughing, Lung_Cancer
+Behavioral_Exposure: Smoking
+Psychological_State: Anxiety
+Social_Influence: Peer_Pressure
+Inherited_Factor: Genetics
+Neurobehavioral_Condition: Attention_Disorder
+Random_Birth_Attribute: Born_an_Even_Day
+Accidental_Event: Car_Accident
+Immune_Condition: Allergy
+Serious_Disease: Lung_Cancer
+Observable_Manifestation: Yellow_Fingers, Fatigue, Coughing
+Respiratory_Related: Allergy, Coughing, Lung_Cancer
+Chronic_Condition: Attention_Disorder, Allergy, Lung_Cancer
+Antecedent_Risk: Smoking, Anxiety, Peer_Pressure, Genetics, Attention_Disorder, Allergy
+Physical_Outcome: Yellow_Fingers, Car_Accident, Fatigue, Coughing, Lung_Cancer
+Innate_or_Preexisting: Genetics, Attention_Disorder, Born_an_Even_Day, Allergy
+Behavioral_or_Mental: Smoking, Anxiety, Attention_Disorder
+Safety_Risk: Attention_Disorder, Fatigue, Car_Accident

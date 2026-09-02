@@ -1,0 +1,7 @@
+Demographic: Age, SocioEcon, HomeBase
+VehicleAttribute: VehicleYear, MakeModel, Mileage, Antilock, Airbag, RuggedAuto, DrivQuality
+Cost: ThisCarCost, OtherCarCost, PropCost, MedCost, ILiCost
+Behavior: GoodStudent, DrivingSkill, SeniorTrain, DrivHist, RiskAversion
+Event: Accident, Theft
+VehicleCharacteristic: ThisCarDam, CarValue, Cushioning 
+SecurityFeature: AntiTheft

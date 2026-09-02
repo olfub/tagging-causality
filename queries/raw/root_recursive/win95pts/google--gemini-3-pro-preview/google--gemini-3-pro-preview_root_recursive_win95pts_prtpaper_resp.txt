@@ -1,0 +1,5 @@
+Based on the information provided, there are no causal relationships defined between any of the variables. Specifically, the prompt states the causal relationships are "Currently none".
+
+Therefore, no variables are caused by `prtpaper` in this specific scenario.
+
+<Answer></Answer>

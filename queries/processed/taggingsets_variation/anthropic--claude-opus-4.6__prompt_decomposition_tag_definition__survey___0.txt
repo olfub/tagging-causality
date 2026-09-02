@@ -1,0 +1,17 @@
+biological_trait:A,S
+demographic_attribute:A,S,E,O,R
+innate_characteristic:A,S
+acquired_characteristic:E,O,R
+socioeconomic_indicator:E,O
+choice_driven:E,O,R,T
+location_related:R,T
+activity:T
+changes_over_lifespan:E,O,R,T
+time_dependent:A
+binary_variable:S
+human_capital:E,O
+causes_socioeconomic_status:A,S,E
+influenced_by_socioeconomic_status:O,R,T
+upstream_determinant:A,S
+midstream_determinant:E,O,R
+downstream_outcome:T

@@ -1,0 +1,3 @@
+In physiology, alveolar ventilation (VENTALV) directly determines the partial pressure of arterial carbon dioxide (ARTCO2). Increased ventilation leads to lower CO2 removal and thus lower ARTCO2, while decreased ventilation results in higher ARTCO2. Therefore, VENTALV causes changes in ARTCO2, making option B the correct cause-and-effect relationship.
+
+<Answer>B</Answer>

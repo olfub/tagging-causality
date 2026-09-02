@@ -1,0 +1,26 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the substances**  
+   - **Amylase**: A digestive enzyme produced mainly by the pancreas (and salivary glands). Serum amylase is a clinical marker for pancreatic injury.  
+   - **Gallstones**: Hard deposits of cholesterol or bilirubin that form in the gallbladder.
+
+2. **Consider possible mechanistic links**  
+   - *Can amylase cause gallstones?*  
+     - There is no known biochemical pathway in which amylase promotes cholesterol crystallization or bilirubin aggregation in the gallbladder. Elevated amylase is a consequence of pancreatic disease, not a cause of stone formation.  
+   - *Can gallstones cause an increase in amylase?*  
+     - Gallstones can obstruct the pancreatic duct or ampulla of Vater, leading to **acute pancreatitis**. Pancreatitis causes leakage of pancreatic enzymes (including amylase) into the bloodstream, raising serum amylase levels markedly. This is a well‑established clinical relationship (e.g., “gallstone pancreatitis”).
+
+3. **Evaluate clinical evidence**  
+   - Laboratory testing: In a patient with right upper‑quadrant pain and elevated amylase, clinicians often look for gallstones (via ultrasound) as the underlying cause of pancreatitis.  
+   - Studies: Gallstone disease is a common precipitant of acute pancreatitis, and serum amylase (and lipase) are used to diagnose this condition.
+
+4. **Determine which cause‑effect direction is plausible**  
+   - The direction *gallstones → elevated amylase* is supported by pathophysiology and clinical practice.  
+   - The opposite direction (*amylase → gallstones*) lacks any mechanistic or empirical support.
+
+5. **Conclusion**  
+   - The more likely causal relationship is that gallstones can lead to an increase in amylase (via pancreatitis), not the reverse.
+
+**Final answer**
+
+<Answer>B</Answer>

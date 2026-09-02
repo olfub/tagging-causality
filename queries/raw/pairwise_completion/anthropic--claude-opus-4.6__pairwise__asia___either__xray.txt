@@ -1,0 +1,27 @@
+
+
+# Causal Reasoning: Tuberculosis/Lung Cancer and X-ray
+
+## Step-by-step Analysis
+
+**Step 1: Identify what each variable represents.**
+- **Tuberculosis and Lung Cancer** are diseases (conditions existing in the body).
+- **X-ray** here refers to an **X-ray result/finding** (e.g., an abnormal chest X-ray).
+
+**Step 2: Consider the direction of causation.**
+- Diseases produce **observable signs** in the body (e.g., lesions, masses, infiltrates).
+- When an X-ray is taken, these physical changes **caused by the disease** show up as abnormal findings.
+- Therefore: **Disease → abnormal X-ray finding** (the disease causes what we see on the X-ray).
+
+**Step 3: Evaluate Option B.**
+- An X-ray is a diagnostic imaging tool. It **detects** disease; it does not **create** disease.
+- Getting an X-ray does not give someone Tuberculosis or Lung Cancer.
+
+**Step 4: Confirm with established models.**
+- This matches the well-known **ASIA Bayesian network** in causal modeling, where "Either Tuberculosis or Lung Cancer" is an intermediate node that **causes** a positive X-ray result.
+
+## Conclusion
+
+Having either Tuberculosis or Lung Cancer causes an abnormal X-ray result — not the other way around.
+
+<Answer>A</Answer>

@@ -1,0 +1,14 @@
+demographic:A,S,E,O,R
+personal_attribute:A,S
+socioeconomic:E,O
+geographic:R,T
+time_invariant:S
+changes_with_age:E,O,R
+behavioral:T
+categorical:S,O,R
+continuous:A
+ordinal:E
+location_related:R,T
+human_capital:E,O
+lifestyle:T,R
+biological:A,S

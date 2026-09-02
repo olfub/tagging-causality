@@ -1,0 +1,22 @@
+To determine which variables are caused by `lung`, we need to analyze the provided causal relationships and the variable definitions.
+
+1.  **Analyze the explicit causal relationships:**
+    *   `asia` causes `tub`.
+    *   `smoke` causes `lung` and `bronc`.
+    *   `tub` causes `either`.
+    
+    Based on the explicit text, `lung` is caused by `smoke`, but no explicit statements say `lung` causes other variables.
+
+2.  **Analyze the variable definitions:**
+    *   We look at the definition of `either`: "whether or not the patient has either tuberculosis or lung cancer".
+    *   This defines `either` as a logical OR combination of the variables `tub` and `lung`.
+    *   Consequently, the state of `lung` directly determines the state of `either` (along with `tub`). If the patient has lung cancer (`lung` = true), then `either` must be true.
+    *   Therefore, `lung` is a cause of `either`.
+
+3.  **Evaluate other variables:**
+    *   `dysp` and `xray` are defined, but no causal links pointing to or from them are described in the text, nor do their definitions imply a dependency on `lung`. Even if we assume the context of the standard "Asia" Bayesian network, `lung` would influence `xray` and `dysp` only indirectly through `either`, meaning they are not direct effects. Based strictly on the provided text and definitions, `either` is the only direct effect.
+
+4.  **Conclusion:**
+    The variable `lung` causes `either`.
+
+<Answer>either</Answer>

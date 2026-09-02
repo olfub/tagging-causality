@@ -1,0 +1,17 @@
+Demographic:sex,age
+RiskFactor:alcoholism,hepatotoxic,diabetes,obesity,fat,alcohol
+Diagnosis:THepatitis,ChHepatitis,RHepatitis,PBC,fibrosis,Steatosis,Cirrhosis,Hyperbilirubinemia,gallstones,carcinoma,encephalopathy
+Symptom:fatigue,itching,upper_pain,pain_ruq,pressure_ruq,pain,joints,bleeding,flatulence,anorexia,nausea,hepatalgia
+ClinicalSign:skin,edema,ascites,hepatomegaly,spleen,consciousness,spiders,jaundice,palms
+ImagingFeature:density,edge,irregular_liver
+Procedure:hospital,surgery,choledocholithotomy,injections,transfusion
+LabTest_Enzyme:phosphatase,alt,ast,amylase,ggtp
+LabTest_LiverFunction:bilirubin,albumin
+LabTest_LipidPanel:cholesterol,triglycerides
+LabTest_Coagulation:inr
+LabTest_BloodCount:platelet
+LabTest_Inflammation:ESR
+LabTest_KidneyFunction:urea
+LabTest_Protein:proteins
+LabTest_Other:le_cells
+SerologyMarker:ama,hbsag,hbsag_anti,hbc_anti,hcv_anti,hbeag,vh_amn

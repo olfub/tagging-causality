@@ -1,0 +1,9 @@
+ApplicationState:AppOK,AppData,AppDtGnTm
+DiagnosticStatus:DSApplctn,DS_NTOK,DS_LCLOK
+PrintJobData:DataFile,PrtData,PrtDataOut,PrtFile,PrtQueue
+DriverGraphics:PrtDriver,DrvSet,DrvOK,GrphcsRltdDrvrSttngs,EMFOK,GDIIN,GDIOUT,EPSGrphc,NnPSGrphc,PrtPScript,PSGRAPHIC,TrTypFnts,FntInstlltn,PrntrAccptsTrtyp,TTOK,NnTTOK,TstpsTxt,GrbldPS,IncmpltPS,PSERRMEM,PrtSel,PrtPath,PrtIcon,PrtMpTPth
+PrinterHardware:PrtOn,PrtPaper,PrtPort,PrtCbl,CblPrtHrdwrOK,TnrSpply,PrtStatPaper,PrtStatToner,PrtStatMem,PrtStatOff,PTROFFLINE
+NetworkStatus:NetPrint,NetOK,NtwrkCnfg,NtGrbld,NtSpd,PC2PRT
+SystemResources:DskLocal,LclOK,LclGrbld,PrtSpool,PrtThread,PrtMem,PrtTimeOut,PrntPrcssTm,DeskPrntSpd,AvlblVrtlMmry,FllCrrptdBffr
+PrintOutcome:CmpltPgPrntd,HrglssDrtnAftrPrnt,PgOrnttnOK,PrntngArOK,ScrnFntNtPrntrFnt,REPEAT,GrbldOtpt
+ProblemIndicator:Problem1,Problem2,Problem3,Problem4,Problem5,Problem6

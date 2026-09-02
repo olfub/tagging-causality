@@ -1,0 +1,1 @@
+["lvfailure", "hypovolemia", "anaphylaxis", "pulmembolus"]

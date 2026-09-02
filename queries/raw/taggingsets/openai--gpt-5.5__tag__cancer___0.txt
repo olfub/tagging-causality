@@ -1,0 +1,7 @@
+environmental exposure: Pollution
+behavioral exposure: Smoker
+cancer risk factor: Pollution, Smoker
+disease state: Cancer
+diagnostic test result: Xray
+symptom: Dyspnoea
+clinical indicator: Xray, Dyspnoea

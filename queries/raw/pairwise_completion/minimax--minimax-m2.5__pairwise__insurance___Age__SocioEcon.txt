@@ -1,0 +1,3 @@
+Age is a chronological variable that typically progresses regardless of external factors, while socioeconomic status (SocioEcon) can be influenced by age through mechanisms like work experience, career advancement, or retirement. It is more plausible that age affects socioeconomic outcomes rather than socioeconomic status determining chronological age. Therefore, the cause-and-effect relationship where Age causes SocioEcon is more likely.
+
+<Answer>A</Answer>

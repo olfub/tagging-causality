@@ -1,0 +1,18 @@
+
+
+## Step-by-Step Reasoning
+
+**Step 1: Define the terms**
+- **pressure_ruq**: Pressure in the right upper quadrant (RUQ) of the abdomen, where the liver, gallbladder, and parts of the duodenum reside.
+- **nausea**: A sensation of unease and discomfort in the stomach with an urge to vomit.
+
+**Step 2: Consider Option A (nausea → pressure_ruq)**
+Nausea is a subjective sensation. While severe nausea/vomiting could theoretically increase intra-abdominal pressure transiently, nausea itself is not a recognized cause of localized RUQ pressure. This direction is not physiologically well-supported.
+
+**Step 3: Consider Option B (pressure_ruq → nausea)**
+Pressure in the RUQ — commonly caused by gallbladder distension (e.g., cholecystitis, cholelithiasis), hepatic congestion, or hepatitis — stimulates **vagal afferent nerves** in the area. This vagal stimulation is a well-known trigger for nausea. Clinically, RUQ pressure/pain is frequently accompanied by nausea (e.g., biliary colic presenting with RUQ pressure and nausea).
+
+**Step 4: Conclusion**
+The physiological mechanism strongly supports that RUQ pressure acts as a stimulus that triggers nausea, not the reverse.
+
+<Answer>B</Answer>

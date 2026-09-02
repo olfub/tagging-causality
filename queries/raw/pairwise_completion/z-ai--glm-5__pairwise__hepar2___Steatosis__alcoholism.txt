@@ -1,0 +1,19 @@
+Here is the step-by-step reasoning to determine the correct cause-and-effect relationship:
+
+**Step 1: Define the terms.**
+*   **Alcoholism (Alcohol Use Disorder):** A chronic condition characterized by an inability to control alcohol consumption despite adverse health consequences. It involves heavy and frequent drinking.
+*   **Steatosis (Fatty Liver):** A condition characterized by the accumulation of fat in liver cells. It is the earliest stage of alcohol-related liver disease.
+
+**Step 2: Analyze the physiological mechanism.**
+When alcohol is metabolized by the liver, it produces harmful substances that damage liver cells. Chronic heavy drinking (alcoholism) alters the metabolic pathways in the liver, causing it to accumulate fat rather than breaking it down. This accumulation of fat is the definition of steatosis. Therefore, the toxic effect of alcohol directly leads to the pathological changes seen in steatosis.
+
+**Step 3: Evaluate Option A (Steatosis causes alcoholism).**
+There is no known biological mechanism by which the accumulation of fat in the liver triggers a psychological and physical dependence on alcohol. In fact, steatosis is often a silent condition discovered through medical testing. It does not induce the behavioral addiction defined as alcoholism.
+
+**Step 4: Evaluate Option B (Alcoholism causes Steatosis).**
+Medical literature consistently identifies chronic alcohol consumption as the primary cause of alcoholic fatty liver disease. The causal link is well-established: the toxicity of alcohol interferes with liver function, resulting in fat buildup. This condition is reversible if the cause (alcohol consumption) is removed, further solidifying the causal direction.
+
+**Conclusion:**
+The medical consensus confirms that alcoholism leads to liver damage, specifically steatosis.
+
+<Answer>B</Answer>

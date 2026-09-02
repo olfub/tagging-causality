@@ -1,0 +1,4 @@
+Demographic attribute: Age, Sex
+Socioeconomic status: Education, Occupation
+Geographic location: Residence
+Mobility behavior: Travel

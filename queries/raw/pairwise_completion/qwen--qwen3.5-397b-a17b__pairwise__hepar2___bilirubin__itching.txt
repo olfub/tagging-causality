@@ -1,0 +1,37 @@
+## Step-by-Step Analysis
+
+### Step 1: Understanding Bilirubin
+Bilirubin is a yellow pigment produced during the normal breakdown of red blood cells. It is processed by the liver and excreted through bile. Elevated bilirubin levels (hyperbilirubinemia) typically indicate:
+- Liver dysfunction
+- Bile duct obstruction
+- Excessive red blood cell breakdown
+
+### Step 2: Understanding Itching (Pruritus) in Medical Context
+Pruritus is a common symptom in certain medical conditions, particularly:
+- Cholestatic liver diseases
+- Biliary obstruction
+- Certain skin conditions
+
+### Step 3: Analyzing the Causal Direction
+
+**Option A: Bilirubin causes itching**
+- In cholestatic conditions, bilirubin and bile acids accumulate in the bloodstream
+- These accumulated substances can deposit in skin tissues
+- This deposition is known to trigger pruritus (itching)
+- This is well-documented in conditions like primary biliary cholangitis, obstructive jaundice, etc.
+
+**Option B: Itching causes bilirubin**
+- Itching is a symptom, not a physiological process that affects bilirubin metabolism
+- Scratching or experiencing itch does not influence:
+  - Red blood cell breakdown
+  - Liver processing capacity
+  - Bile duct function
+- There is no known mechanism by which itching would elevate bilirubin levels
+
+### Step 4: Medical Consensus
+The medical literature consistently shows that elevated bilirubin and bile salts (from liver/cholestatic disease) can cause itching, not the reverse. While both may stem from an underlying liver condition, the directional relationship flows from biochemical changes → symptoms.
+
+### Conclusion
+The causally correct relationship is that elevated bilirubin (along with other accumulated substances in cholestasis) can cause itching, not vice versa.
+
+<Answer>A</Answer>

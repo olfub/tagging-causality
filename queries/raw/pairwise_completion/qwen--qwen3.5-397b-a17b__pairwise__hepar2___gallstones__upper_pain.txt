@@ -1,0 +1,28 @@
+## Step-by-Step Reasoning
+
+**Step 1: Understanding the entities**
+- **Gallstones**: Physical deposits (crystallized bile components) that form in the gallbladder over time
+- **Upper pain**: A symptom, typically referring to upper abdominal pain (often right upper quadrant)
+
+**Step 2: Examining the biological mechanism**
+- Gallstones can obstruct bile ducts or cause gallbladder inflammation
+- This obstruction/inflammation triggers pain receptors, resulting in the sensation of pain
+- This is a well-documented pathophysiological pathway (biliary colic)
+
+**Step 3: Examining reverse causality**
+- Pain is a neurological sensation/symptom
+- Pain cannot physically cause mineral deposits to form in the gallbladder
+- There is no known biological mechanism where pain sensation leads to gallstone formation
+
+**Step 4: Temporal relationship**
+- Gallstones form over months to years
+- Pain occurs when stones cause complications (obstruction, inflammation)
+- The stones must exist before they can cause pain
+
+**Step 5: Medical consensus**
+- Medical literature consistently identifies gallstones as a cause of upper abdominal pain
+- This is fundamental knowledge in gastroenterology and emergency medicine
+
+**Conclusion**: The causal relationship flows from the physical pathology (gallstones) to the symptom (pain), not vice versa.
+
+<Answer>A</Answer>

@@ -1,0 +1,7 @@
+Health_Concern:Yellow_Fingers,Anxiety,Fatigue,Allergy,Coughing,Lung_Cancer
+Habit:Smoking
+Mental_Health:Attention_Disorder
+Influence:Peer_Pressure
+Genetic_Factor:Genetics
+Demographic:Born_an_Even_Day
+Event:Car_Accident

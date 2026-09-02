@@ -1,0 +1,17 @@
+Domain_VerticalMotion: N0_7muVerMo, SubjVertMo, QGVertMotion, CombVerMo
+Domain_Moisture: SatContMoist, RaoContMoist, CombMoisture, AreaMoDryAir, LoLevMoistAd, Dewpoints, MeanRH, RHRatio, AMDewptCalPl
+Domain_Cloud: VISCloudCov, IRCloudCover, CombClouds, CldShadeOth, CldShadeConv
+Domain_Stability: AMInstabMt, InsInMt, MorningCIN, LatestCIN, LIfr12ZDENSd, CapChange, InsChange, CurPropConv, ScenRelAMCIN, AMCINInScen, CapInScen, ScenRelAMIns, AMInsWliScen, InsSclInScen
+Domain_Wind: WndHodograph, OutflowFrMt, WindAloft, WindFieldMt, WindFieldPln, SfcWndShfDis, LLIW
+Domain_Boundary: MorningBound, Boundaries, MvmtFeatures, AreaMeso_ALS
+Domain_LapseRate: LowLLapse, MidLLapse
+Domain_Temperature: TempDis, LowLLapse, MidLLapse
+Domain_Synoptic: SynForcng, WindAloft, SfcWndShfDis, TempDis
+Type_Composite: CombVerMo, CombMoisture, CombClouds
+Type_Forecast: CompPlFcst, MountainFcst, PlainsFcst, N34StarFcst, R5Fcst, ScnRelPlFcst
+Type_ScenarioRel: ScenRelAMCIN, AMCINInScen, CapInScen, ScenRelAMIns, AMInsWliScen, InsSclInScen, ScenRel3_4, ScnRelPlFcst, Scenario
+Type_Temporal: Date, MorningBound, MorningCIN, LatestCIN, LIfr12ZDENSd
+Type_Geographic: MountainFcst, WindFieldMt, PlainsFcst, WindFieldPln, AreaMeso_ALS, AMInstabMt, InsInMt, OutflowFrMt
+Source_Subjective: SubjVertMo, CldShadeOth, CldShadeConv
+Source_Satellite: SatContMoist, VISCloudCov, IRCloudCover
+Source_Model: QGVertMotion, RaoContMoist, N0_7muVerMo, LIfr12ZDENSd

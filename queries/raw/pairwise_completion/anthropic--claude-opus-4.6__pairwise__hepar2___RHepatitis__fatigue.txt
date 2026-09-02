@@ -1,0 +1,15 @@
+
+
+## Step-by-step Reasoning
+
+1. **Understanding RHepatitis**: Hepatitis is a medical condition characterized by inflammation of the liver, which can be caused by viral infections (Hepatitis A, B, C, etc.), autoimmune disorders, toxins, or other factors.
+
+2. **Understanding fatigue**: Fatigue is a symptom — a feeling of tiredness, exhaustion, or lack of energy. It is a common manifestation of many underlying diseases.
+
+3. **Evaluating Option A (Hepatitis → Fatigue)**: Hepatitis causes liver inflammation, which disrupts normal metabolic processes, leads to the buildup of toxins, and triggers immune responses. Fatigue is one of the most commonly reported symptoms of hepatitis, appearing in both acute and chronic forms of the disease.
+
+4. **Evaluating Option B (Fatigue → Hepatitis)**: Fatigue is a general symptom and does not cause liver inflammation or viral infection. While fatigue might indicate a weakened state, it does not lead to the specific pathological process of hepatitis.
+
+5. **Conclusion**: The causal direction clearly flows from the disease (hepatitis) to the symptom (fatigue), not the reverse.
+
+<Answer>A</Answer>

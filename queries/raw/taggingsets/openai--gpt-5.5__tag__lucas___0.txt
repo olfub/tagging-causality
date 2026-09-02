@@ -1,0 +1,14 @@
+modifiable_behavior: Smoking
+tobacco_related: Smoking, Yellow_Fingers, Coughing, Lung_Cancer
+physical_sign_or_symptom: Yellow_Fingers, Fatigue, Coughing
+psychological_factor: Anxiety, Attention_Disorder
+social_influence: Peer_Pressure
+innate_or_fixed_attribute: Genetics, Born_an_Even_Day
+genetic_factor: Genetics
+neurodevelopmental_condition: Attention_Disorder
+random_calendar_attribute: Born_an_Even_Day
+acute_external_event: Car_Accident
+injury_or_trauma_related: Car_Accident, Fatigue
+immune_condition: Allergy
+respiratory_related: Smoking, Allergy, Coughing, Lung_Cancer
+malignant_disease: Lung_Cancer

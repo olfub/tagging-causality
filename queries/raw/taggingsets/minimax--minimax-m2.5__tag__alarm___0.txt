@@ -1,0 +1,20 @@
+patient_history: HISTORY
+hemodynamic_pressure: CVP, PCWP, PAP
+vascular_resistance: TPR
+volume_status: HYPOVOLEMIA, LVEDVOLUME
+cardiac_output_parameter: STROKEVOLUME, CO
+heart_failure: LVFAILURE
+heart_rate_measurement: HRBP, HREKG, HRSAT, HR
+blood_pressure: BP
+error_alarm: ERRLOWOUTPUT, ERRCAUTER, KINKEDTUBE, DISCONNECT
+anesthesia_related_event: INSUFFANESTH, ANAPHYLAXIS
+co2_measurement: EXPCO2, ARTCO2
+oxygen_saturation: PVSAT, SAO2
+oxygen_setting: FIO2
+minute_ventilation_setting: MINVOL, MINVOLSET
+ventilation_device: INTUBATION, VENTMACH, VENTTUBE, VENTLUNG, VENTALV
+airway_pressure: PRESS
+oxygenation_event: PULMEMBOLUS, SHUNT
+catecholamine: CATECHOL
+ventilator_circuit: VENTTUBE, KINKEDTUBE, DISCONNECT
+ventilation_parameter: VENTLUNG, VENTALV

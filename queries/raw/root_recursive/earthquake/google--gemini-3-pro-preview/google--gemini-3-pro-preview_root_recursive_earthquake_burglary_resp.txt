@@ -1,0 +1,15 @@
+To determine which variables are caused by `<burglary>`, we need to look at the causal relationships provided in the prompt.
+
+**Step 1: Analyze the given causal structure.**
+The prompt states: "Currently none."
+
+**Step 2: Identify direct causes.**
+Since there are no causal relationships listed, `<burglary>` does not cause any other variable in the provided context.
+
+**Step 3: Identify indirect causes.**
+Without any direct causal links, there are no indirect causal links either.
+
+**Conclusion:**
+Based on the provided information (which explicitly states there are currently no causal relationships), `<burglary>` does not cause any variables.
+
+<Answer></Answer>

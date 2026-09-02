@@ -1,0 +1,3 @@
+Based on typical meteorological relationships, a wind shift (especially associated with a frontal boundary) often precedes and causes temperature changes. Therefore, it is more likely that SfcWndShfDis causes TempDis.
+
+<Answer>A</Answer>

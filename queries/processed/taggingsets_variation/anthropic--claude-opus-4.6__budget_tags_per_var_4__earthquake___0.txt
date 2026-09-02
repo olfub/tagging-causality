@@ -1,0 +1,12 @@
+crime:Burglary
+physical_event:Burglary,Earthquake
+root_cause:Burglary,Earthquake
+trigger:Burglary,Earthquake,Alarm
+natural_phenomenon:Earthquake
+rare_event:Earthquake
+detection:Alarm
+sensor:Alarm
+observable:Alarm,JohnCalls,MaryCalls
+human_response:JohnCalls,MaryCalls
+communication:JohnCalls,MaryCalls
+phone:JohnCalls,MaryCalls

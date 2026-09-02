@@ -1,0 +1,25 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the components**  
+   - **PrtCbl** = Printer cable (the physical cable that connects the printer to the computer).  
+   - **PrtPort** = Printer port (the parallel/USB port on the computer that communicates with the printer).
+
+2. **Typical failure modes in Windows 95 printing**  
+   - The most common hardware problem is a loose or defective cable.  
+   - Port failures (e.g., a dead parallel port) are relatively rare compared to cable issues.
+
+3. **Effect of a bad cable**  
+   - When the cable is broken or not properly seated, the operating system cannot successfully communicate with the printer.  
+   - The symptom often appears as “the printer port cannot be found” or “printer not responding,” which leads the troubleshooting wizard to suspect a port problem.
+
+4. **Effect of a bad port**  
+   - If the port itself fails, the cable would be irrelevant because the interface is non‑functional.  
+   - However, this situation is less frequent.
+
+5. **Cause‑and‑effect relationship**  
+   - The more likely chain is: **bad cable → perceived port problem**.  
+   - Therefore, the cause (PrtCbl) leads to the effect (PrtPort).
+
+**Conclusion:** The cause‑and‑effect relationship that is more likely is **PrtCbl causes PrtPort**.
+
+<Answer>A</Answer>

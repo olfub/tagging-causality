@@ -1,0 +1,6 @@
+Geographic factor:asia
+Behavioral risk factor:smoke
+Disease:tub,lung,bronc
+Latent combined condition:either
+Diagnostic test:xray
+Symptom:dysp

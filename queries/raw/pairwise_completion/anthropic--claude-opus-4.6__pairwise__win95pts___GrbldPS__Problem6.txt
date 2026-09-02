@@ -1,0 +1,23 @@
+
+
+# Analyzing the Cause-and-Effect Relationship
+
+## Step-by-step reasoning:
+
+1. **Identify the nodes**: In the classic Windows 95 Printer Troubleshooting Bayesian network:
+   - **GrbldPS** = "Garbled PostScript" — this is an **observable symptom** (what the user sees on the printed page: garbled/nonsensical PostScript code printed as text).
+   - **Problem6** = an underlying **problem/fault condition** in the printer system.
+
+2. **Causal direction in troubleshooting networks**: These networks follow the structure:
+   > **Root Causes → Intermediate Problems → Observable Symptoms**
+   
+   Underlying faults and misconfigurations produce the symptoms that users observe.
+
+3. **Apply to this case**: 
+   - "Garbled PostScript" is a **symptom** — it's what you *see* on paper.
+   - "Problem6" is a **fault/problem state** — it's the underlying *reason* the symptom appears.
+   - Therefore, the underlying problem (Problem6) causes the observable symptom (GrbldPS), not the reverse.
+
+4. **Conclusion**: Symptoms don't cause problems; problems cause symptoms.
+
+<Answer>B</Answer>

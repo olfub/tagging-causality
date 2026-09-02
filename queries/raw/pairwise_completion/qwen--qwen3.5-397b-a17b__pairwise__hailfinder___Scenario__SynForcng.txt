@@ -1,0 +1,28 @@
+# Step-by-Step Causal Reasoning
+
+## Step 1: Understand the Terms
+
+**SynForcng (Synoptic Forcing):** This refers to large-scale atmospheric conditions such as pressure systems, frontal boundaries, jet stream patterns, and other synoptic-scale features that create the environment for weather development.
+
+**Scenario:** In hail forecasting, this typically refers to specific weather outcomes or event patterns (such as hail occurrence, storm development, severe weather scenarios).
+
+## Step 2: Analyze the Causal Direction
+
+In meteorology and atmospheric science:
+
+1. **Synoptic forcing is a driver** - It represents the environmental conditions that set the stage for weather events
+2. **Scenarios are outcomes** - They represent what actually develops given those environmental conditions
+3. **Physical logic** - Large-scale atmospheric conditions must exist BEFORE specific weather scenarios can develop
+4. **Forecasting paradigm** - Meteorologists use synoptic forcing patterns to PREDICT which scenarios are likely to occur
+
+## Step 3: Evaluate Each Option
+
+**Option A (Scenario causes SynForcng):** This would mean specific weather events cause the large-scale atmospheric conditions. This reverses the physical reality of how the atmosphere works.
+
+**Option B (SynForcng causes Scenario):** This aligns with atmospheric physics - synoptic forcing conditions create the environment that allows specific weather scenarios to develop.
+
+## Step 4: Conclusion
+
+The causal relationship follows the fundamental principle in meteorology that environmental/forcing conditions drive weather outcomes, not vice versa.
+
+<Answer>B</Answer>

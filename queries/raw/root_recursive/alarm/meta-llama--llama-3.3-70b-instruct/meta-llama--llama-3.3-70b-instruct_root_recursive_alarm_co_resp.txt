@@ -1,0 +1,19 @@
+To find the variables caused by "co" (cardiac output), we need to look at the given causal relationships and identify which variables are directly or indirectly affected by "co". However, the task here is to identify variables that are directly caused by "co" based on the provided relationships.
+
+Given relationships:
+- history causes lvfailure, hypovolemia, anaphylaxis, pulmembolus
+- lvfailure causes lvedvolume, strokevolume, co, cvp, pcwp, bp, pap, hr, hrekg, hrbp, errlowoutput
+- hypovolemia causes co, bp, hr, strokevolume
+- anaphylaxis causes bp, hr, co
+- pulmembolus causes pap, co, hr, bp, sao2, cvp, pcwp
+
+Looking at these relationships, "co" is caused by:
+- lvfailure
+- hypovolemia
+- anaphylaxis
+- pulmembolus
+
+However, the question asks for variables caused by "co", not the causes of "co". Since "co" itself is an effect in the given relationships and not a cause for any other variable explicitly listed in the provided causal relationships, we look for any implicit or direct causation from "co" to other variables based on typical physiological relationships, but such are not explicitly provided.
+
+Given this, and adhering strictly to the information provided without inferring additional physiological relationships not listed:
+<Answer> None </Answer>

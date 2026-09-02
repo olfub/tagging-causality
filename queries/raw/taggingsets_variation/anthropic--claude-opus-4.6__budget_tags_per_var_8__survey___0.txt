@@ -1,0 +1,28 @@
+demographic: Age, Sex, Education, Occupation, Residence
+personal_attribute: Age, Sex, Education
+biological: Age, Sex
+innate: Sex
+changes_over_time: Age, Education, Occupation, Residence, Travel
+choice_based: Education, Occupation, Residence, Travel
+socioeconomic: Education, Occupation
+geographic: Residence, Travel
+spatial: Residence, Travel
+behavioral: Travel, Occupation
+human_capital: Education, Occupation
+continuous_measure: Age
+categorical: Sex, Education, Occupation, Residence
+time_dependent: Age
+skill_related: Education, Occupation
+lifestyle: Residence, Travel
+fixed_at_birth: Sex, Age
+activity: Travel, Occupation
+influences_income: Age, Sex, Education, Occupation
+determines_mobility: Occupation, Residence, Travel
+census_variable: Age, Sex, Education, Occupation, Residence
+identity: Age, Sex
+professional: Occupation
+academic: Education
+place_related: Residence
+event: Travel
+causes_other_variables: Age, Sex
+caused_by_other_variables: Education, Occupation, Residence, Travel

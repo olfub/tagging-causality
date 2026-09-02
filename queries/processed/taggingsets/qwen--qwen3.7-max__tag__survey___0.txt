@@ -1,0 +1,10 @@
+Demographic:A,S
+Socioeconomic:E,O,R
+Modifiable:E,O,R,T
+Behavioral:T
+Geographic:R,T
+Acquired:E,O
+Time-invariant:S
+Time-varying:A,E,O,R,T
+Chronological:A
+Location-specific:R

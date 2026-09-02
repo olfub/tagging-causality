@@ -1,0 +1,10 @@
+Disease: Tuberculosis, Lung Cancer, Bronchitis
+Location: Asia
+Healthcare: X-ray
+Cause: Smoking
+Symptom: Dyspnoea
+Respiratory: Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea
+Diagnostic: X-ray
+Cancer: Lung Cancer
+Infection: Tuberculosis, Bronchitis
+Condition: Either Tuberculosis or Lung Cancer, Tuberculosis, Lung Cancer, Bronchitis, Dyspnoea

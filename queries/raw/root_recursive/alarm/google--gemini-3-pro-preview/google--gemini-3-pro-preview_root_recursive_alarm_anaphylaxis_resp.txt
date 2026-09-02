@@ -1,0 +1,27 @@
+To determine which variables are caused by `<anaphylaxis>`, we need to analyze the known causal structure of physiological parameters in the context of critical care monitoring (often associated with the ALARM network dataset structure, which matches the provided variables).
+
+Based on the provided and standard medical causal relationships:
+
+1.  **Anaphylaxis and TPR:** Anaphylaxis is a severe allergic reaction that causes systemic vasodilation. This massive expansion of the blood vessels leads to a significant drop in Total Peripheral Resistance (`tpr`).
+    *   *Relationship:* `anaphylaxis` causes `tpr`.
+
+2.  **Anaphylaxis and Stroke Volume:** Due to the vasodilation and increased capillary permeability associated with anaphylaxis, there is a decrease in venous return and relative hypovolemia. This results in a decreased Stroke Volume (`strokevolume`).
+    *   *Relationship:* `anaphylaxis` causes `strokevolume`.
+
+3.  **Anaphylaxis and Pulmonary Capillary Wedge Pressure (PCWP):** While often low or normal in anaphylaxis due to decreased venous return, PCWP is a hemodynamic variable directly influenced by the shock state. However, the most direct and primary definition usually links anaphylaxis to `tpr` and `strokevolume` in standard causal graphs of this domain.
+
+4.  **Reviewing the specific prompt's partial constraints:**
+    *   The prompt gives specific rules for *other* variables (e.g., `hypovolemia causes strokevolume, lvedvolume`).
+    *   It lists roots: `hypovolemia`, `lvfailure`, `insuffanesth`, `anaphylaxis`, etc.
+    *   We must infer the standard medical causal effects for `anaphylaxis` since the specific explicit list for it wasn't provided in the "causal relationships" list, but the question implies we should know or derive the standard relationships in this specific domain (ALARM network bayesian network).
+
+5.  **Standard ALARM Network Structure for Anaphylaxis:**
+    In the standard ALARM monitoring network topology:
+    *   `anaphylaxis` -> `tpr` (Total Peripheral Resistance)
+    *   `anaphylaxis` -> `strokevolume` (Stroke Volume) is sometimes a direct link, but distinctively, `anaphylaxis` is a primary driver for `tpr`. However, looking at the standard edges:
+        *   `anaphylaxis` directly points to `tpr`.
+        *   `anaphylaxis` directly points to `strokevolume`.
+
+Therefore, the variables directly caused by anaphylaxis are Total Peripheral Resistance (`tpr`) and Stroke Volume (`strokevolume`).
+
+<Answer>tpr, strokevolume</Answer>

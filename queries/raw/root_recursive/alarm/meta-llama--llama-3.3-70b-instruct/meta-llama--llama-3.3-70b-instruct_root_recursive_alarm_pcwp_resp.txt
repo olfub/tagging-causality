@@ -1,0 +1,10 @@
+To determine the variables caused by pcwp, we need to examine the causal relationships provided. The direct causes of pcwp are stated as follows:
+
+- lvfailure causes ... pcwp
+- pulmembolus causes ... pcwp
+
+However, the question asks for variables that are caused by pcwp, not the causes of pcwp itself. According to the given relationships, there are no variables directly caused by pcwp. 
+
+Therefore, based on the provided causal relationships, pcwp does not cause any of the other variables listed.
+
+<Answer></Answer>

@@ -1,0 +1,34 @@
+Let me work through this step by step.
+
+## Step 1: Understanding the Variables
+
+- **AvlblVrtlMmry (Available Virtual Memory)**: The amount of virtual memory available on the Windows 95 system
+- **PrtPScript (Printer PostScript)**: Whether PostScript printing/driver is being used
+
+## Step 2: Analyzing the Causal Direction
+
+**Option A: AvlblVrtlMmry → PrtPScript**
+- This would mean available virtual memory determines whether PostScript printing is used
+- This doesn't make logical sense - the printer driver type is a configuration choice, not determined by available memory at runtime
+
+**Option B: PrtPScript → AvlblVrtlMmry**
+- This would mean using PostScript printing affects available virtual memory
+- This makes logical sense because:
+  1. PostScript drivers are known to be memory-intensive
+  2. In Windows 95 era, PostScript printing consumed significant system resources
+  3. When PostScript printing occurs, it uses memory, thereby reducing available virtual memory
+
+## Step 3: Domain Knowledge Verification
+
+In Windows 95 printer troubleshooting:
+- PostScript printing was notoriously resource-heavy
+- System administrators would often monitor memory usage when PostScript printing was enabled
+- The printer configuration (PostScript vs. other drivers) is a cause that affects system resource consumption
+
+## Step 4: Conclusion
+
+The causal flow is: **Using PostScript printing → Consumes memory → Affects Available Virtual Memory**
+
+Therefore, PrtPScript causes changes in AvlblVrtlMmry, not the reverse.
+
+<Answer>B</Answer>

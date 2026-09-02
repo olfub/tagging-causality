@@ -1,0 +1,17 @@
+MedicalCondition:BirthAsphyxia,HypDistrib,HypoxiaInO2,Disease,LVH,DuctFlow,CardiacMixing,LungParench,LungFlow,Sick
+Symptom:Grunting,HypoxiaInO2,CO2
+DiagnosticResult:ChestXray,LVHreport,LowerBodyO2,RUQO2,CO2Report,XrayReport,GruntingReport
+Measurement:LowerBodyO2,RUQO2,CO2
+Report:LVHreport,CO2Report,XrayReport,GruntingReport
+PhysiologicalParameter:CO2,LowerBodyO2,RUQO2,DuctFlow,LungFlow,CardiacMixing
+OrganState:LungParench,LVH,DuctFlow
+Demographic:Age
+RiskFactor:Age,BirthAsphyxia
+Outcome:Sick,HypDistrib
+Oxygenation:HypoxiaInO2,LowerBodyO2,RUQO2
+BloodGas:CO2,CO2Report
+Imaging:ChestXray,XrayReport
+HeartRelated:LVH,LVHreport,DuctFlow,CardiacMixing
+LungRelated:LungParench,LungFlow,Grunting,GruntingReport,CO2,CO2Report,HypoxiaInO2,ChestXray,XrayReport
+HypoxiaRelated:HypDistrib,HypoxiaInO2,LowerBodyO2,RUQO2,BirthAsphyxia
+UnderlyingCause:Disease,BirthAsphyxia,LungParench,LVH,DuctFlow,CardiacMixing

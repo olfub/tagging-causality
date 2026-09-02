@@ -1,0 +1,18 @@
+To determine the variables that are unaffected by any other variables (exogenous variables) in this demographic system, let's analyze the nature of each variable relative to the others:
+
+1.  **Age (<a>)**: Age is determined solely by the time elapsed since birth. It is a biological fact. It cannot be caused or influenced by sex, education, occupation, residence, or travel habits. Therefore, Age is an independent variable.
+
+2.  **Sex (<s>)**: Sex is a biological characteristic determined at conception/birth. It cannot be caused or changed by age, education, occupation, residence, or travel. Therefore, Sex is an independent variable.
+
+3.  **Education (<e>)**: Education level is influenced by age (you need time to complete degrees), sex (due to historical or potential societal trends), and possibly residence (access to schools). It is likely a dependent variable relative to Age and Sex.
+
+4.  **Occupation (<o>)**: Occupation is heavily influenced by education, age (experience/seniority), sex (labor market trends), and residence (local job markets). It is a dependent variable.
+
+5.  **Residence (<r>)**: Residence can be influenced by age (moving for retirement or college), occupation (moving for work), and education. It is not strictly independent.
+
+6.  **Travel (<t>)**: Travel behavior is influenced by all the other factors: age (mobility), occupation (business travel), residence (commute), and available income (often proxy for education/occupation). It is a downstream variable.
+
+**Conclusion:**
+The variables that serve as the root causes and are not influenced by the others in this specific set are Age and Sex.
+
+<Answer>a, s</Answer>

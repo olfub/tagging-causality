@@ -1,0 +1,19 @@
+To determine which variables are caused by fatigue, let's analyze the provided causal relationships step by step:
+
+1.  **List the direct causes and effects provided:**
+    *   `Peer_Pressure` causes `Smoking`.
+    *   `Smoking` causes `Yellow_Fingers`, `Lung_Cancer`, `Coughing`, `Fatigue`, and `Car_Accident`.
+
+2.  **Analyze the role of `Fatigue`:**
+    *   From the relationships above, we see that `Smoking` causes `Fatigue`. This makes `Fatigue` an effect of `Smoking`.
+    *   We need to determine if `Fatigue` acts as a cause for any other variable in the list.
+
+3.  **Search for effects of `Fatigue`:**
+    *   We examine the list of relationships again to see if `Fatigue` appears on the left side of a "causes" statement.
+    *   The provided text does not state that `Fatigue` causes `Anxiety`, `Attention_Disorder`, `Allergy`, or any other variable.
+    *   The only relationships involving `Fatigue` identify it as an outcome (effect) of `Smoking`.
+
+4.  **Conclusion:**
+    *   Based strictly on the provided text, there are no variables caused by `Fatigue`.
+
+<Answer></Answer>

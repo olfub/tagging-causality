@@ -1,0 +1,12 @@
+Risk_Factor:asia,smoke
+Disease:tub,lung,bronc,either
+Observable:xray,dysp
+Behavior:smoke
+Geographic:asia
+Infectious:tub
+Neoplasm:lung
+Airway:bronc
+Parenchymal:tub,lung
+Deterministic:either
+Imaging:xray
+Symptom:dysp

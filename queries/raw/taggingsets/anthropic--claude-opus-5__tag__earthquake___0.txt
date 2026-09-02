@@ -1,0 +1,19 @@
+ExternalEvent: Burglary, Earthquake
+NaturalPhenomenon: Earthquake
+HumanAction: Burglary, JohnCalls, MaryCalls
+CriminalActivity: Burglary
+RootCause: Burglary, Earthquake
+DeviceState: Alarm
+SensorTrigger: Alarm
+MechanicalSystem: Alarm
+ObservationByPerson: JohnCalls, MaryCalls
+Report: JohnCalls, MaryCalls
+Downstream: Alarm, JohnCalls, MaryCalls
+Terminal: JohnCalls, MaryCalls
+Mediator: Alarm
+LocalToHouse: Burglary, Alarm
+RegionalScale: Earthquake
+NeighborBehavior: JohnCalls, MaryCalls
+TriggeredByAlarmSound: JohnCalls, MaryCalls
+SecurityDomain: Burglary, Alarm
+CommunicationEvent: JohnCalls, MaryCalls

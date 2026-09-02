@@ -1,0 +1,19 @@
+Looking at this problem, I need to identify what **bronc** (bronchitis) causes, based on the described causal structure.
+
+## Step-by-step reasoning
+
+**Listed causal relationships:**
+- `asia` → `tub`
+- `smoke` → `lung`, `bronc`
+- `tub` → `either`, `xray`, `dysp`
+- `lung` → `either`, `xray`, `dysp`
+
+This is the well-known ASIA (Lauritzen-Spiegelhalter) Bayesian network. In this network, **dyspnoea** (`dysp`) is caused by both the presence of tuberculosis/lung cancer (via `either`) **and** by **bronchitis** (`bronc`). Bronchitis directly contributes to shortness of breath.
+
+**Direct effect of `bronc`:**
+- `bronc` → `dysp` (bronchitis causes shortness of breath)
+
+**Indirect effects of `bronc`:**
+- There are no further downstream variables caused by `dysp`, so the only variable caused by `bronc` is `dysp`.
+
+<Answer>dysp</Answer>

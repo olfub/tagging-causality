@@ -1,0 +1,17 @@
+
+
+**Step-by-step reasoning:**
+
+1. **Smoking** involves inhaling tobacco smoke, which contains irritants and carcinogens that damage the airways and lungs.
+
+2. **Bronchitis** is an inflammation of the bronchial tubes (airways), which can be acute or chronic. Chronic bronchitis is strongly associated with long-term exposure to irritants, especially cigarette smoke.
+
+3. The mechanism: Smoking irritates and inflames the bronchial lining, increases mucus production, and damages the cilia that help clear mucus, leading to chronic cough and bronchitis.
+
+4. Evaluating option A: Bronchitis causing smoking doesn't make physiological or logical sense — having inflamed airways does not lead a person to start smoking.
+
+5. Evaluating option B: Smoking causing bronchitis is well-established in medical literature. Smoking is the leading risk factor for chronic bronchitis and is part of the broader category of chronic obstructive pulmonary disease (COPD).
+
+**Conclusion:** Smoking causes Bronchitis is the correct causal relationship.
+
+<Answer>B</Answer>

@@ -1,0 +1,44 @@
+demographic: sex, age
+medical_history: alcoholism, vh_amn, hepatotoxic, hospital, surgery, gallstones, choledocholithotomy, injections, transfusion, diabetes, obesity
+healthcare_exposure: hospital, surgery, choledocholithotomy, injections, transfusion
+invasive_procedure: surgery, choledocholithotomy, injections, transfusion
+parenteral_risk: injections, transfusion
+substance_use: alcoholism, alcohol
+hepatotoxic_exposure: hepatotoxic, alcohol, alcoholism
+viral_history: vh_amn, ChHepatitis
+metabolic_risk: diabetes, obesity, triglycerides, cholesterol, Steatosis
+hepatitis: THepatitis, ChHepatitis, RHepatitis
+chronic_liver_disease: ChHepatitis, PBC, fibrosis, Steatosis, Cirrhosis
+biliary_disease: gallstones, PBC, Hyperbilirubinemia
+biliary_intervention: choledocholithotomy
+fibrotic_progression: fibrosis, Cirrhosis
+hepatic_malignancy: carcinoma
+liver_complication: Hyperbilirubinemia, Cirrhosis, encephalopathy, ascites, hepatomegaly, jaundice, carcinoma
+decompensation: encephalopathy, edema, bleeding, ascites, consciousness
+constitutional_symptom: fatigue, anorexia, nausea
+gastrointestinal_symptom: upper_pain, fat, pain_ruq, pressure_ruq, pain, flatulence, anorexia, nausea
+pain_symptom: upper_pain, pain_ruq, pressure_ruq, hepatalgia, joints, pain
+right_upper_quadrant_symptom: upper_pain, pain_ruq, pressure_ruq, hepatalgia
+skin_symptom: itching, skin, spiders, jaundice, palms
+fluid_retention: edema, ascites
+neurologic_status: encephalopathy, consciousness
+bleeding_tendency: bleeding, platelet, inr
+physical_exam: skin, edema, hepatomegaly, hepatalgia, spleen, consciousness, spiders, jaundice, edge, irregular_liver, palms
+liver_morphology: hepatomegaly, density, edge, irregular_liver
+portal_hypertension: ascites, edema, spleen, platelet, spiders
+laboratory_measurement: bilirubin, triglycerides, phosphatase, ama, le_cells, proteins, platelet, inr, urea, ESR, alt, ast, amylase, ggtp, cholesterol, hbsag, hbsag_anti, albumin, hbc_anti, hcv_anti, hbeag
+liver_enzyme: phosphatase, alt, ast, ggtp
+cholestasis_marker: bilirubin, phosphatase, ggtp
+bilirubin_abnormality: Hyperbilirubinemia, bilirubin, jaundice
+hepatic_synthetic_function: proteins, albumin, inr
+lipid_marker: triglycerides, cholesterol
+inflammatory_marker: ESR
+hematologic_marker: platelet, le_cells
+renal_marker: urea
+pancreatic_enzyme: amylase
+autoimmune_marker: ama, le_cells
+viral_serology: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag
+hepatitis_b_marker: hbsag, hbsag_anti, hbc_anti, hbeag
+hepatitis_c_marker: hcv_anti
+observable_sign: edema, hepatomegaly, spleen, spiders, jaundice, edge, irregular_liver, palms
+patient_reported: fatigue, itching, upper_pain, fat, pain_ruq, pressure_ruq, joints, pain, bleeding, flatulence, alcohol, hepatalgia, anorexia, nausea

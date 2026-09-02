@@ -1,0 +1,11 @@
+demographic:A,S,E,O,R
+personal_attribute:A,S
+socioeconomic:E,O
+human_capital:E,O
+geographic:R,T
+mobility:T,R
+biological:A,S
+learned:E
+livelihood:O
+location:R
+behavior:T

@@ -1,0 +1,11 @@
+travel:asia
+lifestyle:smoke
+risk_factor:asia,smoke
+disease:tub,lung,bronc
+symptom:dysp
+diagnostic_test:xray
+composite:either
+respiratory:tub,lung,either,bronc,dysp
+infectious:tub
+chronic:lung,bronc
+clinical_finding:tub,lung,either,xray,bronc,dysp

@@ -1,0 +1,12 @@
+To solve this, let's break down the given causal relationships and examine which variables are directly or indirectly caused by "tub" (tuberculosis).
+
+1. **Direct Causes**: We are given that "asia" causes "tub" and "tub" is part of "either". However, the question asks for variables caused by "tub", not the other way around. Directly, "tub" causes "either" because "either" represents the presence of tuberculosis or lung cancer, and if "tub" is present, then "either" is true.
+
+2. **Indirect Causes**: Since "tub" causes "either", any variable that is caused by "either" could be considered indirectly caused by "tub". However, from the given information, there are no variables that are directly caused by "either".
+
+Given the direct causal relationships:
+- "tub" directly causes "either".
+
+No other variables are directly or indirectly caused by "tub" based on the given relationships. Thus, the only variable directly caused by "tub" is "either".
+
+<Answer>either</Answer>

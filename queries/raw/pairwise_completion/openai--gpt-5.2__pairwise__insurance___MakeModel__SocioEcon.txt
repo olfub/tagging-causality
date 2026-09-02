@@ -1,0 +1,17 @@
+1. **Define the variables**
+   - **MakeModel**: the vehicle’s brand/model choice (e.g., economy sedan vs. luxury SUV).
+   - **SocioEcon**: the policyholder’s socioeconomic position (income/wealth/education/occupation; sometimes neighborhood proxies).
+
+2. **Ask which direction is plausible in the real world**
+   - It’s very plausible that **SocioEcon affects what car someone can afford, prefers, or has access to**, which directly influences **MakeModel**.
+   - It’s much less plausible that simply owning a particular **MakeModel** *causes* a person’s underlying **SocioEcon** to change in any general, stable way. (A car purchase might signal SocioEcon, but signaling is not causation; and any effect on wealth is typically small/short-term relative to the broader socioeconomic drivers.)
+
+3. **Check for common-cause structure**
+   - Many upstream factors (income, credit access, household size, job type, location) drive both car choice and other socioeconomic indicators. This again supports **SocioEcon → MakeModel** (and/or shared causes), not **MakeModel → SocioEcon**.
+
+4. **Insurance modeling intuition**
+   - In auto insurance, vehicle choice is commonly treated as a proxy/outcome of consumer resources and preferences, while socioeconomic attributes (even if proxied) are upstream determinants of that choice.
+
+Therefore, the more likely causal direction is:
+
+<Answer>B</Answer>

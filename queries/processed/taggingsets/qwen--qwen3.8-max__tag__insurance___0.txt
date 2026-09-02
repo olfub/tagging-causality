@@ -1,0 +1,14 @@
+demographic:Age,SocioEcon
+risk_preference:RiskAversion
+education_training:GoodStudent,SeniorTrain
+vehicle_identity:MakeModel,VehicleYear
+vehicle_property:RuggedAuto,CarValue,Mileage
+safety_equipment:Antilock,Cushioning,Airbag
+security_measure:AntiTheft,HomeBase
+driver_capability:DrivingSkill,DrivQuality
+driving_record:DrivHist
+loss_event:Accident,Theft
+physical_damage:ThisCarDam
+cost_consequence:ThisCarCost,OtherCarCost,PropCost,MedCost,ILiCost
+additional_vehicle:OtherCar
+vehicle_usage:Mileage,HomeBase

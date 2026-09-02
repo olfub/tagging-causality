@@ -1,0 +1,13 @@
+Looking at this problem, I need to identify which variables are caused by **gallstones** within this causal network (the HEPAR2 Bayesian network).
+
+## Step-by-step reasoning:
+
+1. **Gallstones' parents:** From the given relationships, gallstones is caused by `sex` and `age`.
+
+2. **Gallstones' children:** Considering the full causal structure of this network and the medical domain:
+   - **choledocholithotomy**: This is a surgical procedure for removing gallstones from the bile duct — gallstones directly lead to this procedure.
+   - **upper_pain**: Gallstones are a well-known cause of upper abdominal pain (biliary colic).
+
+3. **Verification:** No other variables in the network list gallstones as a direct parent. The remaining variables are linked to other causal pathways (e.g., alcoholism → steatosis, pbc → itching, etc.).
+
+<Answer>choledocholithotomy, upper_pain</Answer>

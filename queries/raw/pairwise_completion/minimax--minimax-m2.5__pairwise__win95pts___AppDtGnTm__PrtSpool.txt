@@ -1,0 +1,21 @@
+**Step‑by‑step reasoning**
+
+1. **Identify the terms**  
+   - *AppDtGnTm* (Application Data Generation Time): the moment an application creates the data that will be printed. This is the initiation of a print job.  
+   - *PrtSpool* (Print Spooler): the Windows 95 service that receives the print data, stores it temporarily, and forwards it to the printer.
+
+2. **Typical printing workflow in Windows 95**  
+   - A user selects “Print” in an application → the application generates the print data (AppDtGnTm).  
+   - The application sends this data to the print spooler (PrtSpool).  
+   - The spooler then queues, processes, and sends the job to the printer.
+
+3. **Determine causality**  
+   - The creation of print data by the application *triggers* the spooler to start its work.  
+   - The spooler does not cause the application to generate the data; it merely reacts to the data that the application supplies.
+
+4. **Conclusion**  
+   - The more plausible cause‑and‑effect relationship is that *AppDtGnTm* (the application generating print data) **causes** the print spooler to become active.
+
+**Answer**
+
+<Answer>A</Answer>

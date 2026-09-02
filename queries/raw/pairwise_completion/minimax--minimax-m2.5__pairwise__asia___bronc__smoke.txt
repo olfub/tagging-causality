@@ -1,0 +1,24 @@
+**Step‑by‑step reasoning**
+
+1. **What is bronchitis?**  
+   Bronchitis is inflammation of the bronchial tubes (the airways that carry air to the lungs). It can be acute (often from infections) or chronic (long‑standing irritation).
+
+2. **What does smoking introduce?**  
+   Cigarette smoke contains many irritants (tar, nicotine, carbon monoxide, free radicals, etc.). When inhaled, these substances directly irritate and damage the lining of the bronchial tubes.
+
+3. **Evidence from epidemiology and clinical studies**  
+   - Large cohort studies consistently show that smokers have a markedly higher prevalence of chronic bronchitis than non‑smokers.  
+   - The risk of developing bronchitis rises with the amount and duration of smoking.  
+   - Smoking cessation leads to a reduction in bronchitis symptoms and a slower decline in lung function.
+
+4. **Plausibility of reverse causation**  
+   - Having bronchitis does not logically lead a person to start smoking. In fact, individuals diagnosed with respiratory disease are often advised to quit smoking, and many do so.  
+   - There is no known biological mechanism by which bronchial inflammation would cause someone to begin using tobacco.
+
+5. **Conclusion**  
+   The causal direction supported by biological plausibility, observational data, and clinical guidelines is that smoking is a cause, and bronchitis is an effect.
+
+**Therefore, the more likely cause‑and‑effect relationship is:**  
+Smoking → Bronchitis.
+
+<Answer>B</Answer>

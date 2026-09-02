@@ -1,0 +1,11 @@
+Demographic: age, sex
+Lifestyle_Risk: alcohol, alcoholism, fat, obesity, hepatotoxic
+Medical_Procedure: hospital, surgery, injections, transfusion, choledocholithotomy
+Viral_Etiology: hbsag, hbsag_anti, hbc_anti, hcv_anti, hbeag, vh_amn
+Autoimmune_Etiology: ama, le_cells
+Liver_Disease: THepatitis, ChHepatitis, RHepatitis, PBC, fibrosis, Steatosis, Cirrhosis, gallstones, carcinoma, Hyperbilirubinemia, diabetes
+Lab_Enzyme: alt, ast, ggtp, phosphatase, amylase
+Lab_Function: albumin, proteins, inr, platelet, bilirubin, urea, density, cholesterol, triglycerides
+Lab_Inflammation: ESR, le_cells
+Symptom: fatigue, itching, upper_pain, pain_ruq, pressure_ruq, pain, flatulence, anorexia, nausea, hepatalgia, joints, encephalopathy, consciousness
+Physical_Sign: hepatomegaly, spleen, edge, irregular_liver, skin, spiders, palms, jaundice, edema, ascites, bleeding

@@ -1,0 +1,9 @@
+Prior:Age,BirthAsphyxia
+Diagnosis:Disease
+Mechanism:DuctFlow,CardiacMixing,LungParench,LungFlow
+Respiratory:CO2,CO2Report,Grunting,GruntingReport,ChestXray,XrayReport,LungParench,LungFlow
+Cardiac:LVH,LVHreport,DuctFlow,CardiacMixing
+Oxygenation:LowerBodyO2,RUQO2,HypoxiaInO2,HypDistrib
+Observed:CO2,LowerBodyO2,RUQO2,ChestXray,Grunting,LVH,HypDistrib,HypoxiaInO2
+Report:CO2Report,XrayReport,GruntingReport,LVHreport
+Status:Sick

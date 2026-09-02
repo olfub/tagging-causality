@@ -1,0 +1,5 @@
+Immutable: Age, Sex
+Mutable: Education, Occupation, Residence, Travel
+Socioeconomic: Education, Occupation, Residence
+Geographic: Residence, Travel
+Activity: Occupation, Travel
